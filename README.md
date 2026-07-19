@@ -1,2 +1,3 @@
-# Jobs-Applied
-Saves all jobs that have been applied and saves there JD here 
+# Jobs Applied
+
+Tracks roles Nishant has applied to: original posting link + saved job description per role.
