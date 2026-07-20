@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T10:33:04.551Z",
+  "updatedAt": "2026-07-20T13:53:06.232Z",
   "applications": [
     {
       "id": "ds-genomics",
@@ -9,6 +9,15 @@
       "postingUrl": "https://huntukvisasponsors.com/job/lead-genomic-data-scientist-cancer-we-have-office-locations-in-cambridge-leeds-london-at-genomics-england-a6cidgbsmq-6",
       "portalUrl": "https://www.genomicsengland.co.uk/careers/open-positions",
       "jdFile": "Lead_Genomic_Data_Scientist_Cancer_Genomics_England_Limited.md"
+    },
+    {
+      "id": "ds-harnham-1",
+      "title": "Senior Data Scientist",
+      "company": "Harnham Search & Selection (agency)",
+      "appliedDate": "20 Jul 2026",
+      "postingUrl": "https://huntukvisasponsors.com/jobs/role/data-scientist",
+      "portalUrl": "https://www.harnham.com/",
+      "jdFile": "Senior_Data_Scientist_Harnham_Search_Selection_agency.md"
     }
   ]
 }
