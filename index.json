@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T13:53:06.232Z",
+  "updatedAt": "2026-07-20T14:46:55.942Z",
   "applications": [
     {
       "id": "ds-genomics",
@@ -18,6 +18,15 @@
       "postingUrl": "https://huntukvisasponsors.com/jobs/role/data-scientist",
       "portalUrl": "https://www.harnham.com/",
       "jdFile": "Senior_Data_Scientist_Harnham_Search_Selection_agency.md"
+    },
+    {
+      "id": "ds-chattermill",
+      "title": "Data Scientist",
+      "company": "Chattermill Analytics Limited",
+      "appliedDate": "20 Jul 2026",
+      "postingUrl": "https://huntukvisasponsors.com/job/data-scientist-at-chattermill-lmx8hxmj7uy",
+      "portalUrl": "https://jobs.ashbyhq.com/chattermill/ee76441a-6929-406a-bd89-1b854ff7d4bc",
+      "jdFile": "Data_Scientist_Chattermill_Analytics_Limited.md"
     }
   ]
 }
