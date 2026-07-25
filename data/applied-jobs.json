@@ -1,3 +1,18 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "jobId": "manual-24ed86577f693f113069",
+      "title": "External job application",
+      "company": "jobs.smartrecruiters.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.smartrecruiters.com/oneclick-ui/company/RadiusLimited/publication/96a8ee4b-da22-409d-b4bd-a5317fc09596/success?dcr_ci=RadiusLimited&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+      "portalUrl": "https://jobs.smartrecruiters.com/oneclick-ui/company/RadiusLimited/publication/96a8ee4b-da22-409d-b4bd-a5317fc09596/success?dcr_ci=RadiusLimited&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-07-25T18:25:06.811Z",
+      "jobDescription": "# External job application\n\n- **Company:** jobs.smartrecruiters.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-07-25T18:25:06.811Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.smartrecruiters.com/oneclick-ui/company/RadiusLimited/publication/96a8ee4b-da22-409d-b4bd-a5317fc09596/success?dcr_ci=RadiusLimited&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73\n- **Application portal:** https://jobs.smartrecruiters.com/oneclick-ui/company/RadiusLimited/publication/96a8ee4b-da22-409d-b4bd-a5317fc09596/success?dcr_ci=RadiusLimited&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "repoPath": "Jobs Applied/external_job_application_jobs_smartrecruiters_com.md",
+      "syncStatus": "synced"
+    }
+  ]
 }
