@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "om:manual-56755edc2df0bba24309",
+      "title": "Lead Data Scientist",
+      "company": "UK Atomic Energy Authority",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.smartrecruiters.com/UKAtomicEnergyAuthority/744000140189148-lead-data-scientist",
+      "portalUrl": "https://jobs.smartrecruiters.com/UKAtomicEnergyAuthority/744000140189148-lead-data-scientist",
+      "appliedBy": "OM",
+      "appliedAt": "2026-07-28T12:39:58.463Z",
+      "jobDescription": "# Lead Data Scientist\n\n- **Company:** UK Atomic Energy Authority\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-07-28T12:39:58.463Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.smartrecruiters.com/UKAtomicEnergyAuthority/744000140189148-lead-data-scientist\n- **Application portal:** https://jobs.smartrecruiters.com/UKAtomicEnergyAuthority/744000140189148-lead-data-scientist\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAbout us&#xa0;&#xa0;&#xa0;Fusion, the process that powers the sun and stars, is one of the most promising options for generating the cleaner, carbon-free energy that our world&#xa0;badly needs. UKAEA leads the way in realizing fusion energy, partnering with industry and research organisations to ach...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/lead_data_scientist_uk_atomic_energy_authority.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "om:4443218298",
       "title": "Data Scientist Lead",
       "company": "Barclays",
