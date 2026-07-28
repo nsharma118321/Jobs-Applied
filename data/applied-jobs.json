@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "om:linkedin:4443942274",
+      "title": "Data Scientist",
+      "company": "Leonardo",
+      "location": "Newcastle Upon Tyne, England, United Kingdom",
+      "sponsorName": "Leonardo UK Ltd",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-leonardo-4443942274?position=3&pageNum=2&refId=XhZXezcyHk9UVVRatYBpjQ%3D%3D&trackingId=HGp1sZY0JF9h1UPko4%2BElw%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-leonardo-4443942274?position=3&pageNum=2&refId=XhZXezcyHk9UVVRatYBpjQ%3D%3D&trackingId=HGp1sZY0JF9h1UPko4%2BElw%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-07-28T12:42:32.373Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Leonardo\n- **Location:** Newcastle Upon Tyne, England, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-07-28T12:42:32.373Z\n- **Licensed sponsor:** Leonardo UK Ltd\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-scientist-at-leonardo-4443942274?position=3&pageNum=2&refId=XhZXezcyHk9UVVRatYBpjQ%3D%3D&trackingId=HGp1sZY0JF9h1UPko4%2BElw%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-scientist-at-leonardo-4443942274?position=3&pageNum=2&refId=XhZXezcyHk9UVVRatYBpjQ%3D%3D&trackingId=HGp1sZY0JF9h1UPko4%2BElw%3D%3D\n- **Resume used:** Lead_Data_Scientist_UK_Atomic_Energy_Authority\n- **Resume originally designed for:** About the job Job Description About us Fusion, the process that powers the sun and stars, is one of the most promising options for generating the cleaner, carbon-free energy that our world badly needs. UKAEA leads the wa\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "Lead_Data_Scientist_UK_Atomic_Energy_Authority",
+      "resumeDesignedFor": "About the job Job Description About us Fusion, the process that powers the sun and stars, is one of the most promising options for generating the cleaner, carbon-free energy that our world badly needs. UKAEA leads the wa",
+      "repoPath": "Jobs Applied/om/data_scientist_leonardo.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "om:manual-56755edc2df0bba24309",
       "title": "Lead Data Scientist",
       "company": "UK Atomic Energy Authority",
