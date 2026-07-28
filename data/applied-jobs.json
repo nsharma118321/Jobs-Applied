@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "om:manual-d824e4c19fc5b67e8c70",
+      "title": "Data Scientist Lead at Barclays",
+      "company": "search.jobs.barclays",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://search.jobs.barclays/job/-/-/13015/98376999328?src=JB-12860",
+      "portalUrl": "https://search.jobs.barclays/job/-/-/13015/98376999328?src=JB-12860",
+      "appliedBy": "OM",
+      "appliedAt": "2026-07-28T12:22:11.624Z",
+      "jobDescription": "# Data Scientist Lead at Barclays\n\n- **Company:** search.jobs.barclays\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-07-28T12:22:11.624Z\n- **Licensed sponsor:** \n- **Original posting:** https://search.jobs.barclays/job/-/-/13015/98376999328?src=JB-12860\n- **Application portal:** https://search.jobs.barclays/job/-/-/13015/98376999328?src=JB-12860\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_lead_at_barclays_search_jobs_barclays.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "nishant:4436235484",
       "title": "Senior Product Data Scientist",
       "company": "Tripadvisor",
