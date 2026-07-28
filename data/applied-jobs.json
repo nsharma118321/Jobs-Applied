@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "om:4446318548",
+      "title": "Data Engineer, Analytics Engineering",
+      "company": "NatWest Group",
+      "location": "London, England, United Kingdom",
+      "sponsorName": "NatWest Group PLC",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-analytics-engineering%C2%A0-at-natwest-group-4446318548?position=4&pageNum=0&refId=brT9OLmE6b%2BJQRxWzPND9A%3D%3D&trackingId=X4tJf31g7O3U9fycPK40LA%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-analytics-engineering%C2%A0-at-natwest-group-4446318548?position=4&pageNum=0&refId=brT9OLmE6b%2BJQRxWzPND9A%3D%3D&trackingId=X4tJf31g7O3U9fycPK40LA%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-07-28T18:50:48.054Z",
+      "jobDescription": "# Data Engineer, Analytics Engineering\n\n- **Company:** NatWest Group\n- **Location:** London, England, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-07-28T18:50:48.054Z\n- **Licensed sponsor:** NatWest Group PLC\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-engineer-analytics-engineering%C2%A0-at-natwest-group-4446318548?position=4&pageNum=0&refId=brT9OLmE6b%2BJQRxWzPND9A%3D%3D&trackingId=X4tJf31g7O3U9fycPK40LA%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-engineer-analytics-engineering%C2%A0-at-natwest-group-4446318548?position=4&pageNum=0&refId=brT9OLmE6b%2BJQRxWzPND9A%3D%3D&trackingId=X4tJf31g7O3U9fycPK40LA%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_engineer_analytics_engineering_natwest_group.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "om:4442833905",
       "title": "Data Science Pod Lead",
       "company": "Neko Health",
