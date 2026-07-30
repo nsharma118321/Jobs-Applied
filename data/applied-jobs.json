@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "om:manual-9ff6e300dd35b918862e",
+      "title": "Senior Applied Data Scientist",
+      "company": "job-boards.greenhouse.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://job-boards.greenhouse.io/dunnhumby/jobs/7799176003?gh_src=h5ux3hmc3us&t=3253f722teu",
+      "portalUrl": "https://job-boards.greenhouse.io/dunnhumby/jobs/7799176003?gh_src=h5ux3hmc3us&t=3253f722teu",
+      "appliedBy": "OM",
+      "appliedAt": "2026-07-30T21:35:54.110Z",
+      "jobDescription": "# Senior Applied Data Scientist\n\n- **Company:** job-boards.greenhouse.io\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-07-30T21:35:54.110Z\n- **Licensed sponsor:** \n- **Original posting:** https://job-boards.greenhouse.io/dunnhumby/jobs/7799176003?gh_src=h5ux3hmc3us&t=3253f722teu\n- **Application portal:** https://job-boards.greenhouse.io/dunnhumby/jobs/7799176003?gh_src=h5ux3hmc3us&t=3253f722teu\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/senior_applied_data_scientist_job_boards_greenhouse_io.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "om:manual-01f7c236407f53d67cb9",
       "title": "Gen AI Engineer",
       "company": "careers.capgemini.com",
