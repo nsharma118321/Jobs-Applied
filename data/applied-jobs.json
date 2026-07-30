@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "om:manual-3a1c669f673b06279657",
+      "title": "External job application",
+      "company": "career5.successfactors.eu",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://career5.successfactors.eu/portalcareer?_s.crb=JjVLa7II5DirbuRHgaciPtOKcIwwtK8esCBOR8UISQA%253d",
+      "portalUrl": "https://career5.successfactors.eu/portalcareer?_s.crb=JjVLa7II5DirbuRHgaciPtOKcIwwtK8esCBOR8UISQA%253d",
+      "appliedBy": "OM",
+      "appliedAt": "2026-07-30T21:52:49.663Z",
+      "jobDescription": "# External job application\n\n- **Company:** career5.successfactors.eu\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-07-30T21:52:49.663Z\n- **Licensed sponsor:** \n- **Original posting:** https://career5.successfactors.eu/portalcareer?_s.crb=JjVLa7II5DirbuRHgaciPtOKcIwwtK8esCBOR8UISQA%253d\n- **Application portal:** https://career5.successfactors.eu/portalcareer?_s.crb=JjVLa7II5DirbuRHgaciPtOKcIwwtK8esCBOR8UISQA%253d\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_career5_successfactors_eu.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "apeksha:manual-208b4574236209e408b5",
       "title": "Infinity Quest hiring Data Engineer - ETL in Bournemouth, England, United Kingdom | LinkedIn",
       "company": "linkedin.com",
