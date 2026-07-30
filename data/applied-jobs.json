@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "apeksha:manual-208b4574236209e408b5",
+      "title": "Infinity Quest hiring Data Engineer - ETL in Bournemouth, England, United Kingdom | LinkedIn",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/view/data-engineer-etl-at-infinity-quest-4446717474/?refId=OU03oFkJV295w4YjQE4jRg%3D%3D&trackingId=c%2FPIaHJ68BeLzjqL%2BEHKfA%3D%3D",
+      "portalUrl": "https://www.linkedin.com/jobs/view/data-engineer-etl-at-infinity-quest-4446717474/?refId=OU03oFkJV295w4YjQE4jRg%3D%3D&trackingId=c%2FPIaHJ68BeLzjqL%2BEHKfA%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-07-30T21:49:44.041Z",
+      "jobDescription": "# Infinity Quest hiring Data Engineer - ETL in Bournemouth, England, United Kingdom | LinkedIn\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-07-30T21:49:44.041Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/view/data-engineer-etl-at-infinity-quest-4446717474/?refId=OU03oFkJV295w4YjQE4jRg%3D%3D&trackingId=c%2FPIaHJ68BeLzjqL%2BEHKfA%3D%3D\n- **Application portal:** https://www.linkedin.com/jobs/view/data-engineer-etl-at-infinity-quest-4446717474/?refId=OU03oFkJV295w4YjQE4jRg%3D%3D&trackingId=c%2FPIaHJ68BeLzjqL%2BEHKfA%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nResource Requirement – Developer with ETL Experience\n We are looking for a Developer with ETL experience with strong experience in data ingestion and ETL development.\n Required Skills:\n- Hands-on experience in ETL - end-to-end data ingestion.\n- Strong programming skills in Java and/or Python.\n- Experience working with various file formats (CSV, JSON, XML, Parquet, Avro, etc.) and ingesting data from multiple source systems.\n- Hands-on experience with Databricks for data processing and transformation.\n- Experience with the Apache Flink framework for stream and batch data processing\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/infinity_quest_hiring_data_engineer_etl_in_bournemouth_england_united_kingdom_linkedin_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "apeksha:manual-62e9ac9871eedb43c927",
       "title": "Apply to Preply Careers",
       "company": "preply.com",
