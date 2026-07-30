@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "om:manual-cf3f03ddc4b31c62cdeb",
+      "title": "Analytics Engineer",
+      "company": "curryscareers.co.uk",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://curryscareers.co.uk/job/London-Analytics-Engineer/1389563833/?utm_campaign=LinkedinJobPostings&utm_source=LinkedinJobPostings&applySourceOverride=LinkedIn",
+      "portalUrl": "https://curryscareers.co.uk/job/London-Analytics-Engineer/1389563833/?utm_campaign=LinkedinJobPostings&utm_source=LinkedinJobPostings&applySourceOverride=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-07-30T22:09:45.231Z",
+      "jobDescription": "# Analytics Engineer\n\n- **Company:** curryscareers.co.uk\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-07-30T22:09:45.231Z\n- **Licensed sponsor:** \n- **Original posting:** https://curryscareers.co.uk/job/London-Analytics-Engineer/1389563833/?utm_campaign=LinkedinJobPostings&utm_source=LinkedinJobPostings&applySourceOverride=LinkedIn\n- **Application portal:** https://curryscareers.co.uk/job/London-Analytics-Engineer/1389563833/?utm_campaign=LinkedinJobPostings&utm_source=LinkedinJobPostings&applySourceOverride=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/analytics_engineer_curryscareers_co_uk.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "om:manual-7a3f4ee0beaf87fab3ed",
       "title": "Machine Learning Engineer - AI",
       "company": "jd.wd103.myworkdayjobs.com",
