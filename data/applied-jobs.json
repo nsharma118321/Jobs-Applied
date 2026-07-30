@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "om:manual-d79f0de8125bf91f2c56",
+      "title": "External job application",
+      "company": "pearson.jobs",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://pearson.jobs/london-gbr/advanced-specialist-data-scientist/994A4173F94242B382A508EA9D03099F/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social+Media&utm_campaign=LinkedIn.com",
+      "portalUrl": "https://pearson.jobs/london-gbr/advanced-specialist-data-scientist/994A4173F94242B382A508EA9D03099F/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social+Media&utm_campaign=LinkedIn.com",
+      "appliedBy": "OM",
+      "appliedAt": "2026-07-30T21:05:51.896Z",
+      "jobDescription": "# External job application\n\n- **Company:** pearson.jobs\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-07-30T21:05:51.896Z\n- **Licensed sponsor:** \n- **Original posting:** https://pearson.jobs/london-gbr/advanced-specialist-data-scientist/994A4173F94242B382A508EA9D03099F/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social+Media&utm_campaign=LinkedIn.com\n- **Application portal:** https://pearson.jobs/london-gbr/advanced-specialist-data-scientist/994A4173F94242B382A508EA9D03099F/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social+Media&utm_campaign=LinkedIn.com\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nPearson is a fast-growing, exciting place to work with tremendous opportunities for personal growth and professional advancement. Take a look through All of our Jobs/Careers. Pearson Jobs\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_pearson_jobs.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "om:4444198423",
       "title": "Data Scientist / BI Analyst",
       "company": "James Fisher and Sons plc",
