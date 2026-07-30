@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "om:manual-01f7c236407f53d67cb9",
+      "title": "Gen AI Engineer",
+      "company": "careers.capgemini.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.capgemini.com/job/London-Gen-AI-Engineer/1420298333/",
+      "portalUrl": "https://careers.capgemini.com/job/London-Gen-AI-Engineer/1420298333/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-07-30T21:26:30.103Z",
+      "jobDescription": "# Gen AI Engineer\n\n- **Company:** careers.capgemini.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-07-30T21:26:30.103Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.capgemini.com/job/London-Gen-AI-Engineer/1420298333/\n- **Application portal:** https://careers.capgemini.com/job/London-Gen-AI-Engineer/1420298333/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/gen_ai_engineer_careers_capgemini_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "om:manual-d79f0de8125bf91f2c56",
       "title": "External job application",
       "company": "pearson.jobs",
