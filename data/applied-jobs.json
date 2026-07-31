@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "apeksha:manual-d7258608244517ee0bf9",
+      "title": "bigspark hiring Data Engineer in Scotland, United Kingdom | LinkedIn",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/view/data-engineer-at-bigspark-4447544386/",
+      "portalUrl": "https://www.linkedin.com/jobs/view/data-engineer-at-bigspark-4447544386/",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-07-31T20:05:09.745Z",
+      "jobDescription": "# bigspark hiring Data Engineer in Scotland, United Kingdom | LinkedIn\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-07-31T20:05:09.745Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/view/data-engineer-at-bigspark-4447544386/\n- **Application portal:** https://www.linkedin.com/jobs/view/data-engineer-at-bigspark-4447544386/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nData Engineer – Glasgow/Edinburgh Hybrid\n\nAbout bigspark\n\nWe are creating a world of opportunity for businesses by responsibly harnessing data and AI to enable positive change. We adapt to our clients needs and then bring our engineering, development and consultancy expertise. Our people and our solutions ensure they head into the future equipped to succeed. Our clients include Tier 1 Banking and Insurance clients, we have also been listed in the Sunday Times Top 100 Fastest Growing Private Companies.\n\nThe Role\nWe are looking for a Data Engineer to developer enterprise-scale data platforms and pipelines that power analytics, AI, and business decision-making. You'll work in a hybrid capacity which may require up to 2 days per week on a client premises.\n\nWhat You'll Do\n- Develop highly available, scalable batch and streaming pipelines (ETL/ELT) using modern orchestration frameworks\n- Integrate and process large, diverse datasets across hybrid and multi-cloud environments\n\n.\nWhat You'll Bring\n- 3+ years commercial data engineering experience\n- Strong programming skills in Python, Scala, or Java, with clean coding and testing practices.\n- Big Data & Analytics Platforms: Hands-on experience with Apache Spark (core, SQL, streaming), Databricks, Snowflake, Flink, Beam.\n- Data Lakehouse & Storage Formats: Expert knowledge of Delta Lake, Apache Iceberg, Hudi, and file formats like Parquet, ORC, Avro.\n- Streaming & Messaging: Experience with Kafka (including Schema Registry & Kafka Streams), Pulsar, AWS Kinesis, or Azure Event Hubs.\n- Data Modelling & Virtualisation: Knowledge of dimensional, Data Vault, and semantic modelling; tools like Denodo or Starburst/Trino.\n- Cloud Platforms: Strong AWS experience (Glue, EMR, Athena, S3, Lambda, Step Functions), plus awareness of Azure Synapse, GCP BigQuery.\n- Databases: Proficient with SQL and NoSQL stores (PostgreSQL, MySQL, DynamoDB, MongoDB, Cassandra).\n- Orchestration & Workflow: Experience with Autosys/CA7/Control-M, Airflow, Dagster, Prefect, or managed equivalents.\n- Observability & Lineage: Familiarity with OpenLineage, Marquez, Great Expectations, Monte Carlo, or Soda for data quality.\n- DevOps & CI/CD: Proficient in Git (GitHub/GitLab), Jenkins, Terraform, Docker, Kubernetes (EKS/AKS/GKE, OpenShift).\n- Security & Governance: Experience with encryption, tokenisation (e.g., Protegrity), IAM policies, and GDPR compliance.\n- Linux administration skills and strong infrastructure-as-code experience.\n\nIn return, you will receive:\n- Competitive salary\n- Generous Annual Leave\n- Discretionary Annual Bonus\n- Pension Scheme\n- Life Assurance\n- Private Medical Cover (inc family)\n- Permanent Health Insurance Cover / Income Protection\n- Employee Assistance Programme\n- A Perkbox account\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/bigspark_hiring_data_engineer_in_scotland_united_kingdom_linkedin_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "om:4446926011",
       "title": "Data Engineer",
       "company": "LiveScore Group",
