@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "om:manual-eb2ec942fb16ffb8a104",
+      "title": "AI/ML Engineer | DLA Piper Careers",
+      "company": "DLA Piper Careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.dlapiper.com/jobs/2026/7703-aiml-engineer",
+      "portalUrl": "https://careers.dlapiper.com/jobs/2026/7703-aiml-engineer",
+      "appliedBy": "OM",
+      "appliedAt": "2026-07-31T19:35:17.064Z",
+      "jobDescription": "# AI/ML Engineer | DLA Piper Careers\n\n- **Company:** DLA Piper Careers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-07-31T19:35:17.064Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.dlapiper.com/jobs/2026/7703-aiml-engineer\n- **Application portal:** https://careers.dlapiper.com/jobs/2026/7703-aiml-engineer\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/ai_ml_engineer_dla_piper_careers_dla_piper_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "om:4447544386",
       "title": "Data Engineer",
       "company": "bigspark",
