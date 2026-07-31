@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "om:4447544386",
+      "title": "Data Engineer",
+      "company": "bigspark",
+      "location": "Scotland, United Kingdom",
+      "sponsorName": "Bigspark Limited",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-bigspark-4447544386?position=1&pageNum=0&refId=Ekliu%2FAa4yebmLD%2BSQKSEg%3D%3D&trackingId=KjZp6kI%2F6qx2%2BYSqUC1vMQ%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-bigspark-4447544386?position=1&pageNum=0&refId=Ekliu%2FAa4yebmLD%2BSQKSEg%3D%3D&trackingId=KjZp6kI%2F6qx2%2BYSqUC1vMQ%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-07-31T19:33:48.425Z",
+      "jobDescription": "# Data Engineer\n\n- **Company:** bigspark\n- **Location:** Scotland, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-07-31T19:33:48.425Z\n- **Licensed sponsor:** Bigspark Limited\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-engineer-at-bigspark-4447544386?position=1&pageNum=0&refId=Ekliu%2FAa4yebmLD%2BSQKSEg%3D%3D&trackingId=KjZp6kI%2F6qx2%2BYSqUC1vMQ%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-engineer-at-bigspark-4447544386?position=1&pageNum=0&refId=Ekliu%2FAa4yebmLD%2BSQKSEg%3D%3D&trackingId=KjZp6kI%2F6qx2%2BYSqUC1vMQ%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_engineer_bigspark.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "om:4435685994",
       "title": "Data Scientist – Incremental Player Value",
       "company": "Sony Interactive Entertainment",
