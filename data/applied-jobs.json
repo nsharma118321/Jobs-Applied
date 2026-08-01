@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "nishant:4447289928",
+      "title": "Data Engineer",
+      "company": "GIOS Technology",
+      "location": "Northampton, England, United Kingdom",
+      "sponsorName": "GIOS Technology Limited",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-gios-technology-4447289928?position=8&pageNum=2&refId=VG17jZ77BvwA5120LpuacA%3D%3D&trackingId=FdFYu7GVL9cnlceNY%2BrvfQ%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-gios-technology-4447289928?position=8&pageNum=2&refId=VG17jZ77BvwA5120LpuacA%3D%3D&trackingId=FdFYu7GVL9cnlceNY%2BrvfQ%3D%3D",
+      "appliedBy": "Nishant",
+      "appliedAt": "2026-08-01T16:40:24.053Z",
+      "jobDescription": "# Data Engineer\n\n- **Company:** GIOS Technology\n- **Location:** Northampton, England, United Kingdom\n- **Applied by:** Nishant\n- **Applied date:** 2026-08-01T16:40:24.053Z\n- **Licensed sponsor:** GIOS Technology Limited\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-engineer-at-gios-technology-4447289928?position=8&pageNum=2&refId=VG17jZ77BvwA5120LpuacA%3D%3D&trackingId=FdFYu7GVL9cnlceNY%2BrvfQ%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-engineer-at-gios-technology-4447289928?position=8&pageNum=2&refId=VG17jZ77BvwA5120LpuacA%3D%3D&trackingId=FdFYu7GVL9cnlceNY%2BrvfQ%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe are hiring for Data Engineer – AWS DevOps & Cloud Infrastructure\nLocation: Northampton - Hybrid / 2-3 days Per week in Office\n\n- Experience in Data Engineering or related roles\n- Strong hands-on experience with AWS cloud services\n- Experience with DevOps tools and practices (CI/CD, automation, monitoring)\n- Proficiency in Python and SQL\n- Experience with data pipeline frameworks such as Apache Airflow, AWS Glue, or similar tools\n- Knowledge of Infrastructure as Code tools such as Terraform or CloudFormation\n- Experience with Git-based workflows and cloud deployment processes\n\nKey Skills: Data Engineering / AWS / Python / SQL / Data Pipeline / Banking\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/nishant/data_engineer_gios_technology.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "nishant:4445506298",
       "title": "Data Engineer",
       "company": "beaumont",
