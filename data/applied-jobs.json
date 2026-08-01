@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "nishant:4447505273",
+      "title": "Data Scientist",
+      "company": "Hydrogen Group",
+      "location": "England, United Kingdom",
+      "sponsorName": "HYDROGEN BUILDING & MAINTENANCE LTD",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-hydrogen-group-4447505273?position=7&pageNum=0&refId=cMnSXQMllFK3QKvQM3q2gw%3D%3D&trackingId=rPUhpjWNz4oV%2BkGZtRdPjQ%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-hydrogen-group-4447505273?position=7&pageNum=0&refId=cMnSXQMllFK3QKvQM3q2gw%3D%3D&trackingId=rPUhpjWNz4oV%2BkGZtRdPjQ%3D%3D",
+      "appliedBy": "Nishant",
+      "appliedAt": "2026-08-01T17:36:37.007Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Hydrogen Group\n- **Location:** England, United Kingdom\n- **Applied by:** Nishant\n- **Applied date:** 2026-08-01T17:36:37.007Z\n- **Licensed sponsor:** HYDROGEN BUILDING & MAINTENANCE LTD\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-scientist-at-hydrogen-group-4447505273?position=7&pageNum=0&refId=cMnSXQMllFK3QKvQM3q2gw%3D%3D&trackingId=rPUhpjWNz4oV%2BkGZtRdPjQ%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-scientist-at-hydrogen-group-4447505273?position=7&pageNum=0&refId=cMnSXQMllFK3QKvQM3q2gw%3D%3D&trackingId=rPUhpjWNz4oV%2BkGZtRdPjQ%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nSenior Data Scientist | Customer Retention & Personalisation | Hybrid (UK)\n\nWe’re hiring a Senior Data Scientist to join a growing data science team working on some of the most commercially impactful customer problems in a large-scale consumer business.\n\nThis is a hands-on role focused on building and shipping data science products that improve customer experience and business performance. You’ll work across areas such as churn, next-best-action, personalisation, recommendation models, marketing effectiveness, and demand forecasting.\n\nWhat makes this role different?\n\nThis is not a pure MLOps or platform role. The team is specifically looking for someone with a strong applied statistics background who can:\n- Turn ambiguous business questions into testable hypotheses\n- Design and evaluate experiments and statistical tests\n- Quantify uncertainty and communicate results clearly\n- Build robust propensity and forecasting models\n- Help raise the statistical capability of the wider data science team\n\nTech environment:\n- Python\n- SQL\n- PySpark\n- Databricks\n- Azure\n- MLflow / CI-CD tooling\n\nWhat you’ll be doing:\n- Owning data science solutions end-to-end\n- Building customer retention and recommendation models\n- Developing time-series forecasting solutions\n- Creating behavioural features from historical customer data\n- Working closely with product, marketing, and customer teams\n- Reviewing models and supporting other data scientists\n\nWe’d love to speak to people who have experience with:\n- Churn / retention modelling\n- Propensity or next-best-action models\n- Customer analytics and personalisation\n- Experimentation and hypothesis testing\n- Time-series analysis and forecasting\n- Production deployment of ML models\n\nLocation & working pattern:\nHybrid working with 2 days per week in the office.\nCandidates can be based around Welwyn Garden City, Slough, or other UK office locations.\n\nPackage:\n- £78,000 – £83,000 base salary\n- 20% bonus\n- Excellent benefits package\n- Long-term opportunity to shape customer-facing data science products at scale\n\nIf you enjoy combining rigorous statistics, customer insight, and real-world ML delivery, I’d be happy to tell you more.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/nishant/data_scientist_hydrogen_group.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "nishant:linkedin:4444198423",
       "title": "Data Scientist / BI Analyst",
       "company": "James Fisher and Sons plc",
