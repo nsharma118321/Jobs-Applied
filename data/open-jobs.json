@@ -1,6 +1,42 @@
 {
   "jobs": [
     {
+      "id": "linkedin:4430967819",
+      "title": "Data Scientist, Payments",
+      "company": "Stripe",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-01T17:21:37.784Z",
+      "postedLabel": "Reposted 5 hours ago",
+      "url": "https://www.linkedin.com/jobs/view/externalApply/4430967819",
+      "sponsorName": "STRIPE CONSULTING LIMITED",
+      "sponsorVerified": true,
+      "source": "Company careers"
+    },
+    {
+      "id": "linkedin:4447798348",
+      "title": "Data Scientist - AI & Innovation Team",
+      "company": "Adzuna",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-01T05:21:48.372Z",
+      "postedLabel": "17 hours ago",
+      "url": "https://www.linkedin.com/jobs/view/externalApply/4447798348",
+      "sponsorName": "Adzuna Limited",
+      "sponsorVerified": true,
+      "source": "Company careers"
+    },
+    {
+      "id": "linkedin:4445575721",
+      "title": "Data Scientist - AI & Innovation Team",
+      "company": "Adzuna",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-01T05:21:47.716Z",
+      "postedLabel": "17 hours ago",
+      "url": "https://www.linkedin.com/jobs/view/externalApply/4445575721",
+      "sponsorName": "Adzuna Limited",
+      "sponsorVerified": true,
+      "source": "Company careers"
+    },
+    {
       "id": "smartrecruiters:GenomicsEngland:744000140214489",
       "title": "Data Engineer (we have office locations in Cambridge, Leeds and London)",
       "company": "Genomics England",
