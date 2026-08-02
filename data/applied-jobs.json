@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-66645c5aa5dcd761ec0b",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/view/data-scientist-payments-at-stripe-4430967819/?refId=7cYrqIFZr04BFtlh2cJC%2Fg%3D%3D&trackingId=8H8hjzMJ2IEBFOg87Cq%2F0A%3D%3D",
+      "portalUrl": "https://www.linkedin.com/jobs/view/data-scientist-payments-at-stripe-4430967819/?refId=7cYrqIFZr04BFtlh2cJC%2Fg%3D%3D&trackingId=8H8hjzMJ2IEBFOg87Cq%2F0A%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-02T19:40:50.754Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-02T19:40:50.754Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/view/data-scientist-payments-at-stripe-4430967819/?refId=7cYrqIFZr04BFtlh2cJC%2Fg%3D%3D&trackingId=8H8hjzMJ2IEBFOg87Cq%2F0A%3D%3D\n- **Application portal:** https://www.linkedin.com/jobs/view/data-scientist-payments-at-stripe-4430967819/?refId=7cYrqIFZr04BFtlh2cJC%2Fg%3D%3D&trackingId=8H8hjzMJ2IEBFOg87Cq%2F0A%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-e9a97eaeb8b22b4f92ba",
       "title": "Stantec hiring Data Scientist - Water Sector in Edinburgh, Scotland, United Kingdom | LinkedIn",
       "company": "linkedin.com",
