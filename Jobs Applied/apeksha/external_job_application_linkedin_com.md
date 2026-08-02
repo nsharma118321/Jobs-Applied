@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-08-02T20:00:42.402Z
+- **Applied date:** 2026-08-02T20:06:19.958Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/view/data-engineer-at-aurora-energy-research-4431593165/?refId=2XOZOMZesePr5NrJ%2B8Z%2B%2Fg%3D%3D&trackingId=Sn0TA4ckIGudw0Ugx4gaMg%3D%3D
-- **Application portal:** https://www.linkedin.com/jobs/view/data-engineer-at-aurora-energy-research-4431593165/?refId=2XOZOMZesePr5NrJ%2B8Z%2B%2Fg%3D%3D&trackingId=Sn0TA4ckIGudw0Ugx4gaMg%3D%3D
+- **Original posting:** https://www.linkedin.com/jobs/view/data-engineer-commodities-quant-trading-at-paragon-alpha-hedge-fund-talent-business-4436950303/?refId=e1A%2FeqKnYZR2qXBMeXDfqQ%3D%3D&trackingId=LQWRYuvp8juD0Rb3TlL4pg%3D%3D
+- **Application portal:** https://www.linkedin.com/jobs/view/data-engineer-commodities-quant-trading-at-paragon-alpha-hedge-fund-talent-business-4436950303/?refId=e1A%2FeqKnYZR2qXBMeXDfqQ%3D%3D&trackingId=LQWRYuvp8juD0Rb3TlL4pg%3D%3D
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
