@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-793f5e9db273ae968868",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/view/data-engineer-at-aurora-energy-research-4431593165/?refId=2XOZOMZesePr5NrJ%2B8Z%2B%2Fg%3D%3D&trackingId=Sn0TA4ckIGudw0Ugx4gaMg%3D%3D",
+      "portalUrl": "https://www.linkedin.com/jobs/view/data-engineer-at-aurora-energy-research-4431593165/?refId=2XOZOMZesePr5NrJ%2B8Z%2B%2Fg%3D%3D&trackingId=Sn0TA4ckIGudw0Ugx4gaMg%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-02T20:00:42.402Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-02T20:00:42.402Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/view/data-engineer-at-aurora-energy-research-4431593165/?refId=2XOZOMZesePr5NrJ%2B8Z%2B%2Fg%3D%3D&trackingId=Sn0TA4ckIGudw0Ugx4gaMg%3D%3D\n- **Application portal:** https://www.linkedin.com/jobs/view/data-engineer-at-aurora-energy-research-4431593165/?refId=2XOZOMZesePr5NrJ%2B8Z%2B%2Fg%3D%3D&trackingId=Sn0TA4ckIGudw0Ugx4gaMg%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-dd30a8ae306b18ed44cb",
       "title": "Kpler hiring Data Scientist in London Area, United Kingdom | LinkedIn",
       "company": "linkedin.com",
