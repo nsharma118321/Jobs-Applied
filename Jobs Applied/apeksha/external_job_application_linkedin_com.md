@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-08-02T06:11:05.110Z
+- **Applied date:** 2026-08-02T19:40:50.754Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/view/data-scientist-payments-at-stripe-4430967819/
-- **Application portal:** https://www.linkedin.com/jobs/view/data-scientist-payments-at-stripe-4430967819/
+- **Original posting:** https://www.linkedin.com/jobs/view/data-scientist-payments-at-stripe-4430967819/?refId=7cYrqIFZr04BFtlh2cJC%2Fg%3D%3D&trackingId=8H8hjzMJ2IEBFOg87Cq%2F0A%3D%3D
+- **Application portal:** https://www.linkedin.com/jobs/view/data-scientist-payments-at-stripe-4430967819/?refId=7cYrqIFZr04BFtlh2cJC%2Fg%3D%3D&trackingId=8H8hjzMJ2IEBFOg87Cq%2F0A%3D%3D
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
