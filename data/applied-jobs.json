@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-44ed8e86d2e1edfe673e",
+      "title": "External job application",
+      "company": "joblookup.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://joblookup.com/uk/job/business-analyst-job-in-nechells-green",
+      "portalUrl": "https://joblookup.com/uk/job/business-analyst-job-in-nechells-green",
+      "appliedBy": "Nishant",
+      "appliedAt": "2026-08-02T16:43:15.328Z",
+      "jobDescription": "# External job application\n\n- **Company:** joblookup.com\n- **Location:** External portal\n- **Applied by:** Nishant\n- **Applied date:** 2026-08-02T16:43:15.328Z\n- **Licensed sponsor:** \n- **Original posting:** https://joblookup.com/uk/job/business-analyst-job-in-nechells-green\n- **Application portal:** https://joblookup.com/uk/job/business-analyst-job-in-nechells-green\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/nishant/external_job_application_joblookup_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-423d1556e8e5eb0e8790",
       "title": "Kennedys hiring Data Engineer in Greater London, England, United Kingdom | LinkedIn",
       "company": "linkedin.com",
