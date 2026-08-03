@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "id": "linkedin:4447994896",
+      "title": "Lead Data Analyst (Rankings)",
+      "company": "QS Quacquarelli Symonds",
+      "location": "London Area, United Kingdom",
+      "postedAt": "2026-08-03T16:24:44.721Z",
+      "postedLabel": "5 minutes ago",
+      "url": "https://uk.linkedin.com/jobs/view/lead-data-analyst-rankings-at-qs-quacquarelli-symonds-4447994896?position=10&pageNum=0&refId=9VEGvffB4kkXouoiEx%2F5jA%3D%3D&trackingId=2RGe9GQt6mOGRbHHSwgI1Q%3D%3D",
+      "sponsorName": "QS Quacquarelli Symonds Ltd",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Apeksha)",
+      "applyStatus": "unknown"
+    },
+    {
       "id": "linkedin:4447984895",
       "title": "Data Analyst - Fraud",
       "company": "Moniepoint Group",
@@ -11,6 +24,19 @@
       "sponsorName": "Moniepoint UK Limited",
       "sponsorVerified": true,
       "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4392073241",
+      "title": "Data Engineer",
+      "company": "Raytheon UK",
+      "location": "Warminster, England, United Kingdom",
+      "postedAt": "2026-08-03T15:19:33.386Z",
+      "postedLabel": "1 hour ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-engineer-at-raytheon-uk-4392073241?position=2&pageNum=2&refId=ujrjh6RqPbQh8qOdctpePQ%3D%3D&trackingId=p208XJ1BtccS6KzQHkWEqg%3D%3D",
+      "sponsorName": "Raytheon Systems Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Apeksha)",
       "applyStatus": "unknown"
     },
     {
