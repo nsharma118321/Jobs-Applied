@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4448114360",
+      "title": "ML Engineer (YC Start-Up) - Up to £180k + Equity",
+      "company": "Few&Far",
+      "location": "London Area, United Kingdom",
+      "sponsorName": "Few & Far Group Limited",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/ml-engineer-yc-start-up-up-to-%C2%A3180k-%2B-equity-at-few-far-4448114360?position=4&pageNum=0&refId=fUMQD37YKMvxANJPiDim2Q%3D%3D&trackingId=riemNyzAxwzxanicsF%2Fv9A%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/ml-engineer-yc-start-up-up-to-%C2%A3180k-%2B-equity-at-few-far-4448114360?position=4&pageNum=0&refId=fUMQD37YKMvxANJPiDim2Q%3D%3D&trackingId=riemNyzAxwzxanicsF%2Fv9A%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-03T18:53:48.706Z",
+      "jobDescription": "# ML Engineer (YC Start-Up) - Up to £180k + Equity\n\n- **Company:** Few&Far\n- **Location:** London Area, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-03T18:53:48.706Z\n- **Licensed sponsor:** Few & Far Group Limited\n- **Original posting:** https://uk.linkedin.com/jobs/view/ml-engineer-yc-start-up-up-to-%C2%A3180k-%2B-equity-at-few-far-4448114360?position=4&pageNum=0&refId=fUMQD37YKMvxANJPiDim2Q%3D%3D&trackingId=riemNyzAxwzxanicsF%2Fv9A%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/ml-engineer-yc-start-up-up-to-%C2%A3180k-%2B-equity-at-few-far-4448114360?position=4&pageNum=0&refId=fUMQD37YKMvxANJPiDim2Q%3D%3D&trackingId=riemNyzAxwzxanicsF%2Fv9A%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nFew&Far are working with a small, fast-moving YC-backed AI startup that's building frontier systems modelling complex, large-scale real-world behaviour - genuinely hard from both a research and engineering standpoint, not an application layer bolted onto existing models. They're already working with some of the biggest organisations in the world and have already passed the 1M ARR milestone.\n\nThe role\nThey're looking for a Research Engineer to own the path from research to production. Their research team is inventing new methods; you'd take them from prototype to something running reliably at scale - post-training and distilling the models that power them, building the data pipelines that feed them, owning inference at scale, and simplifying aggressively so only what actually delivers performance makes it to production.\n\nYou'd work directly with the CEO and Head of Research, and partner closely with research, product, and forward-deployed engineering.\n\nWhat they're looking for\n- 2+ years shipping ML in a startup environment, ideally at an early-stage company where you owned things end-to-end.\n- Real hands-on post-training experience with LLMs - RL, fine-tuning, distillation, dataset and reward design\n- Strong, clean Python that other people can maintain\n- Comfortable reasoning about statistics, probability, and high-dimensional spaces\n- Fast, with a high bar - goes deep to understand both problem and solution\n- Genuine curiosity about the underlying domain, not just the ML\n- Ownership mentality - sees what needs to happen and makes it happen\n\nNice to have\n- Experience with distributed training, inference optimisation, or scaling ML systems\n- Background in an empirical field like behavioural science, computational social science, psychometrics, or statistics\n- Publications or open-source work in simulation, evaluation, calibration, or behaviour modelling\n\nIf you hit around 60% of this criteria, apply anyway - we'd rather see strong candidates who don't tick every box than miss out on good people over a checklist.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/ml_engineer_yc_start_up_up_to_180k_equity_few_far.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:4439059389",
       "title": "Applied Scientist (Integrity)",
       "company": "Prolific",
