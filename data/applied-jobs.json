@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4448307004",
+      "title": "Data Scientist (Credit Risk)",
+      "company": "Radius",
+      "location": "Crewe, England, United Kingdom",
+      "sponsorName": "GUS Commercials Ltd T/A Radius Vehicle Solutions",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-credit-risk-at-radius-4448307004?position=7&pageNum=0&refId=a26tMG5ztazxRSn7or2hrQ%3D%3D&trackingId=ds5Iry4ZO8DDSpunnSQqgw%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-credit-risk-at-radius-4448307004?position=7&pageNum=0&refId=a26tMG5ztazxRSn7or2hrQ%3D%3D&trackingId=ds5Iry4ZO8DDSpunnSQqgw%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-03T15:54:26.874Z",
+      "jobDescription": "# Data Scientist (Credit Risk)\n\n- **Company:** Radius\n- **Location:** Crewe, England, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-03T15:54:26.874Z\n- **Licensed sponsor:** GUS Commercials Ltd T/A Radius Vehicle Solutions\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-scientist-credit-risk-at-radius-4448307004?position=7&pageNum=0&refId=a26tMG5ztazxRSn7or2hrQ%3D%3D&trackingId=ds5Iry4ZO8DDSpunnSQqgw%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-scientist-credit-risk-at-radius-4448307004?position=7&pageNum=0&refId=a26tMG5ztazxRSn7or2hrQ%3D%3D&trackingId=ds5Iry4ZO8DDSpunnSQqgw%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_scientist_credit_risk_radius.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4446221095",
       "title": "Data Analyst",
       "company": "Transform",
