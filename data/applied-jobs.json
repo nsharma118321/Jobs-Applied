@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4445740784",
+      "title": "Lead Data Analyst",
+      "company": "La Fosse",
+      "location": "London Area, United Kingdom",
+      "sponsorName": "La Fosse Associates Ltd",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/lead-data-analyst-at-la-fosse-4445740784?position=2&pageNum=0&refId=flHWJo2NBcPioMXjbzpVbw%3D%3D&trackingId=xLhFAefgB2CzzHDnikJr8w%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/lead-data-analyst-at-la-fosse-4445740784?position=2&pageNum=0&refId=flHWJo2NBcPioMXjbzpVbw%3D%3D&trackingId=xLhFAefgB2CzzHDnikJr8w%3D%3D",
+      "appliedBy": "Nishant",
+      "appliedAt": "2026-08-03T20:37:55.891Z",
+      "jobDescription": "# Lead Data Analyst\n\n- **Company:** La Fosse\n- **Location:** London Area, United Kingdom\n- **Applied by:** Nishant\n- **Applied date:** 2026-08-03T20:37:55.891Z\n- **Licensed sponsor:** La Fosse Associates Ltd\n- **Original posting:** https://uk.linkedin.com/jobs/view/lead-data-analyst-at-la-fosse-4445740784?position=2&pageNum=0&refId=flHWJo2NBcPioMXjbzpVbw%3D%3D&trackingId=xLhFAefgB2CzzHDnikJr8w%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/lead-data-analyst-at-la-fosse-4445740784?position=2&pageNum=0&refId=flHWJo2NBcPioMXjbzpVbw%3D%3D&trackingId=xLhFAefgB2CzzHDnikJr8w%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLead Data Analyst \n£65,000–£75,000 \nLondon (Hybrid, 2 days/week)\n\nEver wanted to sit inside one of the best data teams in London without the politics of a huge corporate structure around it?\n\nWe're hiring for a very well-known loyalty and customer engagement business, trusted by some of the world's most recognisable financial services, travel and retail brands to design programmes that build genuine customer commitment. It's the rare kind of place that feels like a boutique agency, backed by serious corporate resource - fast-moving, autonomous, and genuinely fun to work in.\n\nThe role\nYou'll be the standalone Data Analyst for the Loyalty team not one of many, the one. That means real ownership from day one: extracting and shaping data from Salesforce Marketing Cloud and relational databases, building the monthly reporting suite, and turning raw numbers into commercial recommendations that actually get acted on.\n\nYou'll get stuck into:\n- SQL querying (inner and outer joins - you'll need to be genuinely comfortable here)\n- Excel at a high level - pivot tables, formulae, slicing large datasets\n- Customer segmentation and propensity modelling\n- Lifetime value and uplift analysis\n- Helping shape what a brand-new loyalty programme could look like, working directly with a Loyalty Design Authority\n\nWho this is for\nThis is a \"doer\" role. You won't have someone checking your work line by line - you'll need to be the kind of analyst who can pick up a brief, run with it, and come back with the answer, not more questions. If you like getting properly lost in the data and enjoy figuring things out yourself, this will suit you well.\n\nIt's also a brilliant stepping stone if you're looking to build serious commercial and loyalty analytics experience fast, working alongside peers who love debating the best way to solve a problem.\n\nWhat you'll bring\n- Strong SQL and Excel skills, with experience handling large, complex datasets\n- Experience analysing customer, marketing or transactional data\n- Background in CRM, loyalty or lifecycle marketing analysis\n- Comfort building segmentation, propensity or CLV models\n- The confidence to work autonomously and manage shifting priorities\n- A collaborative, team-first mindset - this is not a lone-wolf role, even though you'll often be the only analyst in the room\n\nThe details\n- £65,000–£75,000\n- Hybrid: 2 days per week in the office\n- Permanent, full-time\n\nInterested? Apply now or send a message to find out more.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/nishant/lead_data_analyst_la_fosse.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4374952049",
       "title": "Responsible AI, Lead Applied Scientist - X Delivery",
       "company": "Boston Consulting Group (BCG)",
