@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "id": "linkedin:4439412954",
+      "title": "Data Scientist",
+      "company": "Capstone Investment Advisors",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-03T17:40:59.609Z",
+      "postedLabel": "5 minutes ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-capstone-investment-advisors-4439412954?position=9&pageNum=2&refId=wl4TdwUusHu1Vy365hluKQ%3D%3D&trackingId=ROqBNPEXuONbS2Un8TyNSA%3D%3D",
+      "sponsorName": "Capstone Investment Advisors  (UK) LLP",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
       "id": "linkedin:4448203762",
       "title": "Lead Data Engineer (Azure)",
       "company": "Harnham",
