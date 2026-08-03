@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4392073241",
+      "title": "Data Engineer",
+      "company": "Raytheon UK",
+      "location": "Warminster, England, United Kingdom",
+      "sponsorName": "Raytheon Systems Limited",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-raytheon-uk-4392073241?position=2&pageNum=2&refId=ujrjh6RqPbQh8qOdctpePQ%3D%3D&trackingId=p208XJ1BtccS6KzQHkWEqg%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-raytheon-uk-4392073241?position=2&pageNum=2&refId=ujrjh6RqPbQh8qOdctpePQ%3D%3D&trackingId=p208XJ1BtccS6KzQHkWEqg%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-03T16:49:06.182Z",
+      "jobDescription": "# Data Engineer\n\n- **Company:** Raytheon UK\n- **Location:** Warminster, England, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-03T16:49:06.182Z\n- **Licensed sponsor:** Raytheon Systems Limited\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-engineer-at-raytheon-uk-4392073241?position=2&pageNum=2&refId=ujrjh6RqPbQh8qOdctpePQ%3D%3D&trackingId=p208XJ1BtccS6KzQHkWEqg%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-engineer-at-raytheon-uk-4392073241?position=2&pageNum=2&refId=ujrjh6RqPbQh8qOdctpePQ%3D%3D&trackingId=p208XJ1BtccS6KzQHkWEqg%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_engineer_raytheon_uk.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4448154447",
       "title": "Data Engineer",
       "company": "Solicitors Regulation Authority",
