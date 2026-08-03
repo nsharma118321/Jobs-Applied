@@ -1,12 +1,12 @@
 # Data scientist
 
 - **Company:** Bending Spoons
-- **Location:** Cambridge, England, United Kingdom
+- **Location:** United Kingdom
 - **Applied by:** Nishant
 - **Applied date:** 2026-08-03T19:10:35.036Z
 - **Licensed sponsor:** Bending Spoons Operations S.P.A.(UK Branch)
-- **Original posting:** https://uk.linkedin.com/jobs/view/data-scientist-at-bending-spoons-4447496867?position=7&pageNum=2&refId=QPEMAU5jkr345gOzeqH9EA%3D%3D&trackingId=wHNTp8WhCH9VscwxhOOBng%3D%3D
-- **Application portal:** https://uk.linkedin.com/jobs/view/data-scientist-at-bending-spoons-4447496867?position=7&pageNum=2&refId=QPEMAU5jkr345gOzeqH9EA%3D%3D&trackingId=wHNTp8WhCH9VscwxhOOBng%3D%3D
+- **Original posting:** https://uk.linkedin.com/jobs/view/data-scientist-at-bending-spoons-4447601244?position=6&pageNum=0&refId=kfTiZ4s6rL4RGNB98Hl2TA%3D%3D&trackingId=QkdfP8hmjoGIiJwGjhRvxg%3D%3D
+- **Application portal:** https://uk.linkedin.com/jobs/view/data-scientist-at-bending-spoons-4447601244?position=6&pageNum=0&refId=kfTiZ4s6rL4RGNB98Hl2TA%3D%3D&trackingId=QkdfP8hmjoGIiJwGjhRvxg%3D%3D
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
