@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:4407939452",
+      "title": "Data Scientist",
+      "company": "Edwards Vacuum",
+      "location": "Burgess Hill, England, United Kingdom",
+      "sponsorName": "Edwards Limited",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-edwards-vacuum-4407939452?position=9&pageNum=2&refId=WvKaD%2FE9u7opA2NzoCGxzw%3D%3D&trackingId=gRF%2BPkvRnDrqrOlCqgPA6g%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-edwards-vacuum-4407939452?position=9&pageNum=2&refId=WvKaD%2FE9u7opA2NzoCGxzw%3D%3D&trackingId=gRF%2BPkvRnDrqrOlCqgPA6g%3D%3D",
+      "appliedBy": "Nishant",
+      "appliedAt": "2026-08-03T20:32:51.597Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Edwards Vacuum\n- **Location:** Burgess Hill, England, United Kingdom\n- **Applied by:** Nishant\n- **Applied date:** 2026-08-03T20:32:51.597Z\n- **Licensed sponsor:** Edwards Limited\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-scientist-at-edwards-vacuum-4407939452?position=9&pageNum=2&refId=WvKaD%2FE9u7opA2NzoCGxzw%3D%3D&trackingId=gRF%2BPkvRnDrqrOlCqgPA6g%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-scientist-at-edwards-vacuum-4407939452?position=9&pageNum=2&refId=WvKaD%2FE9u7opA2NzoCGxzw%3D%3D&trackingId=gRF%2BPkvRnDrqrOlCqgPA6g%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/nishant/data_scientist_edwards_vacuum.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:4443255346",
       "title": "Data Scientist",
       "company": "Eden Smith Group",
