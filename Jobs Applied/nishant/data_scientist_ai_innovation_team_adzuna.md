@@ -3,10 +3,10 @@
 - **Company:** Adzuna
 - **Location:** London, England, United Kingdom
 - **Applied by:** Nishant
-- **Applied date:** 2026-08-01T13:30:31.445Z
+- **Applied date:** 2026-08-03T20:02:24.721Z
 - **Licensed sponsor:** Adzuna Limited
-- **Original posting:** https://uk.linkedin.com/jobs/view/data-scientist-ai-innovation-team-at-adzuna-4445575721?position=5&pageNum=0&refId=cMnSXQMllFK3QKvQM3q2gw%3D%3D&trackingId=c548aa0COmunrxdsq819QQ%3D%3D
-- **Application portal:** https://uk.linkedin.com/jobs/view/data-scientist-ai-innovation-team-at-adzuna-4445575721?position=5&pageNum=0&refId=cMnSXQMllFK3QKvQM3q2gw%3D%3D&trackingId=c548aa0COmunrxdsq819QQ%3D%3D
+- **Original posting:** https://www.linkedin.com/jobs/view/externalApply/4447798348
+- **Application portal:** https://www.linkedin.com/jobs/view/externalApply/4447798348
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
