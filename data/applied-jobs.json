@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4447269930",
+      "title": "Data Scientist",
+      "company": "Harnham",
+      "location": "London Area, United Kingdom",
+      "sponsorName": "Harnham Search and Selection Limited",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-harnham-4447269930?position=3&pageNum=2&refId=IIWGx3W701NZXhrJ%2BzOljg%3D%3D&trackingId=HTqD57jb2BNPPCp3dd8hhg%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-harnham-4447269930?position=3&pageNum=2&refId=IIWGx3W701NZXhrJ%2BzOljg%3D%3D&trackingId=HTqD57jb2BNPPCp3dd8hhg%3D%3D",
+      "appliedBy": "Nishant",
+      "appliedAt": "2026-08-03T20:34:18.774Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Harnham\n- **Location:** London Area, United Kingdom\n- **Applied by:** Nishant\n- **Applied date:** 2026-08-03T20:34:18.774Z\n- **Licensed sponsor:** Harnham Search and Selection Limited\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-scientist-at-harnham-4447269930?position=3&pageNum=2&refId=IIWGx3W701NZXhrJ%2BzOljg%3D%3D&trackingId=HTqD57jb2BNPPCp3dd8hhg%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-scientist-at-harnham-4447269930?position=3&pageNum=2&refId=IIWGx3W701NZXhrJ%2BzOljg%3D%3D&trackingId=HTqD57jb2BNPPCp3dd8hhg%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/nishant/data_scientist_harnham.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4448611485",
       "title": "Applied Machine Learning Scientist",
       "company": "StackAdapt",
