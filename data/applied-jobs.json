@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4419142871",
+      "title": "Lead Data Scientist - Marketing",
+      "company": "hackajob",
+      "location": "London, England, United Kingdom",
+      "sponsorName": "HACKAJOB LTD",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/lead-data-scientist-marketing-at-hackajob-4419142871?position=4&pageNum=0&refId=V11DfyAO5PPT5gapCUmS6Q%3D%3D&trackingId=ygdTC0mf6xw0h5MxHV9XZw%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/lead-data-scientist-marketing-at-hackajob-4419142871?position=4&pageNum=0&refId=V11DfyAO5PPT5gapCUmS6Q%3D%3D&trackingId=ygdTC0mf6xw0h5MxHV9XZw%3D%3D",
+      "appliedBy": "Nishant",
+      "appliedAt": "2026-08-03T20:36:17.119Z",
+      "jobDescription": "# Lead Data Scientist - Marketing\n\n- **Company:** hackajob\n- **Location:** London, England, United Kingdom\n- **Applied by:** Nishant\n- **Applied date:** 2026-08-03T20:36:17.119Z\n- **Licensed sponsor:** HACKAJOB LTD\n- **Original posting:** https://uk.linkedin.com/jobs/view/lead-data-scientist-marketing-at-hackajob-4419142871?position=4&pageNum=0&refId=V11DfyAO5PPT5gapCUmS6Q%3D%3D&trackingId=ygdTC0mf6xw0h5MxHV9XZw%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/lead-data-scientist-marketing-at-hackajob-4419142871?position=4&pageNum=0&refId=V11DfyAO5PPT5gapCUmS6Q%3D%3D&trackingId=ygdTC0mf6xw0h5MxHV9XZw%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/nishant/lead_data_scientist_marketing_hackajob.md",
+      "syncStatus": "synced"
+    },
+    {
+      "jobId": "shared:4419142871",
+      "title": "Lead Data Scientist - Marketing",
+      "company": "hackajob",
+      "location": "London, England, United Kingdom",
+      "sponsorName": "HACKAJOB LTD",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/lead-data-scientist-marketing-at-hackajob-4419142871?position=5&pageNum=0&refId=kbdbLkWbtmQLVFJnI7n1Hw%3D%3D&trackingId=VtWCRAeKatI%2Fk6HwNQahzA%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/lead-data-scientist-marketing-at-hackajob-4419142871?position=5&pageNum=0&refId=kbdbLkWbtmQLVFJnI7n1Hw%3D%3D&trackingId=VtWCRAeKatI%2Fk6HwNQahzA%3D%3D",
+      "appliedBy": "Nishant",
+      "appliedAt": "2026-08-03T20:36:17.119Z",
+      "jobDescription": "# Lead Data Scientist - Marketing\n\n- **Company:** hackajob\n- **Location:** London, England, United Kingdom\n- **Applied by:** Nishant\n- **Applied date:** 2026-08-03T20:36:17.119Z\n- **Licensed sponsor:** HACKAJOB LTD\n- **Original posting:** https://uk.linkedin.com/jobs/view/lead-data-scientist-marketing-at-hackajob-4419142871?position=5&pageNum=0&refId=kbdbLkWbtmQLVFJnI7n1Hw%3D%3D&trackingId=VtWCRAeKatI%2Fk6HwNQahzA%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/lead-data-scientist-marketing-at-hackajob-4419142871?position=5&pageNum=0&refId=kbdbLkWbtmQLVFJnI7n1Hw%3D%3D&trackingId=VtWCRAeKatI%2Fk6HwNQahzA%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/nishant/lead_data_scientist_marketing_hackajob.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:4443612329",
       "title": "Data Scientist - Measurement, Experimentation & Causal Inference",
       "company": "Sony Interactive Entertainment",
