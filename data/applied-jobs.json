@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:4443255346",
+      "title": "Data Scientist",
+      "company": "Eden Smith Group",
+      "location": "London Area, United Kingdom",
+      "sponsorName": "Eden Smith Consulting Ltd",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-eden-smith-group-4443255346?position=7&pageNum=0&refId=ExYtMrLEcOpxrc0MVrKzKg%3D%3D&trackingId=MI7eSllOTAaH3tlPB3XI0A%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-eden-smith-group-4443255346?position=7&pageNum=0&refId=ExYtMrLEcOpxrc0MVrKzKg%3D%3D&trackingId=MI7eSllOTAaH3tlPB3XI0A%3D%3D",
+      "appliedBy": "Nishant",
+      "appliedAt": "2026-08-03T20:31:21.252Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Eden Smith Group\n- **Location:** London Area, United Kingdom\n- **Applied by:** Nishant\n- **Applied date:** 2026-08-03T20:31:21.252Z\n- **Licensed sponsor:** Eden Smith Consulting Ltd\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-scientist-at-eden-smith-group-4443255346?position=7&pageNum=0&refId=ExYtMrLEcOpxrc0MVrKzKg%3D%3D&trackingId=MI7eSllOTAaH3tlPB3XI0A%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-scientist-at-eden-smith-group-4443255346?position=7&pageNum=0&refId=ExYtMrLEcOpxrc0MVrKzKg%3D%3D&trackingId=MI7eSllOTAaH3tlPB3XI0A%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nData Scientist, Fintech - Credit Risk\nLondon, UK (Hybrid - 1 day in London)\n£40,000 - £60,000\n\nWe're hiring a Data Scientist to own the credit risk analytics behind a fast growing consumer lending business, built by a team of real thought leaders and innovators in Banking and Fintech. This is a highly innovative start-up which brings huge potential for the successful candidate.\n\nThis is a hands on role at the heart of the business, turning application, bureau and Open Banking data into the scorecards, policies and pricing that decide who gets lent to, how much, and at what price. You'll build and monitor the models driving those decisions, track portfolio performance through vintage and cohort analysis, and turn what you find into recommendations senior stakeholders actually act on.\n\nRequired Skills:\n\n- 2+ Years of Experience in Data Science\n- Strong Python and SQL skills, comfortable building robust, reusable pipelines\n- Solid grounding in statistical and machine learning methods such as regression and classification\n- Background in credit risk analytics, data science or another quantitative role\n- A degree in Maths, Statistics, Physics, Engineering, Computer Science or quantitative Economics (or a different relevant subject)\n- Familiarity with credit bureau or Open Banking data is a bonus, not a requirement\n- Comfortable with ambiguity (alongside autonomy) and happy to get stuck in at a fast moving start up\n\nYou'll be working directly with application, credit bureau and Open Banking data, building dashboards and reporting for internal teams and external funders, and occasionally supporting manual underwriting on referred cases.\n\nThis is a fast paced, high-energy fintech start up who are keen to invest infinite time and teaching into a Data Scientist at the beginning part of thier career.\n\nIf you want genuine ownership over how a lending business makes its decisions, and to help build that from the ground up, apply within or get in touch for a confidential chat.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/nishant/data_scientist_eden_smith_group.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:4417832707",
       "title": "Data Scientist - Customer Focus",
       "company": "Edwards Vacuum",
