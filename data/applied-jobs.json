@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4447893861",
+      "title": "Reporting & Analytics Engineer",
+      "company": "GAZELLE GLOBAL LIMITED",
+      "location": "Warwick, England, United Kingdom",
+      "sponsorName": "Gazelle Global Consulting Ltd",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/reporting-analytics-engineer-at-gazelle-global-limited-4447893861?position=9&pageNum=2&refId=Rs16DQTuaAknpSxTcRcBsQ%3D%3D&trackingId=6cyiQim6%2BJnHg3fNcjSRhw%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/reporting-analytics-engineer-at-gazelle-global-limited-4447893861?position=9&pageNum=2&refId=Rs16DQTuaAknpSxTcRcBsQ%3D%3D&trackingId=6cyiQim6%2BJnHg3fNcjSRhw%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-04T14:05:28.628Z",
+      "jobDescription": "# Reporting & Analytics Engineer\n\n- **Company:** GAZELLE GLOBAL LIMITED\n- **Location:** Warwick, England, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-04T14:05:28.628Z\n- **Licensed sponsor:** Gazelle Global Consulting Ltd\n- **Original posting:** https://uk.linkedin.com/jobs/view/reporting-analytics-engineer-at-gazelle-global-limited-4447893861?position=9&pageNum=2&refId=Rs16DQTuaAknpSxTcRcBsQ%3D%3D&trackingId=6cyiQim6%2BJnHg3fNcjSRhw%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/reporting-analytics-engineer-at-gazelle-global-limited-4447893861?position=9&pageNum=2&refId=Rs16DQTuaAknpSxTcRcBsQ%3D%3D&trackingId=6cyiQim6%2BJnHg3fNcjSRhw%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nReporting & Analytics Engineer\nWarwick (Hybrid  3 days onsite)\n6-12 Month Contract\n\nWe're seeking an experienced Reporting & Analytics Engineer to join a major data transformation programme, delivering modern reporting solutions and scalable data products. This is an excellent opportunity for someone with a strong background in business intelligence, cloud data platforms, and data engineering.\n\nKey Responsibilities:\n- Design and develop enterprise reporting solutions using Power BI\n- Build scalable semantic models, datasets, and interactive dashboards\n- Develop and maintain ETL/ELT pipelines using Azure Data Factory and Snowflake\n- Create and manage reusable Data Products following modern data architecture principles\n- Work with DataOps.live to support automated data delivery and deployment\n- Optimise reporting performance and ensure data quality across the platform\n- Collaborate with technical and business stakeholders to deliver actionable insights\n\nKey Skills Required:\n- Strong experience with Power BI, Snowflake, Azure Data Factory (ADF) and DataOps.live\n- Advanced SQL skills and Python experience\n- Strong understanding of ETL/ELT development and cloud data platforms\n- Knowledge of modern data architecture, Data Products, and real-time/streaming data concepts\n- Excellent communication, analytical, and stakeholder management skills\n- Power BI, Azure, or Snowflake certifications are advantageous\n\nThis is an exciting 6-month contract offering the opportunity to work with modern Azure and data technologies on a high-profile enterprise programme with the potential for extension.\n\nFor more information and direct contact with me, please send me an email and call only if required. I will be sure to check responses daily and shortlist the best candidates; if you are shortlisted, you will hear from me.\n\nLNKD1_UKTJ\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/reporting_analytics_engineer_gazelle_global_limited.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4448217258",
       "title": "Lead Data Engineer",
       "company": "Harnham",
