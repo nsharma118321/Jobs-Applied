@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4440010499",
+      "title": "Data Engineer",
+      "company": "JD.COM",
+      "location": "Greater London, England, United Kingdom",
+      "sponsorName": "JD.COM International UK Ltd",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-jd-com-4440010499?position=9&pageNum=0&refId=h4Y9fZGJfx7VEkCbmoOV4g%3D%3D&trackingId=NfwlBJdMeq4YBsgZ9xivCQ%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-jd-com-4440010499?position=9&pageNum=0&refId=h4Y9fZGJfx7VEkCbmoOV4g%3D%3D&trackingId=NfwlBJdMeq4YBsgZ9xivCQ%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-04T12:20:21.347Z",
+      "jobDescription": "# Data Engineer\n\n- **Company:** JD.COM\n- **Location:** Greater London, England, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-04T12:20:21.347Z\n- **Licensed sponsor:** JD.COM International UK Ltd\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-engineer-at-jd-com-4440010499?position=9&pageNum=0&refId=h4Y9fZGJfx7VEkCbmoOV4g%3D%3D&trackingId=NfwlBJdMeq4YBsgZ9xivCQ%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-engineer-at-jd-com-4440010499?position=9&pageNum=0&refId=h4Y9fZGJfx7VEkCbmoOV4g%3D%3D&trackingId=NfwlBJdMeq4YBsgZ9xivCQ%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_engineer_jd_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4448830487",
       "title": "AI Scientist",
       "company": "Michael Page",
