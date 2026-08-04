@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4448171951",
+      "title": "Data Analyst",
+      "company": "Michael Page",
+      "location": "London, England, United Kingdom",
+      "sponsorName": "Michael Page International Recruitment Ltd",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-analyst-at-michael-page-4448171951?position=2&pageNum=2&refId=U425fjKaYOGWzpI7lrJn%2BA%3D%3D&trackingId=JE2M3Igwxmu5%2FE8G1i4RZQ%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-analyst-at-michael-page-4448171951?position=2&pageNum=2&refId=U425fjKaYOGWzpI7lrJn%2BA%3D%3D&trackingId=JE2M3Igwxmu5%2FE8G1i4RZQ%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-04T13:45:21.498Z",
+      "jobDescription": "# Data Analyst\n\n- **Company:** Michael Page\n- **Location:** London, England, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-04T13:45:21.498Z\n- **Licensed sponsor:** Michael Page International Recruitment Ltd\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-analyst-at-michael-page-4448171951?position=2&pageNum=2&refId=U425fjKaYOGWzpI7lrJn%2BA%3D%3D&trackingId=JE2M3Igwxmu5%2FE8G1i4RZQ%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-analyst-at-michael-page-4448171951?position=2&pageNum=2&refId=U425fjKaYOGWzpI7lrJn%2BA%3D%3D&trackingId=JE2M3Igwxmu5%2FE8G1i4RZQ%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_analyst_michael_page.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4445839427",
       "title": "AWS Data Platform Engineer (Ref: 197468)",
       "company": "Forsyth Barnes Consultancy",
