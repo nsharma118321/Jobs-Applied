@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4448830487",
+      "title": "AI Scientist",
+      "company": "Michael Page",
+      "location": "Ae, Scotland, United Kingdom",
+      "sponsorName": "Michael Page International Recruitment Ltd",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/ai-scientist-at-michael-page-4448830487?position=8&pageNum=2&refId=857%2F5s8dl%2Bc%2BkDHH8fsTOQ%3D%3D&trackingId=dDxycrMzd%2BxcifWX4V5%2BQQ%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/ai-scientist-at-michael-page-4448830487?position=8&pageNum=2&refId=857%2F5s8dl%2Bc%2BkDHH8fsTOQ%3D%3D&trackingId=dDxycrMzd%2BxcifWX4V5%2BQQ%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-04T12:19:55.128Z",
+      "jobDescription": "# AI Scientist\n\n- **Company:** Michael Page\n- **Location:** Ae, Scotland, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-04T12:19:55.128Z\n- **Licensed sponsor:** Michael Page International Recruitment Ltd\n- **Original posting:** https://uk.linkedin.com/jobs/view/ai-scientist-at-michael-page-4448830487?position=8&pageNum=2&refId=857%2F5s8dl%2Bc%2BkDHH8fsTOQ%3D%3D&trackingId=dDxycrMzd%2BxcifWX4V5%2BQQ%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/ai-scientist-at-michael-page-4448830487?position=8&pageNum=2&refId=857%2F5s8dl%2Bc%2BkDHH8fsTOQ%3D%3D&trackingId=dDxycrMzd%2BxcifWX4V5%2BQQ%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\n- Shape next-generation AI systems using cutting-edge open-source models.\n- Build, train and optimise LLM solutions at scale.\n\nAbout Our Client\n\nA highly innovative financial services organisation investing in advanced technology and AI-driven solutions to solve complex real-world challenges.\n\nJob Description\n\n- Train, fine-tune and optimise AI models to improve performance, efficiency and scalability.\n- Build high-quality datasets from user interactions, business use cases and real-world applications.\n- Design and enhance model training and inference frameworks using leading open-source technologies.\n- Adapt and improve existing training pipelines to support evolving AI products and platforms.\n- Research emerging AI techniques and contribute to the advancement of next-generation LLM solutions.\n\nThe Successful Applicant\n\n- Master's or PhD in Computer Science, Artificial Intelligence, Machine Learning or a related discipline.\n- Strong understanding of model architectures, training methodologies and inference frameworks.\n- Hands-on experience with large language models and open-source ecosystems, including DeepSeek, Gemma or similar technologies.\n- Knowledge of training frameworks such as LLaMA Factory, VERL, PyTorch, TensorFlow or Hugging Face.\n- Proven ability to modify, optimise and deploy AI training pipelines in production environments.\n\nWhat's on Offer\n\n- Opportunity to work on leading-edge AI research and development initiatives.\n- Collaborative environment with access to advanced technologies and highly skilled teams.\n- Competitive compensation package, comprehensive benefits and excellent long-term career growth opportunities.\n\nContact: Manpreet Kaur\n\nQuote job ref: JN-072026-7071733\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/ai_scientist_michael_page.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4448290302",
       "title": "Full Stack BI Engineer",
       "company": "Neilson Financial Services",
