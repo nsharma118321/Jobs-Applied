@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "id": "linkedin:4448849828",
+      "title": "Full Stack BI Engineer",
+      "company": "Neilson Financial Services",
+      "location": "Windsor, England, United Kingdom",
+      "postedAt": "2026-08-04T10:56:04.147Z",
+      "postedLabel": "38 minutes ago",
+      "url": "https://uk.linkedin.com/jobs/view/full-stack-bi-engineer-at-neilson-financial-services-4448849828?position=5&pageNum=2&refId=5D7zgVnoNK1VsXXeJ0HeCQ%3D%3D&trackingId=Z9%2B22CfB2mFGZnyAzfKFsA%3D%3D",
+      "sponsorName": "Neilson Financial Services Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Apeksha)",
+      "applyStatus": "unknown"
+    },
+    {
       "id": "linkedin:4437289576",
       "title": "Data Scientist",
       "company": "Checkout.com",
@@ -128,6 +141,19 @@
       "sponsorName": "iwoca Limited",
       "sponsorVerified": true,
       "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4448830487",
+      "title": "AI Scientist",
+      "company": "Michael Page",
+      "location": "Ae, Scotland, United Kingdom",
+      "postedAt": "2026-08-04T07:53:49.267Z",
+      "postedLabel": "3 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/ai-scientist-at-michael-page-4448830487?position=8&pageNum=2&refId=857%2F5s8dl%2Bc%2BkDHH8fsTOQ%3D%3D&trackingId=dDxycrMzd%2BxcifWX4V5%2BQQ%3D%3D",
+      "sponsorName": "Michael Page International Recruitment Ltd",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Apeksha)",
       "applyStatus": "unknown"
     },
     {
@@ -1956,7 +1982,7 @@
       "company": "Genomics England",
       "location": "London, England, United Kingdom",
       "postedAt": "2026-07-28T11:35:47.791Z",
-      "postedLabel": "6 days ago",
+      "postedLabel": "7 days ago",
       "url": "https://jobs.smartrecruiters.com/GenomicsEngland/744000140214489-data-engineer-we-have-office-locations-in-cambridge-leeds-and-london",
       "sponsorName": "Genomics England Limited",
       "sponsorVerified": true,
