@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4448217258",
+      "title": "Lead Data Engineer",
+      "company": "Harnham",
+      "location": "London, England, United Kingdom",
+      "sponsorName": "Harnham Search and Selection Limited",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/lead-data-engineer-at-harnham-4448217258?position=3&pageNum=0&refId=OFihF%2BtKItis73F87uVeZA%3D%3D&trackingId=9nA8l1mxJ25MZuMmmOrzMw%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/lead-data-engineer-at-harnham-4448217258?position=3&pageNum=0&refId=OFihF%2BtKItis73F87uVeZA%3D%3D&trackingId=9nA8l1mxJ25MZuMmmOrzMw%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-04T14:04:28.775Z",
+      "jobDescription": "# Lead Data Engineer\n\n- **Company:** Harnham\n- **Location:** London, England, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-04T14:04:28.775Z\n- **Licensed sponsor:** Harnham Search and Selection Limited\n- **Original posting:** https://uk.linkedin.com/jobs/view/lead-data-engineer-at-harnham-4448217258?position=3&pageNum=0&refId=OFihF%2BtKItis73F87uVeZA%3D%3D&trackingId=9nA8l1mxJ25MZuMmmOrzMw%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/lead-data-engineer-at-harnham-4448217258?position=3&pageNum=0&refId=OFihF%2BtKItis73F87uVeZA%3D%3D&trackingId=9nA8l1mxJ25MZuMmmOrzMw%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\n£85,000 + Benefits\n London (4 days per week in the office)\nThis is a fantastic opportunity to join a rapidly scaling SaaS business where you can build and lead the Data Engineering function from the ground up whilst remaining hands-on with cutting-edge data and AI initiatives. \n\nTHE COMPANY:\n\nThe business works with major enterprise clients across Financial Services, Retail, Telecommunications, Travel and Healthcare. This is an exciting opportunity to join at a pivotal stage of growth and have a genuine impact on the future direction of the business. \n\nTHE ROLE:\n\nYou will take ownership of the Data Engineering function, driving technical excellence, engineering best practice and team growth whilst leading the development of scalable, cloud-based data solutions.\nKey responsibilities include:\n- Building and leading the Data Engineering function, defining standards, processes and ways of working.\n- Managing, mentoring and developing a growing team of Data Engineers.\n- Designing and delivering scalable ETL/ELT pipelines across operational, analytical and AI data environments.\n- Owning data architecture, modelling strategy, CI/CD processes and deployment governance.\n- Driving adoption of AI-enabled engineering practices to improve development efficiency, quality and scalability.\n\nYOUR SKILLS AND EXPERIENCE:\n\nYou will bring strong capability in:\n- Previous experience leading and line-managing Data Engineering teams.\n- Advanced SQL and Python development skills.\n- Consultancy experience\n- Building and optimising ETL/ELT pipelines within modern cloud environments.\n- Data modelling, dimensional modelling and modern data architecture principles.\n- CI/CD, Git, DevOps practices and cloud platforms including Azure, AWS and/or GCP. \n- \n\nTHE BENEFITS:\n\nYou will receive a salary of up to £85,000 depending on experience, along with a comprehensive benefits package.\n \n \n\nHOW TO APPLY:\n\nPlease register your interest by sending your CV to Molly Bird via the apply link on this page.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/lead_data_engineer_harnham.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4448279384",
       "title": "Data Scientist",
       "company": "Adecco",
