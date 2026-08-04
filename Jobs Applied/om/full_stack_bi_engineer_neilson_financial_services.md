@@ -1,12 +1,12 @@
 # Full Stack BI Engineer
 
 - **Company:** Neilson Financial Services
-- **Location:** Windsor, England, United Kingdom
+- **Location:** Ashford, England, United Kingdom
 - **Applied by:** OM
-- **Applied date:** 2026-08-04T12:03:30.906Z
+- **Applied date:** 2026-08-04T12:05:57.027Z
 - **Licensed sponsor:** Neilson Financial Services Limited
-- **Original posting:** https://uk.linkedin.com/jobs/view/full-stack-bi-engineer-at-neilson-financial-services-4448849828?position=5&pageNum=2&refId=5D7zgVnoNK1VsXXeJ0HeCQ%3D%3D&trackingId=Z9%2B22CfB2mFGZnyAzfKFsA%3D%3D
-- **Application portal:** https://uk.linkedin.com/jobs/view/full-stack-bi-engineer-at-neilson-financial-services-4448849828?position=5&pageNum=2&refId=5D7zgVnoNK1VsXXeJ0HeCQ%3D%3D&trackingId=Z9%2B22CfB2mFGZnyAzfKFsA%3D%3D
+- **Original posting:** https://uk.linkedin.com/jobs/view/full-stack-bi-engineer-at-neilson-financial-services-4448290302?position=8&pageNum=2&refId=zrCxqUNuvCZ8qip2E26W1g%3D%3D&trackingId=hVoZXRuq6TSXzbQpsyQwKw%3D%3D
+- **Application portal:** https://uk.linkedin.com/jobs/view/full-stack-bi-engineer-at-neilson-financial-services-4448290302?position=8&pageNum=2&refId=zrCxqUNuvCZ8qip2E26W1g%3D%3D&trackingId=hVoZXRuq6TSXzbQpsyQwKw%3D%3D
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
