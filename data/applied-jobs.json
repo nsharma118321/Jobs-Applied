@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4445839427",
+      "title": "AWS Data Platform Engineer (Ref: 197468)",
+      "company": "Forsyth Barnes Consultancy",
+      "location": "Nottingham, England, United Kingdom",
+      "sponsorName": "Forsyth Barnes Limited",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/aws-data-platform-engineer-ref-197468-at-forsyth-barnes-consultancy-4445839427?position=3&pageNum=2&refId=g%2BqM6Af01RS2FuUPNAh%2Ftg%3D%3D&trackingId=kxTWDh1WlinMSNP00MQFew%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/aws-data-platform-engineer-ref-197468-at-forsyth-barnes-consultancy-4445839427?position=3&pageNum=2&refId=g%2BqM6Af01RS2FuUPNAh%2Ftg%3D%3D&trackingId=kxTWDh1WlinMSNP00MQFew%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-04T13:21:13.853Z",
+      "jobDescription": "# AWS Data Platform Engineer (Ref: 197468)\n\n- **Company:** Forsyth Barnes Consultancy\n- **Location:** Nottingham, England, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-04T13:21:13.853Z\n- **Licensed sponsor:** Forsyth Barnes Limited\n- **Original posting:** https://uk.linkedin.com/jobs/view/aws-data-platform-engineer-ref-197468-at-forsyth-barnes-consultancy-4445839427?position=3&pageNum=2&refId=g%2BqM6Af01RS2FuUPNAh%2Ftg%3D%3D&trackingId=kxTWDh1WlinMSNP00MQFew%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/aws-data-platform-engineer-ref-197468-at-forsyth-barnes-consultancy-4445839427?position=3&pageNum=2&refId=g%2BqM6Af01RS2FuUPNAh%2Ftg%3D%3D&trackingId=kxTWDh1WlinMSNP00MQFew%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/aws_data_platform_engineer_ref_197468_forsyth_barnes_consultancy.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:4438260762",
       "title": "Machine Learning Engineer",
       "company": "Trainline",
