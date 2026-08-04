@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4443253117",
+      "title": "Data Engineer",
+      "company": "Oliver James",
+      "location": "London, England, United Kingdom",
+      "sponsorName": "Oliver James Associates Limited",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-oliver-james-4443253117?position=4&pageNum=0&refId=4Mk%2FettKIKsevtCMdpcTIw%3D%3D&trackingId=TzT1i%2BCNumcjEucpBPMISg%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-oliver-james-4443253117?position=4&pageNum=0&refId=4Mk%2FettKIKsevtCMdpcTIw%3D%3D&trackingId=TzT1i%2BCNumcjEucpBPMISg%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-04T11:22:21.563Z",
+      "jobDescription": "# Data Engineer\n\n- **Company:** Oliver James\n- **Location:** London, England, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-04T11:22:21.563Z\n- **Licensed sponsor:** Oliver James Associates Limited\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-engineer-at-oliver-james-4443253117?position=4&pageNum=0&refId=4Mk%2FettKIKsevtCMdpcTIw%3D%3D&trackingId=TzT1i%2BCNumcjEucpBPMISg%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-engineer-at-oliver-james-4443253117?position=4&pageNum=0&refId=4Mk%2FettKIKsevtCMdpcTIw%3D%3D&trackingId=TzT1i%2BCNumcjEucpBPMISg%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_engineer_oliver_james.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:4444591046",
       "title": "Analytics Engineer",
       "company": "Currys plc",
