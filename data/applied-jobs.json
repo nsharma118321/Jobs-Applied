@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4447386141",
+      "title": "Data Scientist",
+      "company": "LSA Recruit",
+      "location": "Newbury, England, United Kingdom",
+      "sponsorName": "LSA RECRUIT LTD",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-lsa-recruit-4447386141?position=5&pageNum=2&refId=%2BFJPC7rywtkbXRUqQdTQ%2BA%3D%3D&trackingId=ZQDnSFBqLMdb9W5aNd2nnQ%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-lsa-recruit-4447386141?position=5&pageNum=2&refId=%2BFJPC7rywtkbXRUqQdTQ%2BA%3D%3D&trackingId=ZQDnSFBqLMdb9W5aNd2nnQ%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-05T11:27:41.532Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** LSA Recruit\n- **Location:** Newbury, England, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-05T11:27:41.532Z\n- **Licensed sponsor:** LSA RECRUIT LTD\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-scientist-at-lsa-recruit-4447386141?position=5&pageNum=2&refId=%2BFJPC7rywtkbXRUqQdTQ%2BA%3D%3D&trackingId=ZQDnSFBqLMdb9W5aNd2nnQ%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-scientist-at-lsa-recruit-4447386141?position=5&pageNum=2&refId=%2BFJPC7rywtkbXRUqQdTQ%2BA%3D%3D&trackingId=ZQDnSFBqLMdb9W5aNd2nnQ%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe have an exciting job opportunity for Data Scientist role at Newbury, UK.\n\nRole : Data Scientist\nLocation : Newbury, UK\nWork Type: Hybrid (02-03 days onsite in a week)\n\nJob Description:\n\nKey skills required for the role: Data science, ML , EDA and feature engineering. Experience of having ideated, developed and deployed to production end to end data science use cases\n\n- Design and architect scalable, secure, and high -performance data solutions primarily using the Snowflake platform.\n- Leverage Openflow experience to optimize data workflows and integrations.\n- Develop and maintain ETL/ELT pipelines for data ingestion from various sources, including Salesforce, relation, files and NoSQL databases.\n- Collaborate with data engineers, analysts, and business stakeholders to translate business requirements into technical solutions.\n- Implement dimensional modeling techniques to support data warehousing and business intelligence needs.\n- Build and optimize data pipelines across cloud environments (Azure and AWS) ensuring efficient data movement and transformation.\n- Ensure data quality, governance, and security best practices are adhered to across the data architecture.\n- Support analytics and reporting teams by enabling data access and integration with Power BI and Tableau dashboards.\n- Stay current with emerging data technologies and recommend improvements to existing data architecture.\n\nFor more info, Please reach me at shyam@Lsarecruit.co.uk for further discussions\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_lsa_recruit.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4449486154",
       "title": "Data Engineer",
       "company": "Trainline",
