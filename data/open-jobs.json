@@ -1,6 +1,97 @@
 {
   "jobs": [
     {
+      "id": "linkedin:4449113099",
+      "title": "Data & Insights Analyst",
+      "company": "The Gap Partnership",
+      "location": "Berkhamsted, England, United Kingdom",
+      "postedAt": "2026-08-05T12:48:31.369Z",
+      "postedLabel": "17 minutes ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-insights-analyst-at-the-gap-partnership-4449113099?position=6&pageNum=2&refId=J5X%2FsGPYtXu%2BCq3AyTvY2A%3D%3D&trackingId=nmHCzinPeY%2B715ZOUjSVEw%3D%3D",
+      "sponsorName": "The Gap Partnership",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Apeksha)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4429415444",
+      "title": "Lead Machine Learning Engineer",
+      "company": "Faculty",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-05T11:49:54.254Z",
+      "postedLabel": "13 minutes ago",
+      "url": "https://uk.linkedin.com/jobs/view/lead-machine-learning-engineer-at-faculty-4429415444?position=10&pageNum=2&refId=WsjgNBCW3ySZhZuIzQPBoQ%3D%3D&trackingId=VSP0sghwllILKzral0Eu6w%3D%3D",
+      "sponsorName": "Faculty Services Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Nishant)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4428998361",
+      "title": "Data Analyst",
+      "company": "GlobalData Plc",
+      "location": "Kingston Upon Hull, England, United Kingdom",
+      "postedAt": "2026-08-05T11:14:28.079Z",
+      "postedLabel": "49 minutes ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-analyst-at-globaldata-plc-4428998361?position=1&pageNum=0&refId=FwBHYJiXcbESutrHt1XaLA%3D%3D&trackingId=fWdnvm05ePzC0EwGtE1yMQ%3D%3D",
+      "sponsorName": "GLOBALDATA PLC",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Apeksha)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4448995563",
+      "title": "Data Engineer - Large Language Models",
+      "company": "IQVIA",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-05T11:02:53.443Z",
+      "postedLabel": "1 hour ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-engineer-large-language-models-at-iqvia-4448995563?position=3&pageNum=2&refId=UMF0%2B9V7E9xiE3VYGjNYrQ%3D%3D&trackingId=OwjMMoSapUSDKqdP2GLbuw%3D%3D",
+      "sponsorName": "IQVIA Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Nishant)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4447389379",
+      "title": "Lead Insight Analyst - Marketing & Acquisition",
+      "company": "The Economist",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-05T11:02:53.017Z",
+      "postedLabel": "1 hour ago",
+      "url": "https://uk.linkedin.com/jobs/view/lead-insight-analyst-marketing-acquisition-at-the-economist-4447389379?position=7&pageNum=0&refId=Z5R3KFjSdLbQ4RooEbS0oA%3D%3D&trackingId=cmOLFAfWNBAUJjg3fTBn2A%3D%3D",
+      "sponsorName": "The Economist Newspaper Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Nishant)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4449486154",
+      "title": "Data Engineer",
+      "company": "Trainline",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-05T10:55:48.325Z",
+      "postedLabel": "17 minutes ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-engineer-at-trainline-4449486154?position=1&pageNum=0&refId=GekMDyvRmaCx0BUYMC9Tdg%3D%3D&trackingId=kdmRlhd6d6x2FuM3aUZd7Q%3D%3D",
+      "sponsorName": "Trainline.com Ltd",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4447398251",
+      "title": "Data Scientist",
+      "company": "Gravitas Recruitment Group (Global) Ltd",
+      "location": "Crewe, England, United Kingdom",
+      "postedAt": "2026-08-05T10:39:47.067Z",
+      "postedLabel": "33 minutes ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-gravitas-recruitment-group-global-ltd-4447398251?position=2&pageNum=2&refId=%2BFJPC7rywtkbXRUqQdTQ%2BA%3D%3D&trackingId=s7mHiLkqpd1VjN%2BKkRY0Rw%3D%3D",
+      "sponsorName": "Gravitas Recruitment Group Ltd",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
       "id": "linkedin:4437699357",
       "title": "Data Scientist - Payment Success",
       "company": "Checkout.com",
@@ -27,6 +118,19 @@
       "applyStatus": "unknown"
     },
     {
+      "id": "linkedin:4431295019",
+      "title": "Data Engineer",
+      "company": "Medpace",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-05T10:03:30.261Z",
+      "postedLabel": "2 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-engineer-at-medpace-4431295019?position=10&pageNum=0&refId=c596wrTxfN9TFaWaCt%2BgaQ%3D%3D&trackingId=D9IWUBBNr0dA2dpYLs6IlQ%3D%3D",
+      "sponsorName": "Medpace UK Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Apeksha)",
+      "applyStatus": "unknown"
+    },
+    {
       "id": "linkedin:4447396112",
       "title": "Data Engineer",
       "company": "Gazelle Global",
@@ -48,6 +152,32 @@
       "postedLabel": "1 hour ago",
       "url": "https://uk.linkedin.com/jobs/view/data-engineer-level-ii-%E2%80%93-bi-developer-at-department-for-work-and-pensions-dwp-4448984257?position=5&pageNum=2&refId=4Ni1wx03phWR6f6o0HXcDA%3D%3D&trackingId=%2BU%2F9IdO9qQIUQuD4LBPDzA%3D%3D",
       "sponsorName": "Department for Work and Pensions",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4447386141",
+      "title": "Data Scientist",
+      "company": "LSA Recruit",
+      "location": "Newbury, England, United Kingdom",
+      "postedAt": "2026-08-05T09:12:47.067Z",
+      "postedLabel": "2 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-lsa-recruit-4447386141?position=5&pageNum=2&refId=%2BFJPC7rywtkbXRUqQdTQ%2BA%3D%3D&trackingId=ZQDnSFBqLMdb9W5aNd2nnQ%3D%3D",
+      "sponsorName": "LSA RECRUIT LTD",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4449461511",
+      "title": "Data Scientist",
+      "company": "Corporate Travel AI Network",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-05T08:57:39.180Z",
+      "postedLabel": "2 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-corporate-travel-ai-network-4449461511?position=4&pageNum=0&refId=hVb9LVqCp%2F%2BikZV%2BpV6luQ%3D%3D&trackingId=2A6O1Tl3MZEZIvBP9G%2BIJQ%3D%3D",
+      "sponsorName": "Corporate UK Services Limited",
       "sponsorVerified": true,
       "source": "LinkedIn browser (OM)",
       "applyStatus": "unknown"
@@ -131,6 +261,32 @@
       "applyStatus": "unknown"
     },
     {
+      "id": "linkedin:4428231176",
+      "title": "Data Engineer",
+      "company": "Simpson Associates",
+      "location": "York, England, United Kingdom",
+      "postedAt": "2026-08-04T19:05:25.802Z",
+      "postedLabel": "17 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-engineer-at-simpson-associates-4428231176?position=6&pageNum=2&refId=qKa7CAmUOAtTM7ILWNxr0w%3D%3D&trackingId=svrBrXu6RkCJc13ZkwtKvA%3D%3D",
+      "sponsorName": "Simpson Associates Information Services Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Apeksha)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4446671583",
+      "title": "Data Scientist",
+      "company": "Information Tech Consultants",
+      "location": "Greater London, England, United Kingdom",
+      "postedAt": "2026-08-04T17:12:47.691Z",
+      "postedLabel": "18 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-information-tech-consultants-4446671583?position=9&pageNum=2&refId=91zc4zmrKL5D9KTqI16Aig%3D%3D&trackingId=0Yk54DSKqMSGPIERLkPVpQ%3D%3D",
+      "sponsorName": "INFORMATION TECH CONSULTANTS LTD",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
       "id": "linkedin:4449011075",
       "title": "Data Engineer",
       "company": "Harvey Nash",
@@ -165,6 +321,19 @@
       "postedLabel": "12 hours ago",
       "url": "https://uk.linkedin.com/jobs/view/data-scientist-water-sector-at-stantec-4390260891?position=1&pageNum=2&refId=JTI7yosoV24SYW7qXOUY%2Bg%3D%3D&trackingId=UXjuP6H7zpIILD6bpiPBog%3D%3D",
       "sponsorName": "Stantec UK Ltd",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Apeksha)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4446668188",
+      "title": "Business Intelligence Analyst (Finance)",
+      "company": "Optimal",
+      "location": "United Kingdom",
+      "postedAt": "2026-08-04T16:05:30.549Z",
+      "postedLabel": "21 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/business-intelligence-analyst-finance-at-optimal-4446668188?position=6&pageNum=2&refId=WFiNiW2jjB9Dm5fHBmdaSQ%3D%3D&trackingId=boDhbIDAvH8WSSsngujW1Q%3D%3D",
+      "sponsorName": "OPTIMAL BITS LIMITED",
       "sponsorVerified": true,
       "source": "LinkedIn browser (Apeksha)",
       "applyStatus": "unknown"
