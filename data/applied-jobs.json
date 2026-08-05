@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4429854648",
+      "title": "Data Engineer",
+      "company": "PortSwigger",
+      "location": "Knutsford, England, United Kingdom",
+      "sponsorName": "PortSwigger Ltd",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-portswigger-4429854648?position=10&pageNum=0&refId=BPwXgln8qTozUBbRuuatfw%3D%3D&trackingId=fO1kY8IS9fgJ91Md5Sb7%2Bw%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-portswigger-4429854648?position=10&pageNum=0&refId=BPwXgln8qTozUBbRuuatfw%3D%3D&trackingId=fO1kY8IS9fgJ91Md5Sb7%2Bw%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-05T16:19:43.527Z",
+      "jobDescription": "# Data Engineer\n\n- **Company:** PortSwigger\n- **Location:** Knutsford, England, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-05T16:19:43.527Z\n- **Licensed sponsor:** PortSwigger Ltd\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-engineer-at-portswigger-4429854648?position=10&pageNum=0&refId=BPwXgln8qTozUBbRuuatfw%3D%3D&trackingId=fO1kY8IS9fgJ91Md5Sb7%2Bw%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-engineer-at-portswigger-4429854648?position=10&pageNum=0&refId=BPwXgln8qTozUBbRuuatfw%3D%3D&trackingId=fO1kY8IS9fgJ91Md5Sb7%2Bw%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_engineer_portswigger.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4448012660",
       "title": "Data Engineer",
       "company": "Low Carbon Contracts Company",
