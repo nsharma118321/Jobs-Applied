@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4449631814",
+      "title": "Data Platform Engineer",
+      "company": "PizzaExpress",
+      "location": "Uxbridge, England, United Kingdom",
+      "sponsorName": "PizzaExpress Group Limited",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-platform-engineer-at-pizzaexpress-4449631814?position=9&pageNum=0&refId=QswvWd1RJ7KxxVZLD6yXlg%3D%3D&trackingId=PKsC7JaSBh1JpcHajg0Oyg%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-platform-engineer-at-pizzaexpress-4449631814?position=9&pageNum=0&refId=QswvWd1RJ7KxxVZLD6yXlg%3D%3D&trackingId=PKsC7JaSBh1JpcHajg0Oyg%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-05T15:52:45.422Z",
+      "jobDescription": "# Data Platform Engineer\n\n- **Company:** PizzaExpress\n- **Location:** Uxbridge, England, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-05T15:52:45.422Z\n- **Licensed sponsor:** PizzaExpress Group Limited\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-platform-engineer-at-pizzaexpress-4449631814?position=9&pageNum=0&refId=QswvWd1RJ7KxxVZLD6yXlg%3D%3D&trackingId=PKsC7JaSBh1JpcHajg0Oyg%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-platform-engineer-at-pizzaexpress-4449631814?position=9&pageNum=0&refId=QswvWd1RJ7KxxVZLD6yXlg%3D%3D&trackingId=PKsC7JaSBh1JpcHajg0Oyg%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_platform_engineer_pizzaexpress.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4446844710",
       "title": "UK I Analytics Engineer",
       "company": "Infinite Lambda",
