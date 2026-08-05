@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4448012660",
+      "title": "Data Engineer",
+      "company": "Low Carbon Contracts Company",
+      "location": "London, England, United Kingdom",
+      "sponsorName": "Low Carbon Contracts Company",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-low-carbon-contracts-company-4448012660?position=3&pageNum=0&refId=Cl7KWdWfMqVRjgNuE7uy6g%3D%3D&trackingId=w5ikmYml1H1rdmVJG6yE0Q%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-low-carbon-contracts-company-4448012660?position=3&pageNum=0&refId=Cl7KWdWfMqVRjgNuE7uy6g%3D%3D&trackingId=w5ikmYml1H1rdmVJG6yE0Q%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-05T16:08:59.292Z",
+      "jobDescription": "# Data Engineer\n\n- **Company:** Low Carbon Contracts Company\n- **Location:** London, England, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-05T16:08:59.292Z\n- **Licensed sponsor:** Low Carbon Contracts Company\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-engineer-at-low-carbon-contracts-company-4448012660?position=3&pageNum=0&refId=Cl7KWdWfMqVRjgNuE7uy6g%3D%3D&trackingId=w5ikmYml1H1rdmVJG6yE0Q%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-engineer-at-low-carbon-contracts-company-4448012660?position=3&pageNum=0&refId=Cl7KWdWfMqVRjgNuE7uy6g%3D%3D&trackingId=w5ikmYml1H1rdmVJG6yE0Q%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_engineer_low_carbon_contracts_company.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4428998361",
       "title": "Data Analyst",
       "company": "GlobalData Plc",
