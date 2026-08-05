@@ -1,6 +1,97 @@
 {
   "jobs": [
     {
+      "id": "linkedin:4448573899",
+      "title": "Lead Data Scientist - Marketing",
+      "company": "hackajob",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-04T21:59:07.644Z",
+      "postedLabel": "6 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/lead-data-scientist-marketing-at-hackajob-4448573899?position=4&pageNum=0&refId=Ehznd85PNbsWwdzcGl471g%3D%3D&trackingId=W8HIpgnuCjlGP6hQ%2F%2B%2FGEQ%3D%3D",
+      "sponsorName": "HACKAJOB LTD",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Apeksha)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4449076061",
+      "title": "Safety Insight Analyst with British English language",
+      "company": "Grid Dynamics",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-04T21:30:39.244Z",
+      "postedLabel": "7 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/safety-insight-analyst-with-british-english-language-at-grid-dynamics-4449076061?position=7&pageNum=2&refId=sSzsgU2Q%2FnWTJI0sLexcZg%3D%3D&trackingId=1%2Focb91eOmjtCfKhRvq6AQ%3D%3D",
+      "sponsorName": "GRID DYNAMICS UK LTD",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Apeksha)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4449011075",
+      "title": "Data Engineer",
+      "company": "Harvey Nash",
+      "location": "London Area, United Kingdom",
+      "postedAt": "2026-08-04T16:59:08.067Z",
+      "postedLabel": "11 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-engineer-at-harvey-nash-4449011075?position=8&pageNum=0&refId=Z77TfC2vEOnmV1UnTPoKpg%3D%3D&trackingId=%2FX%2BiYbZREVoJPfeiO07nVA%3D%3D",
+      "sponsorName": "Harvey Nash Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Apeksha)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4396147277",
+      "title": "Future Interest: Analytics Engineer",
+      "company": "Kaluza",
+      "location": "Bristol, England, United Kingdom",
+      "postedAt": "2026-08-04T16:57:59.701Z",
+      "postedLabel": "13 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/future-interest-analytics-engineer-at-kaluza-4396147277?position=6&pageNum=2&refId=jQ1Q0xMabasrXua%2Frpr6cw%3D%3D&trackingId=DiOeUgtWLSWUwBC1oqM68g%3D%3D",
+      "sponsorName": "Kaluza Ltd",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Nishant)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4390260891",
+      "title": "Data Scientist - Water Sector",
+      "company": "Stantec",
+      "location": "Belfast, Northern Ireland, United Kingdom",
+      "postedAt": "2026-08-04T16:30:39.861Z",
+      "postedLabel": "12 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-water-sector-at-stantec-4390260891?position=1&pageNum=2&refId=JTI7yosoV24SYW7qXOUY%2Bg%3D%3D&trackingId=UXjuP6H7zpIILD6bpiPBog%3D%3D",
+      "sponsorName": "Stantec UK Ltd",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Apeksha)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4437294513",
+      "title": "Lead Data Engineer",
+      "company": "Vida Bank",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-04T15:59:08.255Z",
+      "postedLabel": "12 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/lead-data-engineer-at-vida-bank-4437294513?position=1&pageNum=0&refId=durGPf9Nlsbk5CrwCuM8ng%3D%3D&trackingId=dGbIke5ZPMJ5qP1eOhntkw%3D%3D",
+      "sponsorName": "Vida Bank Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Apeksha)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4446648938",
+      "title": "Data Scientist",
+      "company": "Travis Perkins plc",
+      "location": "Coventry, England, United Kingdom",
+      "postedAt": "2026-08-04T15:59:07.040Z",
+      "postedLabel": "12 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-travis-perkins-plc-4446648938?position=10&pageNum=2&refId=ATQUz2qxZjTBPXjZaV09LA%3D%3D&trackingId=SzJnHz08of1QP6YCJfam%2FA%3D%3D",
+      "sponsorName": "Travis Perkins Plc",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Apeksha)",
+      "applyStatus": "unknown"
+    },
+    {
       "id": "linkedin:4431742271",
       "title": "Software / Machine Learning Engineer",
       "company": "Prima",
@@ -76,6 +167,19 @@
       "sponsorName": "Victrex plc",
       "sponsorVerified": true,
       "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4448844988",
+      "title": "Data Engineer (Cybersec Sciences & Analytics)",
+      "company": "Smartedge Solutions",
+      "location": "England, United Kingdom",
+      "postedAt": "2026-08-04T11:59:08.255Z",
+      "postedLabel": "16 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-engineer-cybersec-sciences-analytics-at-smartedge-solutions-4448844988?position=10&pageNum=2&refId=OIq064RFH15AGyW%2BdLy16Q%3D%3D&trackingId=Bd4BoHu3zbvzICwTyc5W4g%3D%3D",
+      "sponsorName": "Smartedge Solutions Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Apeksha)",
       "applyStatus": "unknown"
     },
     {
