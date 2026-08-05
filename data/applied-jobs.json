@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4449011075",
+      "title": "Data Engineer",
+      "company": "Harvey Nash",
+      "location": "London Area, United Kingdom",
+      "sponsorName": "Harvey Nash Limited",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-harvey-nash-4449011075?position=8&pageNum=0&refId=Z77TfC2vEOnmV1UnTPoKpg%3D%3D&trackingId=%2FX%2BiYbZREVoJPfeiO07nVA%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-harvey-nash-4449011075?position=8&pageNum=0&refId=Z77TfC2vEOnmV1UnTPoKpg%3D%3D&trackingId=%2FX%2BiYbZREVoJPfeiO07nVA%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-05T12:05:50.694Z",
+      "jobDescription": "# Data Engineer\n\n- **Company:** Harvey Nash\n- **Location:** London Area, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-05T12:05:50.694Z\n- **Licensed sponsor:** Harvey Nash Limited\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-engineer-at-harvey-nash-4449011075?position=8&pageNum=0&refId=Z77TfC2vEOnmV1UnTPoKpg%3D%3D&trackingId=%2FX%2BiYbZREVoJPfeiO07nVA%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-engineer-at-harvey-nash-4449011075?position=8&pageNum=0&refId=Z77TfC2vEOnmV1UnTPoKpg%3D%3D&trackingId=%2FX%2BiYbZREVoJPfeiO07nVA%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nSQL Data Engineer | 12 Month Contract\n£450pd Inside IR35 | Hybrid - London\n\nHarvey Nash are working with a global Media & Entertainment company who are looking for a mid-level Data Engineer to join & support during an exciting period. You will be working within a blended team of professionals with lots of opportunity to develop your skills and engage with stakeholders at varying levels.\n\nRole requirements:\n- Strong SQL Skills\n- Experience working with data pipelines and integration\n- Exposure to Snowflake or similar data warehouses\n- AWS fundamentals (S3, Lambda, etc.)\n- Tableau, Power BI or similar reporting tools\n- Python experience would be beneficial\n\nRole Details:\n- 12 Month contract - opportunity to extend\n- £400 - 450pd Inside IR35\n- Hybrid - 4 days per week in London HQ\n- 2 Stage interview process\n\nIf you're interested in this position, please apply now!\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_engineer_harvey_nash.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4446671583",
       "title": "Data Scientist",
       "company": "Information Tech Consultants",
