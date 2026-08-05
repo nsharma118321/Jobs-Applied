@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4449455557",
+      "title": "Data Scientist",
+      "company": "Impellam Group",
+      "location": "London Area, United Kingdom",
+      "sponsorName": "Impellam Group",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-impellam-group-4449455557?position=6&pageNum=2&refId=dvhZ50h%2Fkw%2BAjqRN%2BAp5GA%3D%3D&trackingId=Z4IaLO6esOW8kpGM%2F5u8iQ%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-impellam-group-4449455557?position=6&pageNum=2&refId=dvhZ50h%2Fkw%2BAjqRN%2BAp5GA%3D%3D&trackingId=Z4IaLO6esOW8kpGM%2F5u8iQ%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-05T11:31:59.963Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Impellam Group\n- **Location:** London Area, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-05T11:31:59.963Z\n- **Licensed sponsor:** Impellam Group\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-scientist-at-impellam-group-4449455557?position=6&pageNum=2&refId=dvhZ50h%2Fkw%2BAjqRN%2BAp5GA%3D%3D&trackingId=Z4IaLO6esOW8kpGM%2F5u8iQ%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-scientist-at-impellam-group-4449455557?position=6&pageNum=2&refId=dvhZ50h%2Fkw%2BAjqRN%2BAp5GA%3D%3D&trackingId=Z4IaLO6esOW8kpGM%2F5u8iQ%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nHiring: Data Scientist – Mathematical Optimisation (Production-Grade OR)\nUnited Kingdom (Hybrid – Heathrow Airport)\nFull-Time\n\n🌍 We welcome applications from all over The UK.\n\nWe are hiring a Data Scientist with deep expertise in Mathematical Optimisation / Operations Research to design and deploy large-scale decision systems within a complex, high-impact operational environment.\nThis role is ideal for someone who enjoys translating real-world ambiguity into structured mathematical models and taking optimisation solutions from formulation through to production deployment.\n\n🔎 What You’ll Be Working On\nYou will design and implement optimisation engines that directly power operational and commercial decision-making at scale across domains such as:\n- Large-scale scheduling and resource allocation\n- Network and fleet optimisation\n- Disruption management\n- Cost minimisation and efficiency modelling\n- Multi-constraint planning systems\nYour work will move beyond academic modelling — these systems will be deployed into live production environments and embedded into critical workflows.\n\n🧠 Core Responsibilities\n- Formulate and solve complex optimisation problems (LP, MILP, network flow, scheduling, heuristics)\n- Build solver-based models using tools such as Gurobi, CPLEX, OR-Tools, Pyomo\n- Translate business problems into structured mathematical formulations\n- Develop scalable, production-ready optimisation systems in Python\n- Collaborate with Data Engineers to productionise solutions via CI/CD and cloud pipelines\n- Ensure models are robust, explainable, and operationally reliable\n\n✅ What We’re Looking For\n- Strong background in Operations Research / Mathematical Optimisation\n- Hands-on experience with LP/MILP modelling in production environments\n- Experience with commercial or open-source solvers (Gurobi, CPLEX, OR-Tools, etc.)\n- Strong Python development skills\n- Experience deploying optimisation systems into live operational environments\n- Ability to communicate complex modelling concepts to non-technical stakeholders\n\nNice to Have:\n- Experience in aviation, transportation, logistics, or large-scale operational systems\n- Knowledge of decomposition techniques (Benders, Column Generation)\n- Exposure to cloud platforms (Azure, AWS, GCP)\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_impellam_group.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4447384035",
       "title": "Machine Learning Engineer - Start-up - up to £180k",
       "company": "Oliver Bernard",
