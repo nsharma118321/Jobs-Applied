@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4448069166",
+      "title": "Data Analyst",
+      "company": "mthree",
+      "location": "Sheffield, England, United Kingdom",
+      "sponsorName": "Mthree Corporation Consulting Ltd",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-analyst-at-mthree-4448069166?position=1&pageNum=0&refId=TCPmj1TddEIJLW18y90dEA%3D%3D&trackingId=QI5jv84CM6kQDvcWnrKcXQ%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-analyst-at-mthree-4448069166?position=1&pageNum=0&refId=TCPmj1TddEIJLW18y90dEA%3D%3D&trackingId=QI5jv84CM6kQDvcWnrKcXQ%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-06T11:02:36.572Z",
+      "jobDescription": "# Data Analyst\n\n- **Company:** mthree\n- **Location:** Sheffield, England, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-06T11:02:36.572Z\n- **Licensed sponsor:** Mthree Corporation Consulting Ltd\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-analyst-at-mthree-4448069166?position=1&pageNum=0&refId=TCPmj1TddEIJLW18y90dEA%3D%3D&trackingId=QI5jv84CM6kQDvcWnrKcXQ%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-analyst-at-mthree-4448069166?position=1&pageNum=0&refId=TCPmj1TddEIJLW18y90dEA%3D%3D&trackingId=QI5jv84CM6kQDvcWnrKcXQ%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_analyst_mthree.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4449961306",
       "title": "Data Engineer",
       "company": "Travel Counsellors Australia",
