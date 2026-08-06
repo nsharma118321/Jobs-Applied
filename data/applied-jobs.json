@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4450258573",
+      "title": "Data Scientist",
+      "company": "PhysicsX",
+      "location": "City Of London, England, United Kingdom",
+      "sponsorName": "PhysicsX Limited",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-physicsx-4450258573?position=6&pageNum=2&refId=%2BDIHV1pb3C60HHoMrB7Mlw%3D%3D&trackingId=nML1OXKixXTuLytRoMiWQQ%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-physicsx-4450258573?position=6&pageNum=2&refId=%2BDIHV1pb3C60HHoMrB7Mlw%3D%3D&trackingId=nML1OXKixXTuLytRoMiWQQ%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-06T17:51:41.745Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** PhysicsX\n- **Location:** City Of London, England, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-06T17:51:41.745Z\n- **Licensed sponsor:** PhysicsX Limited\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-scientist-at-physicsx-4450258573?position=6&pageNum=2&refId=%2BDIHV1pb3C60HHoMrB7Mlw%3D%3D&trackingId=nML1OXKixXTuLytRoMiWQQ%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-scientist-at-physicsx-4450258573?position=6&pageNum=2&refId=%2BDIHV1pb3C60HHoMrB7Mlw%3D%3D&trackingId=nML1OXKixXTuLytRoMiWQQ%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_physicsx.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4449735837",
       "title": "Analytics Engineer",
       "company": "EcoOnline",
