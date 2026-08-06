@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4449769052",
+      "title": "Data Scientist",
+      "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
+      "location": "Norwich, England, United Kingdom",
+      "sponsorName": "Halian Limited",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-halian-managed-services-recruitment-agency-contract-staffing-4449769052?position=5&pageNum=0&refId=6CJKJ4tHXaPPhwi1Fe2bpg%3D%3D&trackingId=ipqzXYYpZmhTqrsTNXL7Bw%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-halian-managed-services-recruitment-agency-contract-staffing-4449769052?position=5&pageNum=0&refId=6CJKJ4tHXaPPhwi1Fe2bpg%3D%3D&trackingId=ipqzXYYpZmhTqrsTNXL7Bw%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-06T17:35:45.024Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Halian | Managed Services, Recruitment Agency & Contract Staffing\n- **Location:** Norwich, England, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-06T17:35:45.024Z\n- **Licensed sponsor:** Halian Limited\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-scientist-at-halian-managed-services-recruitment-agency-contract-staffing-4449769052?position=5&pageNum=0&refId=6CJKJ4tHXaPPhwi1Fe2bpg%3D%3D&trackingId=ipqzXYYpZmhTqrsTNXL7Bw%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-scientist-at-halian-managed-services-recruitment-agency-contract-staffing-4449769052?position=5&pageNum=0&refId=6CJKJ4tHXaPPhwi1Fe2bpg%3D%3D&trackingId=ipqzXYYpZmhTqrsTNXL7Bw%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_halian_managed_services_recruitment_agency_contract_staffing.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4448437066",
       "title": "Data Engineer",
       "company": "Sparta Global",
