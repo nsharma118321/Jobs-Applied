@@ -1,6 +1,58 @@
 {
   "jobs": [
     {
+      "id": "linkedin:4448799875",
+      "title": "Data Analyst",
+      "company": "ScottishPower",
+      "location": "Glasgow, Scotland, United Kingdom",
+      "postedAt": "2026-08-07T16:40:47.076Z",
+      "postedLabel": "14 minutes ago",
+      "url": "https://uk.linkedin.com/jobs/view/data-analyst-at-scottishpower-4448799875?position=10&pageNum=2&refId=q6aod89MnaHBX2uXwfy75A%3D%3D&trackingId=lSHPcepDczh%2BZnjK2VfBBA%3D%3D",
+      "sponsorName": "ScottishPower Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4391897025",
+      "title": "Forward Deployed AI Scientist, United Kingdom - BCG X",
+      "company": "Boston Consulting Group (BCG)",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-07T16:38:47.033Z",
+      "postedLabel": "16 minutes ago",
+      "url": "https://uk.linkedin.com/jobs/view/forward-deployed-ai-scientist-united-kingdom-bcg-x-at-boston-consulting-group-bcg-4391897025?position=6&pageNum=0&refId=D6m6ifxMFEEq0aZUrFR1Hw%3D%3D&trackingId=7nI7BFwPI5Z40%2Bz%2Fgp0sKA%3D%3D",
+      "sponsorName": "Boston Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4448791952",
+      "title": "Security Analytics Engineer",
+      "company": "Sony Interactive Entertainment",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-07T16:34:48.336Z",
+      "postedLabel": "20 minutes ago",
+      "url": "https://uk.linkedin.com/jobs/view/security-analytics-engineer-at-sony-interactive-entertainment-4448791952?position=1&pageNum=0&refId=EDkPrUfjMwXWBhSJxycBNA%3D%3D&trackingId=tIIEn5nOanTaAyXGBWQnWA%3D%3D",
+      "sponsorName": "Sony Interactive Entertainment Europe Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4448787826",
+      "title": "Lead Data Analyst - Investment Data Strategy",
+      "company": "T. Rowe Price",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-07T15:54:47.106Z",
+      "postedLabel": "1 hour ago",
+      "url": "https://uk.linkedin.com/jobs/view/lead-data-analyst-investment-data-strategy-at-t-rowe-price-4448787826?position=1&pageNum=0&refId=5DWnEsHQ5cbcw2AELsSx5g%3D%3D&trackingId=hPw1uslgYlGm00vloKCXFA%3D%3D",
+      "sponsorName": "T Rowe Price  International Ltd",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
       "id": "linkedin:4450730068",
       "title": "Data Scientist",
       "company": "Anaplan",
@@ -229,6 +281,19 @@
       "postedAt": "2026-08-07T02:16:16.366Z",
       "postedLabel": "4 hours ago",
       "url": "https://uk.linkedin.com/jobs/view/lead-data-scientist-at-gymshark-4448702139?position=2&pageNum=0&refId=3v4GxBAweEmxvvRYjC2u4A%3D%3D&trackingId=75gP2s3Csb%2BFBiJ8FD1Q6w%3D%3D",
+      "sponsorName": "Gymshark Ltd",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4448492271",
+      "title": "Lead Data Engineer",
+      "company": "Gymshark",
+      "location": "Solihull, England, United Kingdom",
+      "postedAt": "2026-08-07T01:54:47.752Z",
+      "postedLabel": "15 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/lead-data-engineer-at-gymshark-4448492271?position=10&pageNum=0&refId=Uqd9Z8cB4j767yCXZMsXYA%3D%3D&trackingId=oYzD3XhN3dS2IPjVKQGMYA%3D%3D",
       "sponsorName": "Gymshark Ltd",
       "sponsorVerified": true,
       "source": "LinkedIn browser (OM)",
