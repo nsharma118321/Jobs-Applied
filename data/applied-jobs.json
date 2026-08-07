@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4448887452",
+      "title": "Data Scientist",
+      "company": "Zempler Bank",
+      "location": "London Area, United Kingdom",
+      "sponsorName": "Zempler Bank Limited",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-zempler-bank-4448887452?position=9&pageNum=0&refId=9tMRfTjRNL4Kt8XVdUGSIw%3D%3D&trackingId=J4zUbkEqcmQyb7BrWF%2Bwaw%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-at-zempler-bank-4448887452?position=9&pageNum=0&refId=9tMRfTjRNL4Kt8XVdUGSIw%3D%3D&trackingId=J4zUbkEqcmQyb7BrWF%2Bwaw%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-07T16:28:58.281Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Zempler Bank\n- **Location:** London Area, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-07T16:28:58.281Z\n- **Licensed sponsor:** Zempler Bank Limited\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-scientist-at-zempler-bank-4448887452?position=9&pageNum=0&refId=9tMRfTjRNL4Kt8XVdUGSIw%3D%3D&trackingId=J4zUbkEqcmQyb7BrWF%2Bwaw%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-scientist-at-zempler-bank-4448887452?position=9&pageNum=0&refId=9tMRfTjRNL4Kt8XVdUGSIw%3D%3D&trackingId=J4zUbkEqcmQyb7BrWF%2Bwaw%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_zempler_bank.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4447389379",
       "title": "Lead Insight Analyst - Marketing & Acquisition",
       "company": "The Economist",
