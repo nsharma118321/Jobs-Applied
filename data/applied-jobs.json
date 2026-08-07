@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4441350549",
+      "title": "Machine Learning Engineer - Search and Recommendation",
+      "company": "JD.COM",
+      "location": "London Area, United Kingdom",
+      "sponsorName": "JD.COM International UK Ltd",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-search-and-recommendation-at-jd-com-4441350549?position=6&pageNum=0&refId=ag7CAnnFYGbTKIMSMebIMw%3D%3D&trackingId=GRO00ZS%2FELrf6hU9Aq%2F35w%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-search-and-recommendation-at-jd-com-4441350549?position=6&pageNum=0&refId=ag7CAnnFYGbTKIMSMebIMw%3D%3D&trackingId=GRO00ZS%2FELrf6hU9Aq%2F35w%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-07T16:07:37.859Z",
+      "jobDescription": "# Machine Learning Engineer - Search and Recommendation\n\n- **Company:** JD.COM\n- **Location:** London Area, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-07T16:07:37.859Z\n- **Licensed sponsor:** JD.COM International UK Ltd\n- **Original posting:** https://uk.linkedin.com/jobs/view/machine-learning-engineer-search-and-recommendation-at-jd-com-4441350549?position=6&pageNum=0&refId=ag7CAnnFYGbTKIMSMebIMw%3D%3D&trackingId=GRO00ZS%2FELrf6hU9Aq%2F35w%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/machine-learning-engineer-search-and-recommendation-at-jd-com-4441350549?position=6&pageNum=0&refId=ag7CAnnFYGbTKIMSMebIMw%3D%3D&trackingId=GRO00ZS%2FELrf6hU9Aq%2F35w%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/machine_learning_engineer_search_and_recommendation_jd_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4413104393",
       "title": "Analytics Engineer - Crypto and Payments",
       "company": "MoonPay",
