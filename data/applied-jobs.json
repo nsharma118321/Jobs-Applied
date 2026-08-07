@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4450257001",
+      "title": "Data Analyst (Power BI)",
+      "company": "Cooper Parry",
+      "location": "Derby, England, United Kingdom",
+      "sponsorName": "Cooper Parry",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-analyst-power-bi-at-cooper-parry-4450257001?position=6&pageNum=5&refId=UUoBlMLeop2vpjtyTUUhQg%3D%3D&trackingId=iSQzQOys27SuiXxXsAC4lw%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-analyst-power-bi-at-cooper-parry-4450257001?position=6&pageNum=5&refId=UUoBlMLeop2vpjtyTUUhQg%3D%3D&trackingId=iSQzQOys27SuiXxXsAC4lw%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-07T13:34:56.700Z",
+      "jobDescription": "# Data Analyst (Power BI)\n\n- **Company:** Cooper Parry\n- **Location:** Derby, England, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-07T13:34:56.700Z\n- **Licensed sponsor:** Cooper Parry\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-analyst-power-bi-at-cooper-parry-4450257001?position=6&pageNum=5&refId=UUoBlMLeop2vpjtyTUUhQg%3D%3D&trackingId=iSQzQOys27SuiXxXsAC4lw%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-analyst-power-bi-at-cooper-parry-4450257001?position=6&pageNum=5&refId=UUoBlMLeop2vpjtyTUUhQg%3D%3D&trackingId=iSQzQOys27SuiXxXsAC4lw%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_analyst_power_bi_cooper_parry.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4450258848",
       "title": "Lead Data Engineer",
       "company": "Sonovate",
