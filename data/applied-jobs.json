@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4450258848",
+      "title": "Lead Data Engineer",
+      "company": "Sonovate",
+      "location": "Cardiff, Wales, United Kingdom",
+      "sponsorName": "Sonovate Limited",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/lead-data-engineer-at-sonovate-4450258848?position=4&pageNum=7&refId=RLD2VBVF%2BQdiemM24F5v8w%3D%3D&trackingId=imFTA%2FjYQCBTWZ%2FahKpgDg%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/lead-data-engineer-at-sonovate-4450258848?position=4&pageNum=7&refId=RLD2VBVF%2BQdiemM24F5v8w%3D%3D&trackingId=imFTA%2FjYQCBTWZ%2FahKpgDg%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-07T13:25:05.174Z",
+      "jobDescription": "# Lead Data Engineer\n\n- **Company:** Sonovate\n- **Location:** Cardiff, Wales, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-07T13:25:05.174Z\n- **Licensed sponsor:** Sonovate Limited\n- **Original posting:** https://uk.linkedin.com/jobs/view/lead-data-engineer-at-sonovate-4450258848?position=4&pageNum=7&refId=RLD2VBVF%2BQdiemM24F5v8w%3D%3D&trackingId=imFTA%2FjYQCBTWZ%2FahKpgDg%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/lead-data-engineer-at-sonovate-4450258848?position=4&pageNum=7&refId=RLD2VBVF%2BQdiemM24F5v8w%3D%3D&trackingId=imFTA%2FjYQCBTWZ%2FahKpgDg%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/lead_data_engineer_sonovate.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4449155122",
       "title": "Machine Learning Scientist II",
       "company": "Expedia Group",
