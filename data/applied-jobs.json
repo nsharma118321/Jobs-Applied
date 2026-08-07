@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4449395446",
+      "title": "Data Scientist, Growth",
+      "company": "Lovable",
+      "location": "London Area, United Kingdom",
+      "sponsorName": "Lovable Labs UK Limited",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-growth-at-lovable-4449395446?position=1&pageNum=7&refId=1GNGQV3HeXeuzKqEQvRz3Q%3D%3D&trackingId=ZB3OowSl5BuPNA1X2S9%2F%2BA%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-scientist-growth-at-lovable-4449395446?position=1&pageNum=7&refId=1GNGQV3HeXeuzKqEQvRz3Q%3D%3D&trackingId=ZB3OowSl5BuPNA1X2S9%2F%2BA%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-07T10:54:46.840Z",
+      "jobDescription": "# Data Scientist, Growth\n\n- **Company:** Lovable\n- **Location:** London Area, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-07T10:54:46.840Z\n- **Licensed sponsor:** Lovable Labs UK Limited\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-scientist-growth-at-lovable-4449395446?position=1&pageNum=7&refId=1GNGQV3HeXeuzKqEQvRz3Q%3D%3D&trackingId=ZB3OowSl5BuPNA1X2S9%2F%2BA%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-scientist-growth-at-lovable-4449395446?position=1&pageNum=7&refId=1GNGQV3HeXeuzKqEQvRz3Q%3D%3D&trackingId=ZB3OowSl5BuPNA1X2S9%2F%2BA%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_scientist_growth_lovable.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4449798893",
       "title": "Data Scientist - Applied AI (Go-To-Market) 12 Months Fixed Term",
       "company": "Trustpilot Italia",
