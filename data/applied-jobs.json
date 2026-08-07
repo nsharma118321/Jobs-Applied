@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4450312058",
+      "title": "Data Engineer",
+      "company": "Tata Consultancy Services",
+      "location": "London Area, United Kingdom",
+      "sponsorName": "Tata Consultancy Services",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-tata-consultancy-services-4450312058?position=9&pageNum=0&refId=ewfMiUiWIG6mXZu9Cpe5zA%3D%3D&trackingId=LT6o6WUhDJo9pwCZlij0vw%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-tata-consultancy-services-4450312058?position=9&pageNum=0&refId=ewfMiUiWIG6mXZu9Cpe5zA%3D%3D&trackingId=LT6o6WUhDJo9pwCZlij0vw%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-07T14:53:01.639Z",
+      "jobDescription": "# Data Engineer\n\n- **Company:** Tata Consultancy Services\n- **Location:** London Area, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-07T14:53:01.639Z\n- **Licensed sponsor:** Tata Consultancy Services\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-engineer-at-tata-consultancy-services-4450312058?position=9&pageNum=0&refId=ewfMiUiWIG6mXZu9Cpe5zA%3D%3D&trackingId=LT6o6WUhDJo9pwCZlij0vw%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-engineer-at-tata-consultancy-services-4450312058?position=9&pageNum=0&refId=ewfMiUiWIG6mXZu9Cpe5zA%3D%3D&trackingId=LT6o6WUhDJo9pwCZlij0vw%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_engineer_tata_consultancy_services.md",
+      "syncStatus": "synced"
+    },
+    {
+      "jobId": "shared:linkedin:4445211256",
+      "title": "Lead Data Scientist",
+      "company": "Allianz UK",
+      "location": "London, England, United Kingdom",
+      "sponsorName": "Allianz Global Corporate & Specialty SE",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/lead-data-scientist-at-allianz-uk-4445211256?position=1&pageNum=0&refId=h6qEGY6ufisUfhvp20Ziwg%3D%3D&trackingId=sSU0N9pcdfoN4uISum7%2Biw%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/lead-data-scientist-at-allianz-uk-4445211256?position=1&pageNum=0&refId=h6qEGY6ufisUfhvp20Ziwg%3D%3D&trackingId=sSU0N9pcdfoN4uISum7%2Biw%3D%3D",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-07T14:29:35.046Z",
+      "jobDescription": "# Lead Data Scientist\n\n- **Company:** Allianz UK\n- **Location:** London, England, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-07T14:29:35.046Z\n- **Licensed sponsor:** Allianz Global Corporate & Specialty SE\n- **Original posting:** https://uk.linkedin.com/jobs/view/lead-data-scientist-at-allianz-uk-4445211256?position=1&pageNum=0&refId=h6qEGY6ufisUfhvp20Ziwg%3D%3D&trackingId=sSU0N9pcdfoN4uISum7%2Biw%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/lead-data-scientist-at-allianz-uk-4445211256?position=1&pageNum=0&refId=h6qEGY6ufisUfhvp20Ziwg%3D%3D&trackingId=sSU0N9pcdfoN4uISum7%2Biw%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/lead_data_scientist_allianz_uk.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4449980183",
       "title": "Digital and Insights Analyst",
       "company": "National Grid",
