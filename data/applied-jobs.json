@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4449747330",
+      "title": "Data Engineer",
+      "company": "Station",
+      "location": "United Kingdom",
+      "sponsorName": "M2H Hospitality Ltd T/A Station 31",
+      "originalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-station-4449747330?position=1&pageNum=2&refId=7JdB0JzqJHJR%2FvrWHQVziA%3D%3D&trackingId=ruL%2FgIin8fm%2FZDukTcR%2BPA%3D%3D",
+      "portalUrl": "https://uk.linkedin.com/jobs/view/data-engineer-at-station-4449747330?position=1&pageNum=2&refId=7JdB0JzqJHJR%2FvrWHQVziA%3D%3D&trackingId=ruL%2FgIin8fm%2FZDukTcR%2BPA%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-07T16:35:54.957Z",
+      "jobDescription": "# Data Engineer\n\n- **Company:** Station\n- **Location:** United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-07T16:35:54.957Z\n- **Licensed sponsor:** M2H Hospitality Ltd T/A Station 31\n- **Original posting:** https://uk.linkedin.com/jobs/view/data-engineer-at-station-4449747330?position=1&pageNum=2&refId=7JdB0JzqJHJR%2FvrWHQVziA%3D%3D&trackingId=ruL%2FgIin8fm%2FZDukTcR%2BPA%3D%3D\n- **Application portal:** https://uk.linkedin.com/jobs/view/data-engineer-at-station-4449747330?position=1&pageNum=2&refId=7JdB0JzqJHJR%2FvrWHQVziA%3D%3D&trackingId=ruL%2FgIin8fm%2FZDukTcR%2BPA%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nData Engineer\n\nLocation: Fully Remote (UK)\nSalary: £45,000 - £55,000 + Benefits\nContract: Permanent, Full-Time\n\nWe're working with an organisation looking to strengthen its data capability with the addition of a Data Engineer.\n\nThis role offers the opportunity to work across a variety of data initiatives, supporting the development and optimisation of modern data platforms and pipelines that enable reporting, analytics, and business decision-making. You'll collaborate with both technical and non-technical stakeholders while contributing to the delivery of reliable, scalable data solutions.\n\nKey Responsibilities\n- Develop and maintain data pipelines and data integration processes\n- Support the delivery of cloud-based data solutions\n- Assist with data modelling, transformation, and optimisation activities\n- Work with stakeholders to understand data requirements and business needs\n- Monitor and improve data quality, reliability, and performance\n- Contribute to data platform enhancements and continuous improvement initiatives\n- Support reporting, analytics, and wider data-driven projects\n\nRequired Experience\n- 2-3 years of experience in a Data Engineer or similar data-focused role\n- Strong SQL skills and experience with Python\n- Experience building and maintaining ETL/ELT pipelines\n- Exposure to cloud technologies such as Azure, AWS, or GCP\n- Understanding of data warehousing and modern data platforms\n- Experience working with structured and unstructured datasets\n- Strong analytical and problem-solving skills\n- Ability to communicate effectively with both technical and business stakeholders\n\nDesirable Experience\n- Exposure to tools such as Databricks, Snowflake, Azure Data Factory, Fabric, Airflow, or dbt\n- Experience using Git or similar version control tools\n- Knowledge of CI/CD practices\n- Familiarity with BI and reporting tools such as Power BI or Tableau\n\nWhat's on Offer\n- Fully remote working\n- Competitive salary and benefits package\n- Exposure to modern cloud and data technologies\n- Ongoing learning and development opportunities\n- Supportive and collaborative working environment\n- Clear opportunities for career progression\n\nThis is an excellent opportunity for a Data Engineer looking to further develop their skills while working on a range of impactful data projects within a growing and forward-thinking team.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_engineer_station.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4436868315",
       "title": "IS Data and Reporting Analyst",
       "company": "Trelleborg Sealing Solutions",
