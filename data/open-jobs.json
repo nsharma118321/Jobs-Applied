@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "top200:211b5f2a2292047069c2464017e49c1e",
+      "title": "Data Scientist - Markets Sales Technology",
+      "company": "Barclays",
+      "location": "Category Country Region / State City Work Pattern Business Unit Job Type Clear All Data Scientist Gurugram, India 04 Aug Data Scientist Gurugram, India 05 Aug Compliance Data Scientist New York, United States 28 Jun Data Scientist Lead London, United Kingdom;",
+      "postedAt": "2026-08-08T22:19:11.570Z",
+      "postedLabel": "Verified now",
+      "url": "https://search.jobs.barclays/job/mumbai/data-scientist-markets-sales-technology/13015/90943097168",
+      "sponsorName": "Barclays Bank PLC",
+      "sponsorVerified": true,
+      "source": "Top 200 · Barclays (Nishant)",
+      "applyStatus": "good"
+    },
+    {
+      "id": "top200:7f8b321fdf1977a633495442d71ae050",
+      "title": "Data Scientist - MLOps",
+      "company": "Barclays",
+      "location": "Category Country Region / State City Work Pattern Business Unit Job Type Clear All Data Scientist Gurugram, India 04 Aug Data Scientist Gurugram, India 05 Aug Compliance Data Scientist New York, United States 28 Jun Data Scientist Lead London, United Kingdom;",
+      "postedAt": "2026-08-08T22:19:11.381Z",
+      "postedLabel": "Verified now",
+      "url": "https://search.jobs.barclays/job/pune/data-scientist-mlops/13015/95902777408",
+      "sponsorName": "Barclays Bank PLC",
+      "sponsorVerified": true,
+      "source": "Top 200 · Barclays (Nishant)",
+      "applyStatus": "good"
+    },
+    {
       "id": "linkedin:4450926285",
       "title": "Data Scientist, Early Career (UK)",
       "company": "Jobright.ai",
@@ -165,6 +191,32 @@
       "postedLabel": "5 days ago",
       "url": "https://jobs.smartrecruiters.com/Wise/744000141283476-lead-data-scientist-marketing",
       "sponsorName": "Wise Payments Limited",
+      "sponsorVerified": true,
+      "source": "Company careers",
+      "applyStatus": "good"
+    },
+    {
+      "id": "smartrecruiters:GenomicsEngland:744000141281890",
+      "title": "Genomic Data Scientist - (we have office locations in Cambridge, Leeds & London)",
+      "company": "Genomics England",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-03T14:34:17.823Z",
+      "postedLabel": "5 days ago",
+      "url": "https://jobs.smartrecruiters.com/GenomicsEngland/744000141281890-genomic-data-scientist-we-have-office-locations-in-cambridge-leeds-london",
+      "sponsorName": "Genomics England Limited",
+      "sponsorVerified": true,
+      "source": "Company careers",
+      "applyStatus": "good"
+    },
+    {
+      "id": "ashby:23f8284a-22aa-400f-afa3-87093a15ab36",
+      "title": "Commercial Data Scientist",
+      "company": "Checkout.com",
+      "location": "London",
+      "postedAt": "2026-07-30T13:21:58.280Z",
+      "postedLabel": "9 days ago",
+      "url": "https://jobs.ashbyhq.com/checkout.com/23f8284a-22aa-400f-afa3-87093a15ab36",
+      "sponsorName": "CHECKOUT LTD",
       "sponsorVerified": true,
       "source": "Company careers",
       "applyStatus": "good"
