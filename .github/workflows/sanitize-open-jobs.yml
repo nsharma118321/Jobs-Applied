@@ -1,0 +1,36 @@
+name: Sanitize Open Roles
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/open-jobs.json'
+      - 'data/applied-jobs.json'
+      - 'scripts/sanitize_open_jobs.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sanitize:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Filter roles and remove duplicates
+        run: python scripts/sanitize_open_jobs.py
+      - name: Commit sanitized Open Roles
+        run: |
+          if git diff --quiet -- data/open-jobs.json; then
+            echo "No Open Roles changes required"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/open-jobs.json
+          git commit -m "Sanitize Open Roles [skip ci]"
+          git push
