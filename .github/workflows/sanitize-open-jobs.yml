@@ -7,6 +7,7 @@ on:
       - 'data/open-jobs.json'
       - 'data/applied-jobs.json'
       - 'scripts/sanitize_open_jobs.py'
+      - '.github/workflows/sanitize-open-jobs.yml'
   workflow_dispatch:
 
 permissions:
