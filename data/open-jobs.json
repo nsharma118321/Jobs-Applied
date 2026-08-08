@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "id": "top200:8a2fa2bf8ba6e704819a310eeea9aa5c",
+      "title": "Data Scientist",
+      "company": "EDF Energy",
+      "location": "birmingham",
+      "postedAt": "2026-08-08T17:08:26.268Z",
+      "postedLabel": "Verified now",
+      "url": "https://careers.edfenergy.com/job/data-scientist-in-flexible-jid-2019",
+      "sponsorName": "EDF Energy Ltd",
+      "sponsorVerified": true,
+      "source": "Top 200 · EDF Energy (Nishant)",
+      "applyStatus": "good"
+    },
+    {
       "id": "linkedin:4450908531",
       "title": "Lead Data Scientist - Personalisation/CRM",
       "company": "hackajob",
