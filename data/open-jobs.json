@@ -14,6 +14,19 @@
       "applyStatus": "unknown"
     },
     {
+      "id": "linkedin:4450353266",
+      "title": "Lead Data Scientist - KYC & Onboarding",
+      "company": "Wise",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-07T16:16:50.365Z",
+      "postedLabel": "22 hours ago",
+      "url": "https://uk.linkedin.com/jobs/view/lead-data-scientist-kyc-onboarding-at-wise-4450353266?position=6&pageNum=0&refId=EWFrRRBlmP3KrtCYnleqtw%3D%3D&trackingId=uOcZSZ7PmGeYECJjxPJ0DA%3D%3D",
+      "sponsorName": "Wise Payments Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Nishant)",
+      "applyStatus": "unknown"
+    },
+    {
       "id": "linkedin:4445214108",
       "title": "Lead Data Scientist",
       "company": "Allianz UK",
@@ -38,6 +51,45 @@
       "sponsorVerified": true,
       "source": "LinkedIn browser (OM)",
       "applyStatus": "unknown"
+    },
+    {
+      "id": "smartrecruiters:Wise:744000142091640",
+      "title": "Lead Data Scientist - KYC & Onboarding",
+      "company": "Wise",
+      "location": "London, United Kingdom",
+      "postedAt": "2026-08-07T09:46:51.746Z",
+      "postedLabel": "1 day ago",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000142091640-lead-data-scientist-kyc-onboarding",
+      "sponsorName": "Wise Payments Limited",
+      "sponsorVerified": true,
+      "source": "Company careers",
+      "applyStatus": "good"
+    },
+    {
+      "id": "smartrecruiters:Wise:744000141954691",
+      "title": "Lead Data Scientist - Liquidity",
+      "company": "Wise",
+      "location": "London, United Kingdom",
+      "postedAt": "2026-08-06T15:51:42.655Z",
+      "postedLabel": "1 day ago",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000141954691-lead-data-scientist-liquidity",
+      "sponsorName": "Wise Payments Limited",
+      "sponsorVerified": true,
+      "source": "Company careers",
+      "applyStatus": "good"
+    },
+    {
+      "id": "smartrecruiters:Wise:744000141948079",
+      "title": "Lead Data Scientist - Personalisation/CRM",
+      "company": "Wise",
+      "location": "London, United Kingdom",
+      "postedAt": "2026-08-06T15:16:45.103Z",
+      "postedLabel": "1 day ago",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000141948079-lead-data-scientist-personalisation-crm",
+      "sponsorName": "Wise Payments Limited",
+      "sponsorVerified": true,
+      "source": "Company careers",
+      "applyStatus": "good"
     },
     {
       "id": "linkedin:4449679219",
@@ -103,6 +155,19 @@
       "sponsorVerified": true,
       "source": "LinkedIn browser (Apeksha)",
       "applyStatus": "unknown"
+    },
+    {
+      "id": "smartrecruiters:Wise:744000141283476",
+      "title": "Lead Data Scientist - Marketing",
+      "company": "Wise",
+      "location": "London, United Kingdom",
+      "postedAt": "2026-08-03T14:51:57.624Z",
+      "postedLabel": "4 days ago",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000141283476-lead-data-scientist-marketing",
+      "sponsorName": "Wise Payments Limited",
+      "sponsorVerified": true,
+      "source": "Company careers",
+      "applyStatus": "good"
     },
     {
       "id": "linkedin:4447556685",
@@ -188,7 +253,7 @@
       "company": "Checkout.com",
       "location": "London",
       "postedAt": "2026-07-14T14:24:47.438Z",
-      "postedLabel": "24 days ago",
+      "postedLabel": "25 days ago",
       "url": "https://jobs.ashbyhq.com/checkout.com/495d1958-dd2b-43b9-b08d-57f123af7fa7",
       "sponsorName": "CHECKOUT LTD",
       "sponsorVerified": true,
