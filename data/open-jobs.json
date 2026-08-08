@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "linkedin:4450908531",
+      "title": "Lead Data Scientist - Personalisation/CRM",
+      "company": "hackajob",
+      "location": "London, England, United Kingdom",
+      "postedAt": "2026-08-08T15:28:39.959Z",
+      "postedLabel": "30 minutes ago",
+      "url": "https://www.linkedin.com/jobs/view/4450908531/",
+      "sponsorName": "HACKAJOB LTD",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Nishant)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4450913227",
+      "title": "Lead Data Scientist",
+      "company": "hackajob",
+      "location": "Leicester, England, United Kingdom",
+      "postedAt": "2026-08-08T15:28:39.404Z",
+      "postedLabel": "30 minutes ago",
+      "url": "https://www.linkedin.com/jobs/view/4450913227/",
+      "sponsorName": "HACKAJOB LTD",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (Nishant)",
+      "applyStatus": "unknown"
+    },
+    {
       "id": "linkedin:4395865649",
       "title": "Data Scientist",
       "company": "Gamma",
@@ -71,7 +97,7 @@
       "company": "Wise",
       "location": "London, United Kingdom",
       "postedAt": "2026-08-06T15:51:42.655Z",
-      "postedLabel": "1 day ago",
+      "postedLabel": "2 days ago",
       "url": "https://jobs.smartrecruiters.com/Wise/744000141954691-lead-data-scientist-liquidity",
       "sponsorName": "Wise Payments Limited",
       "sponsorVerified": true,
