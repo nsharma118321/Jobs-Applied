@@ -181,6 +181,32 @@
       "sponsorVerified": true,
       "source": "LinkedIn",
       "applyStatus": "unknown"
+    },
+    {
+      "id": "ashby:495d1958-dd2b-43b9-b08d-57f123af7fa7",
+      "title": "Data Scientist",
+      "company": "Checkout.com",
+      "location": "London",
+      "postedAt": "2026-07-14T14:24:47.438Z",
+      "postedLabel": "24 days ago",
+      "url": "https://jobs.ashbyhq.com/checkout.com/495d1958-dd2b-43b9-b08d-57f123af7fa7",
+      "sponsorName": "CHECKOUT LTD",
+      "sponsorVerified": true,
+      "source": "Company careers",
+      "applyStatus": "good"
+    },
+    {
+      "id": "ashby:04739560-ba62-4c17-9c48-12444f0b40e7",
+      "title": "Data Scientist - Payment Success",
+      "company": "Checkout.com",
+      "location": "London",
+      "postedAt": "2026-07-14T10:10:31.153Z",
+      "postedLabel": "25 days ago",
+      "url": "https://jobs.ashbyhq.com/checkout.com/04739560-ba62-4c17-9c48-12444f0b40e7",
+      "sponsorName": "CHECKOUT LTD",
+      "sponsorVerified": true,
+      "source": "Company careers",
+      "applyStatus": "good"
     }
   ]
 }
