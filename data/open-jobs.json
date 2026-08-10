@@ -27,45 +27,6 @@
       "applyStatus": "unknown"
     },
     {
-      "id": "linkedin:4451144050",
-      "title": "Lead Data Scientist",
-      "company": "Lloyds Banking Group",
-      "location": "Edinburgh, United Kingdom",
-      "postedAt": "2026-08-10T10:18:25.746Z",
-      "postedLabel": "1 hour ago",
-      "url": "https://www.linkedin.com/jobs/view/4451144050/",
-      "sponsorName": "Lloyds Bank plc",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "arbeitnow:data-scientist-london-133809",
-      "title": "Data Scientist",
-      "company": "Physicsx",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-08-10T00:55:27.000Z",
-      "postedLabel": "Today",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/data-scientist-london-133809",
-      "sponsorName": "PhysicsX Limited",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
-    },
-    {
-      "id": "top200:d6fab60a6d7b490e2c2499ef09cb4e0c",
-      "title": "AI Data Scientist - Autonomous Network",
-      "company": "Capgemini",
-      "location": "Abingdon, United Kingdom",
-      "postedAt": "2026-08-09T00:37:52.357Z",
-      "postedLabel": "Verified now",
-      "url": "https://www.capgemini.com/gb-en/jobs/517610-en_GB+sap_btp",
-      "sponsorName": "Capgemini UK PLC",
-      "sponsorVerified": true,
-      "source": "Top 200 · Capgemini (Nishant)",
-      "applyStatus": "good"
-    },
-    {
       "id": "top200:4f9e05778d231d549c31f53ef6cecd0e",
       "title": "Data scientist - AVP-Acq. Credit Strategy",
       "company": "Barclays",
@@ -79,19 +40,6 @@
       "applyStatus": "good"
     },
     {
-      "id": "top200:0622e6cba6d6e5fba85f280289c446be",
-      "title": "Compliance Data Scientist",
-      "company": "Barclays",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-08-09T00:02:52.631Z",
-      "postedLabel": "Verified now",
-      "url": "https://search.jobs.barclays/job/new-york/compliance-data-scientist/13015/97110713824",
-      "sponsorName": "Barclays Bank PLC",
-      "sponsorVerified": true,
-      "source": "Top 200 · Barclays (Nishant)",
-      "applyStatus": "good"
-    },
-    {
       "id": "top200:1dd28af43e1c6c557b3ac6deaea8e9d4",
       "title": "Data Scientist",
       "company": "Barclays",
@@ -99,19 +47,6 @@
       "postedAt": "2026-08-09T00:02:52.440Z",
       "postedLabel": "Verified now",
       "url": "https://search.jobs.barclays/job/gurugram/data-scientist/13015/98846459344",
-      "sponsorName": "Barclays Bank PLC",
-      "sponsorVerified": true,
-      "source": "Top 200 · Barclays (Nishant)",
-      "applyStatus": "good"
-    },
-    {
-      "id": "top200:0319a1eca660e5fd4e50fa28d3239785",
-      "title": "Data Scientist",
-      "company": "Barclays",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-08-09T00:02:52.241Z",
-      "postedLabel": "Verified now",
-      "url": "https://search.jobs.barclays/job/gurugram/data-scientist/13015/98815634656",
       "sponsorName": "Barclays Bank PLC",
       "sponsorVerified": true,
       "source": "Top 200 · Barclays (Nishant)",
@@ -245,45 +180,6 @@
       "sponsorName": "Wise Payments Limited",
       "sponsorVerified": true,
       "source": "LinkedIn browser (Nishant)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "smartrecruiters:Wise:744000142091640",
-      "title": "Lead Data Scientist - KYC & Onboarding",
-      "company": "Wise",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-08-07T09:46:51.746Z",
-      "postedLabel": "3 days ago",
-      "url": "https://jobs.smartrecruiters.com/Wise/744000142091640-lead-data-scientist-kyc-onboarding",
-      "sponsorName": "Wise Payments Limited",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
-    },
-    {
-      "id": "linkedin:4450024011",
-      "title": "Data scientist",
-      "company": "Bending Spoons",
-      "location": "Oxford, United Kingdom",
-      "postedAt": "2026-08-07T02:10:38.541Z",
-      "postedLabel": "3 days ago",
-      "url": "https://www.linkedin.com/jobs/view/4450024011/",
-      "sponsorName": "Bending Spoons Operations S.P.A.(UK Branch)",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4450012302",
-      "title": "Data scientist",
-      "company": "Bending Spoons",
-      "location": "Cambridge, United Kingdom",
-      "postedAt": "2026-08-07T02:10:38.541Z",
-      "postedLabel": "3 days ago",
-      "url": "https://www.linkedin.com/jobs/view/4450012302/",
-      "sponsorName": "Bending Spoons Operations S.P.A.(UK Branch)",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
       "applyStatus": "unknown"
     },
     {
@@ -428,58 +324,7 @@
       "sponsorVerified": true,
       "source": "Company careers",
       "applyStatus": "good"
-    },
-    {
-      "id": "smartrecruiters:GenomicsEngland:744000141281890",
-      "title": "Genomic Data Scientist - (we have office locations in Cambridge, Leeds & London)",
-      "company": "Genomics England",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-08-03T14:34:17.823Z",
-      "postedLabel": "7 days ago",
-      "url": "https://jobs.smartrecruiters.com/GenomicsEngland/744000141281890-genomic-data-scientist-we-have-office-locations-in-cambridge-leeds-london",
-      "sponsorName": "Genomics England Limited",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
-    },
-    {
-      "id": "ashby:23f8284a-22aa-400f-afa3-87093a15ab36",
-      "title": "Commercial Data Scientist",
-      "company": "Checkout.com",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-07-30T13:21:58.280Z",
-      "postedLabel": "11 days ago",
-      "url": "https://jobs.ashbyhq.com/checkout.com/23f8284a-22aa-400f-afa3-87093a15ab36",
-      "sponsorName": "CHECKOUT LTD",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
-    },
-    {
-      "id": "ashby:495d1958-dd2b-43b9-b08d-57f123af7fa7",
-      "title": "Data Scientist",
-      "company": "Checkout.com",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-07-14T14:24:47.438Z",
-      "postedLabel": "27 days ago",
-      "url": "https://jobs.ashbyhq.com/checkout.com/495d1958-dd2b-43b9-b08d-57f123af7fa7",
-      "sponsorName": "CHECKOUT LTD",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
-    },
-    {
-      "id": "ashby:04739560-ba62-4c17-9c48-12444f0b40e7",
-      "title": "Data Scientist - Payment Success",
-      "company": "Checkout.com",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-07-14T10:10:31.153Z",
-      "postedLabel": "27 days ago",
-      "url": "https://jobs.ashbyhq.com/checkout.com/04739560-ba62-4c17-9c48-12444f0b40e7",
-      "sponsorName": "CHECKOUT LTD",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
     }
-  ]
+  ],
+  "filterPolicy": "Data Scientist + Lead Data Scientist only; excludes Jobs Applied and duplicate Open Roles"
 }
