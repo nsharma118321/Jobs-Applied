@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:top200:d6fab60a6d7b490e2c2499ef09cb4e0c",
+      "title": "AI Data Scientist - Autonomous Network",
+      "company": "Capgemini",
+      "location": "Abingdon, United Kingdom",
+      "sponsorName": "Capgemini UK PLC",
+      "originalUrl": "https://www.capgemini.com/gb-en/jobs/517610-en_GB+sap_btp",
+      "portalUrl": "https://www.capgemini.com/gb-en/jobs/517610-en_GB+sap_btp",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-10T16:19:37.838Z",
+      "jobDescription": "# AI Data Scientist - Autonomous Network\n\n- **Company:** Capgemini\n- **Location:** Abingdon, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-10T16:19:37.838Z\n- **Licensed sponsor:** Capgemini UK PLC\n- **Original posting:** https://www.capgemini.com/gb-en/jobs/517610-en_GB+sap_btp\n- **Application portal:** https://www.capgemini.com/gb-en/jobs/517610-en_GB+sap_btp\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nYour RoleThis role focuses on applying data science, statistics, machine learning, graph analytics, and KPI engineering to enable autonomous network intelligenc\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/ai_data_scientist_autonomous_network_capgemini.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4382781558",
       "title": "Data Scientist",
       "company": "CoreWeave",
