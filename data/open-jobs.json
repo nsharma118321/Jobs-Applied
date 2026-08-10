@@ -1,19 +1,6 @@
 {
   "jobs": [
     {
-      "id": "linkedin:4450945638",
-      "title": "Data Scientist, Early Career (UK)",
-      "company": "Jobright.ai",
-      "location": "United Kingdom",
-      "postedAt": "2026-08-09T13:48:35.521Z",
-      "postedLabel": "6 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4450945638/",
-      "sponsorName": "JOB Light Limited",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (Nishant)",
-      "applyStatus": "unknown"
-    },
-    {
       "id": "linkedin:4382781558",
       "title": "Data Scientist",
       "company": "CoreWeave",
@@ -129,19 +116,6 @@
       "sponsorVerified": true,
       "source": "Top 200 · Barclays (Nishant)",
       "applyStatus": "good"
-    },
-    {
-      "id": "linkedin:4450926285",
-      "title": "Data Scientist, Early Career (UK)",
-      "company": "Jobright.ai",
-      "location": "United Kingdom",
-      "postedAt": "2026-08-08T19:54:33.289Z",
-      "postedLabel": "28 minutes ago",
-      "url": "https://www.linkedin.com/jobs/view/4450926285/",
-      "sponsorName": "JOB Light Limited",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (Nishant)",
-      "applyStatus": "unknown"
     },
     {
       "id": "top200:8a2fa2bf8ba6e704819a310eeea9aa5c",
