@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4382781558",
+      "title": "Data Scientist",
+      "company": "CoreWeave",
+      "location": "London, United Kingdom",
+      "sponsorName": "Coreweave UK Limited",
+      "originalUrl": "https://www.linkedin.com/jobs/view/4382781558/",
+      "portalUrl": "https://www.linkedin.com/jobs/view/4382781558/",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-10T15:40:56.407Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** CoreWeave\n- **Location:** London, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-10T15:40:56.407Z\n- **Licensed sponsor:** Coreweave UK Limited\n- **Original posting:** https://www.linkedin.com/jobs/view/4382781558/\n- **Application portal:** https://www.linkedin.com/jobs/view/4382781558/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_scientist_coreweave.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4391897025",
       "title": "Forward Deployed AI Scientist, United Kingdom - BCG X",
       "company": "Boston Consulting Group (BCG)",
