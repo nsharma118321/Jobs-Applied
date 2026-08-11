@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4434133232",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "London, United Kingdom",
+      "sponsorName": "Moniepoint UK Limited",
+      "originalUrl": "https://www.linkedin.com/jobs/view/4434133232/",
+      "portalUrl": "https://www.linkedin.com/jobs/view/4434133232/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-11T12:53:21.287Z",
+      "jobDescription": "# Data Scientist (Fraud)\n\n- **Company:** Moniepoint Group\n- **Location:** London, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-11T12:53:21.287Z\n- **Licensed sponsor:** Moniepoint UK Limited\n- **Original posting:** https://www.linkedin.com/jobs/view/4434133232/\n- **Application portal:** https://www.linkedin.com/jobs/view/4434133232/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_fraud_moniepoint_group.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:ashby:55caf5d6-91a9-46af-be12-237dd47d11df",
       "title": "Product Data Scientist",
       "company": "Checkout.com",
