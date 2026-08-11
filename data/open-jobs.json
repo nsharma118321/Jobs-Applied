@@ -1,43 +1,17 @@
 {
   "jobs": [
     {
-      "id": "top200:4f9e05778d231d549c31f53ef6cecd0e",
-      "title": "Data scientist - AVP-Acq. Credit Strategy",
-      "company": "Barclays",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-08-09T00:02:53.038Z",
-      "postedLabel": "Verified now",
-      "url": "https://search.jobs.barclays/job/gurugram/data-scientist-avp-acq-credit-strategy/13015/94687910096",
-      "sponsorName": "Barclays Bank PLC",
+      "id": "linkedin:4450012302",
+      "title": "Data scientist",
+      "company": "Bending Spoons",
+      "location": "Cambridge, United Kingdom",
+      "postedAt": "2026-08-07T02:10:38.541Z",
+      "postedLabel": "3 days ago",
+      "url": "https://www.linkedin.com/jobs/view/4450012302/",
+      "sponsorName": "Bending Spoons Operations S.P.A.(UK Branch)",
       "sponsorVerified": true,
-      "source": "Top 200 · Barclays (Nishant)",
-      "applyStatus": "good"
-    },
-    {
-      "id": "top200:211b5f2a2292047069c2464017e49c1e",
-      "title": "Data Scientist - Markets Sales Technology",
-      "company": "Barclays",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-08-08T22:19:11.570Z",
-      "postedLabel": "Verified now",
-      "url": "https://search.jobs.barclays/job/mumbai/data-scientist-markets-sales-technology/13015/90943097168",
-      "sponsorName": "Barclays Bank PLC",
-      "sponsorVerified": true,
-      "source": "Top 200 · Barclays (Nishant)",
-      "applyStatus": "good"
-    },
-    {
-      "id": "top200:7f8b321fdf1977a633495442d71ae050",
-      "title": "Data Scientist - MLOps",
-      "company": "Barclays",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-08-08T22:19:11.381Z",
-      "postedLabel": "Verified now",
-      "url": "https://search.jobs.barclays/job/pune/data-scientist-mlops/13015/95902777408",
-      "sponsorName": "Barclays Bank PLC",
-      "sponsorVerified": true,
-      "source": "Top 200 · Barclays (Nishant)",
-      "applyStatus": "good"
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
     },
     {
       "id": "top200:5f6c9bfc55ad82c99503ce600788adce",
@@ -103,7 +77,45 @@
       "sponsorVerified": true,
       "source": "Company careers",
       "applyStatus": "good"
+    },
+    {
+      "id": "smartrecruiters:GenomicsEngland:744000141281890",
+      "title": "Genomic Data Scientist - (we have office locations in Cambridge, Leeds & London)",
+      "company": "Genomics England",
+      "location": "London, United Kingdom",
+      "postedAt": "2026-08-03T14:34:17.823Z",
+      "postedLabel": "8 days ago",
+      "url": "https://jobs.smartrecruiters.com/GenomicsEngland/744000141281890-genomic-data-scientist-we-have-office-locations-in-cambridge-leeds-london",
+      "sponsorName": "Genomics England Limited",
+      "sponsorVerified": true,
+      "source": "Company careers",
+      "applyStatus": "good"
+    },
+    {
+      "id": "ashby:23f8284a-22aa-400f-afa3-87093a15ab36",
+      "title": "Commercial Data Scientist",
+      "company": "Checkout.com",
+      "location": "London, United Kingdom",
+      "postedAt": "2026-07-30T13:21:58.280Z",
+      "postedLabel": "12 days ago",
+      "url": "https://jobs.ashbyhq.com/checkout.com/23f8284a-22aa-400f-afa3-87093a15ab36",
+      "sponsorName": "CHECKOUT LTD",
+      "sponsorVerified": true,
+      "source": "Company careers",
+      "applyStatus": "good"
+    },
+    {
+      "id": "ashby:495d1958-dd2b-43b9-b08d-57f123af7fa7",
+      "title": "Data Scientist",
+      "company": "Checkout.com",
+      "location": "London, United Kingdom",
+      "postedAt": "2026-07-14T14:24:47.438Z",
+      "postedLabel": "28 days ago",
+      "url": "https://jobs.ashbyhq.com/checkout.com/495d1958-dd2b-43b9-b08d-57f123af7fa7",
+      "sponsorName": "CHECKOUT LTD",
+      "sponsorVerified": true,
+      "source": "Company careers",
+      "applyStatus": "good"
     }
-  ],
-  "filterPolicy": "Data Scientist + Lead Data Scientist only; excludes Jobs Applied and duplicate Open Roles"
+  ]
 }
