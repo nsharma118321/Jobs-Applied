@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:smartrecruiters:Wise:744000141948079",
+      "title": "Lead Data Scientist - Personalisation/CRM",
+      "company": "Wise",
+      "location": "London, United Kingdom",
+      "sponsorName": "Wise Payments Limited",
+      "originalUrl": "https://jobs.smartrecruiters.com/Wise/744000141948079-lead-data-scientist-personalisation-crm",
+      "portalUrl": "https://jobs.smartrecruiters.com/Wise/744000141948079-lead-data-scientist-personalisation-crm",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-11T15:43:08.473Z",
+      "jobDescription": "# Lead Data Scientist - Personalisation/CRM\n\n- **Company:** Wise\n- **Location:** London, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-11T15:43:08.473Z\n- **Licensed sponsor:** Wise Payments Limited\n- **Original posting:** https://jobs.smartrecruiters.com/Wise/744000141948079-lead-data-scientist-personalisation-crm\n- **Application portal:** https://jobs.smartrecruiters.com/Wise/744000141948079-lead-data-scientist-personalisation-crm\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe’re looking for a Lead Data Scientist to join our growing CRM Team in London. This role will give you the opportunity to have a direct impact on how millions of Wise customers find the perfect products for their needs at exactly the right moment, while evolving your skills by owning production-lev...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/lead_data_scientist_personalisation_crm_wise.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4450024011",
       "title": "Data scientist",
       "company": "Bending Spoons",
