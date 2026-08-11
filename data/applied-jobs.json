@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:smartrecruiters:GenomicsEngland:744000142697889",
+      "title": "Lead Genomic Data Scientist - Cancer (we have office locations in Cambridge, Leeds & London)",
+      "company": "Genomics England",
+      "location": "London, United Kingdom",
+      "sponsorName": "Genomics England Limited",
+      "originalUrl": "https://jobs.smartrecruiters.com/GenomicsEngland/744000142697889-lead-genomic-data-scientist-cancer-we-have-office-locations-in-cambridge-leeds-london",
+      "portalUrl": "https://jobs.smartrecruiters.com/GenomicsEngland/744000142697889-lead-genomic-data-scientist-cancer-we-have-office-locations-in-cambridge-leeds-london",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-11T13:08:35.722Z",
+      "jobDescription": "# Lead Genomic Data Scientist - Cancer (we have office locations in Cambridge, Leeds & London)\n\n- **Company:** Genomics England\n- **Location:** London, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-11T13:08:35.722Z\n- **Licensed sponsor:** Genomics England Limited\n- **Original posting:** https://jobs.smartrecruiters.com/GenomicsEngland/744000142697889-lead-genomic-data-scientist-cancer-we-have-office-locations-in-cambridge-leeds-london\n- **Application portal:** https://jobs.smartrecruiters.com/GenomicsEngland/744000142697889-lead-genomic-data-scientist-cancer-we-have-office-locations-in-cambridge-leeds-london\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe are looking to hire a Lead Genomic Data Scientist&#xa0;to join our Bioinformatics Consulting team at Genomics England to lead on a range of cancer genome analysis and interpretation projects in collaboration with and on behalf of our external researchers and industrial partners. &#xa0;&#xa0;The r...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/lead_genomic_data_scientist_cancer_we_have_office_locations_in_cambridge_leeds_london_genomics_england.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4434133232",
       "title": "Data Scientist (Fraud)",
       "company": "Moniepoint Group",
