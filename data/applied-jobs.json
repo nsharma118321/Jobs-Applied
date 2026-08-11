@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:top200:bb3e582b3048399a41682fe0ac6f76af",
+      "title": "Lead Data Scientist, Platform Product",
+      "company": "Anthropic",
+      "location": "York, United Kingdom",
+      "sponsorName": "Anthropic Limited",
+      "originalUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5116820008",
+      "portalUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5116820008",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-11T14:32:40.312Z",
+      "jobDescription": "# Lead Data Scientist, Platform Product\n\n- **Company:** Anthropic\n- **Location:** York, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-11T14:32:40.312Z\n- **Licensed sponsor:** Anthropic Limited\n- **Original posting:** https://job-boards.greenhouse.io/anthropic/jobs/5116820008\n- **Application portal:** https://job-boards.greenhouse.io/anthropic/jobs/5116820008\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/lead_data_scientist_platform_product_anthropic.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:top200:92e64a021b4cdfee9d9e337ae54fb03d",
       "title": "Data Scientist, GTM",
       "company": "Anthropic",
