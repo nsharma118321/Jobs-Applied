@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4395865649",
+      "title": "Data Scientist",
+      "company": "Gamma",
+      "location": "United Kingdom",
+      "sponsorName": "GAMMA SERVICES LIMITED",
+      "originalUrl": "https://www.linkedin.com/jobs/view/4395865649/",
+      "portalUrl": "https://www.linkedin.com/jobs/view/4395865649/",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-11T13:40:34.467Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Gamma\n- **Location:** United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-11T13:40:34.467Z\n- **Licensed sponsor:** GAMMA SERVICES LIMITED\n- **Original posting:** https://www.linkedin.com/jobs/view/4395865649/\n- **Application portal:** https://www.linkedin.com/jobs/view/4395865649/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_scientist_gamma.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:smartrecruiters:Wise:744000141954691",
       "title": "Lead Data Scientist - Liquidity",
       "company": "Wise",
