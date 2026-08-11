@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:top200:fb3712dd489afb07931b392fa8f29ed3",
+      "title": "Workplace Data Scientist",
+      "company": "Bloomberg",
+      "location": "London, United Kingdom",
+      "sponsorName": "Bloomberg LP",
+      "originalUrl": "https://bloomberg.avature.net/careers/JobDetail/Workplace-Data-Scientist/19637",
+      "portalUrl": "https://bloomberg.avature.net/careers/JobDetail/Workplace-Data-Scientist/19637",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-11T15:05:53.454Z",
+      "jobDescription": "# Workplace Data Scientist\n\n- **Company:** Bloomberg\n- **Location:** London, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-11T15:05:53.454Z\n- **Licensed sponsor:** Bloomberg LP\n- **Original posting:** https://bloomberg.avature.net/careers/JobDetail/Workplace-Data-Scientist/19637\n- **Application portal:** https://bloomberg.avature.net/careers/JobDetail/Workplace-Data-Scientist/19637\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLaunching your career or making a move? Make it happen here. We have roles across wide-ranging businesses and products for you to explore.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/workplace_data_scientist_bloomberg.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:ashby:04739560-ba62-4c17-9c48-12444f0b40e7",
       "title": "Data Scientist - Payment Success",
       "company": "Checkout.com",
