@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:top200:8a2fa2bf8ba6e704819a310eeea9aa5c",
+      "title": "Data Scientist",
+      "company": "EDF Energy",
+      "location": "Birmingham, United Kingdom",
+      "sponsorName": "EDF Energy Ltd",
+      "originalUrl": "https://careers.edfenergy.com/job/data-scientist-in-flexible-jid-2019",
+      "portalUrl": "https://careers.edfenergy.com/job/data-scientist-in-flexible-jid-2019",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-11T13:20:29.794Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** EDF Energy\n- **Location:** Birmingham, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-11T13:20:29.794Z\n- **Licensed sponsor:** EDF Energy Ltd\n- **Original posting:** https://careers.edfenergy.com/job/data-scientist-in-flexible-jid-2019\n- **Application portal:** https://careers.edfenergy.com/job/data-scientist-in-flexible-jid-2019\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nReady to build products that make a difference?At EDF, our products are built through collaboration, shared ownership, and a passion for continuous improvement....\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_scientist_edf_energy.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:top200:fcede178cd37788cf550bc9e7d19a70e",
       "title": "Lead Data Scientist",
       "company": "Monzo",
