@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-087c5f0494ad4cee5f0d",
+      "title": "Bumble Inc. - Machine Learning Engineer (UK)",
+      "company": "jobs.lever.co",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.lever.co/bumbleinc/51d32f4a-e482-486d-aeab-62924c7c92d7/apply?lever-source=LinkedIn",
+      "portalUrl": "https://jobs.lever.co/bumbleinc/51d32f4a-e482-486d-aeab-62924c7c92d7/apply?lever-source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-11T17:59:26.910Z",
+      "jobDescription": "# Bumble Inc. - Machine Learning Engineer (UK)\n\n- **Company:** jobs.lever.co\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-11T17:59:26.910Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.lever.co/bumbleinc/51d32f4a-e482-486d-aeab-62924c7c92d7/apply?lever-source=LinkedIn\n- **Application portal:** https://jobs.lever.co/bumbleinc/51d32f4a-e482-486d-aeab-62924c7c92d7/apply?lever-source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nBumble is looking for a Machine Learning Engineer (Computer Vision) to join our Trust & Safety team and play a key role fulfilling our mission to create a world where all relationships are healthy and equitable. Concretely, this means implementing, deploying and maintaining state of the art machine learning models, particularly in computer vision, that help Bumble provide a safe and engaging experience for our users and improve the way Bumble operates. With millions of images and messages exchanged on our platform every day, there is a wealth of opportunity to make a real difference in this role and help people to find love all over the world! The ideal candidate combines strong business acumen, extensive experience in machine learning applications (specifically in Computer Vision) along with a passion for tech.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/bumble_inc_machine_learning_engineer_uk_jobs_lever_co.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-2d515809f096455e5f3f",
       "title": "Core Data Scientist - Optima Partners",
       "company": "Optima Partners",
