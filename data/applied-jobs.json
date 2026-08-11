@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:top200:1dd28af43e1c6c557b3ac6deaea8e9d4",
+      "title": "Data Scientist",
+      "company": "Barclays",
+      "location": "London, United Kingdom",
+      "sponsorName": "Barclays Bank PLC",
+      "originalUrl": "https://search.jobs.barclays/job/gurugram/data-scientist/13015/98846459344",
+      "portalUrl": "https://search.jobs.barclays/job/gurugram/data-scientist/13015/98846459344",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-11T13:47:08.188Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Barclays\n- **Location:** London, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-11T13:47:08.188Z\n- **Licensed sponsor:** Barclays Bank PLC\n- **Original posting:** https://search.jobs.barclays/job/gurugram/data-scientist/13015/98846459344\n- **Application portal:** https://search.jobs.barclays/job/gurugram/data-scientist/13015/98846459344\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_barclays.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4395865649",
       "title": "Data Scientist",
       "company": "Gamma",
