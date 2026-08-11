@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:smartrecruiters:Wise:744000141954691",
+      "title": "Lead Data Scientist - Liquidity",
+      "company": "Wise",
+      "location": "London, United Kingdom",
+      "sponsorName": "Wise Payments Limited",
+      "originalUrl": "https://jobs.smartrecruiters.com/Wise/744000141954691-lead-data-scientist-liquidity",
+      "portalUrl": "https://jobs.smartrecruiters.com/Wise/744000141954691-lead-data-scientist-liquidity",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-11T13:27:52.713Z",
+      "jobDescription": "# Lead Data Scientist - Liquidity\n\n- **Company:** Wise\n- **Location:** London, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-11T13:27:52.713Z\n- **Licensed sponsor:** Wise Payments Limited\n- **Original posting:** https://jobs.smartrecruiters.com/Wise/744000141954691-lead-data-scientist-liquidity\n- **Application portal:** https://jobs.smartrecruiters.com/Wise/744000141954691-lead-data-scientist-liquidity\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe are seeking a talented Lead Data Scientist with expertise in Liquidity management modelling to join our dynamic Treasury team. This role focuses on driving our models and optimising their impact on our liquidity usage.Your work will have a direct impact on Wise’s mission and millions of our custo...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/lead_data_scientist_liquidity_wise.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:top200:8a2fa2bf8ba6e704819a310eeea9aa5c",
       "title": "Data Scientist",
       "company": "EDF Energy",
