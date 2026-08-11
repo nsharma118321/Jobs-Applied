@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4451018728",
+      "title": "Data Scientist",
+      "company": "University of Southampton",
+      "location": "Southampton, United Kingdom",
+      "sponsorName": "University of Southampton",
+      "originalUrl": "https://www.linkedin.com/jobs/view/4451018728/",
+      "portalUrl": "https://www.linkedin.com/jobs/view/4451018728/",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-11T14:09:37.432Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** University of Southampton\n- **Location:** Southampton, United Kingdom\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-11T14:09:37.432Z\n- **Licensed sponsor:** University of Southampton\n- **Original posting:** https://www.linkedin.com/jobs/view/4451018728/\n- **Application portal:** https://www.linkedin.com/jobs/view/4451018728/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_scientist_university_of_southampton.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4448195865",
       "title": "Data Scientist",
       "company": "Cint",
