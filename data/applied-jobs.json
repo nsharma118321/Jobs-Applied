@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-96e20acc7c8fed6cbd14",
+      "title": "Data Scientist",
+      "company": "job-boards.greenhouse.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://job-boards.greenhouse.io/anaplan/jobs/8654662002?gh_src=w3qeq0ct2us&s=LinkedIn&source=LinkedIn",
+      "portalUrl": "https://job-boards.greenhouse.io/anaplan/jobs/8654662002?gh_src=w3qeq0ct2us&s=LinkedIn&source=LinkedIn",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-12T14:05:46.377Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** job-boards.greenhouse.io\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-12T14:05:46.377Z\n- **Licensed sponsor:** \n- **Original posting:** https://job-boards.greenhouse.io/anaplan/jobs/8654662002?gh_src=w3qeq0ct2us&s=LinkedIn&source=LinkedIn\n- **Application portal:** https://job-boards.greenhouse.io/anaplan/jobs/8654662002?gh_src=w3qeq0ct2us&s=LinkedIn&source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_scientist_job_boards_greenhouse_io.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-d8d86d01d5e6b64ec061",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
