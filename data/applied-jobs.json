@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-2d52a046f4f908eaeaf1",
+      "title": "Thank you for applying | Marsh &amp; McLennan Careers",
+      "company": "careers.marsh.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.marsh.com/global/en/applythankyou?status=success&jobSeqNo=MAMCGLOBALR351120EXTERNALENGLOBAL&jobTitle=Data%20Engineer&jobId=R_351120&candidateHomeUrl=https://mmc.wd1.myworkdayjobs.com/en-US/MMC/login?Job_Application_ID=5ea445466499900159603ffcb9c00000&jobApplicationId=5ea445466499900159603ffcb9c00000&candidateId=CAND-6501458",
+      "portalUrl": "https://careers.marsh.com/global/en/applythankyou?status=success&jobSeqNo=MAMCGLOBALR351120EXTERNALENGLOBAL&jobTitle=Data%20Engineer&jobId=R_351120&candidateHomeUrl=https://mmc.wd1.myworkdayjobs.com/en-US/MMC/login?Job_Application_ID=5ea445466499900159603ffcb9c00000&jobApplicationId=5ea445466499900159603ffcb9c00000&candidateId=CAND-6501458",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-12T17:20:44.878Z",
+      "jobDescription": "# Thank you for applying | Marsh &amp; McLennan Careers\n\n- **Company:** careers.marsh.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-12T17:20:44.878Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.marsh.com/global/en/applythankyou?status=success&jobSeqNo=MAMCGLOBALR351120EXTERNALENGLOBAL&jobTitle=Data%20Engineer&jobId=R_351120&candidateHomeUrl=https://mmc.wd1.myworkdayjobs.com/en-US/MMC/login?Job_Application_ID=5ea445466499900159603ffcb9c00000&jobApplicationId=5ea445466499900159603ffcb9c00000&candidateId=CAND-6501458\n- **Application portal:** https://careers.marsh.com/global/en/applythankyou?status=success&jobSeqNo=MAMCGLOBALR351120EXTERNALENGLOBAL&jobTitle=Data%20Engineer&jobId=R_351120&candidateHomeUrl=https://mmc.wd1.myworkdayjobs.com/en-US/MMC/login?Job_Application_ID=5ea445466499900159603ffcb9c00000&jobApplicationId=5ea445466499900159603ffcb9c00000&candidateId=CAND-6501458\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/thank_you_for_applying_marsh_amp_mclennan_careers_careers_marsh_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-ea6498af290b74acaf59",
       "title": "External job application",
       "company": "linkedin.com",
