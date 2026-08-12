@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-26baca210aed76c8777a",
+      "title": "Workday",
+      "company": "blackrock.wd1.myworkdayjobs.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/jobTasks/completed/application",
+      "portalUrl": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/jobTasks/completed/application",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-12T08:07:58.945Z",
+      "jobDescription": "# Workday\n\n- **Company:** blackrock.wd1.myworkdayjobs.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-12T08:07:58.945Z\n- **Licensed sponsor:** \n- **Original posting:** https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/jobTasks/completed/application\n- **Application portal:** https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/jobTasks/completed/application\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/workday_blackrock_wd1_myworkdayjobs_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-88bc98a1c3d456ddce99",
       "title": "Careers at CFC",
       "company": "cfc.pinpointhq.com",
