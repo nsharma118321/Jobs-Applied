@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-88bc98a1c3d456ddce99",
+      "title": "Careers at CFC",
+      "company": "cfc.pinpointhq.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://cfc.pinpointhq.com/postings/bd58dc95-61d4-4994-8139-85ad5e0cf15e/applications?utm_source=linkedIn&utm_medium=job_board",
+      "portalUrl": "https://cfc.pinpointhq.com/postings/bd58dc95-61d4-4994-8139-85ad5e0cf15e/applications?utm_source=linkedIn&utm_medium=job_board",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-12T07:48:25.021Z",
+      "jobDescription": "# Careers at CFC\n\n- **Company:** cfc.pinpointhq.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-12T07:48:25.021Z\n- **Licensed sponsor:** \n- **Original posting:** https://cfc.pinpointhq.com/postings/bd58dc95-61d4-4994-8139-85ad5e0cf15e/applications?utm_source=linkedIn&utm_medium=job_board\n- **Application portal:** https://cfc.pinpointhq.com/postings/bd58dc95-61d4-4994-8139-85ad5e0cf15e/applications?utm_source=linkedIn&utm_medium=job_board\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/careers_at_cfc_cfc_pinpointhq_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-afad4796f4f30920635f",
       "title": "External job application",
       "company": "linkedin.com",
