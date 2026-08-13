@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-fea240626dabd8358cca",
+      "title": "Data Analyst",
+      "company": "Sportradar",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.smartrecruiters.com/Sportradar/744000143328973-data-analyst",
+      "portalUrl": "https://jobs.smartrecruiters.com/Sportradar/744000143328973-data-analyst",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-13T17:57:37.058Z",
+      "jobDescription": "# Data Analyst\n\n- **Company:** Sportradar\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-13T17:57:37.058Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.smartrecruiters.com/Sportradar/744000143328973-data-analyst\n- **Application portal:** https://jobs.smartrecruiters.com/Sportradar/744000143328973-data-analyst\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAre you passionate about Data Visualization and Data Analysis?Sportradar is seeking a motivated Data Analyst (Business Intelligence Analyst) to join the fast paced and dynamic Data &amp; Insights team.You will be responsible for the design, creation, and implementation of the reporting layer. You wi...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_analyst_sportradar.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-c3288110419e62bf038d",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
