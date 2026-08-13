@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-a8c488811d1fc9bc00f1",
+      "title": "External job application",
+      "company": "career5.successfactors.eu",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://career5.successfactors.eu/portalcareer?_s.crb=TDO1HHtbMwcxzCvsgtQXCV8rU5IgFGUaCQ5XDkSip7w%253d#/ja",
+      "portalUrl": "https://career5.successfactors.eu/portalcareer?_s.crb=TDO1HHtbMwcxzCvsgtQXCV8rU5IgFGUaCQ5XDkSip7w%253d#/ja",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-13T05:19:28.755Z",
+      "jobDescription": "# External job application\n\n- **Company:** career5.successfactors.eu\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-13T05:19:28.755Z\n- **Licensed sponsor:** \n- **Original posting:** https://career5.successfactors.eu/portalcareer?_s.crb=TDO1HHtbMwcxzCvsgtQXCV8rU5IgFGUaCQ5XDkSip7w%253d#/ja\n- **Application portal:** https://career5.successfactors.eu/portalcareer?_s.crb=TDO1HHtbMwcxzCvsgtQXCV8rU5IgFGUaCQ5XDkSip7w%253d#/ja\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_career5_successfactors_eu.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-d00627851cdf4e2b1600",
       "title": "External job application",
       "company": "dojo.careers",
