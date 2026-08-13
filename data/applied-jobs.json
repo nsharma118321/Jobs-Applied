@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-d00627851cdf4e2b1600",
+      "title": "External job application",
+      "company": "dojo.careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://dojo.careers/jobs/4942361101/?gh_jid=4942361101&gh_src=ff2f8102teu",
+      "portalUrl": "https://dojo.careers/jobs/4942361101/?gh_jid=4942361101&gh_src=ff2f8102teu",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-13T04:49:10.382Z",
+      "jobDescription": "# External job application\n\n- **Company:** dojo.careers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-13T04:49:10.382Z\n- **Licensed sponsor:** \n- **Original posting:** https://dojo.careers/jobs/4942361101/?gh_jid=4942361101&gh_src=ff2f8102teu\n- **Application portal:** https://dojo.careers/jobs/4942361101/?gh_jid=4942361101&gh_src=ff2f8102teu\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_dojo_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-1305642e0468812a3ef2",
       "title": "Spotify - Analytics Engineer II",
       "company": "jobs.lever.co",
