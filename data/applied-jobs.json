@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4b84c54976836817dedc",
+      "title": "Senior Analytics Engineer",
+      "company": "job-boards.greenhouse.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5985600004?gh_src=sgp49gfz4us",
+      "portalUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5985600004?gh_src=sgp49gfz4us",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-13T16:19:57.204Z",
+      "jobDescription": "# Senior Analytics Engineer\n\n- **Company:** job-boards.greenhouse.io\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-13T16:19:57.204Z\n- **Licensed sponsor:** \n- **Original posting:** https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5985600004?gh_src=sgp49gfz4us\n- **Application portal:** https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5985600004?gh_src=sgp49gfz4us\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/senior_analytics_engineer_job_boards_greenhouse_io.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-7c008c0c75b3de97605e",
       "title": "Data Engineer",
       "company": "job-boards.greenhouse.io",
