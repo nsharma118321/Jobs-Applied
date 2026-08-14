@@ -1,19 +1,6 @@
 {
   "jobs": [
     {
-      "id": "smartrecruiters:Wise:744000143474259",
-      "title": "Lead Data Scientist - Customer Onboarding",
-      "company": "Wise",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-08-14T09:23:16.249Z",
-      "postedLabel": "Today",
-      "url": "https://jobs.smartrecruiters.com/Wise/744000143474259-lead-data-scientist-customer-onboarding",
-      "sponsorName": "Wise Payments Limited",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
-    },
-    {
       "id": "top200:5f6c9bfc55ad82c99503ce600788adce",
       "title": "Data Scientist, Developer Productivity",
       "company": "Anthropic",
