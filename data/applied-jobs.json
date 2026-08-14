@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-a26abdd2a35313b34efb",
+      "title": "Quick Check Needed",
+      "company": "cshr.tal.net",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://cshr.tal.net/vx/lang-en-GB/mobile-0/appcentre-11/brand-2/user-4168663/xf-830b9eb4d61b/candidate/eform/57857516/save_page",
+      "portalUrl": "https://cshr.tal.net/vx/lang-en-GB/mobile-0/appcentre-11/brand-2/user-4168663/xf-830b9eb4d61b/candidate/eform/57857516/save_page",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-14T15:56:47.308Z",
+      "jobDescription": "# Quick Check Needed\n\n- **Company:** cshr.tal.net\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-14T15:56:47.308Z\n- **Licensed sponsor:** \n- **Original posting:** https://cshr.tal.net/vx/lang-en-GB/mobile-0/appcentre-11/brand-2/user-4168663/xf-830b9eb4d61b/candidate/eform/57857516/save_page\n- **Application portal:** https://cshr.tal.net/vx/lang-en-GB/mobile-0/appcentre-11/brand-2/user-4168663/xf-830b9eb4d61b/candidate/eform/57857516/save_page\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/quick_check_needed_cshr_tal_net.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-7593e1624803f79fd1a1",
       "title": "Data Scientist",
       "company": "job-boards.greenhouse.io",
