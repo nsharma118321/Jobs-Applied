@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:smartrecruiters:Wise:744000143474259",
+      "title": "Lead Data Scientist - Customer Onboarding",
+      "company": "Wise",
+      "location": "London, United Kingdom",
+      "sponsorName": "Wise Payments Limited",
+      "originalUrl": "https://jobs.smartrecruiters.com/Wise/744000143474259-lead-data-scientist-customer-onboarding",
+      "portalUrl": "https://jobs.smartrecruiters.com/Wise/744000143474259-lead-data-scientist-customer-onboarding",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-14T14:49:22.248Z",
+      "jobDescription": "# Lead Data Scientist - Customer Onboarding\n\n- **Company:** Wise\n- **Location:** London, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-14T14:49:22.248Z\n- **Licensed sponsor:** Wise Payments Limited\n- **Original posting:** https://jobs.smartrecruiters.com/Wise/744000143474259-lead-data-scientist-customer-onboarding\n- **Application portal:** https://jobs.smartrecruiters.com/Wise/744000143474259-lead-data-scientist-customer-onboarding\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe’re looking for a technical Lead Data Scientist (IC3) to join our growing KYC (Know Your Customer) and Onboarding Team in London.&#xa0;This role is a unique opportunity to understand the customer onboarding &amp; Know Your Customer domain, how we mitigate risk leveraging data science techniques, a...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/lead_data_scientist_customer_onboarding_wise.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-d7ac376d8aed4413f123",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
