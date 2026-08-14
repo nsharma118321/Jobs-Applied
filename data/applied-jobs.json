@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4206f206b19afe341789",
+      "title": "Careers",
+      "company": "qogita.careers.hibob.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://qogita.careers.hibob.com/jobs/798cf0dd-3e09-4a41-8507-8c5c1d510006/apply?utm_medium=798cf0dd-3e09-4a41-8507-8c5c1d510006&vq_campaign=08feb0db-0855-5183-accf-4393b1f2f7d2&vq_source=ead41a77-4d9f-44f5-933f-3a12c4157d16&igbTracker=944280203&utm_source=linkedin",
+      "portalUrl": "https://qogita.careers.hibob.com/jobs/798cf0dd-3e09-4a41-8507-8c5c1d510006/apply?utm_medium=798cf0dd-3e09-4a41-8507-8c5c1d510006&vq_campaign=08feb0db-0855-5183-accf-4393b1f2f7d2&vq_source=ead41a77-4d9f-44f5-933f-3a12c4157d16&igbTracker=944280203&utm_source=linkedin",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-14T06:02:04.040Z",
+      "jobDescription": "# Careers\n\n- **Company:** qogita.careers.hibob.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-14T06:02:04.040Z\n- **Licensed sponsor:** \n- **Original posting:** https://qogita.careers.hibob.com/jobs/798cf0dd-3e09-4a41-8507-8c5c1d510006/apply?utm_medium=798cf0dd-3e09-4a41-8507-8c5c1d510006&vq_campaign=08feb0db-0855-5183-accf-4393b1f2f7d2&vq_source=ead41a77-4d9f-44f5-933f-3a12c4157d16&igbTracker=944280203&utm_source=linkedin\n- **Application portal:** https://qogita.careers.hibob.com/jobs/798cf0dd-3e09-4a41-8507-8c5c1d510006/apply?utm_medium=798cf0dd-3e09-4a41-8507-8c5c1d510006&vq_campaign=08feb0db-0855-5183-accf-4393b1f2f7d2&vq_source=ead41a77-4d9f-44f5-933f-3a12c4157d16&igbTracker=944280203&utm_source=linkedin\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/careers_qogita_careers_hibob_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-214d58bf4f5a3baf7365",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
