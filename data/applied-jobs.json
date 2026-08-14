@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-7593e1624803f79fd1a1",
+      "title": "Data Scientist",
+      "company": "job-boards.greenhouse.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://job-boards.greenhouse.io/wppmedia/jobs/5385941008?gh_src=ql4cojzu8us",
+      "portalUrl": "https://job-boards.greenhouse.io/wppmedia/jobs/5385941008?gh_src=ql4cojzu8us",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-14T14:53:27.325Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** job-boards.greenhouse.io\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-14T14:53:27.325Z\n- **Licensed sponsor:** \n- **Original posting:** https://job-boards.greenhouse.io/wppmedia/jobs/5385941008?gh_src=ql4cojzu8us\n- **Application portal:** https://job-boards.greenhouse.io/wppmedia/jobs/5385941008?gh_src=ql4cojzu8us\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_job_boards_greenhouse_io.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:smartrecruiters:Wise:744000143474259",
       "title": "Lead Data Scientist - Customer Onboarding",
       "company": "Wise",
