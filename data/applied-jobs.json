@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4751a150aedf2c350a22",
+      "title": "Data Scientist Python SQL - FinTech",
+      "company": "client-server.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.client-server.com/job/data-scientist-python-sql-fintech-3",
+      "portalUrl": "https://www.client-server.com/job/data-scientist-python-sql-fintech-3",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-14T14:28:40.317Z",
+      "jobDescription": "# Data Scientist Python SQL - FinTech\n\n- **Company:** client-server.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-14T14:28:40.317Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.client-server.com/job/data-scientist-python-sql-fintech-3\n- **Application portal:** https://www.client-server.com/job/data-scientist-python-sql-fintech-3\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nData Scientist Python SQL - FinTech - Newcastle upon Tyne, Tyne and Wear, North East England, England, United Kingdom\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_python_sql_fintech_client_server_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-99e96356e034c2132604",
       "title": "Applying for a job | Kainos Careers",
       "company": "careers.kainos.com",
