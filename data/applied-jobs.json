@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-ed2521e9c8502c69e310",
+      "title": "External job application",
+      "company": "meltwatercareers.ttcportals.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://meltwatercareers.ttcportals.com/jobs/17984319-ai-engineer?__jvsd=LinkedIn&__jvst=Job+Board&bid=370&tm_company=89119&tm_event=view&tm_job=13138",
+      "portalUrl": "https://meltwatercareers.ttcportals.com/jobs/17984319-ai-engineer?__jvsd=LinkedIn&__jvst=Job+Board&bid=370&tm_company=89119&tm_event=view&tm_job=13138",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-14T18:16:03.657Z",
+      "jobDescription": "# External job application\n\n- **Company:** meltwatercareers.ttcportals.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-14T18:16:03.657Z\n- **Licensed sponsor:** \n- **Original posting:** https://meltwatercareers.ttcportals.com/jobs/17984319-ai-engineer?__jvsd=LinkedIn&__jvst=Job+Board&bid=370&tm_company=89119&tm_event=view&tm_job=13138\n- **Application portal:** https://meltwatercareers.ttcportals.com/jobs/17984319-ai-engineer?__jvsd=LinkedIn&__jvst=Job+Board&bid=370&tm_company=89119&tm_event=view&tm_job=13138\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_meltwatercareers_ttcportals_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-a11c19a27955fafbe7c0",
       "title": "Data Scientist, Defence Services - UK",
       "company": "jobs.systematic.com",
