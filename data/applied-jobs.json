@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4fbe6ef2b42e0fc06eda",
+      "title": "Data Engineer - Citywire Financial Publishers Ltd",
+      "company": "Citywire Financial Publishers Ltd",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.citywire.com/jobs/8113975-data-engineer",
+      "portalUrl": "https://careers.citywire.com/jobs/8113975-data-engineer",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-14T17:12:35.421Z",
+      "jobDescription": "# Data Engineer - Citywire Financial Publishers Ltd\n\n- **Company:** Citywire Financial Publishers Ltd\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-14T17:12:35.421Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.citywire.com/jobs/8113975-data-engineer\n- **Application portal:** https://careers.citywire.com/jobs/8113975-data-engineer\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nJoin Citywire as a Data Engineer to own production dbt pipelines, scale event-driven architectures, and build the core data models powering our production AI...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_engineer_citywire_financial_publishers_ltd_citywire_financial_publishers_ltd.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b7d8a09c1254da6be5a3",
       "title": "Analytics Engineer - Immediate Media Co",
       "company": "apply.workable.com",
