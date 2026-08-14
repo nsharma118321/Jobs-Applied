@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-e7286906acbf17a461e7",
+      "title": "Oscar hiring Data Scientist in Manchester Area, United Kingdom | LinkedIn",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/view/4454385442/",
+      "portalUrl": "https://www.linkedin.com/jobs/view/4454385442/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-14T14:31:49.172Z",
+      "jobDescription": "# Oscar hiring Data Scientist in Manchester Area, United Kingdom | LinkedIn\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-14T14:31:49.172Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/view/4454385442/\n- **Application portal:** https://www.linkedin.com/jobs/view/4454385442/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nData Scientist \nLocation: Manchester (Hybrid)\nSalary: £60,000 - £75,000 + benefits\n\nThe Role\n\nWe are working with a well-established financial services organisation undergoing significant investment in its data and AI capabilities.\n\nThey are looking for a hands-on Data Scientist to help drive the development and deployment of GenAI solutions across the business. This role is focused on practical application - building and scaling real-world use cases.\n\nYou will work on a variety of projects, including intelligent automation, document processing, internal copilots, and customer-facing AI tools, leveraging large language models and modern machine learning techniques.\n\nWhile the organisation operates in a regulated environment, they are open to candidates from a range of industry backgrounds - financial services experience is beneficial but not essential.\n\nKey Responsibilities\n- Design, build, and deploy Generative AI solutions using large language models (LLMs)\n- Develop and optimise prompt engineering strategies for production use cases\n- Build end-to-end pipelines (RAG, embeddings, vector search) for scalable GenAI applications\n- Work with both structured and unstructured datasets, including text-heavy data\n- Collaborate closely with data engineering and software teams to productionise solutions\n- Identify high-impact use cases and contribute to the broader AI roadmap\n- Ensure solutions align with governance, risk, and compliance standards\n- Communicate insights clearly to both technical and non-technical stakeholders\n\nRequired Skills & Experience\n- 3+ years’ experience in Data Science / Machine Learning roles\n- Strong Python and SQL skills with hands-on experience building models and data pipelines\n- Proven experience working with Generative AI (LLMs, prompt engineering, embeddings)\n- Experience using frameworks such as LangChain, LlamaIndex, or similar\n- Experience integrating with model APIs (e.g. OpenAI or open-source alternatives)\n- Exposure to cloud environments (AWS, GCP or Azure)\n- Strong problem-solving skills with a pragmatic, delivery-focused mindset\n- Ability to work in cross-functional teams within a fast-paced environment\n\nNice to Have\n- Experience within financial services or other regulated industries\n- Exposure to vector databases (e.g. Pinecone, Weaviate, FAISS)\n- Experience with MLOps / LLMOps and deploying models into production\n- Familiarity with LLM fine-tuning, evaluation, or guardrailing techniques\n- Experience building internal tools such as copilots or knowledge assistants\n\nWhat’s on Offer\n- Salary up to £75,000 depending on experience\n- Generous benefits package\n- Hybrid working (Manchester-based)\n- Opportunity to join a well-established business investing heavily in AI\n- High-impact role with real ownership and visibility\n- Collaborative and forward-thinking data team\n\nUK-based candidates only.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/oscar_hiring_data_scientist_in_manchester_area_united_kingdom_linkedin_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-4751a150aedf2c350a22",
       "title": "Data Scientist Python SQL - FinTech",
       "company": "client-server.com",
