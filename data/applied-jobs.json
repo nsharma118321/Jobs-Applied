@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-440549af3490caa357f5",
+      "title": "Apply Online - AA Careers",
+      "company": "AA Careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.theaacareers.co.uk/apply-online/?jobId=PMFFK026203F3VBQBV768V49B-232974&langCode=en_GB",
+      "portalUrl": "https://www.theaacareers.co.uk/apply-online/?jobId=PMFFK026203F3VBQBV768V49B-232974&langCode=en_GB",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-14T16:24:30.209Z",
+      "jobDescription": "# Apply Online - AA Careers\n\n- **Company:** AA Careers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-14T16:24:30.209Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.theaacareers.co.uk/apply-online/?jobId=PMFFK026203F3VBQBV768V49B-232974&langCode=en_GB\n- **Application portal:** https://www.theaacareers.co.uk/apply-online/?jobId=PMFFK026203F3VBQBV768V49B-232974&langCode=en_GB\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/apply_online_aa_careers_aa_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-ede147f0fd1d9fa15761",
       "title": "Data Scientist Senior Manager",
       "company": "easyjet.taleo.net",
