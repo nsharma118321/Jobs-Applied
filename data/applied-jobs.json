@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-5d0c46996c01ff9133a4",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4454516834&eBP=CwEAAAGgEOf4gHlOStjRz-XkJfe8kVkS7ZxJA0vPONTfdoUBtQjkVbdb-CQKXLzadUo1BWnV9XMM5Cm96ZT3u7Acg8VSznEgl9qhR_EK4UYjbv1p2Vc3VQ8sLnV9rjd9ph3rPCWUBrYZhyhOuaOrxOS3Qf4IQMjRnqOaX36IGgZetMo_3xQdc5ohgECfyHFdI--DdE9vfAYL8f4db6PEaV-e3-dCusaRe5UMs8ODDGU3SVxbgp6vU5eEQwboYrxKZ7wJQOnvvW-yTBJ6hnT07M2GrRQB9duwEWmC4MQY3WPCFjsFLUZRMSpWvBIe7v23ghNTy1cNjYBHzQHR91GpFip9lIBOzyoHeKq7mVXG8hAWAEGP4yCDuYgmyYV37rf4pcDcX_Q-E6ibKHAUTi__vWGVmUsSmcq9d12psAJ1P9IHSHmmzLuTVwhdysHP9vV0EMCMrEqNDGoraIZJtokPCwMOBxL3-Mspbyk3kd05jN8egc4D0JDCelz8ewm9olkfZWdzQlN2Ccc&refId=s2Ve4GOVJUR7jdUJ3C3Mxw%3D%3D&trackingId=CVhhgDovuaqP5CaD%2Bnyznw%3D%3D&keywords=Data%20Scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=EIhvGm%2BXpVoWgKlHXSIl0A%3D%3D&geoId=101165590&distance=0.0&f_TPR=r604800&f_AL=true",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4454516834&eBP=CwEAAAGgEOf4gHlOStjRz-XkJfe8kVkS7ZxJA0vPONTfdoUBtQjkVbdb-CQKXLzadUo1BWnV9XMM5Cm96ZT3u7Acg8VSznEgl9qhR_EK4UYjbv1p2Vc3VQ8sLnV9rjd9ph3rPCWUBrYZhyhOuaOrxOS3Qf4IQMjRnqOaX36IGgZetMo_3xQdc5ohgECfyHFdI--DdE9vfAYL8f4db6PEaV-e3-dCusaRe5UMs8ODDGU3SVxbgp6vU5eEQwboYrxKZ7wJQOnvvW-yTBJ6hnT07M2GrRQB9duwEWmC4MQY3WPCFjsFLUZRMSpWvBIe7v23ghNTy1cNjYBHzQHR91GpFip9lIBOzyoHeKq7mVXG8hAWAEGP4yCDuYgmyYV37rf4pcDcX_Q-E6ibKHAUTi__vWGVmUsSmcq9d12psAJ1P9IHSHmmzLuTVwhdysHP9vV0EMCMrEqNDGoraIZJtokPCwMOBxL3-Mspbyk3kd05jN8egc4D0JDCelz8ewm9olkfZWdzQlN2Ccc&refId=s2Ve4GOVJUR7jdUJ3C3Mxw%3D%3D&trackingId=CVhhgDovuaqP5CaD%2Bnyznw%3D%3D&keywords=Data%20Scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=EIhvGm%2BXpVoWgKlHXSIl0A%3D%3D&geoId=101165590&distance=0.0&f_TPR=r604800&f_AL=true",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-17T18:08:16.731Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-17T18:08:16.731Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4454516834&eBP=CwEAAAGgEOf4gHlOStjRz-XkJfe8kVkS7ZxJA0vPONTfdoUBtQjkVbdb-CQKXLzadUo1BWnV9XMM5Cm96ZT3u7Acg8VSznEgl9qhR_EK4UYjbv1p2Vc3VQ8sLnV9rjd9ph3rPCWUBrYZhyhOuaOrxOS3Qf4IQMjRnqOaX36IGgZetMo_3xQdc5ohgECfyHFdI--DdE9vfAYL8f4db6PEaV-e3-dCusaRe5UMs8ODDGU3SVxbgp6vU5eEQwboYrxKZ7wJQOnvvW-yTBJ6hnT07M2GrRQB9duwEWmC4MQY3WPCFjsFLUZRMSpWvBIe7v23ghNTy1cNjYBHzQHR91GpFip9lIBOzyoHeKq7mVXG8hAWAEGP4yCDuYgmyYV37rf4pcDcX_Q-E6ibKHAUTi__vWGVmUsSmcq9d12psAJ1P9IHSHmmzLuTVwhdysHP9vV0EMCMrEqNDGoraIZJtokPCwMOBxL3-Mspbyk3kd05jN8egc4D0JDCelz8ewm9olkfZWdzQlN2Ccc&refId=s2Ve4GOVJUR7jdUJ3C3Mxw%3D%3D&trackingId=CVhhgDovuaqP5CaD%2Bnyznw%3D%3D&keywords=Data%20Scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=EIhvGm%2BXpVoWgKlHXSIl0A%3D%3D&geoId=101165590&distance=0.0&f_TPR=r604800&f_AL=true\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4454516834&eBP=CwEAAAGgEOf4gHlOStjRz-XkJfe8kVkS7ZxJA0vPONTfdoUBtQjkVbdb-CQKXLzadUo1BWnV9XMM5Cm96ZT3u7Acg8VSznEgl9qhR_EK4UYjbv1p2Vc3VQ8sLnV9rjd9ph3rPCWUBrYZhyhOuaOrxOS3Qf4IQMjRnqOaX36IGgZetMo_3xQdc5ohgECfyHFdI--DdE9vfAYL8f4db6PEaV-e3-dCusaRe5UMs8ODDGU3SVxbgp6vU5eEQwboYrxKZ7wJQOnvvW-yTBJ6hnT07M2GrRQB9duwEWmC4MQY3WPCFjsFLUZRMSpWvBIe7v23ghNTy1cNjYBHzQHR91GpFip9lIBOzyoHeKq7mVXG8hAWAEGP4yCDuYgmyYV37rf4pcDcX_Q-E6ibKHAUTi__vWGVmUsSmcq9d12psAJ1P9IHSHmmzLuTVwhdysHP9vV0EMCMrEqNDGoraIZJtokPCwMOBxL3-Mspbyk3kd05jN8egc4D0JDCelz8ewm9olkfZWdzQlN2Ccc&refId=s2Ve4GOVJUR7jdUJ3C3Mxw%3D%3D&trackingId=CVhhgDovuaqP5CaD%2Bnyznw%3D%3D&keywords=Data%20Scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=EIhvGm%2BXpVoWgKlHXSIl0A%3D%3D&geoId=101165590&distance=0.0&f_TPR=r604800&f_AL=true\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
+      "jobId": "shared:manual-4f1f0d27e0c923d613bc",
+      "title": "Data Scientist - myPOS",
+      "company": "myPOS",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.mypos.com/jobs/7985735-data-scientist?utm_source=LinkedIn",
+      "portalUrl": "https://careers.mypos.com/jobs/7985735-data-scientist?utm_source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-17T18:02:50.027Z",
+      "jobDescription": "# Data Scientist - myPOS\n\n- **Company:** myPOS\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-17T18:02:50.027Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.mypos.com/jobs/7985735-data-scientist?utm_source=LinkedIn\n- **Application portal:** https://careers.mypos.com/jobs/7985735-data-scientist?utm_source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAt myPOS, we’re all about helping businesses grow and get paid. We make payments simple, smart, and accessible for everyone, but we’re more than just payment...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_mypos_mypos.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-e9edbeea095e850f7c39",
       "title": "Thank You | Kainos Careers",
       "company": "careers.kainos.com",
