@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b7f0680b3b10f656f945",
+      "title": "Data Scientist",
+      "company": "job-boards.eu.greenhouse.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4953254101",
+      "portalUrl": "https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4953254101",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-17T18:22:23.566Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** job-boards.eu.greenhouse.io\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-17T18:22:23.566Z\n- **Licensed sponsor:** \n- **Original posting:** https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4953254101\n- **Application portal:** https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4953254101\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_job_boards_eu_greenhouse_io.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-35d66e33098a34590f60",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
