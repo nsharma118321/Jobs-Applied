@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-e3d42d885e3b47585600",
+      "title": "Stripe Careers | Data Scientist, Payments",
+      "company": "stripe.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://stripe.com/careers/listing/data-scientist-payments/8018297?gh_src=73vnei",
+      "portalUrl": "https://stripe.com/careers/listing/data-scientist-payments/8018297?gh_src=73vnei",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-17T15:57:34.836Z",
+      "jobDescription": "# Stripe Careers | Data Scientist, Payments\n\n- **Company:** stripe.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-17T15:57:34.836Z\n- **Licensed sponsor:** \n- **Original posting:** https://stripe.com/careers/listing/data-scientist-payments/8018297?gh_src=73vnei\n- **Application portal:** https://stripe.com/careers/listing/data-scientist-payments/8018297?gh_src=73vnei\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/stripe_careers_data_scientist_payments_stripe_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-f6154437e9dc0e5ffc6c",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
