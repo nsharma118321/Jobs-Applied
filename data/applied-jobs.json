@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-cf009669c438164ffbd2",
+      "title": "External job application",
+      "company": "uk.indeed.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://uk.indeed.com/jobs?q=data+science&l=United+Kingdom&sc=0kf%3Aattr%28EXSNN%29%3B&from=searchOnDesktopSerp&vjk=76f7aba29271e8dc",
+      "portalUrl": "https://uk.indeed.com/jobs?q=data+science&l=United+Kingdom&sc=0kf%3Aattr%28EXSNN%29%3B&from=searchOnDesktopSerp&vjk=76f7aba29271e8dc",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-18T10:44:53.506Z",
+      "jobDescription": "# External job application\n\n- **Company:** uk.indeed.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-18T10:44:53.506Z\n- **Licensed sponsor:** \n- **Original posting:** https://uk.indeed.com/jobs?q=data+science&l=United+Kingdom&sc=0kf%3Aattr%28EXSNN%29%3B&from=searchOnDesktopSerp&vjk=76f7aba29271e8dc\n- **Application portal:** https://uk.indeed.com/jobs?q=data+science&l=United+Kingdom&sc=0kf%3Aattr%28EXSNN%29%3B&from=searchOnDesktopSerp&vjk=76f7aba29271e8dc\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_uk_indeed_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-0fbfccf2c2b6cb0112e4",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
