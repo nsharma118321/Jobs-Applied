@@ -1,0 +1,28 @@
+# Data Scientist
+
+- **Company:** InterEx Group
+- **Location:** London, United Kingdom
+- **Applied by:** OM
+- **Applied date:** 2026-08-18T15:19:38.458Z
+- **Licensed sponsor:** Interex Limited
+- **Original posting:** https://www.linkedin.com/jobs/view/4440473596/
+- **Application portal:** https://www.linkedin.com/jobs/view/4440473596/
+- **Resume used:** Not recorded
+- **Resume originally designed for:** Not recorded
+
+## Job description captured at application time
+
+The ideal candidate's favourite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.
+
+Responsibilities
+- Analyze raw data: assessing quality, cleansing, and structuring for downstream processing
+- Design accurate and scalable prediction algorithms
+- Collaborate with the engineering team to bring analytical prototypes to production
+- Generate actionable insights for business improvements
+
+Qualifications
+- Bachelor's degree or equivalent experience in quantitative field (Statistics, Mathematics, Computer Science, Engineering, etc.)
+- At least 1 - 2 years of experience in quantitative analytics or data modelling
+- Deep understanding of predictive modelling, machine-learning, clustering and classification techniques, and algorithms
+- Fluency in a programming language (Python, C,C++, Java, SQL)
+- Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau)
