@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4440473596",
+      "title": "Data Scientist",
+      "company": "InterEx Group",
+      "location": "London, United Kingdom",
+      "sponsorName": "Interex Limited",
+      "originalUrl": "https://www.linkedin.com/jobs/view/4440473596/",
+      "portalUrl": "https://www.linkedin.com/jobs/view/4440473596/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-18T15:19:38.458Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** InterEx Group\n- **Location:** London, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-18T15:19:38.458Z\n- **Licensed sponsor:** Interex Limited\n- **Original posting:** https://www.linkedin.com/jobs/view/4440473596/\n- **Application portal:** https://www.linkedin.com/jobs/view/4440473596/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe ideal candidate's favourite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.\n\nResponsibilities\n- Analyze raw data: assessing quality, cleansing, and structuring for downstream processing\n- Design accurate and scalable prediction algorithms\n- Collaborate with the engineering team to bring analytical prototypes to production\n- Generate actionable insights for business improvements\n\nQualifications\n- Bachelor's degree or equivalent experience in quantitative field (Statistics, Mathematics, Computer Science, Engineering, etc.)\n- At least 1 - 2 years of experience in quantitative analytics or data modelling\n- Deep understanding of predictive modelling, machine-learning, clustering and classification techniques, and algorithms\n- Fluency in a programming language (Python, C,C++, Java, SQL)\n- Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau)\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_interex_group.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-e61259a57b3a92aee96d",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
