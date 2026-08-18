@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-da2d56fd1c01f79b4689",
+      "title": "Thank you for applying | Marsh &amp; McLennan Careers",
+      "company": "careers.marsh.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.marsh.com/global/en/applythankyou?status=alreadyApplied&jobSeqNo=MAMCGLOBALR351120EXTERNALENGLOBAL&jobTitle=Data%20Engineer&jobId=R_351120&candidateHomeUrl=https://mmc.wd1.myworkdayjobs.com/en-US/MMC/login?Job_Application_ID=undefined&jobApplicationId=undefined&candidateId=CAND-6501458",
+      "portalUrl": "https://careers.marsh.com/global/en/applythankyou?status=alreadyApplied&jobSeqNo=MAMCGLOBALR351120EXTERNALENGLOBAL&jobTitle=Data%20Engineer&jobId=R_351120&candidateHomeUrl=https://mmc.wd1.myworkdayjobs.com/en-US/MMC/login?Job_Application_ID=undefined&jobApplicationId=undefined&candidateId=CAND-6501458",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-18T17:26:33.537Z",
+      "jobDescription": "# Thank you for applying | Marsh &amp; McLennan Careers\n\n- **Company:** careers.marsh.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-18T17:26:33.537Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.marsh.com/global/en/applythankyou?status=alreadyApplied&jobSeqNo=MAMCGLOBALR351120EXTERNALENGLOBAL&jobTitle=Data%20Engineer&jobId=R_351120&candidateHomeUrl=https://mmc.wd1.myworkdayjobs.com/en-US/MMC/login?Job_Application_ID=undefined&jobApplicationId=undefined&candidateId=CAND-6501458\n- **Application portal:** https://careers.marsh.com/global/en/applythankyou?status=alreadyApplied&jobSeqNo=MAMCGLOBALR351120EXTERNALENGLOBAL&jobTitle=Data%20Engineer&jobId=R_351120&candidateHomeUrl=https://mmc.wd1.myworkdayjobs.com/en-US/MMC/login?Job_Application_ID=undefined&jobApplicationId=undefined&candidateId=CAND-6501458\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/thank_you_for_applying_marsh_amp_mclennan_careers_careers_marsh_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-8a88745166c333cb4856",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
