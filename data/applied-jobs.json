@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-31ebf59583413d9f49f4",
+      "title": "Python & AWS Software Engineer - Data Science Focus",
+      "company": "aplitrak.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.aplitrak.com/?adid=Q2hsb2UuUm93bGV5LjM1MjkwLjE1NTBAYWRlY2NvcHMuYXBsaXRyYWsuY29t",
+      "portalUrl": "https://www.aplitrak.com/?adid=Q2hsb2UuUm93bGV5LjM1MjkwLjE1NTBAYWRlY2NvcHMuYXBsaXRyYWsuY29t",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-19T18:05:26.648Z",
+      "jobDescription": "# Python & AWS Software Engineer - Data Science Focus\n\n- **Company:** aplitrak.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-19T18:05:26.648Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.aplitrak.com/?adid=Q2hsb2UuUm93bGV5LjM1MjkwLjE1NTBAYWRlY2NvcHMuYXBsaXRyYWsuY29t\n- **Application portal:** https://www.aplitrak.com/?adid=Q2hsb2UuUm93bGV5LjM1MjkwLjE1NTBAYWRlY2NvcHMuYXBsaXRyYWsuY29t\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nSoftware Engineer (Python & AWS) &ndash; Data Science Focus\n\nLocation: Derby &ndash; 1 day per week\n\nSalary: &pound;60,000 &ndash; &pound;75,000\n\n \n\nAbout the Opportunity\n\n * We&rsquo;re looking for a talented Software Engineer with a strong interest in data and data science to join an innovative technology team.\n * This is an opportunity to work on complex, data-driven products that combine software engineering, cloud technologies and machine learning. You'll be involved in designing and building applications, APIs and data pipelines that help transform large volumes of complex data into meaningful, actionable insights.\n\n \n\nWhat You'll Be Doing\n\n * Designing and developing data pipelines, ETL processes and backend services using Python.\n * Building and maintaining APIs and microservices that deliver data products to internal and external users.\n * Working with large and complex datasets\n * Implementing and deploying machine learning models and statistical analysis into production environments.\n * Designing and managing AWS cloud infrastructure to support data and application workloads\n\n \n\nWhat We're Looking For\n\n * Strong Python development experience, ideally with exposure to libraries such as NumPy, Pandas or Scikit-learn.\n * Experience building data pipelines and working with structured and unstructured data.\n * Experience working with AWS services such as S3, Lambda, EC2, RDS and Glue.\n * A solid understanding of statistics and applied mathematics.\n * The ability to understand, interpret and extend complex algorithms and business logic.\n * A strong grounding in software engineering principles, including testing, code quality and design patterns.\n * Experience with Git, CI/CD pipelines and Agile development practices.\n\n \n\nDesirable Skills\n\n * Experience working with time-series, geospatial, sensor or other complex datasets.\n * Exposure to machine learning or deploying ML models into production.\n * Familiarity with frontend technologies such as React and TypeScript.\n * Experience with infrastructure as code, such as Terraform or CloudFormation.\n * AWS certifications would be beneficial\n\n \n\nAdecco is a disability-confident employer. It is important to us that we run an inclusive and accessible recruitment process to support candidates of all backgrounds and all abilities to apply. Adecco is committed to building a supportive environment for you to explore the next steps in your career. If you require reasonable adjustments at any stage, please let us know and we will be happy to support you.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/python_aws_software_engineer_data_science_focus_aplitrak_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-3fcff142e6b86381e56c",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
