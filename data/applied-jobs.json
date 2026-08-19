@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-21e80890daec597d56e7",
+      "title": "Lead Streaming Platform Engineer",
+      "company": "job-boards.greenhouse.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://job-boards.greenhouse.io/onrunning/jobs/7975915?gh_jid=7975915",
+      "portalUrl": "https://job-boards.greenhouse.io/onrunning/jobs/7975915?gh_jid=7975915",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-19T18:25:16.995Z",
+      "jobDescription": "# Lead Streaming Platform Engineer\n\n- **Company:** job-boards.greenhouse.io\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-19T18:25:16.995Z\n- **Licensed sponsor:** \n- **Original posting:** https://job-boards.greenhouse.io/onrunning/jobs/7975915?gh_jid=7975915\n- **Application portal:** https://job-boards.greenhouse.io/onrunning/jobs/7975915?gh_jid=7975915\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/lead_streaming_platform_engineer_job_boards_greenhouse_io.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-4c8252a5a68df083eb19",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
