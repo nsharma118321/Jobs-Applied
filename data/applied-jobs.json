@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4c8252a5a68df083eb19",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "company": "LinkedIn",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4452847417&eBP=BUDGET_EXHAUSTED_JOB&refId=VXMP67VaSrMN0%2FkBV%2F5aNg%3D%3D&trackingId=aToRxp2RTPfRYYDF%2FHpM4g%3D%3D&keywords=data%20engineer%20posted%20in%20the%20past%2024%20hours&origin=JOBS_HOME_KEYWORD_HISTORY&start=75&geoId=101165590&distance=0.0",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4452847417&eBP=BUDGET_EXHAUSTED_JOB&refId=VXMP67VaSrMN0%2FkBV%2F5aNg%3D%3D&trackingId=aToRxp2RTPfRYYDF%2FHpM4g%3D%3D&keywords=data%20engineer%20posted%20in%20the%20past%2024%20hours&origin=JOBS_HOME_KEYWORD_HISTORY&start=75&geoId=101165590&distance=0.0",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-19T18:13:40.536Z",
+      "jobDescription": "# LinkedIn Login, Sign in | LinkedIn\n\n- **Company:** LinkedIn\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-19T18:13:40.536Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4452847417&eBP=BUDGET_EXHAUSTED_JOB&refId=VXMP67VaSrMN0%2FkBV%2F5aNg%3D%3D&trackingId=aToRxp2RTPfRYYDF%2FHpM4g%3D%3D&keywords=data%20engineer%20posted%20in%20the%20past%2024%20hours&origin=JOBS_HOME_KEYWORD_HISTORY&start=75&geoId=101165590&distance=0.0\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4452847417&eBP=BUDGET_EXHAUSTED_JOB&refId=VXMP67VaSrMN0%2FkBV%2F5aNg%3D%3D&trackingId=aToRxp2RTPfRYYDF%2FHpM4g%3D%3D&keywords=data%20engineer%20posted%20in%20the%20past%2024%20hours&origin=JOBS_HOME_KEYWORD_HISTORY&start=75&geoId=101165590&distance=0.0\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/linkedin_login_sign_in_linkedin_linkedin.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-a6f1572491be9e5da311",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
