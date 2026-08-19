@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-3dfdfdc265479ee84693",
+      "title": "External job application",
+      "company": "jobs.smartrecruiters.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.smartrecruiters.com/oneclick-ui/company/Wise/publication/9f064613-bb65-4e2d-912d-0133ea51e716/success?dcr_ci=Wise&sid=d5cf7ceb-8363-4cd5-b9b6-4d322d332e61",
+      "portalUrl": "https://jobs.smartrecruiters.com/oneclick-ui/company/Wise/publication/9f064613-bb65-4e2d-912d-0133ea51e716/success?dcr_ci=Wise&sid=d5cf7ceb-8363-4cd5-b9b6-4d322d332e61",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-19T16:08:03.424Z",
+      "jobDescription": "# External job application\n\n- **Company:** jobs.smartrecruiters.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-19T16:08:03.424Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.smartrecruiters.com/oneclick-ui/company/Wise/publication/9f064613-bb65-4e2d-912d-0133ea51e716/success?dcr_ci=Wise&sid=d5cf7ceb-8363-4cd5-b9b6-4d322d332e61\n- **Application portal:** https://jobs.smartrecruiters.com/oneclick-ui/company/Wise/publication/9f064613-bb65-4e2d-912d-0133ea51e716/success?dcr_ci=Wise&sid=d5cf7ceb-8363-4cd5-b9b6-4d322d332e61\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_jobs_smartrecruiters_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4456333034",
       "title": "Lead Data Scientist",
       "company": "Lloyds Banking Group",
