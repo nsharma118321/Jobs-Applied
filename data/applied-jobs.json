@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-d245c3e765c7e74dd256",
+      "title": "Thank you for applying | UCB Careers",
+      "company": "careers.ucb.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.ucb.com/global/en/applythankyou?status=alreadyApplied&jobSeqNo=UCB1GLOBAL93501EXTERNALENGLOBAL&jobTitle=Research%20Data%20Scientist%20-%20Macrophage&jobId=93501",
+      "portalUrl": "https://careers.ucb.com/global/en/applythankyou?status=alreadyApplied&jobSeqNo=UCB1GLOBAL93501EXTERNALENGLOBAL&jobTitle=Research%20Data%20Scientist%20-%20Macrophage&jobId=93501",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-19T15:28:28.291Z",
+      "jobDescription": "# Thank you for applying | UCB Careers\n\n- **Company:** careers.ucb.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-19T15:28:28.291Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.ucb.com/global/en/applythankyou?status=alreadyApplied&jobSeqNo=UCB1GLOBAL93501EXTERNALENGLOBAL&jobTitle=Research%20Data%20Scientist%20-%20Macrophage&jobId=93501\n- **Application portal:** https://careers.ucb.com/global/en/applythankyou?status=alreadyApplied&jobSeqNo=UCB1GLOBAL93501EXTERNALENGLOBAL&jobTitle=Research%20Data%20Scientist%20-%20Macrophage&jobId=93501\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/thank_you_for_applying_ucb_careers_careers_ucb_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-aa4743f005fc1f92f11a",
       "title": "Data Science",
       "company": "jobs.ashbyhq.com",
