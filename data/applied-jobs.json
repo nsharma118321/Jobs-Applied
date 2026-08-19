@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-7752fe96b49a54e60234",
+      "title": "External job application",
+      "company": "careers-kingfisher2.icims.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers-kingfisher2.icims.com/jobs/150732/machine-learning-engineer/candidate?from=login&csrf=C93F30258113D869&hashed=-625976270",
+      "portalUrl": "https://careers-kingfisher2.icims.com/jobs/150732/machine-learning-engineer/candidate?from=login&csrf=C93F30258113D869&hashed=-625976270",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-19T18:43:10.573Z",
+      "jobDescription": "# External job application\n\n- **Company:** careers-kingfisher2.icims.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-19T18:43:10.573Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers-kingfisher2.icims.com/jobs/150732/machine-learning-engineer/candidate?from=login&csrf=C93F30258113D869&hashed=-625976270\n- **Application portal:** https://careers-kingfisher2.icims.com/jobs/150732/machine-learning-engineer/candidate?from=login&csrf=C93F30258113D869&hashed=-625976270\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_careers_kingfisher2_icims_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-339a52328443138ca7c6",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
