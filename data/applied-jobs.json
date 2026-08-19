@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-01472d06958969c80726",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "company": "LinkedIn",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4453439957&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=wWqR1TU91rt%2FwFRLJCy1BA%3D%3D&trackingId=5%2FlRORdTZJJolzOgMOt9tA%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=5QSQenZ7FruFrhLTOYIuRw%3D%3D&geoId=101165590&distance=0.0&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4453439957&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=wWqR1TU91rt%2FwFRLJCy1BA%3D%3D&trackingId=5%2FlRORdTZJJolzOgMOt9tA%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=5QSQenZ7FruFrhLTOYIuRw%3D%3D&geoId=101165590&distance=0.0&f_TPR=r86400",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-19T15:29:36.187Z",
+      "jobDescription": "# LinkedIn Login, Sign in | LinkedIn\n\n- **Company:** LinkedIn\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-19T15:29:36.187Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4453439957&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=wWqR1TU91rt%2FwFRLJCy1BA%3D%3D&trackingId=5%2FlRORdTZJJolzOgMOt9tA%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=5QSQenZ7FruFrhLTOYIuRw%3D%3D&geoId=101165590&distance=0.0&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4453439957&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=wWqR1TU91rt%2FwFRLJCy1BA%3D%3D&trackingId=5%2FlRORdTZJJolzOgMOt9tA%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=5QSQenZ7FruFrhLTOYIuRw%3D%3D&geoId=101165590&distance=0.0&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/linkedin_login_sign_in_linkedin_linkedin.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-d245c3e765c7e74dd256",
       "title": "Thank you for applying | UCB Careers",
       "company": "careers.ucb.com",
