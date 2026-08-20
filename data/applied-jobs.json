@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b9b9e9574c9de92d1a25",
+      "title": "Data Engineer",
+      "company": "job-boards.greenhouse.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://job-boards.greenhouse.io/spauldingridge/jobs/5988401004",
+      "portalUrl": "https://job-boards.greenhouse.io/spauldingridge/jobs/5988401004",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-20T09:36:44.917Z",
+      "jobDescription": "# Data Engineer\n\n- **Company:** job-boards.greenhouse.io\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-20T09:36:44.917Z\n- **Licensed sponsor:** \n- **Original posting:** https://job-boards.greenhouse.io/spauldingridge/jobs/5988401004\n- **Application portal:** https://job-boards.greenhouse.io/spauldingridge/jobs/5988401004\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_engineer_job_boards_greenhouse_io.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-6ae634726a8155ce652c",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
