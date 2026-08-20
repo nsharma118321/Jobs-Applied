@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-125d2acea4df0611c6e4",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "company": "LinkedIn",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4453837092&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=ErAFYI1F%2BYzTlr7BzbDVCw%3D%3D&trackingId=DQpZUsBvQqIkPnBXzczK1w%3D%3D&keywords=data%20engineer%20posted%20in%20the%20past%2024%20hours%20posted%20in%20the%20past%2024%20hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=JqyCzqDlhYP%2FxfpDWYMmkg%3D%3D&start=50&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4453837092&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=ErAFYI1F%2BYzTlr7BzbDVCw%3D%3D&trackingId=DQpZUsBvQqIkPnBXzczK1w%3D%3D&keywords=data%20engineer%20posted%20in%20the%20past%2024%20hours%20posted%20in%20the%20past%2024%20hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=JqyCzqDlhYP%2FxfpDWYMmkg%3D%3D&start=50&f_TPR=r86400",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-20T12:59:20.163Z",
+      "jobDescription": "# LinkedIn Login, Sign in | LinkedIn\n\n- **Company:** LinkedIn\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-20T12:59:20.163Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4453837092&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=ErAFYI1F%2BYzTlr7BzbDVCw%3D%3D&trackingId=DQpZUsBvQqIkPnBXzczK1w%3D%3D&keywords=data%20engineer%20posted%20in%20the%20past%2024%20hours%20posted%20in%20the%20past%2024%20hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=JqyCzqDlhYP%2FxfpDWYMmkg%3D%3D&start=50&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4453837092&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=ErAFYI1F%2BYzTlr7BzbDVCw%3D%3D&trackingId=DQpZUsBvQqIkPnBXzczK1w%3D%3D&keywords=data%20engineer%20posted%20in%20the%20past%2024%20hours%20posted%20in%20the%20past%2024%20hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=JqyCzqDlhYP%2FxfpDWYMmkg%3D%3D&start=50&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/linkedin_login_sign_in_linkedin_linkedin.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-6e981920d59de9c21313",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
