@@ -3,10 +3,10 @@
 - **Company:** job-boards.greenhouse.io
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-08-13T14:45:42.687Z
+- **Applied date:** 2026-08-20T09:36:44.917Z
 - **Licensed sponsor:** 
-- **Original posting:** https://job-boards.greenhouse.io/generalatlantic/jobs/5688348004
-- **Application portal:** https://job-boards.greenhouse.io/generalatlantic/jobs/5688348004
+- **Original posting:** https://job-boards.greenhouse.io/spauldingridge/jobs/5988401004
+- **Application portal:** https://job-boards.greenhouse.io/spauldingridge/jobs/5988401004
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
