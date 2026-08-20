@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-e1ab9e8f19647d28b03d",
+      "title": "Data Engineer",
+      "company": "vacancies.somersetbridgegroup.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://vacancies.somersetbridgegroup.com/postings/31c3a04d-13ca-4f9a-891d-998e8d992057/applications/new?utm_medium=job_board&utm_source=linkedIn",
+      "portalUrl": "https://vacancies.somersetbridgegroup.com/postings/31c3a04d-13ca-4f9a-891d-998e8d992057/applications/new?utm_medium=job_board&utm_source=linkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-20T09:15:30.143Z",
+      "jobDescription": "# Data Engineer\n\n- **Company:** vacancies.somersetbridgegroup.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-20T09:15:30.143Z\n- **Licensed sponsor:** \n- **Original posting:** https://vacancies.somersetbridgegroup.com/postings/31c3a04d-13ca-4f9a-891d-998e8d992057/applications/new?utm_medium=job_board&utm_source=linkedIn\n- **Application portal:** https://vacancies.somersetbridgegroup.com/postings/31c3a04d-13ca-4f9a-891d-998e8d992057/applications/new?utm_medium=job_board&utm_source=linkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_engineer_vacancies_somersetbridgegroup_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-8af9a71407f02509bf04",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
