@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-650f2ac5137430c94662",
+      "title": "Data Engineer (Snowflake) - ClearRoute",
+      "company": "ClearRoute",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://clearroute.teamtailor.com/jobs/8240992-data-engineer-snowflake",
+      "portalUrl": "https://clearroute.teamtailor.com/jobs/8240992-data-engineer-snowflake",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-20T10:51:52.246Z",
+      "jobDescription": "# Data Engineer (Snowflake) - ClearRoute\n\n- **Company:** ClearRoute\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-20T10:51:52.246Z\n- **Licensed sponsor:** \n- **Original posting:** https://clearroute.teamtailor.com/jobs/8240992-data-engineer-snowflake\n- **Application portal:** https://clearroute.teamtailor.com/jobs/8240992-data-engineer-snowflake\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAbout Us: ClearRoute is an engineering consultancy bridging Quality Engineering, Cloud Platforms and Developer Experience. We help enterprises reliably bring...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_engineer_snowflake_clearroute_clearroute.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-2d17274d7db221851409",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
