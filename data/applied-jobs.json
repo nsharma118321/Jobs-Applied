@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-bdd381857d280b7ff87d",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "company": "LinkedIn",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4456002432&keywords=data%20engineer&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=2YbVbwZSsxsLjjkUe4EvAg%3D%3D&geoId=101165590&distance=0.0&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4456002432&keywords=data%20engineer&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=2YbVbwZSsxsLjjkUe4EvAg%3D%3D&geoId=101165590&distance=0.0&f_TPR=r86400",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-20T16:04:30.286Z",
+      "jobDescription": "# LinkedIn Login, Sign in | LinkedIn\n\n- **Company:** LinkedIn\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-20T16:04:30.286Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4456002432&keywords=data%20engineer&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=2YbVbwZSsxsLjjkUe4EvAg%3D%3D&geoId=101165590&distance=0.0&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4456002432&keywords=data%20engineer&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=2YbVbwZSsxsLjjkUe4EvAg%3D%3D&geoId=101165590&distance=0.0&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/linkedin_login_sign_in_linkedin_linkedin.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-5200520d53fa40405bf1",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
