@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4738752fe796974a27f4",
+      "title": "AI Engineer",
+      "company": "Waystone",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://waystone.bamboohr.com/careers/1641?source=LinkedIn",
+      "portalUrl": "https://waystone.bamboohr.com/careers/1641?source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-21T10:16:08.711Z",
+      "jobDescription": "# AI Engineer\n\n- **Company:** Waystone\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-21T10:16:08.711Z\n- **Licensed sponsor:** \n- **Original posting:** https://waystone.bamboohr.com/careers/1641?source=LinkedIn\n- **Application portal:** https://waystone.bamboohr.com/careers/1641?source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAbout Waystone  \nWaystone is a leading asset-servicing solutions provider of institutional governance, administration, risk and compliance services to financial institutions. With over 25 years’ experience and a comprehensive range of specialist services to its name, Waystone helps our clients structure,\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/ai_engineer_waystone.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-9025ab1feaeb9f5b00d9",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
