@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-14d280ad24384bd78416",
+      "title": "Application successful",
+      "company": "cvlibrary.webhook.jobadder.host",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://cvlibrary.webhook.jobadder.host/eu1/3357/610330/Data%20Scientist?cvl_url=https://application-tracking-partners.api.cv-library.co.uk/v1/candidate/YWtfZjNkMzNlNWUzMjUwODRiMTYzY2Y0MzY3YTkxYjU4ZjM6M0lEZG5PMUtjdE9GV21iYmQxUG15UFh3MHhJ",
+      "portalUrl": "https://cvlibrary.webhook.jobadder.host/eu1/3357/610330/Data%20Scientist?cvl_url=https://application-tracking-partners.api.cv-library.co.uk/v1/candidate/YWtfZjNkMzNlNWUzMjUwODRiMTYzY2Y0MzY3YTkxYjU4ZjM6M0lEZG5PMUtjdE9GV21iYmQxUG15UFh3MHhJ",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-21T09:07:57.382Z",
+      "jobDescription": "# Application successful\n\n- **Company:** cvlibrary.webhook.jobadder.host\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-21T09:07:57.382Z\n- **Licensed sponsor:** \n- **Original posting:** https://cvlibrary.webhook.jobadder.host/eu1/3357/610330/Data%20Scientist?cvl_url=https://application-tracking-partners.api.cv-library.co.uk/v1/candidate/YWtfZjNkMzNlNWUzMjUwODRiMTYzY2Y0MzY3YTkxYjU4ZjM6M0lEZG5PMUtjdE9GV21iYmQxUG15UFh3MHhJ\n- **Application portal:** https://cvlibrary.webhook.jobadder.host/eu1/3357/610330/Data%20Scientist?cvl_url=https://application-tracking-partners.api.cv-library.co.uk/v1/candidate/YWtfZjNkMzNlNWUzMjUwODRiMTYzY2Y0MzY3YTkxYjU4ZjM6M0lEZG5PMUtjdE9GV21iYmQxUG15UFh3MHhJ\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/application_successful_cvlibrary_webhook_jobadder_host.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-a036dc224da2627ddfae",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
