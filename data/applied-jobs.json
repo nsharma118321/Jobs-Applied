@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-f05d356948e6779ec7e9",
+      "title": "Apply - NFU Mutual Careers",
+      "company": "careers.nfumutual.co.uk",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.nfumutual.co.uk/apply?jobId=QCUFK026203F3VBQB7979QWLL-345834&langCode=en_GB&resumeToken=eyJhbGciOiJIUzI1NiJ9.eyJpZGVudGlmaWVyIjoiUUNVRkswMjYyMDNGM1ZCUUI3OTc5UVdMTC0zNDU4MzQ6OjI5N2ZmNTVmLTNmZmQtNDhjNi05M2FhLWY5YzkwNTBkOGViMCJ9._JOiXO-uSeyTV1zx1oVbNmI4C_udabc7DIL1Z-RcQ2w",
+      "portalUrl": "https://careers.nfumutual.co.uk/apply?jobId=QCUFK026203F3VBQB7979QWLL-345834&langCode=en_GB&resumeToken=eyJhbGciOiJIUzI1NiJ9.eyJpZGVudGlmaWVyIjoiUUNVRkswMjYyMDNGM1ZCUUI3OTc5UVdMTC0zNDU4MzQ6OjI5N2ZmNTVmLTNmZmQtNDhjNi05M2FhLWY5YzkwNTBkOGViMCJ9._JOiXO-uSeyTV1zx1oVbNmI4C_udabc7DIL1Z-RcQ2w",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-24T12:13:15.387Z",
+      "jobDescription": "# Apply - NFU Mutual Careers\n\n- **Company:** careers.nfumutual.co.uk\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-24T12:13:15.387Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.nfumutual.co.uk/apply?jobId=QCUFK026203F3VBQB7979QWLL-345834&langCode=en_GB&resumeToken=eyJhbGciOiJIUzI1NiJ9.eyJpZGVudGlmaWVyIjoiUUNVRkswMjYyMDNGM1ZCUUI3OTc5UVdMTC0zNDU4MzQ6OjI5N2ZmNTVmLTNmZmQtNDhjNi05M2FhLWY5YzkwNTBkOGViMCJ9._JOiXO-uSeyTV1zx1oVbNmI4C_udabc7DIL1Z-RcQ2w\n- **Application portal:** https://careers.nfumutual.co.uk/apply?jobId=QCUFK026203F3VBQB7979QWLL-345834&langCode=en_GB&resumeToken=eyJhbGciOiJIUzI1NiJ9.eyJpZGVudGlmaWVyIjoiUUNVRkswMjYyMDNGM1ZCUUI3OTc5UVdMTC0zNDU4MzQ6OjI5N2ZmNTVmLTNmZmQtNDhjNi05M2FhLWY5YzkwNTBkOGViMCJ9._JOiXO-uSeyTV1zx1oVbNmI4C_udabc7DIL1Z-RcQ2w\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/apply_nfu_mutual_careers_careers_nfumutual_co_uk.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-990e0373e2cdd9b5da7f",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
