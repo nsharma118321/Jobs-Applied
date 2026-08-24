@@ -14,19 +14,6 @@
       "applyStatus": "unknown"
     },
     {
-      "id": "linkedin:4456607301",
-      "title": "Data scientist",
-      "company": "Bending Spoons",
-      "location": "Oxford, United Kingdom",
-      "postedAt": "2026-08-22T11:16:46.397Z",
-      "postedLabel": "1 day ago",
-      "url": "https://www.linkedin.com/jobs/view/4456607301/",
-      "sponsorName": "Bending Spoons Operations S.P.A.(UK Branch)",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
       "id": "arbeitnow:data-scientist-london-347976",
       "title": "Data Scientist",
       "company": "Neko Health",
@@ -64,32 +51,6 @@
       "sponsorVerified": true,
       "source": "LinkedIn browser (OM)",
       "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4454194878",
-      "title": "Lead Data Scientist",
-      "company": "Women in Data®",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-08-21T10:14:23.958Z",
-      "postedLabel": "8 minutes ago",
-      "url": "https://www.linkedin.com/jobs/view/4454194878/",
-      "sponsorName": "Women in Data Limited",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "smartrecruiters:Wise:744000144344607",
-      "title": "Lead Data Scientist - Treasury Markets Quant",
-      "company": "Wise",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-08-19T14:59:07.167Z",
-      "postedLabel": "3 days ago",
-      "url": "https://jobs.smartrecruiters.com/Wise/744000144344607-lead-data-scientist-treasury-markets-quant",
-      "sponsorName": "Wise Payments Limited",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
     },
     {
       "id": "linkedin:4456330063",
@@ -190,19 +151,6 @@
       "postedAt": "2026-08-17T00:33:41.335Z",
       "postedLabel": "17 hours ago",
       "url": "https://www.linkedin.com/jobs/view/4454229150/",
-      "sponsorName": "Bending Spoons Operations S.P.A.(UK Branch)",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4454224127",
-      "title": "Data scientist",
-      "company": "Bending Spoons",
-      "location": "Oxford, United Kingdom",
-      "postedAt": "2026-08-17T00:22:08.788Z",
-      "postedLabel": "15 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4454224127/",
       "sponsorName": "Bending Spoons Operations S.P.A.(UK Branch)",
       "sponsorVerified": true,
       "source": "LinkedIn browser (OM)",
@@ -370,7 +318,7 @@
       "company": "Genomics England",
       "location": "London, United Kingdom",
       "postedAt": "2026-08-03T14:34:17.823Z",
-      "postedLabel": "19 days ago",
+      "postedLabel": "20 days ago",
       "url": "https://jobs.smartrecruiters.com/GenomicsEngland/744000141281890-genomic-data-scientist-we-have-office-locations-in-cambridge-leeds-london",
       "sponsorName": "Genomics England Limited",
       "sponsorVerified": true,
