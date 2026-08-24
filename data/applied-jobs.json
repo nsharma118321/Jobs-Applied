@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-2b26cf79d6c3d173098a",
+      "title": "External job application",
+      "company": "cv-library.co.uk",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.cv-library.co.uk/job/apply/225079593/confirm",
+      "portalUrl": "https://www.cv-library.co.uk/job/apply/225079593/confirm",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-24T11:56:10.109Z",
+      "jobDescription": "# External job application\n\n- **Company:** cv-library.co.uk\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-24T11:56:10.109Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.cv-library.co.uk/job/apply/225079593/confirm\n- **Application portal:** https://www.cv-library.co.uk/job/apply/225079593/confirm\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_cv_library_co_uk.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-2e06b04266c6c4dc3369",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
