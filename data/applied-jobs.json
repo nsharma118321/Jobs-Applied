@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4399955acaf58afb2b23",
+      "title": "Data Engineer - Ripjar",
+      "company": "apply.workable.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://apply.workable.com/ripjar/j/49A3854970/",
+      "portalUrl": "https://apply.workable.com/ripjar/j/49A3854970/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-24T10:25:31.577Z",
+      "jobDescription": "# Data Engineer - Ripjar\n\n- **Company:** apply.workable.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-24T10:25:31.577Z\n- **Licensed sponsor:** \n- **Original posting:** https://apply.workable.com/ripjar/j/49A3854970/\n- **Application portal:** https://apply.workable.com/ripjar/j/49A3854970/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAbout RipjarRipjar was founded by veterans of GCHQ to bring national security-grade intelligence tools to the fight against financial crime. Financial crime funds human trafficking, terrorism, corruption and sanctions evasion on a global scale, and the...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_engineer_ripjar_apply_workable_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-47338fe94cfaabaaea2c",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
