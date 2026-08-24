@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-eb379308ca563dbf95f3",
+      "title": "Data Engineer - Arden University",
+      "company": "Arden University",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.arden.ac.uk/jobs/8249805-data-engineer?utm_source=LinkedIn",
+      "portalUrl": "https://careers.arden.ac.uk/jobs/8249805-data-engineer?utm_source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-24T10:14:35.331Z",
+      "jobDescription": "# Data Engineer - Arden University\n\n- **Company:** Arden University\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-24T10:14:35.331Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.arden.ac.uk/jobs/8249805-data-engineer?utm_source=LinkedIn\n- **Application portal:** https://careers.arden.ac.uk/jobs/8249805-data-engineer?utm_source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nSalary: £50000 - £60000 per annum 2 roles available Employment type: Permanent Hours per week: 37 Reporting into: Principal Data Engineer Department: Analysi...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_engineer_arden_university_arden_university.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4457323215",
       "title": "Data Scientist",
       "company": "ONI",
