@@ -1,19 +1,6 @@
 {
   "jobs": [
     {
-      "id": "arbeitnow:data-scientist-london-347976",
-      "title": "Data Scientist",
-      "company": "Neko Health",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-08-22T09:40:19.000Z",
-      "postedLabel": "1 day ago",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/neko-health/data-scientist-london-347976",
-      "sponsorName": "Neko Health UK Limited",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
-    },
-    {
       "id": "linkedin:4456211539",
       "title": "Data Scientist - Supply Chain Optimisation",
       "company": "Ciena",
