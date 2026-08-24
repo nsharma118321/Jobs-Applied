@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-6f955da473a128ce5714",
+      "title": "ML Engineer - ApprovalMax",
+      "company": "ApprovalMax",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://approvalmax.teamtailor.com/jobs/8010532-ml-engineer",
+      "portalUrl": "https://approvalmax.teamtailor.com/jobs/8010532-ml-engineer",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-24T10:58:24.419Z",
+      "jobDescription": "# ML Engineer - ApprovalMax\n\n- **Company:** ApprovalMax\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-24T10:58:24.419Z\n- **Licensed sponsor:** \n- **Original posting:** https://approvalmax.teamtailor.com/jobs/8010532-ml-engineer\n- **Application portal:** https://approvalmax.teamtailor.com/jobs/8010532-ml-engineer\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAbout ApprovalMax ApprovalMax is a fast-growing B2B SaaS company that helps businesses automate their approval workflows and financial controls. With a globa...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/ml_engineer_approvalmax_approvalmax.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-0c9cdf8e87f357062333",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
