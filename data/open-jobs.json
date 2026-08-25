@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "arbeitnow:data-scientist-audiobooks-analytics-london-279655",
+      "title": "Data Scientist - Audiobooks Analytics",
+      "company": "Spotify",
+      "location": "London, United Kingdom",
+      "postedAt": "2026-08-25T03:24:32.000Z",
+      "postedLabel": "Today",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/data-scientist-audiobooks-analytics-london-279655",
+      "sponsorName": "Spotify Limited",
+      "sponsorVerified": true,
+      "source": "Company careers",
+      "applyStatus": "good"
+    },
+    {
+      "id": "linkedin:4458265291",
+      "title": "Data Scientist II GenAI",
+      "company": "Syngenta",
+      "location": "London, United Kingdom",
+      "postedAt": "2026-08-24T18:21:55.882Z",
+      "postedLabel": "13 hours ago",
+      "url": "https://www.linkedin.com/jobs/view/4458265291/",
+      "sponsorName": "Syngenta Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
       "id": "linkedin:4456330063",
       "title": "Lead Data Scientist",
       "company": "Lloyds Banking Group",
@@ -256,19 +282,6 @@
       "postedLabel": "7 days ago",
       "url": "https://jobs.smartrecruiters.com/Wise/744000141283476-lead-data-scientist-marketing",
       "sponsorName": "Wise Payments Limited",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
-    },
-    {
-      "id": "smartrecruiters:GenomicsEngland:744000141281890",
-      "title": "Genomic Data Scientist - (we have office locations in Cambridge, Leeds & London)",
-      "company": "Genomics England",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-08-03T14:34:17.823Z",
-      "postedLabel": "21 days ago",
-      "url": "https://jobs.smartrecruiters.com/GenomicsEngland/744000141281890-genomic-data-scientist-we-have-office-locations-in-cambridge-leeds-london",
-      "sponsorName": "Genomics England Limited",
       "sponsorVerified": true,
       "source": "Company careers",
       "applyStatus": "good"
