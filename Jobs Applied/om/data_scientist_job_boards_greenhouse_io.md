@@ -3,10 +3,10 @@
 - **Company:** job-boards.greenhouse.io
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-08-14T14:53:27.325Z
+- **Applied date:** 2026-08-25T13:48:16.906Z
 - **Licensed sponsor:** 
-- **Original posting:** https://job-boards.greenhouse.io/wppmedia/jobs/5385941008?gh_src=ql4cojzu8us
-- **Application portal:** https://job-boards.greenhouse.io/wppmedia/jobs/5385941008?gh_src=ql4cojzu8us
+- **Original posting:** https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8631188002?gh_src=a5497tw52us&utm_source=LinkedIn&src=93c4f47a1us&mode=job&source=LinkedIn&__jvst=Job%2520Board&__jvsd=LinkedIn&iis=Job%2BBoard&iisn=LinkedIn
+- **Application portal:** https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8631188002?gh_src=a5497tw52us&utm_source=LinkedIn&src=93c4f47a1us&mode=job&source=LinkedIn&__jvst=Job%2520Board&__jvsd=LinkedIn&iis=Job%2BBoard&iisn=LinkedIn
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
