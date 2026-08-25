@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-052758f5ff08318688b4",
+      "title": "Data Scientist Associate",
+      "company": "JPMC Candidate Experience page",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783485?utm_medium=jobboard&utm_source=LinkedIn",
+      "portalUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783485?utm_medium=jobboard&utm_source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-25T15:32:45.180Z",
+      "jobDescription": "# Data Scientist Associate\n\n- **Company:** JPMC Candidate Experience page\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-25T15:32:45.180Z\n- **Licensed sponsor:** \n- **Original posting:** https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783485?utm_medium=jobboard&utm_source=LinkedIn\n- **Application portal:** https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783485?utm_medium=jobboard&utm_source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nOur Payments Data and Analytics team is responsible for delivering high impact insights to help grow our payments business, driving our Payments data strategy, and creating innovative data-driven products for our clients and internal partners. We combine data science/AI/ML expertise, consultative problem solving, design thinking and a deep understanding of technology to drive value. As a Data Scientist at JPMorganChase within the Global Payments team of our Commercial and Investment Bank, you will collaborate with our global data science and product teams to deliver high-impact analytics use cases and promote the adoption of our global solutions. You will engage with stakeholders to showcase our data-promoted products, gather feedback, and identify new opportunities for insights and product enhancements.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_associate_jpmc_candidate_experience_page.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-d4f17c419d3cfc8cffa1",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
