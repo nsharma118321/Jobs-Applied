@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-34d51b1a369c819da9f8",
+      "title": "Careers",
+      "company": "optimisedgroupltd.careers.hibob.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://optimisedgroupltd.careers.hibob.com/jobs/d48458f1-c9a2-4816-bfd7-c7c1f55d6200/apply?src=LinkedIn",
+      "portalUrl": "https://optimisedgroupltd.careers.hibob.com/jobs/d48458f1-c9a2-4816-bfd7-c7c1f55d6200/apply?src=LinkedIn",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-25T18:27:30.480Z",
+      "jobDescription": "# Careers\n\n- **Company:** optimisedgroupltd.careers.hibob.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-25T18:27:30.480Z\n- **Licensed sponsor:** \n- **Original posting:** https://optimisedgroupltd.careers.hibob.com/jobs/d48458f1-c9a2-4816-bfd7-c7c1f55d6200/apply?src=LinkedIn\n- **Application portal:** https://optimisedgroupltd.careers.hibob.com/jobs/d48458f1-c9a2-4816-bfd7-c7c1f55d6200/apply?src=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/careers_optimisedgroupltd_careers_hibob_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-f310fab3bc2ed5a8a8a3",
       "title": "Data Analyst - Truespeed",
       "company": "Truespeed",
