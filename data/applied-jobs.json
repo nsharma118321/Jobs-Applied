@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-fdfb7b1e940cf48151ae",
+      "title": "Data Analyst - Leeds",
+      "company": "lantern.current-vacancies.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://lantern.current-vacancies.com/Jobs/Advert/4297911?cid=3400&ShowQuickApply=True",
+      "portalUrl": "https://lantern.current-vacancies.com/Jobs/Advert/4297911?cid=3400&ShowQuickApply=True",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-25T17:08:32.348Z",
+      "jobDescription": "# Data Analyst - Leeds\n\n- **Company:** lantern.current-vacancies.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-25T17:08:32.348Z\n- **Licensed sponsor:** \n- **Original posting:** https://lantern.current-vacancies.com/Jobs/Advert/4297911?cid=3400&ShowQuickApply=True\n- **Application portal:** https://lantern.current-vacancies.com/Jobs/Advert/4297911?cid=3400&ShowQuickApply=True\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nRole: Data Analyst\r\n\r\nLocation: Hybrid between Leeds LS1 and LS28\r\n\r\nSalary:  &pound;30k - &pound;35k plus 10% bonus\r\n\r\n \r\n\r\nJob Purpose\r\n\r\nThe role will focus on the importing, exporting, updating, and maintaining accurate data within Lantern group&rsquo;s CRM(s) and database(s). You will be respon\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_analyst_leeds_lantern_current_vacancies_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-181b4cb1da1b428a2e62",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
