@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b52065c6670ecf892581",
+      "title": "Data Scientist - BigHand",
+      "company": "BigHand",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.bighand.com/jobs/8267772-data-scientist",
+      "portalUrl": "https://careers.bighand.com/jobs/8267772-data-scientist",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-25T15:25:44.803Z",
+      "jobDescription": "# Data Scientist - BigHand\n\n- **Company:** BigHand\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-25T15:25:44.803Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.bighand.com/jobs/8267772-data-scientist\n- **Application portal:** https://careers.bighand.com/jobs/8267772-data-scientist\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nTurn complex legal data into intelligent products as a Data Scientist, building and evaluating production-ready models, LLM systems and AI agents that make a...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_scientist_bighand_bighand.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-6d773aa73eac7ef7751a",
       "title": "Data Engineer",
       "company": "firstquantum.wd3.myworkdayjobs.com",
