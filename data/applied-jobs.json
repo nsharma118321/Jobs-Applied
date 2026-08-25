@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:arbeitnow:data-scientist-audiobooks-analytics-london-279655",
+      "title": "Data Scientist - Audiobooks Analytics",
+      "company": "Spotify",
+      "location": "London, United Kingdom",
+      "sponsorName": "Spotify Limited",
+      "originalUrl": "https://www.arbeitnow.co.uk/jobs/companies/spotify/data-scientist-audiobooks-analytics-london-279655",
+      "portalUrl": "https://www.arbeitnow.co.uk/jobs/companies/spotify/data-scientist-audiobooks-analytics-london-279655",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-25T12:54:44.436Z",
+      "jobDescription": "# Data Scientist - Audiobooks Analytics\n\n- **Company:** Spotify\n- **Location:** London, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-25T12:54:44.436Z\n- **Licensed sponsor:** Spotify Limited\n- **Original posting:** https://www.arbeitnow.co.uk/jobs/companies/spotify/data-scientist-audiobooks-analytics-london-279655\n- **Application portal:** https://www.arbeitnow.co.uk/jobs/companies/spotify/data-scientist-audiobooks-analytics-london-279655\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nSpotify is hiring a Data Scientist - Audiobooks Analytics in London. Apply now on Arbeitnow.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_audiobooks_analytics_spotify.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-da5d6afc79c2498c43bb",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
