@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-8ca07beecf685d5fe8dc",
+      "title": "Data Engineer - SmartestEnergy",
+      "company": "SmartestEnergy",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://smartestenergy.teamtailor.com/jobs/8265996-data-engineer",
+      "portalUrl": "https://smartestenergy.teamtailor.com/jobs/8265996-data-engineer",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-25T14:22:38.449Z",
+      "jobDescription": "# Data Engineer - SmartestEnergy\n\n- **Company:** SmartestEnergy\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-25T14:22:38.449Z\n- **Licensed sponsor:** \n- **Original posting:** https://smartestenergy.teamtailor.com/jobs/8265996-data-engineer\n- **Application portal:** https://smartestenergy.teamtailor.com/jobs/8265996-data-engineer\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe purpose of this role is to support the development and maintenance of enterprise data solutions including the Data Lakehouse, Data Warehouse, and Medalli...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_engineer_smartestenergy_smartestenergy.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-adbb861802766e4279f1",
       "title": "Epoch Biodesign Limited - Job offers, offices and team",
       "company": "epochbiodesign.factorialhr.com",
