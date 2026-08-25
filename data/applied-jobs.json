@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-bd88a6c6461824d76c82",
+      "title": "Data Engineer in Nottingham | The Nottingham",
+      "company": "The Nottingham",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.thenottingham.com/vacancies/736/data-engineer.html",
+      "portalUrl": "https://careers.thenottingham.com/vacancies/736/data-engineer.html",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-25T14:32:37.941Z",
+      "jobDescription": "# Data Engineer in Nottingham | The Nottingham\n\n- **Company:** The Nottingham\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-25T14:32:37.941Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.thenottingham.com/vacancies/736/data-engineer.html\n- **Application portal:** https://careers.thenottingham.com/vacancies/736/data-engineer.html\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nView details and apply for this Data Engineer vacancy in Nottingham.   Contract type:  Permanent\n\r\n   Hours:   Full-time, 35 hours\n\r\n  Location:    Head Office, Nottingham (Hybrid working, minimum 2 days per week)\n\r\n   Application process:  Please apply via the applica...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_engineer_in_nottingham_the_nottingham_the_nottingham.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-ebdd2d27a17c06f5d550",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
