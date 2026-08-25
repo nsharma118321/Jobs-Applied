@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-e834e74073005aeb60a0",
+      "title": "Data Engineering Technical Lead",
+      "company": "Vanguard Careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.vanguardjobs.com/job/23748719/?source=LinkedIn",
+      "portalUrl": "https://www.vanguardjobs.com/job/23748719/?source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-25T13:30:52.961Z",
+      "jobDescription": "# Data Engineering Technical Lead\n\n- **Company:** Vanguard Careers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-25T13:30:52.961Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.vanguardjobs.com/job/23748719/?source=LinkedIn\n- **Application portal:** https://www.vanguardjobs.com/job/23748719/?source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nExplore a wide range of job opportunities at Vanguard and find a role that suits your skills and career goals. Apply today and join a team committed to redefining the investment industry.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_engineering_technical_lead_vanguard_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-598f6697532071151790",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
