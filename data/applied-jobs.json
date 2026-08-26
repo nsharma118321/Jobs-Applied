@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-780ded702ff0979dd320",
+      "title": "Data Scientist - AI for BHL:South Kensington",
+      "company": "jobs.nhm.ac.uk",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.nhm.ac.uk/Job/JobDetail?JobId=883",
+      "portalUrl": "https://jobs.nhm.ac.uk/Job/JobDetail?JobId=883",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-26T08:25:15.316Z",
+      "jobDescription": "# Data Scientist - AI for BHL:South Kensington\n\n- **Company:** jobs.nhm.ac.uk\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-26T08:25:15.316Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.nhm.ac.uk/Job/JobDetail?JobId=883\n- **Application portal:** https://jobs.nhm.ac.uk/Job/JobDetail?JobId=883\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_ai_for_bhl_south_kensington_jobs_nhm_ac_uk.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-706fcf472f61500c2708",
       "title": "External job application",
       "company": "linkedin.com",
