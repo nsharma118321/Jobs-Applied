@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-ebf3121a44a302c30685",
+      "title": "Data Scientist - BigHand",
+      "company": "BigHand",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.bighand.com/jobs/8267772-data-scientist?utm_source=LinkedIn",
+      "portalUrl": "https://careers.bighand.com/jobs/8267772-data-scientist?utm_source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-26T07:56:54.429Z",
+      "jobDescription": "# Data Scientist - BigHand\n\n- **Company:** BigHand\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-26T07:56:54.429Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.bighand.com/jobs/8267772-data-scientist?utm_source=LinkedIn\n- **Application portal:** https://careers.bighand.com/jobs/8267772-data-scientist?utm_source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nTurn complex legal data into intelligent products as a Data Scientist, building and evaluating production-ready models, LLM systems and AI agents that make a...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_bighand_bighand.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-4b706ec27aa29d1165ce",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
