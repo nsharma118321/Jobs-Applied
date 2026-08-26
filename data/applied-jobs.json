@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-fe3fd63f6eb7e7be396d",
+      "title": "Lead Digital Analyst - Tesco Careers",
+      "company": "Tesco Careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.tesco.com/en_GB/careers/ApplicationMethods?jobId=201411&_gl=1*17ti2ns*_up*MQ..*_ga*MjQ1Mjc3NTM3LjE3ODc3MzUwODU.*_ga_FCL0R2642N*czE3ODc3MzUwODUkbzEkZzAkdDE3ODc3MzUwODUkajYwJGwwJGgw",
+      "portalUrl": "https://careers.tesco.com/en_GB/careers/ApplicationMethods?jobId=201411&_gl=1*17ti2ns*_up*MQ..*_ga*MjQ1Mjc3NTM3LjE3ODc3MzUwODU.*_ga_FCL0R2642N*czE3ODc3MzUwODUkbzEkZzAkdDE3ODc3MzUwODUkajYwJGwwJGgw",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-26T09:05:30.080Z",
+      "jobDescription": "# Lead Digital Analyst - Tesco Careers\n\n- **Company:** Tesco Careers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-26T09:05:30.080Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.tesco.com/en_GB/careers/ApplicationMethods?jobId=201411&_gl=1*17ti2ns*_up*MQ..*_ga*MjQ1Mjc3NTM3LjE3ODc3MzUwODU.*_ga_FCL0R2642N*czE3ODc3MzUwODUkbzEkZzAkdDE3ODc3MzUwODUkajYwJGwwJGgw\n- **Application portal:** https://careers.tesco.com/en_GB/careers/ApplicationMethods?jobId=201411&_gl=1*17ti2ns*_up*MQ..*_ga*MjQ1Mjc3NTM3LjE3ODc3MzUwODU.*_ga_FCL0R2642N*czE3ODc3MzUwODUkbzEkZzAkdDE3ODc3MzUwODUkajYwJGwwJGgw\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/lead_digital_analyst_tesco_careers_tesco_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-a439b8d7e27c2942e3c6",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
