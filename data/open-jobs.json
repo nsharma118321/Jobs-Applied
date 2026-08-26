@@ -1,6 +1,58 @@
 {
   "jobs": [
     {
+      "id": "arbeitnow:data-scientist-partner-flow-team-london-94267",
+      "title": "Data Scientist - Partner Flow Team",
+      "company": "iwoca",
+      "location": "London, United Kingdom",
+      "postedAt": "2026-08-26T00:40:31.000Z",
+      "postedLabel": "Today",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/data-scientist-partner-flow-team-london-94267",
+      "sponsorName": "iwoca Limited",
+      "sponsorVerified": true,
+      "source": "Company careers",
+      "applyStatus": "good"
+    },
+    {
+      "id": "linkedin:4459026638",
+      "title": "Data Scientist - Partner Flow Team",
+      "company": "iwoca",
+      "location": "London, United Kingdom",
+      "postedAt": "2026-08-25T20:54:27.354Z",
+      "postedLabel": "11 hours ago",
+      "url": "https://www.linkedin.com/jobs/view/4459026638/",
+      "sponsorName": "iwoca Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4456951018",
+      "title": "Data Scientist",
+      "company": "BigHand",
+      "location": "London, United Kingdom",
+      "postedAt": "2026-08-25T16:54:27.353Z",
+      "postedLabel": "15 hours ago",
+      "url": "https://www.linkedin.com/jobs/view/4456951018/",
+      "sponsorName": "Bighand Limited",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "arbeitnow:data-scientist-london-44343",
+      "title": "Data Scientist",
+      "company": "Anaplan",
+      "location": "London, United Kingdom",
+      "postedAt": "2026-08-25T15:55:10.000Z",
+      "postedLabel": "Today",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/data-scientist-london-44343",
+      "sponsorName": "Anaplan Limited",
+      "sponsorVerified": true,
+      "source": "Company careers",
+      "applyStatus": "good"
+    },
+    {
       "id": "linkedin:4456931502",
       "title": "Data Scientist",
       "company": "BigHand",
