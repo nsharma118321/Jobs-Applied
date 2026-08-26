@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-fd518b87910e6650bdf7",
+      "title": "Python Engineer - Data Modelling",
+      "company": "aplitrak.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.aplitrak.com/?adid=TWljaGFlbGxlLk9ibmlhbC41OTk0NS4xNTUwQGdzY21hbmNoZXN0ZXJ0ZXQuYXBsaXRyYWsuY29t",
+      "portalUrl": "https://www.aplitrak.com/?adid=TWljaGFlbGxlLk9ibmlhbC41OTk0NS4xNTUwQGdzY21hbmNoZXN0ZXJ0ZXQuYXBsaXRyYWsuY29t",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-26T09:55:51.674Z",
+      "jobDescription": "# Python Engineer - Data Modelling\n\n- **Company:** aplitrak.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-26T09:55:51.674Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.aplitrak.com/?adid=TWljaGFlbGxlLk9ibmlhbC41OTk0NS4xNTUwQGdzY21hbmNoZXN0ZXJ0ZXQuYXBsaXRyYWsuY29t\n- **Application portal:** https://www.aplitrak.com/?adid=TWljaGFlbGxlLk9ibmlhbC41OTk0NS4xNTUwQGdzY21hbmNoZXN0ZXJ0ZXQuYXBsaXRyYWsuY29t\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nPython Engineer - Data Modelling\nLocation: Glasgow\nDay Rate Contract: 12 months \nClient: Investment Banking\nWork Setup: Hybrid &ndash; 3 days in the office\n\nWho We Are\nRobert Walters is the world&rsquo;s most trusted talent solutions business. Across the globe, we deliver recruitment, outsourcing, and talent advisory services for businesses of all sizes, opening doors for people with diverse skills, ambitions, and backgrounds. \n\nWho You Will Work With\nOur client is a global financial services firm that manages wealth, navigates complex markets, and design strategic financial objectives. The firm provides risk management solutions across a variety of sectors, emphasizing long-term relationships, and innovative approaches to financial challenges.\n\nWhat You&rsquo;ll Do\n\n * Develop robust Python solutions for data modelling and governance, using Pydantic for schema definition, validation, serialisation, configuration-driven models and API-ready structures.\n * Build reusable Python libraries, modelling components and automation frameworks to support data ingestion, governance workflows, data quality, lineage, integrations and reporting at enterprise scale.\n * Design solutions for the processing and governance of large-scale financial and risk data sets, with a focus on performance, data integrity, traceability and regulatory control.\n * Work with APIs, JSON, YAML, SQL and both structured and unstructured data formats, using in-memory databases or caching technologies to support efficient integrations, validation workflows and governance automation.\n * Use AI-assisted coding tools responsibly to improve Python development productivity, code quality, documentation, testing and solution design, while reviewing all outputs for security, compliance, accuracy and maintainability.\n\nWhat You Bring\n\n * Python development experience, with a strong emphasis on logical and physical data modelling\n * Hands on ownership of Python based API/service development, including designing and building production APIs with FastAPI, using Pydantic and integrating with JSON/YAML, REST APIs, and SQL databases.\n * Experience in financial services, ideally in banking, risk, compliance, regulatory reporting, cyber, fraud or technology risk.\n * Knowledge of data architecture, enterprise information management and Git-based development, testing, documentation and CI/CD.\n * Experience using AI-assisted development tools, with the ability to review and refine generated outputs.\n * Strong analytical, communication and stakeholder management skills, with high attention to detail and the ability to work in a fast-paced environment.\n\nWhat&rsquo;s Next\nIf you are ready to take the next step, apply now! Successful applicants will be contacted directly by a recruiter to discuss the role more.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/python_engineer_data_modelling_aplitrak_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-5e768d5bd1b0c3d318ef",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
