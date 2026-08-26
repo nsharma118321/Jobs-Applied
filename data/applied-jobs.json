@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-00a1b30e94fdb00aa3de",
+      "title": "Data Scientist - Partner Flow Team",
+      "company": "jobs.ashbyhq.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.ashbyhq.com/iwoca.co.uk/fb2e7f7c-d99a-41e1-8b66-3609376fba6e/application?utm_source=linkedin_paid_slots",
+      "portalUrl": "https://jobs.ashbyhq.com/iwoca.co.uk/fb2e7f7c-d99a-41e1-8b66-3609376fba6e/application?utm_source=linkedin_paid_slots",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-26T08:08:12.131Z",
+      "jobDescription": "# Data Scientist - Partner Flow Team\n\n- **Company:** jobs.ashbyhq.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-26T08:08:12.131Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.ashbyhq.com/iwoca.co.uk/fb2e7f7c-d99a-41e1-8b66-3609376fba6e/application?utm_source=linkedin_paid_slots\n- **Application portal:** https://jobs.ashbyhq.com/iwoca.co.uk/fb2e7f7c-d99a-41e1-8b66-3609376fba6e/application?utm_source=linkedin_paid_slots\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe're looking for a Data Scientist to join the Partner Flow team. You'll own experimentation and analytics for iwoca's partner channel – fintechs and platforms that embed iwoca lending in their own products. The analytical approach is still being built, and the scope to shape it is wide.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_partner_flow_team_jobs_ashbyhq_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-ebf3121a44a302c30685",
       "title": "Data Scientist - BigHand",
       "company": "BigHand",
