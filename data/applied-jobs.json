@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-cefa41774a1a9eade408",
+      "title": "Data Scientist - ML Ops",
+      "company": "london-gov.jobs2web.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://london-gov.jobs2web.com/tfl/job/Pier-Walk-Data-Scientist-ML-Ops/1365717855/",
+      "portalUrl": "https://london-gov.jobs2web.com/tfl/job/Pier-Walk-Data-Scientist-ML-Ops/1365717855/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-27T04:13:25.284Z",
+      "jobDescription": "# Data Scientist - ML Ops\n\n- **Company:** london-gov.jobs2web.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-27T04:13:25.284Z\n- **Licensed sponsor:** \n- **Original posting:** https://london-gov.jobs2web.com/tfl/job/Pier-Walk-Data-Scientist-ML-Ops/1365717855/\n- **Application portal:** https://london-gov.jobs2web.com/tfl/job/Pier-Walk-Data-Scientist-ML-Ops/1365717855/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_ml_ops_london_gov_jobs2web_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-477fbb80c6bdbc131daf",
       "title": "Applied AI / ML Engineer | Jobs at Penta",
       "company": "penta.jobs.personio.com",
