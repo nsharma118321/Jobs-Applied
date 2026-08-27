@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-914085bd69e6b4aff590",
+      "title": "Data Science & AI Automation Lead",
+      "company": "Johnson & Johnson Careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.careers.jnj.com/en/jobs/r-092173/data-science-ai-automation-lead/?source=LinkedIn",
+      "portalUrl": "https://www.careers.jnj.com/en/jobs/r-092173/data-science-ai-automation-lead/?source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-27T05:02:05.336Z",
+      "jobDescription": "# Data Science & AI Automation Lead\n\n- **Company:** Johnson & Johnson Careers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-27T05:02:05.336Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.careers.jnj.com/en/jobs/r-092173/data-science-ai-automation-lead/?source=LinkedIn\n- **Application portal:** https://www.careers.jnj.com/en/jobs/r-092173/data-science-ai-automation-lead/?source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAt Johnson &amp; Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare&#x2026;\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_science_ai_automation_lead_johnson_johnson_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-053a770e0c58c195014a",
       "title": "Statistical Data Scientist - Oritain",
       "company": "Oritain",
