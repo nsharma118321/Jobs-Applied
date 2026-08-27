@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-698c6d808a741bcf5142",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "company": "LinkedIn",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4457258887&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=OTAE9UPG1Vko0Muc6aDiGQ%3D%3D&trackingId=UDICSMOxcjEVG1eX7lHRGA%3D%3D&keywords=data%20science&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=101165590&distance=0.0&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4457258887&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=OTAE9UPG1Vko0Muc6aDiGQ%3D%3D&trackingId=UDICSMOxcjEVG1eX7lHRGA%3D%3D&keywords=data%20science&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=101165590&distance=0.0&f_TPR=r86400",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-27T05:14:29.129Z",
+      "jobDescription": "# LinkedIn Login, Sign in | LinkedIn\n\n- **Company:** LinkedIn\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-27T05:14:29.129Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4457258887&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=OTAE9UPG1Vko0Muc6aDiGQ%3D%3D&trackingId=UDICSMOxcjEVG1eX7lHRGA%3D%3D&keywords=data%20science&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=101165590&distance=0.0&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4457258887&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=OTAE9UPG1Vko0Muc6aDiGQ%3D%3D&trackingId=UDICSMOxcjEVG1eX7lHRGA%3D%3D&keywords=data%20science&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=101165590&distance=0.0&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/linkedin_login_sign_in_linkedin_linkedin.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-914085bd69e6b4aff590",
       "title": "Data Science & AI Automation Lead",
       "company": "Johnson & Johnson Careers",
