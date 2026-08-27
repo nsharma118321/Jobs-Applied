@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-1cd7d273fa50cd088018",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "company": "LinkedIn",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4458654977&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=yzsI8JVoGZYg5KCrymtgmQ%3D%3D&trackingId=CprhZf%2FjErOCGYsQ2BzEpA%3D%3D&keywords=data%20analyst%20posted%20in%20the%20past%2024%20hours&origin=SEMANTIC_SEARCH_LANDING_PAGE",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4458654977&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=yzsI8JVoGZYg5KCrymtgmQ%3D%3D&trackingId=CprhZf%2FjErOCGYsQ2BzEpA%3D%3D&keywords=data%20analyst%20posted%20in%20the%20past%2024%20hours&origin=SEMANTIC_SEARCH_LANDING_PAGE",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-27T19:49:38.872Z",
+      "jobDescription": "# LinkedIn Login, Sign in | LinkedIn\n\n- **Company:** LinkedIn\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-27T19:49:38.872Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4458654977&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=yzsI8JVoGZYg5KCrymtgmQ%3D%3D&trackingId=CprhZf%2FjErOCGYsQ2BzEpA%3D%3D&keywords=data%20analyst%20posted%20in%20the%20past%2024%20hours&origin=SEMANTIC_SEARCH_LANDING_PAGE\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4458654977&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=yzsI8JVoGZYg5KCrymtgmQ%3D%3D&trackingId=CprhZf%2FjErOCGYsQ2BzEpA%3D%3D&keywords=data%20analyst%20posted%20in%20the%20past%2024%20hours&origin=SEMANTIC_SEARCH_LANDING_PAGE\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/linkedin_login_sign_in_linkedin_linkedin.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-99e844cc4a7e2c5134f5",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
