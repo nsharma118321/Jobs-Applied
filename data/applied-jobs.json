@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-50f134b1a1dd3c50912f",
+      "title": "ML Research Engineer, London",
+      "company": "job-boards.greenhouse.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5578430004?gh_src=tnwzobj74us",
+      "portalUrl": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5578430004?gh_src=tnwzobj74us",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-27T06:12:12.865Z",
+      "jobDescription": "# ML Research Engineer, London\n\n- **Company:** job-boards.greenhouse.io\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-27T06:12:12.865Z\n- **Licensed sponsor:** \n- **Original posting:** https://job-boards.greenhouse.io/isomorphiclabs/jobs/5578430004?gh_src=tnwzobj74us\n- **Application portal:** https://job-boards.greenhouse.io/isomorphiclabs/jobs/5578430004?gh_src=tnwzobj74us\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/ml_research_engineer_london_job_boards_greenhouse_io.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-7c49bc8cd4c0b79a176a",
       "title": "Machine Learning Researcher",
       "company": "darktrace.wd3.myworkdayjobs.com",
