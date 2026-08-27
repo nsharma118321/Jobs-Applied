@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-fd6725db0e6adf085989",
+      "title": "Jobs at Bending Spoons",
+      "company": "jobs.bendingspoons.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b/apply?utm_medium=job_post&utm_source=linkedin&utm_campaign=6a8f7e93b9d76b7cd0614319",
+      "portalUrl": "https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b/apply?utm_medium=job_post&utm_source=linkedin&utm_campaign=6a8f7e93b9d76b7cd0614319",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-27T03:53:47.983Z",
+      "jobDescription": "# Jobs at Bending Spoons\n\n- **Company:** jobs.bendingspoons.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-27T03:53:47.983Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b/apply?utm_medium=job_post&utm_source=linkedin&utm_campaign=6a8f7e93b9d76b7cd0614319\n- **Application portal:** https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b/apply?utm_medium=job_post&utm_source=linkedin&utm_campaign=6a8f7e93b9d76b7cd0614319\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/jobs_at_bending_spoons_jobs_bendingspoons_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b523ea55b2cf81d6c5e2",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
