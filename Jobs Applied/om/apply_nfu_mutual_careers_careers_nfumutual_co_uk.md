@@ -3,10 +3,10 @@
 - **Company:** careers.nfumutual.co.uk
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-08-24T12:13:15.387Z
+- **Applied date:** 2026-08-27T10:28:12.894Z
 - **Licensed sponsor:** 
-- **Original posting:** https://careers.nfumutual.co.uk/apply?jobId=QCUFK026203F3VBQB7979QWLL-345834&langCode=en_GB&resumeToken=eyJhbGciOiJIUzI1NiJ9.eyJpZGVudGlmaWVyIjoiUUNVRkswMjYyMDNGM1ZCUUI3OTc5UVdMTC0zNDU4MzQ6OjI5N2ZmNTVmLTNmZmQtNDhjNi05M2FhLWY5YzkwNTBkOGViMCJ9._JOiXO-uSeyTV1zx1oVbNmI4C_udabc7DIL1Z-RcQ2w
-- **Application portal:** https://careers.nfumutual.co.uk/apply?jobId=QCUFK026203F3VBQB7979QWLL-345834&langCode=en_GB&resumeToken=eyJhbGciOiJIUzI1NiJ9.eyJpZGVudGlmaWVyIjoiUUNVRkswMjYyMDNGM1ZCUUI3OTc5UVdMTC0zNDU4MzQ6OjI5N2ZmNTVmLTNmZmQtNDhjNi05M2FhLWY5YzkwNTBkOGViMCJ9._JOiXO-uSeyTV1zx1oVbNmI4C_udabc7DIL1Z-RcQ2w
+- **Original posting:** https://careers.nfumutual.co.uk/apply?jobId=QCUFK026203F3VBQB7979QWLL-345907&langCode=en_GB&step=DIRECT
+- **Application portal:** https://careers.nfumutual.co.uk/apply?jobId=QCUFK026203F3VBQB7979QWLL-345907&langCode=en_GB&step=DIRECT
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
