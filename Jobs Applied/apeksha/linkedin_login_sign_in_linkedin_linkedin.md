@@ -3,10 +3,10 @@
 - **Company:** LinkedIn
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-08-27T08:15:10.704Z
+- **Applied date:** 2026-08-27T08:41:49.043Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4415548092&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=WaCGDF20nfgtDcDQJyTlDw%3D%3D&trackingId=JdugteAXWGBs0Rr6kFtAng%3D%3D&keywords=data%20scientist&origin=JOBS_HOME_SEARCH_BUTTON&start=50
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4415548092&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=WaCGDF20nfgtDcDQJyTlDw%3D%3D&trackingId=JdugteAXWGBs0Rr6kFtAng%3D%3D&keywords=data%20scientist&origin=JOBS_HOME_SEARCH_BUTTON&start=50
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4361533752&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=WaCGDF20nfgtDcDQJyTlDw%3D%3D&trackingId=upp2hzUTsqa1jMmi1p3Q5A%3D%3D&keywords=data%20scientist&origin=JOBS_HOME_SEARCH_BUTTON&start=50
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4361533752&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=WaCGDF20nfgtDcDQJyTlDw%3D%3D&trackingId=upp2hzUTsqa1jMmi1p3Q5A%3D%3D&keywords=data%20scientist&origin=JOBS_HOME_SEARCH_BUTTON&start=50
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
