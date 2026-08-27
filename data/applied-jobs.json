@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b52b0f8b8b16347b5fe7",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "company": "LinkedIn",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4436717335&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=WaCGDF20nfgtDcDQJyTlDw%3D%3D&trackingId=0dM4%2BZHcFEfGlgajDDT9Jw%3D%3D&keywords=data%20scientist&origin=JOBS_HOME_SEARCH_BUTTON&start=50",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4436717335&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=WaCGDF20nfgtDcDQJyTlDw%3D%3D&trackingId=0dM4%2BZHcFEfGlgajDDT9Jw%3D%3D&keywords=data%20scientist&origin=JOBS_HOME_SEARCH_BUTTON&start=50",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-27T08:43:20.176Z",
+      "jobDescription": "# LinkedIn Login, Sign in | LinkedIn\n\n- **Company:** LinkedIn\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-27T08:43:20.176Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4436717335&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=WaCGDF20nfgtDcDQJyTlDw%3D%3D&trackingId=0dM4%2BZHcFEfGlgajDDT9Jw%3D%3D&keywords=data%20scientist&origin=JOBS_HOME_SEARCH_BUTTON&start=50\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4436717335&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=WaCGDF20nfgtDcDQJyTlDw%3D%3D&trackingId=0dM4%2BZHcFEfGlgajDDT9Jw%3D%3D&keywords=data%20scientist&origin=JOBS_HOME_SEARCH_BUTTON&start=50\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/linkedin_login_sign_in_linkedin_linkedin.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-1f43b7a859db88904d13",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
