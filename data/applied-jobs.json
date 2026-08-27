@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-053a770e0c58c195014a",
+      "title": "Statistical Data Scientist - Oritain",
+      "company": "Oritain",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.oritain.com/jobs/8262186-statistical-data-scientist?utm_source=LinkedIn",
+      "portalUrl": "https://careers.oritain.com/jobs/8262186-statistical-data-scientist?utm_source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-27T04:56:49.033Z",
+      "jobDescription": "# Statistical Data Scientist - Oritain\n\n- **Company:** Oritain\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-27T04:56:49.033Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.oritain.com/jobs/8262186-statistical-data-scientist?utm_source=LinkedIn\n- **Application portal:** https://careers.oritain.com/jobs/8262186-statistical-data-scientist?utm_source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nBuild models that matter. Join Oritain and apply cutting-edge statistics and machine learning to help global brands prove where their products come from, red...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/statistical_data_scientist_oritain_oritain.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-cefa41774a1a9eade408",
       "title": "Data Scientist - ML Ops",
       "company": "london-gov.jobs2web.com",
