@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-db2ecfbf8a4e60f89ee4",
+      "title": "Careers at HSBC",
+      "company": "portal.careers.hsbc.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://portal.careers.hsbc.com/careers?pid=563774612078668&domain=hsbc.com&utm_source=LinkedIn",
+      "portalUrl": "https://portal.careers.hsbc.com/careers?pid=563774612078668&domain=hsbc.com&utm_source=LinkedIn",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-08-27T18:51:59.501Z",
+      "jobDescription": "# Careers at HSBC\n\n- **Company:** portal.careers.hsbc.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-08-27T18:51:59.501Z\n- **Licensed sponsor:** \n- **Original posting:** https://portal.careers.hsbc.com/careers?pid=563774612078668&domain=hsbc.com&utm_source=LinkedIn\n- **Application portal:** https://portal.careers.hsbc.com/careers?pid=563774612078668&domain=hsbc.com&utm_source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/careers_at_hsbc_portal_careers_hsbc_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-d00e42ca230294e57b9a",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
