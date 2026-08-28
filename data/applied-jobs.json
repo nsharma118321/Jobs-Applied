@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-33893a47caff0e5dedb0",
+      "title": "Apply",
+      "company": "jobs.gsk.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.gsk.com/gb/en/apply?jobSeqNo=GHVGPAGB446659EXTERNALENGB&utm_source=linkedin&utm_medium=phenom-feeds&step=1&stepname=personalInformation",
+      "portalUrl": "https://jobs.gsk.com/gb/en/apply?jobSeqNo=GHVGPAGB446659EXTERNALENGB&utm_source=linkedin&utm_medium=phenom-feeds&step=1&stepname=personalInformation",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-28T15:17:06.537Z",
+      "jobDescription": "# Apply\n\n- **Company:** jobs.gsk.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-28T15:17:06.537Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.gsk.com/gb/en/apply?jobSeqNo=GHVGPAGB446659EXTERNALENGB&utm_source=linkedin&utm_medium=phenom-feeds&step=1&stepname=personalInformation\n- **Application portal:** https://jobs.gsk.com/gb/en/apply?jobSeqNo=GHVGPAGB446659EXTERNALENGB&utm_source=linkedin&utm_medium=phenom-feeds&step=1&stepname=personalInformation\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/apply_jobs_gsk_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-6e3214c800e2ac0721c9",
       "title": "External job application",
       "company": "career55.sapsf.eu",
