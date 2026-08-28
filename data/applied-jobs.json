@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-cf8a128443791bca6e03",
+      "title": "Career Opportunities: Sign In",
+      "company": "career55.sapsf.eu",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://career55.sapsf.eu/careers?company=mnchenerrc&career_job_req_id=13624&career_ns=job_application",
+      "portalUrl": "https://career55.sapsf.eu/careers?company=mnchenerrc&career_job_req_id=13624&career_ns=job_application",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-28T14:59:47.337Z",
+      "jobDescription": "# Career Opportunities: Sign In\n\n- **Company:** career55.sapsf.eu\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-28T14:59:47.337Z\n- **Licensed sponsor:** \n- **Original posting:** https://career55.sapsf.eu/careers?company=mnchenerrc&career_job_req_id=13624&career_ns=job_application\n- **Application portal:** https://career55.sapsf.eu/careers?company=mnchenerrc&career_job_req_id=13624&career_ns=job_application\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/career_opportunities_sign_in_career55_sapsf_eu.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-2b4419a72115dc6efd58",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
