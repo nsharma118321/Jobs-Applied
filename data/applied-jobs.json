@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-6e3214c800e2ac0721c9",
+      "title": "External job application",
+      "company": "career55.sapsf.eu",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://career55.sapsf.eu/portalcareer?_s.crb=RJp6lHBnN9Sfj1b43bi0cRRNG7ieVE7WvCTuljGGZPw%253d",
+      "portalUrl": "https://career55.sapsf.eu/portalcareer?_s.crb=RJp6lHBnN9Sfj1b43bi0cRRNG7ieVE7WvCTuljGGZPw%253d",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-28T15:03:24.836Z",
+      "jobDescription": "# External job application\n\n- **Company:** career55.sapsf.eu\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-08-28T15:03:24.836Z\n- **Licensed sponsor:** \n- **Original posting:** https://career55.sapsf.eu/portalcareer?_s.crb=RJp6lHBnN9Sfj1b43bi0cRRNG7ieVE7WvCTuljGGZPw%253d\n- **Application portal:** https://career55.sapsf.eu/portalcareer?_s.crb=RJp6lHBnN9Sfj1b43bi0cRRNG7ieVE7WvCTuljGGZPw%253d\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_career55_sapsf_eu.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-cf8a128443791bca6e03",
       "title": "Career Opportunities: Sign In",
       "company": "career55.sapsf.eu",
