@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:arbeitnow:data-scientist-partner-flow-team-london-94267",
+      "title": "Data Scientist - Partner Flow Team",
+      "company": "iwoca",
+      "location": "London, United Kingdom",
+      "sponsorName": "iwoca Limited",
+      "originalUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/data-scientist-partner-flow-team-london-94267",
+      "portalUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/data-scientist-partner-flow-team-london-94267",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-31T17:06:28.727Z",
+      "jobDescription": "# Data Scientist - Partner Flow Team\n\n- **Company:** iwoca\n- **Location:** London, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-31T17:06:28.727Z\n- **Licensed sponsor:** iwoca Limited\n- **Original posting:** https://www.arbeitnow.co.uk/jobs/companies/iwoca/data-scientist-partner-flow-team-london-94267\n- **Application portal:** https://www.arbeitnow.co.uk/jobs/companies/iwoca/data-scientist-partner-flow-team-london-94267\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\niwoca is hiring a Data Scientist - Partner Flow Team in London . Salary: 70,000-80,000 GBP. Apply now on Arbeitnow.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_partner_flow_team_iwoca.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-517efcf0390e2d5b3261",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
