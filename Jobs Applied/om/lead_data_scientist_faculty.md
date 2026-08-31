@@ -1,12 +1,12 @@
 # Lead Data Scientist
 
 - **Company:** Faculty
-- **Location:** United Kingdom
+- **Location:** London, United Kingdom
 - **Applied by:** OM
-- **Applied date:** 2026-08-14T05:10:31.045Z
+- **Applied date:** 2026-08-31T03:39:51.978Z
 - **Licensed sponsor:** Faculty Services Limited
-- **Original posting:** https://www.linkedin.com/jobs/view/4433792971/
-- **Application portal:** https://www.linkedin.com/jobs/view/4433792971/
+- **Original posting:** https://www.linkedin.com/jobs/view/4457263965/
+- **Application portal:** https://www.linkedin.com/jobs/view/4457263965/
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
@@ -24,11 +24,9 @@ AI is an epoch-defining technology, join a company where you’ll be empowered t
 
 About The Team
 
-Our Defence team is focused on building and embedding human-centered AI solutions which give our nation a competitive edge in the defence sector. We collaborate with our clients to bring ethical, reliable and cutting-edge AI to high-stakes situations and maintain the balance of global powers essential to our liberty.
+Bringing medicine to patients is complex, expensive and high-risk. Faculty’s Life Science’s team is concentrated on building AI solutions which optimise the research and commercialisation of life-changing therapies.
 
-Because of the nature of the work we do with our Defence clients, you will need to be eligible for UK Security Clearance (SC) and willing to work between 2 to 4 days per week on-site with these customers which may require travel to locations throughout the UK.
-
-When not required on client sites, you’ll have the flexibility to work from our London office or remotely from elsewhere within the UK.
+We partner with major pharma firms, academic research centres and regulators to design and deliver solutions which address critical healthcare challenges, and help to democratise health for all.
 
 About The Role
 
@@ -42,26 +40,26 @@ What You'll Be Doing
 - Designing and implementing reliable, production-grade technical solutions, ensuring comprehensive documentation of architectures and specifications.
 - Defining project problems, developing clear roadmaps, and overseeing end-to-end delivery across multi-disciplinary workstreams.
 - Leading technical scoping and feasibility studies for high-value sales opportunities and strategic customer engagements.
-- Managing relationships and communications with demanding clients, fostering trust and aligning technical solutions with shared long-term commercial goals.
+- Managing relationships and communications with technical stakeholders, fostering trust and aligning technical solutions with shared long-term commercial goals.
 - Driving the adoption of best practices, shared resources, and robust technical processes across the wider Data Science craft.
 - Mentoring and developing other data scientists and team members, actively contributing to the growth and technical excellence of the organisation.
 
 Who We're Looking For
 
+- You have proven project management expertise, capable of dividing complex, ill-defined problems into actionable, clearly defined workstreams with timelines you can defend.
+- You possess strong customer leadership skills, able to act as a trusted technical advisor and drive long-term strategic relationships with demanding clients.
 - You bring depth of expertise in at least one machine learning domain and strong technical breadth across the entire data science landscape.
 - You are a skilled technical leader, proficient in mentoring individuals, managing teams (including other managers), and rolling out impactful tools and workflows.
-- You have proven project management expertise, capable of dividing complex, ill-defined problems into actionable, clearly defined workstreams with timelines you can defend.
 - You are adept at managing ill-defined, high-risk tasks, consistently delivering innovative and practical outcomes under commercial pressure.
-- You possess strong customer leadership skills, able to act as a trusted technical advisor and drive long-term strategic relationships with demanding clients.
-- You excel at cross-functional collaboration, effectively aligning technical strategy with Engineering, Commercial (BD), and Infrastructure teams.
+- You excel at cross-functional collaboration, effectively aligning technical strategy with Engineering, Commercial, and Infrastructure teams.
 - You have experience extending technical oversight to business unit-level initiatives, using your vision to influence and contribute to organisational success.
 
-Our Interview Process
+The Interview Process
 
 - Talent Team Screen (30 minutes)
 - Introduction to the team (30 minutes)
-- Take Home Technical Assessment 
-- Technical Interview (90 minutes) 
+- Take Home Technical Assessment
+- Technical Interview (90 minutes)
 - Commercial Interview (60 minutes)
 
 Our Recruitment Ethos
