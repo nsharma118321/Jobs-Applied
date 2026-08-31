@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4450319612",
+      "title": "Data Scientist - Financial Crime",
+      "company": "HSBC",
+      "location": "Sheffield, United Kingdom",
+      "sponsorName": "HSBC Holdings plc",
+      "originalUrl": "https://www.linkedin.com/jobs/view/4450319612/",
+      "portalUrl": "https://www.linkedin.com/jobs/view/4450319612/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-31T02:36:32.409Z",
+      "jobDescription": "# Data Scientist - Financial Crime\n\n- **Company:** HSBC\n- **Location:** Sheffield, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-31T02:36:32.409Z\n- **Licensed sponsor:** HSBC Holdings plc\n- **Original posting:** https://www.linkedin.com/jobs/view/4450319612/\n- **Application portal:** https://www.linkedin.com/jobs/view/4450319612/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_financial_crime_hsbc.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4460578287",
       "title": "Applied AI ML Data Scientist, Vice President - Payments",
       "company": "JPMorganChase",
