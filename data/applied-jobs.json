@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4458874715",
+      "title": "Data Scientist",
+      "company": "Paymentsense",
+      "location": "London, United Kingdom",
+      "sponsorName": "Paymentsense Limited",
+      "originalUrl": "https://www.linkedin.com/jobs/view/4458874715/",
+      "portalUrl": "https://www.linkedin.com/jobs/view/4458874715/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-31T04:19:55.335Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Paymentsense\n- **Location:** London, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-31T04:19:55.335Z\n- **Licensed sponsor:** Paymentsense Limited\n- **Original posting:** https://www.linkedin.com/jobs/view/4458874715/\n- **Application portal:** https://www.linkedin.com/jobs/view/4458874715/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_paymentsense.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:smartrecruiters:GenomicsEngland:744000145757180",
       "title": "Genomic Data Scientist (we have office locations in Cambridge, Leeds & London)",
       "company": "Genomics England",
