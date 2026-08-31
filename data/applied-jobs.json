@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:arbeitnow:data-scientist-london-44343",
+      "title": "Data Scientist",
+      "company": "Anaplan",
+      "location": "London, United Kingdom",
+      "sponsorName": "Anaplan Limited",
+      "originalUrl": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/data-scientist-london-44343",
+      "portalUrl": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/data-scientist-london-44343",
+      "appliedBy": "OM",
+      "appliedAt": "2026-08-31T17:25:06.845Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Anaplan\n- **Location:** London, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-08-31T17:25:06.845Z\n- **Licensed sponsor:** Anaplan Limited\n- **Original posting:** https://www.arbeitnow.co.uk/jobs/companies/anaplan/data-scientist-london-44343\n- **Application portal:** https://www.arbeitnow.co.uk/jobs/companies/anaplan/data-scientist-london-44343\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_anaplan.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4459010504",
       "title": "Data Scientist - AI for BHL",
       "company": "Natural History Museum",
