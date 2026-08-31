@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "linkedin:4460578287",
+      "title": "Applied AI ML Data Scientist, Vice President - Payments",
+      "company": "JPMorganChase",
+      "location": "London, United Kingdom",
+      "postedAt": "2026-08-29T03:24:43.889Z",
+      "postedLabel": "3 hours ago",
+      "url": "https://www.linkedin.com/jobs/view/4460578287/",
+      "sponsorName": "JPMorgan Chase Bank, National Association",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
+      "id": "linkedin:4450319612",
+      "title": "Data Scientist - Financial Crime",
+      "company": "HSBC",
+      "location": "Sheffield, United Kingdom",
+      "postedAt": "2026-08-28T19:24:44.653Z",
+      "postedLabel": "11 hours ago",
+      "url": "https://www.linkedin.com/jobs/view/4450319612/",
+      "sponsorName": "HSBC Holdings plc",
+      "sponsorVerified": true,
+      "source": "LinkedIn browser (OM)",
+      "applyStatus": "unknown"
+    },
+    {
       "id": "linkedin:4449739989",
       "title": "Lead Data Scientist - Personalisation/CRM",
       "company": "Wise",
@@ -188,7 +214,7 @@
       "company": "Genomics England",
       "location": "London, United Kingdom",
       "postedAt": "2026-08-26T14:21:42.907Z",
-      "postedLabel": "2 days ago",
+      "postedLabel": "4 days ago",
       "url": "https://jobs.smartrecruiters.com/GenomicsEngland/744000145757180-genomic-data-scientist-we-have-office-locations-in-cambridge-leeds-london",
       "sponsorName": "Genomics England Limited",
       "sponsorVerified": true,
