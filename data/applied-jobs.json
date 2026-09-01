@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-f91feba51c19f49df326",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4446657354&eBP=CwEAAAGgXQGCtLSVlMlr7QUyuuoGKVOWFu6PVeJ7e4X-PvAT_7GkHNCADCiq4G92cb8HrjRwAMrvtAumsHJTLeMCBQdELCF8tbFjwfJQCHqIAQIoiv619CMRxLEu3btUPoelEZadBEPA276y1Qok1KF63SCxwR1HLDu4Ky-QSNRdlSbyzMRmmLVkxAClmwIKZmUh7YZ_X5OWqlGICaSOAwEL7lRT_bVGAEhqlkfbQf9s2xG-R57wAC-JQY-KsIwD8Xz1dNstG8Z6M2JnFniB05AOKUzR0NL0VELsP99D-ZJPshTyzOk6hyucnVR2Tba6YhsBm4SI7Obf2k2zrJdHpR6N5oo-E29NcL12rLs3-K3V31OyEq-w32U7gbkXEkfeQVOZS4l5uf8KoFv-P7Bu-ZwKSeMZxSysaxPmXEtPzoGvBZRlsg_UeH_9HHuYRn4M0LlAp3SFBpugbKB4eTvYa8vcJLYVWIdDUkpv8Ru8hKKvRdg&refId=MIkcVUc5l4fpcvBKt5eKaA%3D%3D&trackingId=%2BaEAkPDtEBD31QjEJHHH%2FA%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=HCnvlkEeZgzeoS%2BB1OdYhA%3D%3D&start=25&geoId=101165590&distance=0.0&f_TPR=r86400&f_AL=true",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4446657354&eBP=CwEAAAGgXQGCtLSVlMlr7QUyuuoGKVOWFu6PVeJ7e4X-PvAT_7GkHNCADCiq4G92cb8HrjRwAMrvtAumsHJTLeMCBQdELCF8tbFjwfJQCHqIAQIoiv619CMRxLEu3btUPoelEZadBEPA276y1Qok1KF63SCxwR1HLDu4Ky-QSNRdlSbyzMRmmLVkxAClmwIKZmUh7YZ_X5OWqlGICaSOAwEL7lRT_bVGAEhqlkfbQf9s2xG-R57wAC-JQY-KsIwD8Xz1dNstG8Z6M2JnFniB05AOKUzR0NL0VELsP99D-ZJPshTyzOk6hyucnVR2Tba6YhsBm4SI7Obf2k2zrJdHpR6N5oo-E29NcL12rLs3-K3V31OyEq-w32U7gbkXEkfeQVOZS4l5uf8KoFv-P7Bu-ZwKSeMZxSysaxPmXEtPzoGvBZRlsg_UeH_9HHuYRn4M0LlAp3SFBpugbKB4eTvYa8vcJLYVWIdDUkpv8Ru8hKKvRdg&refId=MIkcVUc5l4fpcvBKt5eKaA%3D%3D&trackingId=%2BaEAkPDtEBD31QjEJHHH%2FA%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=HCnvlkEeZgzeoS%2BB1OdYhA%3D%3D&start=25&geoId=101165590&distance=0.0&f_TPR=r86400&f_AL=true",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-01T12:56:06.304Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-01T12:56:06.304Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4446657354&eBP=CwEAAAGgXQGCtLSVlMlr7QUyuuoGKVOWFu6PVeJ7e4X-PvAT_7GkHNCADCiq4G92cb8HrjRwAMrvtAumsHJTLeMCBQdELCF8tbFjwfJQCHqIAQIoiv619CMRxLEu3btUPoelEZadBEPA276y1Qok1KF63SCxwR1HLDu4Ky-QSNRdlSbyzMRmmLVkxAClmwIKZmUh7YZ_X5OWqlGICaSOAwEL7lRT_bVGAEhqlkfbQf9s2xG-R57wAC-JQY-KsIwD8Xz1dNstG8Z6M2JnFniB05AOKUzR0NL0VELsP99D-ZJPshTyzOk6hyucnVR2Tba6YhsBm4SI7Obf2k2zrJdHpR6N5oo-E29NcL12rLs3-K3V31OyEq-w32U7gbkXEkfeQVOZS4l5uf8KoFv-P7Bu-ZwKSeMZxSysaxPmXEtPzoGvBZRlsg_UeH_9HHuYRn4M0LlAp3SFBpugbKB4eTvYa8vcJLYVWIdDUkpv8Ru8hKKvRdg&refId=MIkcVUc5l4fpcvBKt5eKaA%3D%3D&trackingId=%2BaEAkPDtEBD31QjEJHHH%2FA%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=HCnvlkEeZgzeoS%2BB1OdYhA%3D%3D&start=25&geoId=101165590&distance=0.0&f_TPR=r86400&f_AL=true\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4446657354&eBP=CwEAAAGgXQGCtLSVlMlr7QUyuuoGKVOWFu6PVeJ7e4X-PvAT_7GkHNCADCiq4G92cb8HrjRwAMrvtAumsHJTLeMCBQdELCF8tbFjwfJQCHqIAQIoiv619CMRxLEu3btUPoelEZadBEPA276y1Qok1KF63SCxwR1HLDu4Ky-QSNRdlSbyzMRmmLVkxAClmwIKZmUh7YZ_X5OWqlGICaSOAwEL7lRT_bVGAEhqlkfbQf9s2xG-R57wAC-JQY-KsIwD8Xz1dNstG8Z6M2JnFniB05AOKUzR0NL0VELsP99D-ZJPshTyzOk6hyucnVR2Tba6YhsBm4SI7Obf2k2zrJdHpR6N5oo-E29NcL12rLs3-K3V31OyEq-w32U7gbkXEkfeQVOZS4l5uf8KoFv-P7Bu-ZwKSeMZxSysaxPmXEtPzoGvBZRlsg_UeH_9HHuYRn4M0LlAp3SFBpugbKB4eTvYa8vcJLYVWIdDUkpv8Ru8hKKvRdg&refId=MIkcVUc5l4fpcvBKt5eKaA%3D%3D&trackingId=%2BaEAkPDtEBD31QjEJHHH%2FA%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=HCnvlkEeZgzeoS%2BB1OdYhA%3D%3D&start=25&geoId=101165590&distance=0.0&f_TPR=r86400&f_AL=true\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-923b2fc0a834027dc83d",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
