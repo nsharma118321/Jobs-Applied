@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-57170fabf4c52145d406",
+      "title": "External job application",
+      "company": "jobs.smartrecruiters.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.smartrecruiters.com/oneclick-ui/company/Wise/publication/aa3bf0b2-b2d9-40e0-81d8-a492de240486/success?dcr_ci=Wise&sid=d5cf7ceb-8363-4cd5-b9b6-4d322d332e61",
+      "portalUrl": "https://jobs.smartrecruiters.com/oneclick-ui/company/Wise/publication/aa3bf0b2-b2d9-40e0-81d8-a492de240486/success?dcr_ci=Wise&sid=d5cf7ceb-8363-4cd5-b9b6-4d322d332e61",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-09-02T13:40:19.343Z",
+      "jobDescription": "# External job application\n\n- **Company:** jobs.smartrecruiters.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-09-02T13:40:19.343Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.smartrecruiters.com/oneclick-ui/company/Wise/publication/aa3bf0b2-b2d9-40e0-81d8-a492de240486/success?dcr_ci=Wise&sid=d5cf7ceb-8363-4cd5-b9b6-4d322d332e61\n- **Application portal:** https://jobs.smartrecruiters.com/oneclick-ui/company/Wise/publication/aa3bf0b2-b2d9-40e0-81d8-a492de240486/success?dcr_ci=Wise&sid=d5cf7ceb-8363-4cd5-b9b6-4d322d332e61\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_jobs_smartrecruiters_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-2bfe4780daba9cac0f53",
       "title": "Data Scientist, Product Analytics",
       "company": "metacareers.com",
