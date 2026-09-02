@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-15b6feb0e277cb31cb29",
+      "title": "Careers Site",
+      "company": "northerngas.talosats-careers.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://northerngas.talosats-careers.com/Forms/Application?formParameters=KizGpaAy2eU5YYihUIYbxpHoL8U%2Fx5sf7fCE30f4V6rkud%2FzSBGRwA%3D%3D&jobPostId=943118&utm_source=linkedin",
+      "portalUrl": "https://northerngas.talosats-careers.com/Forms/Application?formParameters=KizGpaAy2eU5YYihUIYbxpHoL8U%2Fx5sf7fCE30f4V6rkud%2FzSBGRwA%3D%3D&jobPostId=943118&utm_source=linkedin",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-02T15:32:16.736Z",
+      "jobDescription": "# Careers Site\n\n- **Company:** northerngas.talosats-careers.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-02T15:32:16.736Z\n- **Licensed sponsor:** \n- **Original posting:** https://northerngas.talosats-careers.com/Forms/Application?formParameters=KizGpaAy2eU5YYihUIYbxpHoL8U%2Fx5sf7fCE30f4V6rkud%2FzSBGRwA%3D%3D&jobPostId=943118&utm_source=linkedin\n- **Application portal:** https://northerngas.talosats-careers.com/Forms/Application?formParameters=KizGpaAy2eU5YYihUIYbxpHoL8U%2Fx5sf7fCE30f4V6rkud%2FzSBGRwA%3D%3D&jobPostId=943118&utm_source=linkedin\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/careers_site_northerngas_talosats_careers_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-19a472fba401268606f1",
       "title": "External job application",
       "company": "linkedin.com",
