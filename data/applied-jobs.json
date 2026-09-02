@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-2bfe4780daba9cac0f53",
+      "title": "Data Scientist, Product Analytics",
+      "company": "metacareers.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.metacareers.com/profile/create_application/1290978636169314/",
+      "portalUrl": "https://www.metacareers.com/profile/create_application/1290978636169314/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-02T11:35:54.109Z",
+      "jobDescription": "# Data Scientist, Product Analytics\n\n- **Company:** metacareers.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-02T11:35:54.109Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.metacareers.com/profile/create_application/1290978636169314/\n- **Application portal:** https://www.metacareers.com/profile/create_application/1290978636169314/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAs a Data Scientist at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_product_analytics_metacareers_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-6b66bc9a938152dcb70c",
       "title": "Data Scientist - Model Developer / Statistician at Capital One UK",
       "company": "jobs.capitalone.co.uk",
