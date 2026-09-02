@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-3d86583a6a4e0716d248",
+      "title": "BI Engineer - Fred Perry Ltd",
+      "company": "Fred Perry Ltd",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.fredperry.com/jobs/8297700-bi-engineer?utm_source=LinkedIn",
+      "portalUrl": "https://careers.fredperry.com/jobs/8297700-bi-engineer?utm_source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-02T04:59:00.118Z",
+      "jobDescription": "# BI Engineer - Fred Perry Ltd\n\n- **Company:** Fred Perry Ltd\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-02T04:59:00.118Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.fredperry.com/jobs/8297700-bi-engineer?utm_source=LinkedIn\n- **Application portal:** https://careers.fredperry.com/jobs/8297700-bi-engineer?utm_source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nTriple Wimbledon champion Fred Perry founded his brand in 1952. He was the son of a cotton spinner, who played and fought his way through, always with style ...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/bi_engineer_fred_perry_ltd_fred_perry_ltd.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-272b1ee84c46fd444754",
       "title": "Data Scientist II",
       "company": "job-boards.greenhouse.io",
