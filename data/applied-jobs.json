@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-fc7aa00a19590ff2a7e6",
+      "title": "ONI - Data Scientist",
+      "company": "jobs.eu.lever.co",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.eu.lever.co/oni/fa28be6b-aa63-4e33-aa64-d688c67ab71b/apply",
+      "portalUrl": "https://jobs.eu.lever.co/oni/fa28be6b-aa63-4e33-aa64-d688c67ab71b/apply",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-02T10:59:22.722Z",
+      "jobDescription": "# ONI - Data Scientist\n\n- **Company:** jobs.eu.lever.co\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-02T10:59:22.722Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.eu.lever.co/oni/fa28be6b-aa63-4e33-aa64-d688c67ab71b/apply\n- **Application portal:** https://jobs.eu.lever.co/oni/fa28be6b-aa63-4e33-aa64-d688c67ab71b/apply\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nJoin ONI and Explore the Boundaries of Scientific Discovery! At ONI, we are driven by a profound mission: to propel scientific discovery and combat diseases by granting everyone the ability to visualize, comprehend, and share the intricate microscopic details of life. Our revolutionary Nanoimager stands at the forefront of advancing cellular studies on a molecular level, making substantial contributions to the evolution of scientific knowledge. We dedicate ourselves to broadening the realms of human potential, and we are actively seeking an enthusiastic and devoted Data Scientist to join our pioneering team located in Oxford. We believe in the power of relentless curiosity and the pursuit of excellence, and we invite you to join us in shaping the future of scientific exploration and healthcare breakthroughs. In this role you will build software solutions for the automation of super-resolution microscopy, image analysis to enable non-expert scientists to gain rapid and actionable insigh\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/oni_data_scientist_jobs_eu_lever_co.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-6c3d794d7fbfcb8862ee",
       "title": "Data Scientist at Sky",
       "company": "sky.talent-community.com",
