@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-6c3d794d7fbfcb8862ee",
+      "title": "Data Scientist at Sky",
+      "company": "sky.talent-community.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://sky.talent-community.com/projects/data-scientist/73546?XMLdist=1&utm_source=Appcast_LinkedIn",
+      "portalUrl": "https://sky.talent-community.com/projects/data-scientist/73546?XMLdist=1&utm_source=Appcast_LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-02T06:45:36.303Z",
+      "jobDescription": "# Data Scientist at Sky\n\n- **Company:** sky.talent-community.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-02T06:45:36.303Z\n- **Licensed sponsor:** \n- **Original posting:** https://sky.talent-community.com/projects/data-scientist/73546?XMLdist=1&utm_source=Appcast_LinkedIn\n- **Application portal:** https://sky.talent-community.com/projects/data-scientist/73546?XMLdist=1&utm_source=Appcast_LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe don’t just believe in better. We make it happen. &nbsp; Better content. Better products. And better careers. &nbsp; Working in Tech, Product or Data at Sky i\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_at_sky_sky_talent_community_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-f6b5c7f70a9af95c2c3e",
       "title": "Software Engineer (Data)",
       "company": "jobs.ashbyhq.com",
