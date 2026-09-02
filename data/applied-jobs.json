@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-272b1ee84c46fd444754",
+      "title": "Data Scientist II",
+      "company": "job-boards.greenhouse.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://job-boards.greenhouse.io/signifyd95/jobs/8103274?gh_src=00761ce51",
+      "portalUrl": "https://job-boards.greenhouse.io/signifyd95/jobs/8103274?gh_src=00761ce51",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-02T04:46:53.933Z",
+      "jobDescription": "# Data Scientist II\n\n- **Company:** job-boards.greenhouse.io\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-02T04:46:53.933Z\n- **Licensed sponsor:** \n- **Original posting:** https://job-boards.greenhouse.io/signifyd95/jobs/8103274?gh_src=00761ce51\n- **Application portal:** https://job-boards.greenhouse.io/signifyd95/jobs/8103274?gh_src=00761ce51\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_ii_job_boards_greenhouse_io.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-5a367314fc115a0f9ce5",
       "title": "External job application",
       "company": "linkedin.com",
