@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-0d60af09a3cafbf786b9",
+      "title": "Core Data Scientist - Optima Partners",
+      "company": "Optima Partners",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.optimapartners.co.uk/jobs/8000048-core-data-scientist?utm_source=LinkedIn",
+      "portalUrl": "https://careers.optimapartners.co.uk/jobs/8000048-core-data-scientist?utm_source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-03T09:28:03.806Z",
+      "jobDescription": "# Core Data Scientist - Optima Partners\n\n- **Company:** Optima Partners\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-03T09:28:03.806Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.optimapartners.co.uk/jobs/8000048-core-data-scientist?utm_source=LinkedIn\n- **Application portal:** https://careers.optimapartners.co.uk/jobs/8000048-core-data-scientist?utm_source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nCore Data Scientist at Optima Partners: translate data into practical ML-driven insights, partner with stakeholders, and deliver real business impact across ...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/core_data_scientist_optima_partners_optima_partners.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-1cb84a748e42eb668a6b",
       "title": "Applied AI ML - Associate/VP",
       "company": "JPMC Candidate Experience page",
