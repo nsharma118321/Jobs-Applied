@@ -3,13 +3,13 @@
 - **Company:** Optima Partners
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-08-11T17:55:27.226Z
+- **Applied date:** 2026-09-03T09:28:03.806Z
 - **Licensed sponsor:** 
-- **Original posting:** https://careers.optimapartners.co.uk/jobs/8000048-core-data-scientist/applications/new
-- **Application portal:** https://careers.optimapartners.co.uk/jobs/8000048-core-data-scientist/applications/new
+- **Original posting:** https://careers.optimapartners.co.uk/jobs/8000048-core-data-scientist?utm_source=LinkedIn
+- **Application portal:** https://careers.optimapartners.co.uk/jobs/8000048-core-data-scientist?utm_source=LinkedIn
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-The full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.
+Core Data Scientist at Optima Partners: translate data into practical ML-driven insights, partner with stakeholders, and deliver real business impact across ...
