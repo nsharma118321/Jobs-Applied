@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-5c30b5019d2022479f47",
+      "title": "Met Office - Welcome to Met Office Careers Hub",
+      "company": "careershub.metoffice.gov.uk",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careershub.metoffice.gov.uk/v2/application/50401/complete",
+      "portalUrl": "https://careershub.metoffice.gov.uk/v2/application/50401/complete",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-09-03T17:23:05.137Z",
+      "jobDescription": "# Met Office - Welcome to Met Office Careers Hub\n\n- **Company:** careershub.metoffice.gov.uk\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-09-03T17:23:05.137Z\n- **Licensed sponsor:** \n- **Original posting:** https://careershub.metoffice.gov.uk/v2/application/50401/complete\n- **Application portal:** https://careershub.metoffice.gov.uk/v2/application/50401/complete\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/met_office_welcome_to_met_office_careers_hub_careershub_metoffice_gov_uk.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-2c0ca0da38f1dcd9c10b",
       "title": "External job application",
       "company": "linkedin.com",
