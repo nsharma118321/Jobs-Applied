@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4606ec94a53dd5f4bad0",
+      "title": "Machine Learning Researcher | Wintermute",
+      "company": "wintermute.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.wintermute.com/company/opportunities/a37ce8fb-afc7-4ede-ae93-ca1395228cda#apply_form",
+      "portalUrl": "https://www.wintermute.com/company/opportunities/a37ce8fb-afc7-4ede-ae93-ca1395228cda#apply_form",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-03T08:05:58.873Z",
+      "jobDescription": "# Machine Learning Researcher | Wintermute\n\n- **Company:** wintermute.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-03T08:05:58.873Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.wintermute.com/company/opportunities/a37ce8fb-afc7-4ede-ae93-ca1395228cda#apply_form\n- **Application portal:** https://www.wintermute.com/company/opportunities/a37ce8fb-afc7-4ede-ae93-ca1395228cda#apply_form\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAbout Wintermute \nWintermute is a technology unicorn and one of the largest algorithmic trading companies, specialising in digital assets. We provide liquidi...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/machine_learning_researcher_wintermute_wintermute_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-478059dd2f4015d49477",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
