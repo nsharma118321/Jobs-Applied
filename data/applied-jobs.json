@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-21658e54990a7b36536e",
+      "title": "External job application",
+      "company": "careers.ibm.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113210&src=SN_LinkedIn",
+      "portalUrl": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113210&src=SN_LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-03T16:26:05.707Z",
+      "jobDescription": "# External job application\n\n- **Company:** careers.ibm.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-03T16:26:05.707Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.ibm.com/en_US/careers/JobDetail?jobId=113210&src=SN_LinkedIn\n- **Application portal:** https://careers.ibm.com/en_US/careers/JobDetail?jobId=113210&src=SN_LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_careers_ibm_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-bbae72174930f69dc12b",
       "title": "External job application",
       "company": "linkedin.com",
