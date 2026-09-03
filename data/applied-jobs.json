@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-597a08cd21d8ce68b11e",
+      "title": "External job application",
+      "company": "joblookup.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://joblookup.com/uk/job/analytics-engineer-job-in-vauxhall?utm_source=feed-75&utm_medium=Linkedin&j=0821167214741&x=09022175&f=851&p=eJzLtDKwBgAC8QEP&s=c3e63fb196&utm_campaign=job-detail-feed&utm_term=Banking%20and%20Financial%20Services&uq=32070dd4e2",
+      "portalUrl": "https://joblookup.com/uk/job/analytics-engineer-job-in-vauxhall?utm_source=feed-75&utm_medium=Linkedin&j=0821167214741&x=09022175&f=851&p=eJzLtDKwBgAC8QEP&s=c3e63fb196&utm_campaign=job-detail-feed&utm_term=Banking%20and%20Financial%20Services&uq=32070dd4e2",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-03T16:58:31.636Z",
+      "jobDescription": "# External job application\n\n- **Company:** joblookup.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-03T16:58:31.636Z\n- **Licensed sponsor:** \n- **Original posting:** https://joblookup.com/uk/job/analytics-engineer-job-in-vauxhall?utm_source=feed-75&utm_medium=Linkedin&j=0821167214741&x=09022175&f=851&p=eJzLtDKwBgAC8QEP&s=c3e63fb196&utm_campaign=job-detail-feed&utm_term=Banking%20and%20Financial%20Services&uq=32070dd4e2\n- **Application portal:** https://joblookup.com/uk/job/analytics-engineer-job-in-vauxhall?utm_source=feed-75&utm_medium=Linkedin&j=0821167214741&x=09022175&f=851&p=eJzLtDKwBgAC8QEP&s=c3e63fb196&utm_campaign=job-detail-feed&utm_term=Banking%20and%20Financial%20Services&uq=32070dd4e2\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_joblookup_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-419eb974d02c02c85a1c",
       "title": "External job application",
       "company": "linkedin.com",
