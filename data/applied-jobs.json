@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-1cb84a748e42eb668a6b",
+      "title": "Applied AI ML - Associate/VP",
+      "company": "JPMC Candidate Experience page",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787135?utm_medium=jobboard&utm_source=LinkedIn",
+      "portalUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787135?utm_medium=jobboard&utm_source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-03T09:07:51.946Z",
+      "jobDescription": "# Applied AI ML - Associate/VP\n\n- **Company:** JPMC Candidate Experience page\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-03T09:07:51.946Z\n- **Licensed sponsor:** \n- **Original posting:** https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787135?utm_medium=jobboard&utm_source=LinkedIn\n- **Application portal:** https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787135?utm_medium=jobboard&utm_source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nYou should enjoy learning new techniques, testing what works, and building ML systems that last.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/applied_ai_ml_associate_vp_jpmc_candidate_experience_page.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-6173df2dc8b965aefdbb",
       "title": "Apply",
       "company": "jobs.gsk.com",
