@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-bba3756385fbc74a5c98",
+      "title": "Data Scientist - Credit Risk Modelling",
+      "company": "jobs.ashbyhq.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.ashbyhq.com/iwoca.co.uk/d0254e59-397d-4057-9d87-8e57aa2c59e7/application?utm_source=linkedin_paid_slots",
+      "portalUrl": "https://jobs.ashbyhq.com/iwoca.co.uk/d0254e59-397d-4057-9d87-8e57aa2c59e7/application?utm_source=linkedin_paid_slots",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-04T14:50:12.344Z",
+      "jobDescription": "# Data Scientist - Credit Risk Modelling\n\n- **Company:** jobs.ashbyhq.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-04T14:50:12.344Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.ashbyhq.com/iwoca.co.uk/d0254e59-397d-4057-9d87-8e57aa2c59e7/application?utm_source=linkedin_paid_slots\n- **Application portal:** https://jobs.ashbyhq.com/iwoca.co.uk/d0254e59-397d-4057-9d87-8e57aa2c59e7/application?utm_source=linkedin_paid_slots\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe’re looking for a Data Scientist to join our Credit Risk Modelling team. You'll work on the credit models that sit at the core of iwoca's lending business – the models that decide who we lend to, on what terms, and how far the product can grow.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_credit_risk_modelling_jobs_ashbyhq_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-e12e7c86c681ea9313b9",
       "title": "Staff Data Analyst",
       "company": "jobs.ashbyhq.com",
