@@ -3,13 +3,13 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-09-04T03:11:55.519Z
+- **Applied date:** 2026-09-04T05:20:42.845Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4463108703&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=VLCLWwMya3Y2cWWKtoVapA%3D%3D&trackingId=LdkB3WTU26UdEMii356E7w%3D%3D&keywords=data%20scientisy&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=CmLd8J3m9CpoSL9HjXwq%2FQ%3D%3D&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4463108703&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=VLCLWwMya3Y2cWWKtoVapA%3D%3D&trackingId=LdkB3WTU26UdEMii356E7w%3D%3D&keywords=data%20scientisy&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=CmLd8J3m9CpoSL9HjXwq%2FQ%3D%3D&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4461696927&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=s%2FtZx2I1mNTuhBbRwBcS2A%3D%3D&trackingId=VYyGGOR2uhUHKUUAcSkw7w%3D%3D&keywords=data%20engineer%20posted%20in%20the%20past%2024%20hours&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4461696927&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=s%2FtZx2I1mNTuhBbRwBcS2A%3D%3D&trackingId=VYyGGOR2uhUHKUUAcSkw7w%3D%3D&keywords=data%20engineer%20posted%20in%20the%20past%2024%20hours&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-Login to LinkedIn to keep in touch with people you know, share ideas, and build your career.
+The full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.
