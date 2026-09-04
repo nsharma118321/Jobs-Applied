@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-00a4bc461fbd51431eb2",
+      "title": "Soapbox Job Board",
+      "company": "jobs.soapbox.vc",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.soapbox.vc/companies/axle-energy-2/jobs/92053198-data-science#content",
+      "portalUrl": "https://jobs.soapbox.vc/companies/axle-energy-2/jobs/92053198-data-science#content",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-04T12:08:19.250Z",
+      "jobDescription": "# Soapbox Job Board\n\n- **Company:** jobs.soapbox.vc\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-04T12:08:19.250Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.soapbox.vc/companies/axle-energy-2/jobs/92053198-data-science#content\n- **Application portal:** https://jobs.soapbox.vc/companies/axle-energy-2/jobs/92053198-data-science#content\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/soapbox_job_board_jobs_soapbox_vc.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-07ed6b00b249c4775d03",
       "title": "AI Engineer - Data specialist | Top Projects At EPAM",
       "company": "careers.epam.com",
