@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-5ac1abc933a710344117",
+      "title": "Login - Jobs at Bath",
+      "company": "bath.ac.uk",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.bath.ac.uk/jobs/Logon/?jobId=29441",
+      "portalUrl": "https://www.bath.ac.uk/jobs/Logon/?jobId=29441",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-04T11:49:24.368Z",
+      "jobDescription": "# Login - Jobs at Bath\n\n- **Company:** bath.ac.uk\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-04T11:49:24.368Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.bath.ac.uk/jobs/Logon/?jobId=29441\n- **Application portal:** https://www.bath.ac.uk/jobs/Logon/?jobId=29441\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/login_jobs_at_bath_bath_ac_uk.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-70476e1a3d66c52cae2c",
       "title": "External job application",
       "company": "linkedin.com",
