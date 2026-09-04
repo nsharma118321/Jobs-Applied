@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-21fd930190abe3206205",
+      "title": "The FA Careers",
+      "company": "The FA Careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.thefa.com/jobs/vacancy/3227/applicationlogin/",
+      "portalUrl": "https://careers.thefa.com/jobs/vacancy/3227/applicationlogin/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-04T11:35:33.584Z",
+      "jobDescription": "# The FA Careers\n\n- **Company:** The FA Careers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-04T11:35:33.584Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.thefa.com/jobs/vacancy/3227/applicationlogin/\n- **Application portal:** https://careers.thefa.com/jobs/vacancy/3227/applicationlogin/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nFind your next career at the FA, English football’s governing body. We are dedicated to developing our people both professionally and personally.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/the_fa_careers_the_fa_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-4d1211fc9176e9bd0917",
       "title": "External job application",
       "company": "linkedin.com",
