@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b3ba9b3cc906f8cf8863",
+      "title": "External job application",
+      "company": "find.stottandmay.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://find.stottandmay.com/job/lead-product-data-scientist-79092?source=LinkedInJobsWrapper",
+      "portalUrl": "https://find.stottandmay.com/job/lead-product-data-scientist-79092?source=LinkedInJobsWrapper",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-04T17:20:24.423Z",
+      "jobDescription": "# External job application\n\n- **Company:** find.stottandmay.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-04T17:20:24.423Z\n- **Licensed sponsor:** \n- **Original posting:** https://find.stottandmay.com/job/lead-product-data-scientist-79092?source=LinkedInJobsWrapper\n- **Application portal:** https://find.stottandmay.com/job/lead-product-data-scientist-79092?source=LinkedInJobsWrapper\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_find_stottandmay_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-4ecc0514e494f9dd24d5",
       "title": "Data Science Associate Manager",
       "company": "accenture.wd103.myworkdayjobs.com",
