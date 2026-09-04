@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-c3f0fbea55be0398f54f",
+      "title": "Insight Analyst",
+      "company": "Retail Insight",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://retailinsight.bamboohr.com/careers/76?source=LinkedIn",
+      "portalUrl": "https://retailinsight.bamboohr.com/careers/76?source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-04T15:06:40.165Z",
+      "jobDescription": "# Insight Analyst\n\n- **Company:** Retail Insight\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-04T15:06:40.165Z\n- **Licensed sponsor:** \n- **Original posting:** https://retailinsight.bamboohr.com/careers/76?source=LinkedIn\n- **Application portal:** https://retailinsight.bamboohr.com/careers/76?source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nInsight AnalystLondon | Hybrid\n\nAbout Retail Insight\nAt Retail Insight, we&#039;re transforming the way some of the world&#039;s biggest retailers and CPG brands use data, analytics and technology to make smarter decisions.\n\nOur people are at the heart of what we do. We bring together talented people with differen\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/insight_analyst_retail_insight.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-bba3756385fbc74a5c98",
       "title": "Data Scientist - Credit Risk Modelling",
       "company": "jobs.ashbyhq.com",
