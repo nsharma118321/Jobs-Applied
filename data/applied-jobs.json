@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-965774f7f2cc249a4466",
+      "title": "Cezanne | Hire The Best People. Build The Best Teams.",
+      "company": "recruitment.cezannehr.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://recruitment.cezannehr.com/shared/job/product-data-scientist-5e61e",
+      "portalUrl": "https://recruitment.cezannehr.com/shared/job/product-data-scientist-5e61e",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-04T17:05:53.780Z",
+      "jobDescription": "# Cezanne | Hire The Best People. Build The Best Teams.\n\n- **Company:** recruitment.cezannehr.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-04T17:05:53.780Z\n- **Licensed sponsor:** \n- **Original posting:** https://recruitment.cezannehr.com/shared/job/product-data-scientist-5e61e\n- **Application portal:** https://recruitment.cezannehr.com/shared/job/product-data-scientist-5e61e\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nOur user-friendly applicant tracking system removes the time-intensive admin when hiring and gives you complete control of the entire recruitment process. Sign up for your free 14 day trial or schedule a demo.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/cezanne_hire_the_best_people_build_the_best_teams_recruitment_cezannehr_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b3b808d05a59444303e7",
       "title": "External job application",
       "company": "linkedin.com",
