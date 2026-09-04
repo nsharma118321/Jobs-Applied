@@ -3,10 +3,10 @@
 - **Company:** recruitment.cezannehr.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-08-24T11:28:35.863Z
+- **Applied date:** 2026-09-04T17:05:53.780Z
 - **Licensed sponsor:** 
-- **Original posting:** https://recruitment.cezannehr.com/shared/job/data-scientist-8092a/linkedin?src=LinkedIn
-- **Application portal:** https://recruitment.cezannehr.com/shared/job/data-scientist-8092a/linkedin?src=LinkedIn
+- **Original posting:** https://recruitment.cezannehr.com/shared/job/product-data-scientist-5e61e
+- **Application portal:** https://recruitment.cezannehr.com/shared/job/product-data-scientist-5e61e
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
