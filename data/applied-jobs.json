@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-a9163136414d066964c1",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4463366538&eBP=BUDGET_EXHAUSTED_JOB&refId=dZx4rlDQ3BVDzkAwpW8AWQ%3D%3D&trackingId=niAh2rWVY6x2QAQl587dwg%3D%3D&keywords=data%20analyst%20&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=sXBC4gK1jA%2Fcb7QvSQfzMQ%3D%3D&start=100&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4463366538&eBP=BUDGET_EXHAUSTED_JOB&refId=dZx4rlDQ3BVDzkAwpW8AWQ%3D%3D&trackingId=niAh2rWVY6x2QAQl587dwg%3D%3D&keywords=data%20analyst%20&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=sXBC4gK1jA%2Fcb7QvSQfzMQ%3D%3D&start=100&f_TPR=r86400",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-09-04T16:18:12.259Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-09-04T16:18:12.259Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4463366538&eBP=BUDGET_EXHAUSTED_JOB&refId=dZx4rlDQ3BVDzkAwpW8AWQ%3D%3D&trackingId=niAh2rWVY6x2QAQl587dwg%3D%3D&keywords=data%20analyst%20&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=sXBC4gK1jA%2Fcb7QvSQfzMQ%3D%3D&start=100&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4463366538&eBP=BUDGET_EXHAUSTED_JOB&refId=dZx4rlDQ3BVDzkAwpW8AWQ%3D%3D&trackingId=niAh2rWVY6x2QAQl587dwg%3D%3D&keywords=data%20analyst%20&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=sXBC4gK1jA%2Fcb7QvSQfzMQ%3D%3D&start=100&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-49247de25920b64a0884",
       "title": "Staff Data Scientist - AML",
       "company": "Wise",
