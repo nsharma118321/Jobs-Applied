@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4462043213",
+      "title": "Data Scientist II",
+      "company": "Signifyd",
+      "location": "London, United Kingdom",
+      "sponsorName": "Signifyd UK Ltd",
+      "originalUrl": "https://www.linkedin.com/jobs/view/4462043213/",
+      "portalUrl": "https://www.linkedin.com/jobs/view/4462043213/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-05T06:22:13.091Z",
+      "jobDescription": "# Data Scientist II\n\n- **Company:** Signifyd\n- **Location:** London, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-09-05T06:22:13.091Z\n- **Licensed sponsor:** Signifyd UK Ltd\n- **Original posting:** https://www.linkedin.com/jobs/view/4462043213/\n- **Application portal:** https://www.linkedin.com/jobs/view/4462043213/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_ii_signifyd.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4461669756",
       "title": "Data Scientist, Research, Reliability Analytics",
       "company": "Google",
