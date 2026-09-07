@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-918cc274844536730164",
+      "title": "External job application",
+      "company": "digitalfutures.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://digitalfutures.com/future-talent/future-talent-application",
+      "portalUrl": "https://digitalfutures.com/future-talent/future-talent-application",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-07T16:24:34.003Z",
+      "jobDescription": "# External job application\n\n- **Company:** digitalfutures.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-07T16:24:34.003Z\n- **Licensed sponsor:** \n- **Original posting:** https://digitalfutures.com/future-talent/future-talent-application\n- **Application portal:** https://digitalfutures.com/future-talent/future-talent-application\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_digitalfutures_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-747ea8557e52878698f8",
       "title": "Data Science Investigations",
       "company": "ravelin.pinpointhq.com",
