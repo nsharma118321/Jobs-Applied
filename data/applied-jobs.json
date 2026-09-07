@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-2ad60d33045b28681bd0",
+      "title": "External job application",
+      "company": "jobs.natwestgroup.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.natwestgroup.com/jobs/18213211-business-risk-insights-lead?tm_job=R-00284686-OTHLOC-GBR-5FBIR023&tm_event=view&tm_company=861&bid=56",
+      "portalUrl": "https://jobs.natwestgroup.com/jobs/18213211-business-risk-insights-lead?tm_job=R-00284686-OTHLOC-GBR-5FBIR023&tm_event=view&tm_company=861&bid=56",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-07T17:59:27.734Z",
+      "jobDescription": "# External job application\n\n- **Company:** jobs.natwestgroup.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-07T17:59:27.734Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.natwestgroup.com/jobs/18213211-business-risk-insights-lead?tm_job=R-00284686-OTHLOC-GBR-5FBIR023&tm_event=view&tm_company=861&bid=56\n- **Application portal:** https://jobs.natwestgroup.com/jobs/18213211-business-risk-insights-lead?tm_job=R-00284686-OTHLOC-GBR-5FBIR023&tm_event=view&tm_company=861&bid=56\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_jobs_natwestgroup_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-284e0d0081b1e504957c",
       "title": "Data Scientist - London, England, United Kingdom | BP",
       "company": "bpdirectsource.uk.talentnet.community",
