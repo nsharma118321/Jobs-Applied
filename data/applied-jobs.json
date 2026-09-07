@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-ee1efbb8ebc2448ce69c",
+      "title": "Nationwide Careers",
+      "company": "Nationwide",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://dnn.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Nationwide/job/4633/apply/email",
+      "portalUrl": "https://dnn.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Nationwide/job/4633/apply/email",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-07T15:44:48.772Z",
+      "jobDescription": "# Nationwide Careers\n\n- **Company:** Nationwide\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-07T15:44:48.772Z\n- **Licensed sponsor:** \n- **Original posting:** https://dnn.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Nationwide/job/4633/apply/email\n- **Application portal:** https://dnn.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Nationwide/job/4633/apply/email\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/nationwide_careers_nationwide.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-46fbf3ad05e24baea0a2",
       "title": "Career Opportunities: Data Analytics Manager (44358)",
       "company": "career2.successfactors.eu",
