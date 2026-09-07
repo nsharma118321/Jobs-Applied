@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-73d3a08e9a17ba3f5c68",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4462933092&eBP=CwEAAAGget9hjEOCNrcK_NYz5Ltq1yDvfspkv2ROr4-ObaZetRs3-NZLgh2gEIGwzUymYmkCAaNbck7np-8F0UUhSnMoOUGg3-0xmBtZVw9AVUJ5Pmo8cSbZ07u_hufTjy7XbBooX3nOxAiq58ocHrP5dHP3WDKOeqw6hR-Zf-5BpHr3QYySNn8DnaefSMXhz1b-2eOiR-GcYsZo7mCrKy-UWQYFUINraZHUoOd6ZjGCPpjlrLOqUHG5WjAlutdrQglSRR4UcnUlV4jHG2fKdTrCfHDMAsRiBkNHLmQQes0FgrA1aWQoirTZtgduIrJm_2PxTRqn7eoubJa-PlpIxslFTQNUw4DMDzB1BBOFvi-fnDPST3lb0jMRUtWYEdeglP3_4jnxj9grBCDsy3QVdFajqNE9lFEiE1TSugzAyBntn65qRgfgCpoBGJhJuiIRhd1ud75VIWlZQHqLG6j19J_bXrAQHmObkkscYPJ4hA&refId=Ezjn%2BK%2FueRbhL3IMiKF8Tw%3D%3D&trackingId=o19WTKnbL7kNrsq8Np5f0Q%3D%3D&keywords=Data%20Engineer&origin=SEMANTIC_SEARCH_LANDING_PAGE",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4462933092&eBP=CwEAAAGget9hjEOCNrcK_NYz5Ltq1yDvfspkv2ROr4-ObaZetRs3-NZLgh2gEIGwzUymYmkCAaNbck7np-8F0UUhSnMoOUGg3-0xmBtZVw9AVUJ5Pmo8cSbZ07u_hufTjy7XbBooX3nOxAiq58ocHrP5dHP3WDKOeqw6hR-Zf-5BpHr3QYySNn8DnaefSMXhz1b-2eOiR-GcYsZo7mCrKy-UWQYFUINraZHUoOd6ZjGCPpjlrLOqUHG5WjAlutdrQglSRR4UcnUlV4jHG2fKdTrCfHDMAsRiBkNHLmQQes0FgrA1aWQoirTZtgduIrJm_2PxTRqn7eoubJa-PlpIxslFTQNUw4DMDzB1BBOFvi-fnDPST3lb0jMRUtWYEdeglP3_4jnxj9grBCDsy3QVdFajqNE9lFEiE1TSugzAyBntn65qRgfgCpoBGJhJuiIRhd1ud75VIWlZQHqLG6j19J_bXrAQHmObkkscYPJ4hA&refId=Ezjn%2BK%2FueRbhL3IMiKF8Tw%3D%3D&trackingId=o19WTKnbL7kNrsq8Np5f0Q%3D%3D&keywords=Data%20Engineer&origin=SEMANTIC_SEARCH_LANDING_PAGE",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-09-07T07:57:54.234Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-09-07T07:57:54.234Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4462933092&eBP=CwEAAAGget9hjEOCNrcK_NYz5Ltq1yDvfspkv2ROr4-ObaZetRs3-NZLgh2gEIGwzUymYmkCAaNbck7np-8F0UUhSnMoOUGg3-0xmBtZVw9AVUJ5Pmo8cSbZ07u_hufTjy7XbBooX3nOxAiq58ocHrP5dHP3WDKOeqw6hR-Zf-5BpHr3QYySNn8DnaefSMXhz1b-2eOiR-GcYsZo7mCrKy-UWQYFUINraZHUoOd6ZjGCPpjlrLOqUHG5WjAlutdrQglSRR4UcnUlV4jHG2fKdTrCfHDMAsRiBkNHLmQQes0FgrA1aWQoirTZtgduIrJm_2PxTRqn7eoubJa-PlpIxslFTQNUw4DMDzB1BBOFvi-fnDPST3lb0jMRUtWYEdeglP3_4jnxj9grBCDsy3QVdFajqNE9lFEiE1TSugzAyBntn65qRgfgCpoBGJhJuiIRhd1ud75VIWlZQHqLG6j19J_bXrAQHmObkkscYPJ4hA&refId=Ezjn%2BK%2FueRbhL3IMiKF8Tw%3D%3D&trackingId=o19WTKnbL7kNrsq8Np5f0Q%3D%3D&keywords=Data%20Engineer&origin=SEMANTIC_SEARCH_LANDING_PAGE\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4462933092&eBP=CwEAAAGget9hjEOCNrcK_NYz5Ltq1yDvfspkv2ROr4-ObaZetRs3-NZLgh2gEIGwzUymYmkCAaNbck7np-8F0UUhSnMoOUGg3-0xmBtZVw9AVUJ5Pmo8cSbZ07u_hufTjy7XbBooX3nOxAiq58ocHrP5dHP3WDKOeqw6hR-Zf-5BpHr3QYySNn8DnaefSMXhz1b-2eOiR-GcYsZo7mCrKy-UWQYFUINraZHUoOd6ZjGCPpjlrLOqUHG5WjAlutdrQglSRR4UcnUlV4jHG2fKdTrCfHDMAsRiBkNHLmQQes0FgrA1aWQoirTZtgduIrJm_2PxTRqn7eoubJa-PlpIxslFTQNUw4DMDzB1BBOFvi-fnDPST3lb0jMRUtWYEdeglP3_4jnxj9grBCDsy3QVdFajqNE9lFEiE1TSugzAyBntn65qRgfgCpoBGJhJuiIRhd1ud75VIWlZQHqLG6j19J_bXrAQHmObkkscYPJ4hA&refId=Ezjn%2BK%2FueRbhL3IMiKF8Tw%3D%3D&trackingId=o19WTKnbL7kNrsq8Np5f0Q%3D%3D&keywords=Data%20Engineer&origin=SEMANTIC_SEARCH_LANDING_PAGE\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-49a567ce5f5456cb323c",
       "title": "External job application",
       "company": "linkedin.com",
