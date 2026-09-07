@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-447acfdff4c9277847b9",
+      "title": "Data Scientist | Apply on Job",
+      "company": "micro1 Job Portal",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.micro1.ai/post/84782580-52b0-4bdb-90ab-06cbc301de84?referralCode=e91c9585-63ad-45aa-9820-d63708190a83&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+      "portalUrl": "https://jobs.micro1.ai/post/84782580-52b0-4bdb-90ab-06cbc301de84?referralCode=e91c9585-63ad-45aa-9820-d63708190a83&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-07T17:40:52.180Z",
+      "jobDescription": "# Data Scientist | Apply on Job\n\n- **Company:** micro1 Job Portal\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-07T17:40:52.180Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.micro1.ai/post/84782580-52b0-4bdb-90ab-06cbc301de84?referralCode=e91c9585-63ad-45aa-9820-d63708190a83&utm_source=referral&utm_medium=share&utm_campaign=job_referral\n- **Application portal:** https://jobs.micro1.ai/post/84782580-52b0-4bdb-90ab-06cbc301de84?referralCode=e91c9585-63ad-45aa-9820-d63708190a83&utm_source=referral&utm_medium=share&utm_campaign=job_referral\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nRequired Skills: Python, R, SQL, Power Bi, AWS, Azure, Google Cloud Platform, Matplotlib\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_apply_on_job_micro1_job_portal.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-1f2588d1130c55fc0e2b",
       "title": "Associate Consultant 2027-28 - Analytics (London Office) in London | OC&C Strategy",
       "company": "OC&C Strategy",
