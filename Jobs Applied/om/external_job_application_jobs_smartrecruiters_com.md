@@ -3,10 +3,10 @@
 - **Company:** jobs.smartrecruiters.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-09-07T14:22:41.400Z
+- **Applied date:** 2026-09-07T16:47:12.140Z
 - **Licensed sponsor:** 
-- **Original posting:** https://jobs.smartrecruiters.com/oneclick-ui/company/SyngentaGroup/publication/4bf8ca86-1563-42ec-954b-8d8f739137c3?dcr_ci=SyngentaGroup&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73
-- **Application portal:** https://jobs.smartrecruiters.com/oneclick-ui/company/SyngentaGroup/publication/4bf8ca86-1563-42ec-954b-8d8f739137c3?dcr_ci=SyngentaGroup&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73
+- **Original posting:** https://jobs.smartrecruiters.com/oneclick-ui/company/SyngentaGroup/publication/bbabf417-d43b-4047-a5f8-ccf06d9f6555?dcr_ci=SyngentaGroup&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73
+- **Application portal:** https://jobs.smartrecruiters.com/oneclick-ui/company/SyngentaGroup/publication/bbabf417-d43b-4047-a5f8-ccf06d9f6555?dcr_ci=SyngentaGroup&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
