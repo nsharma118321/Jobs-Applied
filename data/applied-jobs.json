@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:smartrecruiters:Wise:744000147966645",
+      "title": "Lead Data Scientist - Causal Inference",
+      "company": "Wise",
+      "location": "London, United Kingdom",
+      "sponsorName": "Wise Payments Limited",
+      "originalUrl": "https://jobs.smartrecruiters.com/Wise/744000147966645-lead-data-scientist-causal-inference",
+      "portalUrl": "https://jobs.smartrecruiters.com/Wise/744000147966645-lead-data-scientist-causal-inference",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-08T04:50:23.060Z",
+      "jobDescription": "# Lead Data Scientist - Causal Inference\n\n- **Company:** Wise\n- **Location:** London, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-09-08T04:50:23.060Z\n- **Licensed sponsor:** Wise Payments Limited\n- **Original posting:** https://jobs.smartrecruiters.com/Wise/744000147966645-lead-data-scientist-causal-inference\n- **Application portal:** https://jobs.smartrecruiters.com/Wise/744000147966645-lead-data-scientist-causal-inference\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAbout the roleWe’re looking for an experienced Data Scientist to join our Customer Support team in London, working as part of a team based across London and Budapest.You’ll help us understand how well our customer support experience is working, identify the biggest opportunities for improvement, and...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/lead_data_scientist_causal_inference_wise.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-260fba2cef95b2a7a902",
       "title": "External job application",
       "company": "linkedin.com",
