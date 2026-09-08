@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-2090ab8b5ea440182bb2",
+      "title": "Applied AI ML - Senior Associate",
+      "company": "JPMC Candidate Experience page",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788682?utm_medium=jobboard&utm_source=LinkedIn",
+      "portalUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788682?utm_medium=jobboard&utm_source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-08T08:04:24.625Z",
+      "jobDescription": "# Applied AI ML - Senior Associate\n\n- **Company:** JPMC Candidate Experience page\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-08T08:04:24.625Z\n- **Licensed sponsor:** \n- **Original posting:** https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788682?utm_medium=jobboard&utm_source=LinkedIn\n- **Application portal:** https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788682?utm_medium=jobboard&utm_source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nDrive innovation by transforming workforce data into actionable AI-powered solutions that shape evidence-based decisions.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/applied_ai_ml_senior_associate_jpmc_candidate_experience_page.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b4d86d13e35577dd71f7",
       "title": "External job application",
       "company": "linkedin.com",
