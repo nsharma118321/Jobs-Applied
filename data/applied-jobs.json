@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-5f3b74102b5136a09e7c",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4435440738&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=6emvFxF4vh17oUAxPH0xpg%3D%3D&trackingId=llkadzz55bK8McdYrB3%2BIg%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Kye6BnMs1TesI6SkXQGPvA%3D%3D&start=50&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4435440738&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=6emvFxF4vh17oUAxPH0xpg%3D%3D&trackingId=llkadzz55bK8McdYrB3%2BIg%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Kye6BnMs1TesI6SkXQGPvA%3D%3D&start=50&f_TPR=r86400",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-09-09T05:43:54.461Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-09-09T05:43:54.461Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4435440738&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=6emvFxF4vh17oUAxPH0xpg%3D%3D&trackingId=llkadzz55bK8McdYrB3%2BIg%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Kye6BnMs1TesI6SkXQGPvA%3D%3D&start=50&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4435440738&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=6emvFxF4vh17oUAxPH0xpg%3D%3D&trackingId=llkadzz55bK8McdYrB3%2BIg%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Kye6BnMs1TesI6SkXQGPvA%3D%3D&start=50&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-d93a0552e56ff5d2d80f",
       "title": "Data Scientist - Cybersecurity Analyst (Position located in Cheltenham, United Kingdom)",
       "company": "job-boards.greenhouse.io",
