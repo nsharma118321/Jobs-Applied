@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-75ec3e9df5a772e1e22c",
+      "title": "Machine Learning Researcher :: Jane Street",
+      "company": "janestreet.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.janestreet.com/join-jane-street/apply/7246339002/?gh_jid=7246339002&gh_src=e2b3bbb42us",
+      "portalUrl": "https://www.janestreet.com/join-jane-street/apply/7246339002/?gh_jid=7246339002&gh_src=e2b3bbb42us",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-09T06:21:48.377Z",
+      "jobDescription": "# Machine Learning Researcher :: Jane Street\n\n- **Company:** janestreet.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-09T06:21:48.377Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.janestreet.com/join-jane-street/apply/7246339002/?gh_jid=7246339002&gh_src=e2b3bbb42us\n- **Application portal:** https://www.janestreet.com/join-jane-street/apply/7246339002/?gh_jid=7246339002&gh_src=e2b3bbb42us\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nJane Street is a quantitative trading firm and liquidity provider with a unique focus on technology and collaborative problem solving.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/machine_learning_researcher_jane_street_janestreet_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-ee5be803bff8d2c29f01",
       "title": "Principal Data Scientist - National Security (TIRE) in Hub8 MX, Cheltenham | The Alan Turing Institute",
       "company": "The Alan Turing Institute",
