@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-80b56f9a1dc5e0af73b3",
+      "title": "Keystone | Careers & Opportunities",
+      "company": "keystone.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.keystone.com/career?gh_jid=7641138#form",
+      "portalUrl": "https://www.keystone.com/career?gh_jid=7641138#form",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-09T06:31:46.485Z",
+      "jobDescription": "# Keystone | Careers & Opportunities\n\n- **Company:** keystone.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-09T06:31:46.485Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.keystone.com/career?gh_jid=7641138#form\n- **Application portal:** https://www.keystone.com/career?gh_jid=7641138#form\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/keystone_careers_opportunities_keystone_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-75ec3e9df5a772e1e22c",
       "title": "Machine Learning Researcher :: Jane Street",
       "company": "janestreet.com",
