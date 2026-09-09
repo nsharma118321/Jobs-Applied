@@ -3,10 +3,10 @@
 - **Company:** jobs.eu.lever.co
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-09-02T10:59:22.722Z
+- **Applied date:** 2026-09-09T08:41:39.679Z
 - **Licensed sponsor:** 
-- **Original posting:** https://jobs.eu.lever.co/oni/fa28be6b-aa63-4e33-aa64-d688c67ab71b/apply
-- **Application portal:** https://jobs.eu.lever.co/oni/fa28be6b-aa63-4e33-aa64-d688c67ab71b/apply
+- **Original posting:** https://jobs.eu.lever.co/oni/fa28be6b-aa63-4e33-aa64-d688c67ab71b
+- **Application portal:** https://jobs.eu.lever.co/oni/fa28be6b-aa63-4e33-aa64-d688c67ab71b
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
