@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-fd5fe82735dd249c06bc",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4463518207&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=ayFa%2Fg2twpFdOFoU4e%2FZYQ%3D%3D&trackingId=bt5lET4ebBTqebaEXmLw5Q%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Kye6BnMs1TesI6SkXQGPvA%3D%3D&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4463518207&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=ayFa%2Fg2twpFdOFoU4e%2FZYQ%3D%3D&trackingId=bt5lET4ebBTqebaEXmLw5Q%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Kye6BnMs1TesI6SkXQGPvA%3D%3D&f_TPR=r86400",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-09-09T01:47:38.780Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-09-09T01:47:38.780Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4463518207&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=ayFa%2Fg2twpFdOFoU4e%2FZYQ%3D%3D&trackingId=bt5lET4ebBTqebaEXmLw5Q%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Kye6BnMs1TesI6SkXQGPvA%3D%3D&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4463518207&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=ayFa%2Fg2twpFdOFoU4e%2FZYQ%3D%3D&trackingId=bt5lET4ebBTqebaEXmLw5Q%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Kye6BnMs1TesI6SkXQGPvA%3D%3D&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-2090ab8b5ea440182bb2",
       "title": "Applied AI ML - Senior Associate",
       "company": "JPMC Candidate Experience page",
