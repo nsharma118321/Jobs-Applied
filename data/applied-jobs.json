@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-c688ef8f6b1addea026f",
+      "title": "Careers",
+      "company": "bizclikmedia.careers.hibob.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://bizclikmedia.careers.hibob.com/jobs/71a2c80e-75bf-483d-9409-3c247ec45df3/apply",
+      "portalUrl": "https://bizclikmedia.careers.hibob.com/jobs/71a2c80e-75bf-483d-9409-3c247ec45df3/apply",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-10T08:11:42.127Z",
+      "jobDescription": "# Careers\n\n- **Company:** bizclikmedia.careers.hibob.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-10T08:11:42.127Z\n- **Licensed sponsor:** \n- **Original posting:** https://bizclikmedia.careers.hibob.com/jobs/71a2c80e-75bf-483d-9409-3c247ec45df3/apply\n- **Application portal:** https://bizclikmedia.careers.hibob.com/jobs/71a2c80e-75bf-483d-9409-3c247ec45df3/apply\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/careers_bizclikmedia_careers_hibob_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-21c06efe83d202b8358a",
       "title": "External job application",
       "company": "linkedin.com",
