@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-7a3158e4754327f93af9",
+      "title": "Business Data Analyst • emagine Portal",
+      "company": "portal.emagine.org",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://portal.emagine.org/jobs/180023/business-data-analyst?utm_source=LinkedIn",
+      "portalUrl": "https://portal.emagine.org/jobs/180023/business-data-analyst?utm_source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-10T09:09:59.078Z",
+      "jobDescription": "# Business Data Analyst • emagine Portal\n\n- **Company:** portal.emagine.org\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-10T09:09:59.078Z\n- **Licensed sponsor:** \n- **Original posting:** https://portal.emagine.org/jobs/180023/business-data-analyst?utm_source=LinkedIn\n- **Application portal:** https://portal.emagine.org/jobs/180023/business-data-analyst?utm_source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nView the full details for this freelance job: Business Data Analyst . Find your next IT consultant project or remote gig at emagine. Apply today!\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/business_data_analyst_emagine_portal_portal_emagine_org.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-66cba04ae71896e132dd",
       "title": "Lead Pricing Data Analyst - BPL at Barclays",
       "company": "search.jobs.barclays",
