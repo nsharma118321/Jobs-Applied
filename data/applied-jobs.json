@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4c5b4f63a46e81d3166b",
+      "title": "External job application",
+      "company": "jobs.globalpayments.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.globalpayments.com/jobs/JR0611330-1?source=LinkedIn",
+      "portalUrl": "https://jobs.globalpayments.com/jobs/JR0611330-1?source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-10T10:23:16.493Z",
+      "jobDescription": "# External job application\n\n- **Company:** jobs.globalpayments.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-10T10:23:16.493Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.globalpayments.com/jobs/JR0611330-1?source=LinkedIn\n- **Application portal:** https://jobs.globalpayments.com/jobs/JR0611330-1?source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_jobs_globalpayments_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-9739df1d17ad29096645",
       "title": "Data & Knowledge Manager - 12 month fixed term contract in England - South East | M Group Ltd",
       "company": "M Group Ltd",
