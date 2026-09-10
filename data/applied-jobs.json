@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-6763f34d769287e3027a",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4422944337&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=VnwPkd%2FuXMAI2kUoQx%2BYhA%3D%3D&trackingId=3DVXbNCwwbJ7EZmibpYRWg%3D%3D&keywords=data%20scientist&origin=SEMANTIC_SEARCH_LANDING_PAGE",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4422944337&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=VnwPkd%2FuXMAI2kUoQx%2BYhA%3D%3D&trackingId=3DVXbNCwwbJ7EZmibpYRWg%3D%3D&keywords=data%20scientist&origin=SEMANTIC_SEARCH_LANDING_PAGE",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-09-10T09:31:19.247Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-09-10T09:31:19.247Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4422944337&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=VnwPkd%2FuXMAI2kUoQx%2BYhA%3D%3D&trackingId=3DVXbNCwwbJ7EZmibpYRWg%3D%3D&keywords=data%20scientist&origin=SEMANTIC_SEARCH_LANDING_PAGE\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4422944337&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=VnwPkd%2FuXMAI2kUoQx%2BYhA%3D%3D&trackingId=3DVXbNCwwbJ7EZmibpYRWg%3D%3D&keywords=data%20scientist&origin=SEMANTIC_SEARCH_LANDING_PAGE\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-e9b7d5d1a7e7349a267e",
       "title": "CRM Data &amp; Audience Manager",
       "company": "osv_cfainstitute.wd5.myworkdayjobs.com",
