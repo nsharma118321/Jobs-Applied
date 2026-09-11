@@ -3,10 +3,10 @@
 - **Company:** jobs.bendingspoons.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-08-27T03:53:47.983Z
+- **Applied date:** 2026-09-11T07:31:04.673Z
 - **Licensed sponsor:** 
-- **Original posting:** https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b/apply?utm_medium=job_post&utm_source=linkedin&utm_campaign=6a8f7e93b9d76b7cd0614319
-- **Application portal:** https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b/apply?utm_medium=job_post&utm_source=linkedin&utm_campaign=6a8f7e93b9d76b7cd0614319
+- **Original posting:** https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b/apply?utm_medium=job_post&utm_source=linkedin&utm_campaign=6aa360bb06ba8fb655c6b12e
+- **Application portal:** https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b/apply?utm_medium=job_post&utm_source=linkedin&utm_campaign=6aa360bb06ba8fb655c6b12e
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
