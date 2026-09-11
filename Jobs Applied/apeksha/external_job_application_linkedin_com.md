@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-09-10T12:55:04.397Z
+- **Applied date:** 2026-09-11T15:24:54.947Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4464527118&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=D7zttwzn3qUT0YzjEZ2M2A%3D%3D&trackingId=bD8FbrYPa0LM6iKDGbqR2A%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Uu2X7sVpoR6wrBoIGacUgQ%3D%3D&start=125&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4464527118&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=D7zttwzn3qUT0YzjEZ2M2A%3D%3D&trackingId=bD8FbrYPa0LM6iKDGbqR2A%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Uu2X7sVpoR6wrBoIGacUgQ%3D%3D&start=125&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4466306004&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=eg9V32HjMxOu5g1me1Bopg%3D%3D&trackingId=6d7QukB9NtCFMph9HuuwSw%3D%3D&keywords=data%20analyst%20posted%20in%20the%20past%2024%20hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=GLqrMHSzOt1%2B5NwZOvrZmg%3D%3D&geoId=101165590&distance=0.0&f_AL=true
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4466306004&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=eg9V32HjMxOu5g1me1Bopg%3D%3D&trackingId=6d7QukB9NtCFMph9HuuwSw%3D%3D&keywords=data%20analyst%20posted%20in%20the%20past%2024%20hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=GLqrMHSzOt1%2B5NwZOvrZmg%3D%3D&geoId=101165590&distance=0.0&f_AL=true
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
