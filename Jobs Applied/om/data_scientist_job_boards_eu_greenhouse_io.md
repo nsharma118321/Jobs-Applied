@@ -3,10 +3,10 @@
 - **Company:** job-boards.eu.greenhouse.io
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-08-17T18:22:23.566Z
+- **Applied date:** 2026-09-11T05:12:09.390Z
 - **Licensed sponsor:** 
-- **Original posting:** https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4953254101
-- **Application portal:** https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4953254101
+- **Original posting:** https://job-boards.eu.greenhouse.io/physicsx/jobs/4644833101?gh_src=6d71ons2teu
+- **Application portal:** https://job-boards.eu.greenhouse.io/physicsx/jobs/4644833101?gh_src=6d71ons2teu
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
