@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b2492050875a74e38d92",
+      "title": "Career Opportunities",
+      "company": "career2.successfactors.eu",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://career2.successfactors.eu/careers?company=systematic",
+      "portalUrl": "https://career2.successfactors.eu/careers?company=systematic",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-11T05:58:53.551Z",
+      "jobDescription": "# Career Opportunities\n\n- **Company:** career2.successfactors.eu\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-11T05:58:53.551Z\n- **Licensed sponsor:** \n- **Original posting:** https://career2.successfactors.eu/careers?company=systematic\n- **Application portal:** https://career2.successfactors.eu/careers?company=systematic\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/career_opportunities_career2_successfactors_eu.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-556261bbad87c48d3514",
       "title": "External job application",
       "company": "linkedin.com",
