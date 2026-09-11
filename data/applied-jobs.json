@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-33e3d375ca3a048ec4fb",
+      "title": "Next Careers",
+      "company": "Next",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/jobs/preview/77216/apply/email",
+      "portalUrl": "https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/jobs/preview/77216/apply/email",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-11T07:58:23.666Z",
+      "jobDescription": "# Next Careers\n\n- **Company:** Next\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-11T07:58:23.666Z\n- **Licensed sponsor:** \n- **Original posting:** https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/jobs/preview/77216/apply/email\n- **Application portal:** https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/jobs/preview/77216/apply/email\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/next_careers_next.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-0fc7cc76d9f991b6cc44",
       "title": "HMRC | Jobs | Search here for your perfect career - Internal or External candidate? | Apply for Data Scientist",
       "company": "jobtrain.co.uk",
