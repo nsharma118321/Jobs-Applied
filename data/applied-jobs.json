@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-ee1b5132766ab66337eb",
+      "title": "Career site_All Jobs - Lead Forensics",
+      "company": "Lead Forensics",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.leadforensics.com/careers/all-jobs/?ashby_jid=0b8bed99-4acb-4bd9-b8db-2d62a105d30b",
+      "portalUrl": "https://www.leadforensics.com/careers/all-jobs/?ashby_jid=0b8bed99-4acb-4bd9-b8db-2d62a105d30b",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-11T07:20:55.750Z",
+      "jobDescription": "# Career site_All Jobs - Lead Forensics\n\n- **Company:** Lead Forensics\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-11T07:20:55.750Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.leadforensics.com/careers/all-jobs/?ashby_jid=0b8bed99-4acb-4bd9-b8db-2d62a105d30b\n- **Application portal:** https://www.leadforensics.com/careers/all-jobs/?ashby_jid=0b8bed99-4acb-4bd9-b8db-2d62a105d30b\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nEverything you need to know about Lead Forensics - the original B2B website visitor identification tool that helps you get more leads...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/career_site_all_jobs_lead_forensics_lead_forensics.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-f450cf1dd76db78d3f75",
       "title": "Deltek Talent Management - JS Job Details",
       "company": "hoarelea.mua.hrdepartment.com",
