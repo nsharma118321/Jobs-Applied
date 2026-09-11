@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-f450cf1dd76db78d3f75",
+      "title": "Deltek Talent Management - JS Job Details",
+      "company": "hoarelea.mua.hrdepartment.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://hoarelea.mua.hrdepartment.com/hr/ats/Posting/view/2196?src=Linkedin",
+      "portalUrl": "https://hoarelea.mua.hrdepartment.com/hr/ats/Posting/view/2196?src=Linkedin",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-11T07:18:57.997Z",
+      "jobDescription": "# Deltek Talent Management - JS Job Details\n\n- **Company:** hoarelea.mua.hrdepartment.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-11T07:18:57.997Z\n- **Licensed sponsor:** \n- **Original posting:** https://hoarelea.mua.hrdepartment.com/hr/ats/Posting/view/2196?src=Linkedin\n- **Application portal:** https://hoarelea.mua.hrdepartment.com/hr/ats/Posting/view/2196?src=Linkedin\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/deltek_talent_management_js_job_details_hoarelea_mua_hrdepartment_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-4d1378900c5b55e8922c",
       "title": "Pearson Candidate Experience Site Careers",
       "company": "Pearson Candidate Experience Site",
