@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-a348a2a440fb72c646f4",
+      "title": "Moonpig - Data Scientist",
+      "company": "jobs.lever.co",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.lever.co/moonpig/fc3b9db9-906b-4586-bef3-6398a0d8c42c/apply?lever-source=LinkedIn",
+      "portalUrl": "https://jobs.lever.co/moonpig/fc3b9db9-906b-4586-bef3-6398a0d8c42c/apply?lever-source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-11T09:12:04.653Z",
+      "jobDescription": "# Moonpig - Data Scientist\n\n- **Company:** jobs.lever.co\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-11T09:12:04.653Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.lever.co/moonpig/fc3b9db9-906b-4586-bef3-6398a0d8c42c/apply?lever-source=LinkedIn\n- **Application portal:** https://jobs.lever.co/moonpig/fc3b9db9-906b-4586-bef3-6398a0d8c42c/apply?lever-source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nData Scientist | 📍London or Manchester – Hybrid (1–2 office days per week) | 💰Competitive Salary + Benefits About the Role We’re looking for a Data Scientist to join Moonpig, working hybrid from London or Manchester. You’ll build, evaluate and help productionise machine learning solutions that solve real customer and commercial problems across recommendations, personalisation, customer modelling and predictive modelling. This is a hands-on applied Data Science role where you’ll work closely with Product, Engineering, MLOps, Commercial and Marketing. You’ll turn clearly defined problems into practical ML solutions, evaluate whether they’re working and help bring them successfully into production. You’ll have the independence to make sound decisions within your problem space, while being part of a collaborative team that values high-quality, reproducible code and thoughtful experimentation. You’ll also use modern AI-assisted development tools responsibly to improve the speed and qual\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/moonpig_data_scientist_jobs_lever_co.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-5463c0e8f15d4b349a8e",
       "title": "Vice President, Data Science in London, United Kingdom | S&P Global",
       "company": "Vice President, Data Science in London, United Kingdom | S&P Global",
