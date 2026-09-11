@@ -3,10 +3,10 @@
 - **Company:** jobs.ashbyhq.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-08-21T05:52:58.442Z
+- **Applied date:** 2026-09-11T04:55:56.580Z
 - **Licensed sponsor:** 
-- **Original posting:** https://jobs.ashbyhq.com/trainline/7c9c4568-4b40-4f55-b4f4-d186d9053203/application?utm_source=utm_source%3DLinkedInPaid
-- **Application portal:** https://jobs.ashbyhq.com/trainline/7c9c4568-4b40-4f55-b4f4-d186d9053203/application?utm_source=utm_source%3DLinkedInPaid
+- **Original posting:** https://jobs.ashbyhq.com/trainline/7c9c4568-4b40-4f55-b4f4-d186d9053203?utm_source=utm_source%3DLinkedInPaid
+- **Application portal:** https://jobs.ashbyhq.com/trainline/7c9c4568-4b40-4f55-b4f4-d186d9053203?utm_source=utm_source%3DLinkedInPaid
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
@@ -94,7 +94,7 @@ Nice to have:
 
 More information:
 
-Enjoy fantastic perks https://www.trainlinegroup.com/media/hfybhgrt/trainline_benefits_explorer_8.html like private healthcare & dental insurance, a generous work from abroad policy, 2-for-1 share purchase plans, an EV Scheme to further reduce carbon emissions, extra festive time off, and excellent family-friendly benefits. 
+Enjoy fantastic perks like private healthcare & dental insurance, a generous work from abroad policy, 2-for-1 share purchase plans, an EV Scheme to further reduce carbon emissions, extra festive time off, and excellent family-friendly benefits. 
 
 We prioritise career growth with clear career paths, transparent pay bands, personal learning budgets, and regular learning days. Jump on board and supercharge your career from day one! 
 
