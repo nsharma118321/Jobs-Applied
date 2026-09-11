@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-0fc7cc76d9f991b6cc44",
+      "title": "HMRC | Jobs | Search here for your perfect career - Internal or External candidate? | Apply for Data Scientist",
+      "company": "jobtrain.co.uk",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.jobtrain.co.uk/hmrc/DecideInternalExternal/DecideInternalExternal?JobId=1214",
+      "portalUrl": "https://www.jobtrain.co.uk/hmrc/DecideInternalExternal/DecideInternalExternal?JobId=1214",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-11T07:46:50.479Z",
+      "jobDescription": "# HMRC | Jobs | Search here for your perfect career - Internal or External candidate? | Apply for Data Scientist\n\n- **Company:** jobtrain.co.uk\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-11T07:46:50.479Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.jobtrain.co.uk/hmrc/DecideInternalExternal/DecideInternalExternal?JobId=1214\n- **Application portal:** https://www.jobtrain.co.uk/hmrc/DecideInternalExternal/DecideInternalExternal?JobId=1214\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nIf you already work for this company, please apply using the internal portal. Otherwise, continue to apply as an external candidate.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/hmrc_jobs_search_here_for_your_perfect_career_internal_or_external_candidate_apply_for_dat_jobtrain_co_uk.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-28c2c4e4e9a0650792b8",
       "title": "Jobs at Bending Spoons",
       "company": "jobs.bendingspoons.com",
