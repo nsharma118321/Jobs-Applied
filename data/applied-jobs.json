@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-e7cc5bf0bc4e05152ca5",
+      "title": "Data Scientist",
+      "company": "job-boards.greenhouse.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://job-boards.greenhouse.io/fosphamarketing/jobs/8143927?gh_src=b61fd0911us",
+      "portalUrl": "https://job-boards.greenhouse.io/fosphamarketing/jobs/8143927?gh_src=b61fd0911us",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-09-12T03:54:28.344Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** job-boards.greenhouse.io\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-09-12T03:54:28.344Z\n- **Licensed sponsor:** \n- **Original posting:** https://job-boards.greenhouse.io/fosphamarketing/jobs/8143927?gh_src=b61fd0911us\n- **Application portal:** https://job-boards.greenhouse.io/fosphamarketing/jobs/8143927?gh_src=b61fd0911us\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_scientist_job_boards_greenhouse_io.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:linkedin:4466099628",
       "title": "Lead Product Data Scientist",
       "company": "Gradient Labs",
