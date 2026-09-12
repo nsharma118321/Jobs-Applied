@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:linkedin:4466007162",
+      "title": "Data Scientist",
+      "company": "Canopius Group",
+      "location": "London, United Kingdom",
+      "sponsorName": "Canopius Services Limited",
+      "originalUrl": "https://www.linkedin.com/jobs/view/4466007162/",
+      "portalUrl": "https://www.linkedin.com/jobs/view/4466007162/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-12T04:10:28.412Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Canopius Group\n- **Location:** London, United Kingdom\n- **Applied by:** OM\n- **Applied date:** 2026-09-12T04:10:28.412Z\n- **Licensed sponsor:** Canopius Services Limited\n- **Original posting:** https://www.linkedin.com/jobs/view/4466007162/\n- **Application portal:** https://www.linkedin.com/jobs/view/4466007162/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_canopius_group.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-e7cc5bf0bc4e05152ca5",
       "title": "Data Scientist",
       "company": "job-boards.greenhouse.io",
