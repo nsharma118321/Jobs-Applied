@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-820dffce54527e7dbc9e",
+      "title": "Data Analyst",
+      "company": "job-boards.greenhouse.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://job-boards.greenhouse.io/cloudflare/jobs/8109620?gh_jid=8109620&gh_src=5ylsd31",
+      "portalUrl": "https://job-boards.greenhouse.io/cloudflare/jobs/8109620?gh_jid=8109620&gh_src=5ylsd31",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-14T14:22:25.086Z",
+      "jobDescription": "# Data Analyst\n\n- **Company:** job-boards.greenhouse.io\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-14T14:22:25.086Z\n- **Licensed sponsor:** \n- **Original posting:** https://job-boards.greenhouse.io/cloudflare/jobs/8109620?gh_jid=8109620&gh_src=5ylsd31\n- **Application portal:** https://job-boards.greenhouse.io/cloudflare/jobs/8109620?gh_jid=8109620&gh_src=5ylsd31\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_analyst_job_boards_greenhouse_io.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-2d1a64c04c159cb90f7e",
       "title": "Product Data Science Manager",
       "company": "job-boards.greenhouse.io",
