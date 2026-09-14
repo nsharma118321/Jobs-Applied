@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-8ebe059255fbdb3a71ca",
+      "title": "Quick Check Needed",
+      "company": "civilservicejobs.service.gov.uk",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=am9ibGlzdF92aWV3X3ZhYz0yMDEyNjI4Jm93bmVyPTUwNzAwMDAmb3duZXJ0eXBlPWZhaXImcGFnZWNsYXNzPUpvYnMmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0JnNlYXJjaHBhZ2U9MSZ1c2Vyc2VhcmNoY29udGV4dD0yMDkzMTI0MTkmc2VhcmNoc29ydD1jbG9zaW5nJnJlcXNpZz0xNzg5NDAzNDc3LTFkOWE5ZmZkMGQzOTMyZjI3ZDc5Y2M0NzU4MDVkMTI4NmYwNGM4MDc=",
+      "portalUrl": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=am9ibGlzdF92aWV3X3ZhYz0yMDEyNjI4Jm93bmVyPTUwNzAwMDAmb3duZXJ0eXBlPWZhaXImcGFnZWNsYXNzPUpvYnMmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0JnNlYXJjaHBhZ2U9MSZ1c2Vyc2VhcmNoY29udGV4dD0yMDkzMTI0MTkmc2VhcmNoc29ydD1jbG9zaW5nJnJlcXNpZz0xNzg5NDAzNDc3LTFkOWE5ZmZkMGQzOTMyZjI3ZDc5Y2M0NzU4MDVkMTI4NmYwNGM4MDc=",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-14T17:49:42.184Z",
+      "jobDescription": "# Quick Check Needed\n\n- **Company:** civilservicejobs.service.gov.uk\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-14T17:49:42.184Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=am9ibGlzdF92aWV3X3ZhYz0yMDEyNjI4Jm93bmVyPTUwNzAwMDAmb3duZXJ0eXBlPWZhaXImcGFnZWNsYXNzPUpvYnMmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0JnNlYXJjaHBhZ2U9MSZ1c2Vyc2VhcmNoY29udGV4dD0yMDkzMTI0MTkmc2VhcmNoc29ydD1jbG9zaW5nJnJlcXNpZz0xNzg5NDAzNDc3LTFkOWE5ZmZkMGQzOTMyZjI3ZDc5Y2M0NzU4MDVkMTI4NmYwNGM4MDc=\n- **Application portal:** https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=am9ibGlzdF92aWV3X3ZhYz0yMDEyNjI4Jm93bmVyPTUwNzAwMDAmb3duZXJ0eXBlPWZhaXImcGFnZWNsYXNzPUpvYnMmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0JnNlYXJjaHBhZ2U9MSZ1c2Vyc2VhcmNoY29udGV4dD0yMDkzMTI0MTkmc2VhcmNoc29ydD1jbG9zaW5nJnJlcXNpZz0xNzg5NDAzNDc3LTFkOWE5ZmZkMGQzOTMyZjI3ZDc5Y2M0NzU4MDVkMTI4NmYwNGM4MDc=\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/quick_check_needed_civilservicejobs_service_gov_uk.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-dc9e0b2c918e540c52d6",
       "title": "External job application",
       "company": "careers.jacobs.com",
