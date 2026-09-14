@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-663a31e83f0a74a0e768",
+      "title": "Full Stack BI Engineer - Neilson Financial Services",
+      "company": "Neilson Financial Services",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.neilsonfs.com/jobs/8167157-full-stack-bi-engineer?utm_source=LinkedIn",
+      "portalUrl": "https://careers.neilsonfs.com/jobs/8167157-full-stack-bi-engineer?utm_source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-14T18:01:13.424Z",
+      "jobDescription": "# Full Stack BI Engineer - Neilson Financial Services\n\n- **Company:** Neilson Financial Services\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-14T18:01:13.424Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.neilsonfs.com/jobs/8167157-full-stack-bi-engineer?utm_source=LinkedIn\n- **Application portal:** https://careers.neilsonfs.com/jobs/8167157-full-stack-bi-engineer?utm_source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLead the move to Azure Databricks, build trusted Power BI products, and shape smarter marketing and call-centre decisions as a Staff Full-Stack BI Engineer.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/full_stack_bi_engineer_neilson_financial_services_neilson_financial_services.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-f9ff8978bd4391ffcca6",
       "title": "Analyst, Outcomes @ Evident Insights",
       "company": "jobs.deel.com",
