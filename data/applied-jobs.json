@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b2beaad42cf1ab553b51",
+      "title": "Data Scientist",
+      "company": "AbbVie",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.abbvie.com/en/job/data-scientist-in-maidenhead-england-jid-28827?_atxsrc=LinkedIn&utm_source=LinkedIn&src=LinkedIn",
+      "portalUrl": "https://careers.abbvie.com/en/job/data-scientist-in-maidenhead-england-jid-28827?_atxsrc=LinkedIn&utm_source=LinkedIn&src=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-14T12:38:34.665Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** AbbVie\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-14T12:38:34.665Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.abbvie.com/en/job/data-scientist-in-maidenhead-england-jid-28827?_atxsrc=LinkedIn&utm_source=LinkedIn&src=LinkedIn\n- **Application portal:** https://careers.abbvie.com/en/job/data-scientist-in-maidenhead-england-jid-28827?_atxsrc=LinkedIn&utm_source=LinkedIn&src=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLocated in MaidenheadReporting to Head of Business Intelligence&#160;Job OverviewThe Data Scientist is responsible for designing, developing, scaling, and...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_abbvie.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-468da8f02554bb29ca74",
       "title": "Data Scientist",
       "company": "job-boards.greenhouse.io",
