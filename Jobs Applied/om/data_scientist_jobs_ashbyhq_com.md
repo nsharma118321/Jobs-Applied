@@ -3,87 +3,143 @@
 - **Company:** jobs.ashbyhq.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-08-24T09:38:21.074Z
+- **Applied date:** 2026-09-14T17:31:08.720Z
 - **Licensed sponsor:** 
-- **Original posting:** https://jobs.ashbyhq.com/neko-health/84511fb5-68d9-4c8d-8b6a-2eafc676a2e1/application?utm_source=arbeitnow.co.uk&ref=arbeitnow.co.uk
-- **Application portal:** https://jobs.ashbyhq.com/neko-health/84511fb5-68d9-4c8d-8b6a-2eafc676a2e1/application?utm_source=arbeitnow.co.uk&ref=arbeitnow.co.uk
+- **Original posting:** https://jobs.ashbyhq.com/chattermill/7b1a6d5b-3708-4e38-9b1c-cb96b4fa4064
+- **Application portal:** https://jobs.ashbyhq.com/chattermill/7b1a6d5b-3708-4e38-9b1c-cb96b4fa4064
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-MISSION
+Data Scientist
 
-Neko is redefining what prevention means, from treating illness when it arrives, to sustaining health before it's ever at risk. Our mission: make data-driven, preventative care accessible to more people, before symptoms appear. 
+🌍 UK (Remote or Hybrid, it’s up to you!)
 
-In a single, non-invasive visit under an hour, proprietary technology and direct clinical care combine to deliver personalised, actionable insights. It's a team that thinks in 10x, not 10%. Every role here plays a part in building a world where prevention is the norm, and where your work genuinely helps people live longer, healthier lives.
+💰 Dependent on experience
 
-Neko Health is a Swedish healthcare technology company co-founded in 2018 by Hjalmar Nilsonne and Daniel Ek. Neko's vision is to shift healthcare from reactive treatment toward preventative health and early detection. This requires completely reimagining the patient's experience and incorporating the latest advances in sensors and AI. Neko Health has developed a new medical scanning technology concept to make it possible to do broad and non-invasive health data collection that is convenient and affordable for the public. The company is based in Stockholm, offering the Neko Body Scan experience at locations in Stockholm, London and Manchester, with over 500 employees.  
-
- 
-
-About the Role
+📈 Be part of our success with the opportunity to join our company equity scheme
 
  
 
-A Data Scientist at Neko Health develops and implements data solutions that drive insights from sensor and healthcare data, enabling clinical decision support, and supporting innovations. This role partners with clinical researchers, engineers, and other teams to enhance products through data-driven insights.
+🦸‍♀️ The Role 🦸‍♀️
 
-Responsibilities
+Our mission is to help large successful brands like Uber, Amazon, Wise, HelloFresh (and more!) put their customers at the centre of everything they do. Using best-in-class tech in a fast-developing AI space, our Customer Experience Intelligence platform continuously analyses explicit and implicit feedback to enable our clients to identify what they should do next.
 
- - Data Modeling and Analysis: Develop algorithms, statistical models and machine learning models to address targeted challenges using sensor and healthcare data. Develop performance evaluation and implement performance monitoring of data products to ensure that the intended value is delivered.
-
- - Data Management: Prepare, clean, and integrate datasets from various sources, ensuring data quality and accuracy. Collaborate with Data Engineers to build and maintain scalable data pipelines for efficient analysis.
-
- - Support for Clinical Studies: Collaborate with clinical teams to define targeted clinical hypotheses, study variables and collection methods for clinical studies. Perform exploratory analyses and provide data insights to refine study designs.
-
- - Research and Innovation: Stay up-to-date on data science advances to continuously improve model accuracy, efficiency, and clinical relevance. Develop proofs-of-concept of new medical devices and methods. Support patent development.
-
- - Maintenance, scaling, and common tooling: Improve robustness of products, streamlining of processes and increasing efficiency of data science development by applying good software engineering practices.
-
-Requirements:
-
- - MSc or PhD degree in a quantitative field for example Computer Science, Machine Learning or Physics.
-
- - Expertise within data science, algorithm development, and statistics.
-
- - Strong analytical abilities, collaborative mindset, and solid software engineering skills.
-
- - A strong proficiency in designing and implementing machine learning algorithms.
-
-About the Engineering Team
+We're hiring a Data Scientist to join the team and help build and ship the next generation of that stack.
 
  
 
-Distributed and Remote First
+👉 What you'll be doing:
 
-We are nearly 100 full time engineers at the company, working from Berlin, Chamonix, Hamburg, Lisbon, Marseille, Vilnius, and Stockholm, spanning diverse disciplines such as Hardware Engineering, Firmware Development, Electrical Design, Algorithm Development, Machine Learning Development, Optronics Research, Frontend Development and more. We don't expect people to join us with a specific tech knowledge, but we do expect you to work with our tools. We use a mix of React, Typescript, C++, and Python. Our APIs are written in C# with ASP.NET Core, uses Azure Cosmos DB, and Azure Active Directory for authentication. 
+Unlike many companies, we use our own custom models, specialised for customer feedback, across various parts of the stack: extraction, retrieval, reranking, summarisation, and sentiment analysis. We are also pragmatic and understand that the right solution can be a combination of off-the-shelf LLMs, bespoke fine-tuned models, and sometimes techniques that utilise no LLM at all. This means you will:
+
+ - Train, evaluate, and iterate on ML models for customer feedback tasks, contributing to our custom fine-tuning pipelines and running experiments with rigour and clear documentation.
+
+ - Build and maintain LLM-powered features including retrieval pipelines, reranking systems, and insight generation — with support and guidance from senior team members.
+
+ - Contribute to evaluation frameworks: help build test sets, define metrics, and assess model quality across classification, extraction, and generative tasks.
+
+ - Work on semantic search and retrieval, developing a strong working understanding of embedding-based approaches and the methods that go beyond them.
+
+ - Write clean, well-tested code and collaborate with Engineering on model integration, data pipelines, and monitoring.
+
+ - Work with the wider Data Science team to translate business and product requirements into practical ML experiments and solutions.
+
+ - Stay close to relevant research and bring useful ideas from the literature into team discussions and experiments.
+
+🧰 What you’ll need:
+
+ -  A solid working knowledge of transformer architectures and how they are applied in NLP tasks.
+
+ - Proficiency in PyTorch, including training loops and standard model fine-tuning workflows; exposure to parameter-efficient techniques such as LoRA is a plus.
+
+ - Experience working with real-world text data across tasks such as classification, extraction, embeddings, or search — at a meaningful scale.
+
+ - Some exposure to instruction fine-tuning or model serving, with an interest in going deeper.
+
+ - A grounding in classical ML and statistics, and the instinct to reach for simpler methods when warranted.
+
+ - Familiarity with GenAI and agentic patterns, even if hands-on production experience is still developing.
+
+ - Clear communication skills and the ability to explain technical work to colleagues across functions.
+
+ - Genuine curiosity about AI and a habit of experimenting — you learn by doing.
+
+ - Good ownership instincts: you follow problems through rather than passing them on.
+
+➕It would be a bonus if you:
+
+ - MSc in Computer Science, Machine Learning, AI, Data Science, Computational Linguistics, or a closely related STEM field.
+
+🔎 Our Hiring Process
+
+ 1. Let’s introduce ourselves – you’ll complete an introductory asynchronous interview - we’d love to learn more about you, your ambitions, and what you’re looking for in your next step.
+
+ 2. Get to know your would-be manager – you’ll have a call with Aji, our Chief Scientist, to learn more about the role and show off your experience.
+
+ 3. Show us how you work – you'll complete a short take home assignment
+
+ 4. Get to know your would-be team – You'll meet a mix of people who you'll be working closely with from the Data Science, Engineering and Product teams.
+
+ 5. How our values and your career goals align – you’ll have a call with our cofounder to learn more about life at Chattermill and ensure we’re the right place for your next stage of growth.
+
+Our Perks  
+
+🤸🏽‍♂️ Flexibility & Work Setup
+
+ - Flexible working in a choice-first environment - we trust the way you want to work!
+
+ - Work-from-home allowance to set up your ideal workspace
+
+🌴 Time Off
+
+ - 25 days holiday + local bank holidays, plus an extra day for each year of service
+
+ - Your birthday off
+
+🌱 Growth & Ownership
+
+ - Annual learning & development budget to support your growth (increasing over time)
+
+ - Equity options — share in the company’s success
+
+💚 Health & Wellbeing
+
+ - Monthly health & wellbeing budget, increasing with length of service
+
+ - Optional private healthcare plan
+
+ - Life assurance & income protection (location dependent)
+
+ - Employee Assistance Programme (location dependent) for extra support when you need it
+
+ - Enhanced family leave (location dependent), plus fertility and neonatal leave
+
+🌆 Office Perks
+
+ - If you’re in London, a dog-friendly office with great classes, events, and a rooftop terrace
+
+💖 Our Values 
+
+ - We are obsessed with experience – We take our mission to rid the world of bad Customer Experience seriously, and we practice what we preach.
+
+ - We believe in the power of trust – Whether it's with each other, our customers, partners, or other stakeholders, we always communicate with openness and trust.
+
+ - We act as responsible owners – Whether it's about the company, a team, a project, or a task, having the freedom to make decisions in our area of responsibility is a crucial driver for us.
+
+ - We share a passion for growth & progress – On every level, we’re motivated by taking on new challenges – even if they seem out of reach. We recognise that we are learning machines and we always seek to action feedback and improve collectively.
+
+ - We set our ambitions high but stay humble – We've come together to build a product and a category that’s never been seen before. While we're an ambitious bunch with lofty goals, we don't approach this goal carelessly.
+
+ - We believe the right team is the key to success – At Chattermill we’ve learned that all our important achievements have been the result of the right people collaborating together – that’s why we need you to apply today!
+
+🌈 Diversity & Inclusion 🌈
+
+We want to enable exceptional experiences for everyone, and to achieve this we need everyone’s voice in our team.  We are on a mission to bring more diversity into the business and to give everyone (from all backgrounds and abilities) a chance to join us, even if they may not fit all of the requirements set out in this job spec. We realise that some may be hesitant to apply for a role when they don’t meet 100% of the listed requirements – we believe in potential and will happily consider all applications based on the skills and experience you have, we’d love to be part of your growth and we encourage you to apply! 
 
  
 
-Our headquarters and our hardware development team are in Stockholm, Sweden.
-
  
 
-We are a Remote First company; however, it is of course much easier to work remotely as a software engineer than a hardware or firmware engineer (since they require access to hardware or devices occasionally). Software engineers based in Stockholm work maybe one day a week or one day every two weeks from the office.
-
- 
-
-We meet a couple of times per year to get to know each other and have fun.
-
- 
-
-Organization and Way of Working
-
-The engineering team is divided into smaller cross functional project teams that each focus on a specific goal or target, where some groups are long-lived, and some are short-lived, depending on how big the goal or deliverable is. We strive to create groups which are cross-functional and able to complete their goals without dependence on other teams, even though this is of course not always possible.
-
- 
-
-Groups track goals on a yearly and quarterly basis with goal follow-up across the entire engineering organization on a bi-weekly basis. Most groups do internal planning on a bi-weekly basis, but in the end it's up to the group to decide how they want to work.
-
- 
-
-We have, however, mandated that all groups must present their progress or failures or hacks at our bi-weekly engineering demo, a fun meeting/presentation where we talk about everything from short-circuiting power-modules, how hard it is to calibrate cameras or align polygons in space, to neat new command line tools for operations, a new auth mechanism in the backend, a cool new way to visualize health data or a new feature which helps our doctors be more productive.
-
- 
-
-We have a flexible workplace that focuses on work/life balance, and we strongly believe in our mission but do not think that achieving it requires sacrificing everything else.
+#machinelearning #machinelearningscientist #datascience #deeplearning #LLM #ML #data #AI #PyTorch #datascientist
