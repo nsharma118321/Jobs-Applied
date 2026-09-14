@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-e1626e0dd1eabd6fc32b",
+      "title": "Jobs at Bending Spoons",
+      "company": "jobs.bendingspoons.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b?utm_medium=job_post&utm_source=linkedin&utm_campaign=6aa360ba06ba8fb655c6b125",
+      "portalUrl": "https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b?utm_medium=job_post&utm_source=linkedin&utm_campaign=6aa360ba06ba8fb655c6b125",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-14T12:48:13.585Z",
+      "jobDescription": "# Jobs at Bending Spoons\n\n- **Company:** jobs.bendingspoons.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-14T12:48:13.585Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b?utm_medium=job_post&utm_source=linkedin&utm_campaign=6aa360ba06ba8fb655c6b125\n- **Application portal:** https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b?utm_medium=job_post&utm_source=linkedin&utm_campaign=6aa360ba06ba8fb655c6b125\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/jobs_at_bending_spoons_jobs_bendingspoons_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b2beaad42cf1ab553b51",
       "title": "Data Scientist",
       "company": "AbbVie",
