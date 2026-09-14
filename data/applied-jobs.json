@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-a71149b3d68c9110184b",
+      "title": "Data Scientist",
+      "company": "VisitScotland Careers Site",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://eiht.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/121?utm_medium=jobshare",
+      "portalUrl": "https://eiht.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/121?utm_medium=jobshare",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-14T12:57:33.151Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** VisitScotland Careers Site\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-14T12:57:33.151Z\n- **Licensed sponsor:** \n- **Original posting:** https://eiht.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/121?utm_medium=jobshare\n- **Application portal:** https://eiht.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/121?utm_medium=jobshare\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe Data Scientist provides in-house expertise in forecasting, scenario planning, and advanced modelling to support evidence-based decision-making across VisitScotland. The role develops models to inform strategic decisions on visitor dispersal, spend, sustainability, and satisfaction, working closely with colleagues across Data & Insight to ensure robust data inputs and accessible outputs. The postholder translates complex analytical findings into clear insights for stakeholders and supports the evaluation of economic impact, policy, and tourism performance.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_visitscotland_careers_site.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-e1626e0dd1eabd6fc32b",
       "title": "Jobs at Bending Spoons",
       "company": "jobs.bendingspoons.com",
