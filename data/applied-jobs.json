@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-38288c1a94b7a6a53f06",
+      "title": "CMR Surgical",
+      "company": "CMR Surgical",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://cmrsurgical.com/job-search?jobname=SeniorAnalyticsEngineer",
+      "portalUrl": "https://cmrsurgical.com/job-search?jobname=SeniorAnalyticsEngineer",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-14T14:33:20.505Z",
+      "jobDescription": "# CMR Surgical\n\n- **Company:** CMR Surgical\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-14T14:33:20.505Z\n- **Licensed sponsor:** \n- **Original posting:** https://cmrsurgical.com/job-search?jobname=SeniorAnalyticsEngineer\n- **Application portal:** https://cmrsurgical.com/job-search?jobname=SeniorAnalyticsEngineer\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nVersius is a modular & portable surgical robot designed to make it easier for hospitals and surgeons to give patients access to minimal access surgery.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/cmr_surgical_cmr_surgical.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-820dffce54527e7dbc9e",
       "title": "Data Analyst",
       "company": "job-boards.greenhouse.io",
