@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-660fae41e6e247343684",
+      "title": "Data Scientist (UK)",
+      "company": "Digica",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.smartrecruiters.com/Digica/744000148497933-data-scientist-uk-",
+      "portalUrl": "https://jobs.smartrecruiters.com/Digica/744000148497933-data-scientist-uk-",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-14T12:17:29.955Z",
+      "jobDescription": "# Data Scientist (UK)\n\n- **Company:** Digica\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-14T12:17:29.955Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.smartrecruiters.com/Digica/744000148497933-data-scientist-uk-\n- **Application portal:** https://jobs.smartrecruiters.com/Digica/744000148497933-data-scientist-uk-\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe’re looking for a passionate Data Scientist who enjoys solving real business problems with data and machine learning. You’ll take part in designing and delivering ML solutions end-to-end — from exploration and experimentation to deployment.&#xa0;&#xa0;If you like working with diverse data, collabo...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_uk_digica.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-486fa3fdb0b2d5c3f80e",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
