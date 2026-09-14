@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-381db2d390c01cfc7407",
+      "title": "Data Scientist Associate Manager",
+      "company": "accenture.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.accenture.com/gb-en/careers/jobdetails?id=R00322253_en&src=LINKEDINJP",
+      "portalUrl": "https://www.accenture.com/gb-en/careers/jobdetails?id=R00322253_en&src=LINKEDINJP",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-14T17:09:42.252Z",
+      "jobDescription": "# Data Scientist Associate Manager\n\n- **Company:** accenture.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-14T17:09:42.252Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.accenture.com/gb-en/careers/jobdetails?id=R00322253_en&src=LINKEDINJP\n- **Application portal:** https://www.accenture.com/gb-en/careers/jobdetails?id=R00322253_en&src=LINKEDINJP\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLearn more about applying for Data Scientist Associate Manager position at Accenture.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_associate_manager_accenture_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-38288c1a94b7a6a53f06",
       "title": "CMR Surgical",
       "company": "CMR Surgical",
