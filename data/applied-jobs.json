@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-7305e1f9bf0fbc68350a",
+      "title": "Prima - Data Scientist",
+      "company": "jobs.eu.lever.co",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.eu.lever.co/prima/33cbeece-67c5-4df5-ab91-7bde15c5405d/apply?source=LinkedIn",
+      "portalUrl": "https://jobs.eu.lever.co/prima/33cbeece-67c5-4df5-ab91-7bde15c5405d/apply?source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-14T17:20:09.500Z",
+      "jobDescription": "# Prima - Data Scientist\n\n- **Company:** jobs.eu.lever.co\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-14T17:20:09.500Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.eu.lever.co/prima/33cbeece-67c5-4df5-ab91-7bde15c5405d/apply?source=LinkedIn\n- **Application portal:** https://jobs.eu.lever.co/prima/33cbeece-67c5-4df5-ab91-7bde15c5405d/apply?source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nTo help fuel that growth, we’re looking for Data Scientists to join our Pricing & Underwriting Department, the strategic engine behind Prima\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/prima_data_scientist_jobs_eu_lever_co.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-381db2d390c01cfc7407",
       "title": "Data Scientist Associate Manager",
       "company": "accenture.com",
