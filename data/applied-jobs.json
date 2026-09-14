@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-feaa028636fcc0b2caee",
+      "title": "Decision Analytics Associate - London 2027 in London, United Kingdom | ZS",
+      "company": "Decision Analytics Associate - London 2027 in London, United Kingdom | ZS",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.zs.com/jobs/67391?lang=en-us&mode=apply&iis=LinkedIn&iisn=LINKEDINJOBWRAP",
+      "portalUrl": "https://jobs.zs.com/jobs/67391?lang=en-us&mode=apply&iis=LinkedIn&iisn=LINKEDINJOBWRAP",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-14T13:18:10.157Z",
+      "jobDescription": "# Decision Analytics Associate - London 2027 in London, United Kingdom | ZS\n\n- **Company:** Decision Analytics Associate - London 2027 in London, United Kingdom | ZS\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-14T13:18:10.157Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.zs.com/jobs/67391?lang=en-us&mode=apply&iis=LinkedIn&iisn=LINKEDINJOBWRAP\n- **Application portal:** https://jobs.zs.com/jobs/67391?lang=en-us&mode=apply&iis=LinkedIn&iisn=LINKEDINJOBWRAP\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nZS Associates, Inc. is hiring a Decision Analytics Associate - London 2027 in London, United Kingdom. Review all of the job details and apply today!\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/decision_analytics_associate_london_2027_in_london_united_kingdom_zs_decision_analytics_associate_london_2027_in_london_united_kingdom_zs.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-5429db0c9ae18e6fe011",
       "title": "Lead Data Scientist - Causal Inference",
       "company": "Wise",
