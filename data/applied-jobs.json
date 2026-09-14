@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-5429db0c9ae18e6fe011",
+      "title": "Lead Data Scientist - Causal Inference",
+      "company": "Wise",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://wise.jobs/job/lead-data-scientist-causal-inference-in-london-jid-4124?_atxsrc=linkedin_via_wise_jobs&utm_source=linkedin_via_wise_jobs",
+      "portalUrl": "https://wise.jobs/job/lead-data-scientist-causal-inference-in-london-jid-4124?_atxsrc=linkedin_via_wise_jobs&utm_source=linkedin_via_wise_jobs",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-14T13:01:16.107Z",
+      "jobDescription": "# Lead Data Scientist - Causal Inference\n\n- **Company:** Wise\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-14T13:01:16.107Z\n- **Licensed sponsor:** \n- **Original posting:** https://wise.jobs/job/lead-data-scientist-causal-inference-in-london-jid-4124?_atxsrc=linkedin_via_wise_jobs&utm_source=linkedin_via_wise_jobs\n- **Application portal:** https://wise.jobs/job/lead-data-scientist-causal-inference-in-london-jid-4124?_atxsrc=linkedin_via_wise_jobs&utm_source=linkedin_via_wise_jobs\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAbout the roleWe&#x2019;re looking for an experienced Data Scientist to join our Customer Support team in London, working as part of a team based across London and...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/lead_data_scientist_causal_inference_wise.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-a71149b3d68c9110184b",
       "title": "Data Scientist",
       "company": "VisitScotland Careers Site",
