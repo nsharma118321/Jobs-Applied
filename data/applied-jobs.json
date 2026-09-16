@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-1160088eb0ecaf3966c3",
+      "title": "Data Scientist in the Cross Firm Team (CFT) - ARTIS",
+      "company": "Bank of England Job Board -",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://eoff.fa.em1.ukg.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2688?utm_medium=jobboard&utm_source=linkedin",
+      "portalUrl": "https://eoff.fa.em1.ukg.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2688?utm_medium=jobboard&utm_source=linkedin",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-16T17:23:10.137Z",
+      "jobDescription": "# Data Scientist in the Cross Firm Team (CFT) - ARTIS\n\n- **Company:** Bank of England Job Board -\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-16T17:23:10.137Z\n- **Licensed sponsor:** \n- **Original posting:** https://eoff.fa.em1.ukg.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2688?utm_medium=jobboard&utm_source=linkedin\n- **Application portal:** https://eoff.fa.em1.ukg.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2688?utm_medium=jobboard&utm_source=linkedin\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nBank of England Careers Portal - Come and work for us. We have opportunities for you at all stages of your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_in_the_cross_firm_team_cft_artis_bank_of_england_job_board.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-6d10d5b8eb63596c49bd",
       "title": "Data Scientist",
       "company": "careers.zurich.com",
