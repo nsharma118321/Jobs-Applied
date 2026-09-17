@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-2fb3ace7bc2a1531825c",
+      "title": "Production Analyst",
+      "company": "Vertiv",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20271438?utm_medium=jobboard&utm_source=linkedin",
+      "portalUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20271438?utm_medium=jobboard&utm_source=linkedin",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-17T14:35:27.561Z",
+      "jobDescription": "# Production Analyst\n\n- **Company:** Vertiv\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-17T14:35:27.561Z\n- **Licensed sponsor:** \n- **Original posting:** https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20271438?utm_medium=jobboard&utm_source=linkedin\n- **Application portal:** https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20271438?utm_medium=jobboard&utm_source=linkedin\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe are looking for a Production Analyst to join our growing team in Campsie, Derry/Londonderry. This is an exciting opportunity to play a key role in supporting production performance, improving efficiency, and driving data-led decision-making across our manufacturing operations.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/production_analyst_vertiv.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-9f3b50e879ef07273271",
       "title": "External job application",
       "company": "linkedin.com",
