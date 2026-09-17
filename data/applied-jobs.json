@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-158b4f0fd039e98e7d2b",
+      "title": "Data Analyst",
+      "company": "Experian",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.smartrecruiters.com/Experian/744000145739655-data-analyst?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+      "portalUrl": "https://jobs.smartrecruiters.com/Experian/744000145739655-data-analyst?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-17T13:54:23.834Z",
+      "jobDescription": "# Data Analyst\n\n- **Company:** Experian\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-17T13:54:23.834Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.smartrecruiters.com/Experian/744000145739655-data-analyst?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73\n- **Application portal:** https://jobs.smartrecruiters.com/Experian/744000145739655-data-analyst?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe are looking for a Data Analyst reporting into the Head of Data in our Nottingham office. You will manage the delivery of high-quality data solutions that support client, operational, and business objectives. Working within the Data Delivery team, you will combine technical capability with stakeho...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_analyst_experian.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-48a65a9f18ff956bb71c",
       "title": "Global Analytics Manager",
       "company": "dentsuaegis.wd3.myworkdayjobs.com",
