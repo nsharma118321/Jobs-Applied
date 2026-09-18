@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-284d61ffb3c8969fe0b6",
+      "title": "Principal Data Scientist",
+      "company": "Cytel",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://iblyjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cytel/job/1804?utm_medium=jobboard&utm_source=linkedin",
+      "portalUrl": "https://iblyjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cytel/job/1804?utm_medium=jobboard&utm_source=linkedin",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-18T04:11:31.654Z",
+      "jobDescription": "# Principal Data Scientist\n\n- **Company:** Cytel\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-18T04:11:31.654Z\n- **Licensed sponsor:** \n- **Original posting:** https://iblyjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cytel/job/1804?utm_medium=jobboard&utm_source=linkedin\n- **Application portal:** https://iblyjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cytel/job/1804?utm_medium=jobboard&utm_source=linkedin\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nOur commitment to developing our staff is only surpassed by our commitment to advancing treatment options available to patients. At Cytel, we work hard to create successful careers with significant professional growth for our employees and as a result work hard to make Cytel successful. Cytel is a place where talent, experience, and integrity come together to advance the state of clinical development.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/principal_data_scientist_cytel.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-0f43467df20f31062bbe",
       "title": "External job application",
       "company": "careers.ibm.com",
