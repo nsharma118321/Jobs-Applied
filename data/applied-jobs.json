@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-dced18ad363a40c427f5",
+      "title": "Data Scientist",
+      "company": "careers.somerset.gov.uk",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.somerset.gov.uk/job/Taunton-Data-Scientist-TA1-4DY/1368355355/?feedId=440055&utm_source=LinkedInJobPostings&source=LinkedIn",
+      "portalUrl": "https://careers.somerset.gov.uk/job/Taunton-Data-Scientist-TA1-4DY/1368355355/?feedId=440055&utm_source=LinkedInJobPostings&source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-18T03:54:09.697Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** careers.somerset.gov.uk\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-18T03:54:09.697Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.somerset.gov.uk/job/Taunton-Data-Scientist-TA1-4DY/1368355355/?feedId=440055&utm_source=LinkedInJobPostings&source=LinkedIn\n- **Application portal:** https://careers.somerset.gov.uk/job/Taunton-Data-Scientist-TA1-4DY/1368355355/?feedId=440055&utm_source=LinkedInJobPostings&source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_careers_somerset_gov_uk.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-c02a6b9207247fcb9d73",
       "title": "External job application",
       "company": "linkedin.com",
