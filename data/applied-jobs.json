@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-a4a98a368e5823510430",
+      "title": "External job application",
+      "company": "dowjones.jobs",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://dowjones.jobs/london-gbr/senior-analyst-people-insights/2A513365EB5B4E63ACF547CA9204826A/job/",
+      "portalUrl": "https://dowjones.jobs/london-gbr/senior-analyst-people-insights/2A513365EB5B4E63ACF547CA9204826A/job/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-21T18:51:20.674Z",
+      "jobDescription": "# External job application\n\n- **Company:** dowjones.jobs\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-21T18:51:20.674Z\n- **Licensed sponsor:** \n- **Original posting:** https://dowjones.jobs/london-gbr/senior-analyst-people-insights/2A513365EB5B4E63ACF547CA9204826A/job/\n- **Application portal:** https://dowjones.jobs/london-gbr/senior-analyst-people-insights/2A513365EB5B4E63ACF547CA9204826A/job/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nDow Jones breaks stories, influences ideas, advances business intelligence and cultural interest, exposes the events that turn markets, the breakthroughs that transform art and drives invention.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_dowjones_jobs.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-275b0aed191a13c4d094",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
