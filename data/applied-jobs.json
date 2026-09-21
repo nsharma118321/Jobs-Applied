@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-1de9545997c2bd93b4f0",
+      "title": "Raylo - Head of Data Science",
+      "company": "app.screenloop.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://app.screenloop.com/careers/raylo/job_posts/8905?tab=overview",
+      "portalUrl": "https://app.screenloop.com/careers/raylo/job_posts/8905?tab=overview",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-21T19:13:17.129Z",
+      "jobDescription": "# Raylo - Head of Data Science\n\n- **Company:** app.screenloop.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-21T19:13:17.129Z\n- **Licensed sponsor:** \n- **Original posting:** https://app.screenloop.com/careers/raylo/job_posts/8905?tab=overview\n- **Application portal:** https://app.screenloop.com/careers/raylo/job_posts/8905?tab=overview\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/raylo_head_of_data_science_app_screenloop_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-a4a98a368e5823510430",
       "title": "External job application",
       "company": "dowjones.jobs",
