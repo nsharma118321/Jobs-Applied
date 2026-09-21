@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b6acc1678feea06f0061",
+      "title": "Lead Digital Analyst",
+      "company": "Tesco Careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.tesco.com/en_GB/careers/JobDetail/201411",
+      "portalUrl": "https://careers.tesco.com/en_GB/careers/JobDetail/201411",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-21T18:03:26.452Z",
+      "jobDescription": "# Lead Digital Analyst\n\n- **Company:** Tesco Careers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-21T18:03:26.452Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.tesco.com/en_GB/careers/JobDetail/201411\n- **Application portal:** https://careers.tesco.com/en_GB/careers/JobDetail/201411\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe Product Analytics and Experimentation team sits within the Data, Analytics and AI directorate in the Technology department. Our mission is to deliver insightful and actionable data through...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/lead_digital_analyst_tesco_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b40b5a9a88d39940ce7e",
       "title": "Data Scientist",
       "company": "cfc.pinpointhq.com",
