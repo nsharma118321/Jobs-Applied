@@ -3,13 +3,13 @@
 - **Company:** LinkedIn
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-09-21T07:07:36.844Z
+- **Applied date:** 2026-09-21T07:09:51.065Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4464474698&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=og3UJtcBH11%2BAy8Cj6toeQ%3D%3D&trackingId=Dmud48ZF30ngR9Bz9b2RGg%3D%3D&keywords=data+analyst&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=6hZvAU2%2F1zy%2Fw0mqntPApw%3D%3D
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4464474698&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=og3UJtcBH11%2BAy8Cj6toeQ%3D%3D&trackingId=Dmud48ZF30ngR9Bz9b2RGg%3D%3D&keywords=data+analyst&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=6hZvAU2%2F1zy%2Fw0mqntPApw%3D%3D
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4459181611&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=og3UJtcBH11%2BAy8Cj6toeQ%3D%3D&trackingId=24Dw5g0WvfCjIJDKDKY98g%3D%3D&keywords=data%20analyst&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=6hZvAU2%2F1zy%2Fw0mqntPApw%3D%3D&f_AL=true
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4459181611&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=og3UJtcBH11%2BAy8Cj6toeQ%3D%3D&trackingId=24Dw5g0WvfCjIJDKDKY98g%3D%3D&keywords=data%20analyst&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=6hZvAU2%2F1zy%2Fw0mqntPApw%3D%3D&f_AL=true
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-The full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.
+Login to LinkedIn to keep in touch with people you know, share ideas, and build your career.
