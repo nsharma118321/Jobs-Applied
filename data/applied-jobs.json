@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-a715d7ce4811e317ddc0",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4469938088&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=Q2RGkUv4%2BUgwR1yXSGB21w%3D%3D&trackingId=Vsm4Coj7JP2VLNpxGx0vgA%3D%3D&keywords=data%20acientist%20posted%20in%20the%20past%2024%20hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Cs%2BmBBT%2Bug10yY5ZVE7u%2Bw%3D%3D&start=25&geoId=100495523&distance=49.70993972580017&f_AL=true",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4469938088&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=Q2RGkUv4%2BUgwR1yXSGB21w%3D%3D&trackingId=Vsm4Coj7JP2VLNpxGx0vgA%3D%3D&keywords=data%20acientist%20posted%20in%20the%20past%2024%20hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Cs%2BmBBT%2Bug10yY5ZVE7u%2Bw%3D%3D&start=25&geoId=100495523&distance=49.70993972580017&f_AL=true",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-22T05:03:02.494Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-22T05:03:02.494Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4469938088&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=Q2RGkUv4%2BUgwR1yXSGB21w%3D%3D&trackingId=Vsm4Coj7JP2VLNpxGx0vgA%3D%3D&keywords=data%20acientist%20posted%20in%20the%20past%2024%20hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Cs%2BmBBT%2Bug10yY5ZVE7u%2Bw%3D%3D&start=25&geoId=100495523&distance=49.70993972580017&f_AL=true\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4469938088&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=Q2RGkUv4%2BUgwR1yXSGB21w%3D%3D&trackingId=Vsm4Coj7JP2VLNpxGx0vgA%3D%3D&keywords=data%20acientist%20posted%20in%20the%20past%2024%20hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Cs%2BmBBT%2Bug10yY5ZVE7u%2Bw%3D%3D&start=25&geoId=100495523&distance=49.70993972580017&f_AL=true\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-d0346bfe60cff3756ee6",
       "title": "External job application",
       "company": "linkedin.com",
