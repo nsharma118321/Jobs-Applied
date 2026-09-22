@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-d20b7ba0224c75fe0c2b",
+      "title": "Data Scientist, Private Banking & Wealth Management (PBWM)",
+      "company": "jobs.natwestgroup.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.natwestgroup.com/jobs/18068289-data-scientist-private-banking-and-wealth-management-pbwm?tm_job=R-00282925-OTHLOC-GBR-5FLON203&tm_event=view&tm_company=861&bid=56",
+      "portalUrl": "https://jobs.natwestgroup.com/jobs/18068289-data-scientist-private-banking-and-wealth-management-pbwm?tm_job=R-00282925-OTHLOC-GBR-5FLON203&tm_event=view&tm_company=861&bid=56",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-22T05:47:42.992Z",
+      "jobDescription": "# Data Scientist, Private Banking & Wealth Management (PBWM)\n\n- **Company:** jobs.natwestgroup.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-22T05:47:42.992Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.natwestgroup.com/jobs/18068289-data-scientist-private-banking-and-wealth-management-pbwm?tm_job=R-00282925-OTHLOC-GBR-5FLON203&tm_event=view&tm_company=861&bid=56\n- **Application portal:** https://jobs.natwestgroup.com/jobs/18068289-data-scientist-private-banking-and-wealth-management-pbwm?tm_job=R-00282925-OTHLOC-GBR-5FLON203&tm_event=view&tm_company=861&bid=56\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nSearch and apply for banking, retail and digital jobs as well as apprenticeships, graduate and internships all across NatWest Group.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_private_banking_wealth_management_pbwm_jobs_natwestgroup_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-080c89c575e137ed26ce",
       "title": "Statistical Data Scientist",
       "company": "oritain-careers.pinpointhq.com",
