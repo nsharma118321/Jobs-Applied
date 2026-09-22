@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b7cec504dac3c77e4244",
+      "title": "Jobs at 1stCentral | 1st Central Careers",
+      "company": "firstcentralcareers.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.firstcentralcareers.com/jobs/pricing-and-proposition/senior-pricing-analyst",
+      "portalUrl": "https://www.firstcentralcareers.com/jobs/pricing-and-proposition/senior-pricing-analyst",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-22T06:03:13.868Z",
+      "jobDescription": "# Jobs at 1stCentral | 1st Central Careers\n\n- **Company:** firstcentralcareers.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-22T06:03:13.868Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.firstcentralcareers.com/jobs/pricing-and-proposition/senior-pricing-analyst\n- **Application portal:** https://www.firstcentralcareers.com/jobs/pricing-and-proposition/senior-pricing-analyst\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/jobs_at_1stcentral_1st_central_careers_firstcentralcareers_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-d20b7ba0224c75fe0c2b",
       "title": "Data Scientist, Private Banking & Wealth Management (PBWM)",
       "company": "jobs.natwestgroup.com",
