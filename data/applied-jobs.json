@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4ff790e5decbde998c04",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "company": "LinkedIn",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4467606985&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=mOB5URo7aUs%2FKrFmFur22A%3D%3D&trackingId=88PnekZRS5VEBJKfTS7XEQ%3D%3D&keywords=data%20engineer%20%20posted%20in%20the%20past%2024%20hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=2llhZRqeXvSeCqOcUF%2FopA%3D%3D&start=25&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4467606985&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=mOB5URo7aUs%2FKrFmFur22A%3D%3D&trackingId=88PnekZRS5VEBJKfTS7XEQ%3D%3D&keywords=data%20engineer%20%20posted%20in%20the%20past%2024%20hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=2llhZRqeXvSeCqOcUF%2FopA%3D%3D&start=25&f_TPR=r86400",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-09-22T11:15:26.672Z",
+      "jobDescription": "# LinkedIn Login, Sign in | LinkedIn\n\n- **Company:** LinkedIn\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-09-22T11:15:26.672Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4467606985&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=mOB5URo7aUs%2FKrFmFur22A%3D%3D&trackingId=88PnekZRS5VEBJKfTS7XEQ%3D%3D&keywords=data%20engineer%20%20posted%20in%20the%20past%2024%20hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=2llhZRqeXvSeCqOcUF%2FopA%3D%3D&start=25&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4467606985&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=mOB5URo7aUs%2FKrFmFur22A%3D%3D&trackingId=88PnekZRS5VEBJKfTS7XEQ%3D%3D&keywords=data%20engineer%20%20posted%20in%20the%20past%2024%20hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=2llhZRqeXvSeCqOcUF%2FopA%3D%3D&start=25&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/linkedin_login_sign_in_linkedin_linkedin.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-d8d8866e17bf2d1b9a1c",
       "title": "External job application",
       "company": "linkedin.com",
