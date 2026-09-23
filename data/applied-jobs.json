@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-ad5aa0ee303e0e7706d3",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4470672169&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=RKgdQLTtdBuUL93b0sZIgA%3D%3D&trackingId=8OMu%2FssDz5rE0viqpB2qLQ%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Uu2X7sVpoR6wrBoIGacUgQ%3D%3D&start=125&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4470672169&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=RKgdQLTtdBuUL93b0sZIgA%3D%3D&trackingId=8OMu%2FssDz5rE0viqpB2qLQ%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Uu2X7sVpoR6wrBoIGacUgQ%3D%3D&start=125&f_TPR=r86400",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-09-23T12:19:33.654Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-09-23T12:19:33.654Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4470672169&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=RKgdQLTtdBuUL93b0sZIgA%3D%3D&trackingId=8OMu%2FssDz5rE0viqpB2qLQ%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Uu2X7sVpoR6wrBoIGacUgQ%3D%3D&start=125&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4470672169&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=RKgdQLTtdBuUL93b0sZIgA%3D%3D&trackingId=8OMu%2FssDz5rE0viqpB2qLQ%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Uu2X7sVpoR6wrBoIGacUgQ%3D%3D&start=125&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-9eb82c9437b080ac153e",
       "title": "Data Science Specialist, Computational Real-World Evidence (cRWE), Data Science, London",
       "company": "careers.novonordisk.com",
