@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-5f5ddbb4c4d9a89ac477",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "company": "LinkedIn",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4470462667&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=YTDc5kBQLGQ22i7Tv%2FQMsw%3D%3D&trackingId=JvFSoql6WNn3GLPqg6fJDg%3D%3D&keywords=data%20scientist&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=100495523&distance=49.71018372640747&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4470462667&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=YTDc5kBQLGQ22i7Tv%2FQMsw%3D%3D&trackingId=JvFSoql6WNn3GLPqg6fJDg%3D%3D&keywords=data%20scientist&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=100495523&distance=49.71018372640747&f_TPR=r86400",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-23T12:36:14.176Z",
+      "jobDescription": "# LinkedIn Login, Sign in | LinkedIn\n\n- **Company:** LinkedIn\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-23T12:36:14.176Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4470462667&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=YTDc5kBQLGQ22i7Tv%2FQMsw%3D%3D&trackingId=JvFSoql6WNn3GLPqg6fJDg%3D%3D&keywords=data%20scientist&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=100495523&distance=49.71018372640747&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4470462667&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=YTDc5kBQLGQ22i7Tv%2FQMsw%3D%3D&trackingId=JvFSoql6WNn3GLPqg6fJDg%3D%3D&keywords=data%20scientist&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=100495523&distance=49.71018372640747&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/linkedin_login_sign_in_linkedin_linkedin.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-20d66295b3715668fb45",
       "title": "Data Scientist III",
       "company": "relx.wd3.myworkdayjobs.com",
