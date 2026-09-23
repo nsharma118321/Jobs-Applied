@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-ec9a304e38bb8166ee16",
+      "title": "External job application",
+      "company": "joinvoy.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.joinvoy.com/vacancies/data-analyst?gh_src=ma2ymm62teu&t=3253f722teu",
+      "portalUrl": "https://www.joinvoy.com/vacancies/data-analyst?gh_src=ma2ymm62teu&t=3253f722teu",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-23T08:40:37.477Z",
+      "jobDescription": "# External job application\n\n- **Company:** joinvoy.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-23T08:40:37.477Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.joinvoy.com/vacancies/data-analyst?gh_src=ma2ymm62teu&t=3253f722teu\n- **Application portal:** https://www.joinvoy.com/vacancies/data-analyst?gh_src=ma2ymm62teu&t=3253f722teu\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_joinvoy_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-565a3c6531e43e4af77b",
       "title": "Business Intelligence Analyst | British Council",
       "company": "careers.britishcouncil.org",
