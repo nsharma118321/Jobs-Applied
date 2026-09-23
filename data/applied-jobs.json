@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-d4128bb053a18d92a8c9",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4467556164&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=100",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4467556164&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=100",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-09-23T08:47:12.696Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-09-23T08:47:12.696Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4467556164&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=100\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4467556164&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=100\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-ec9a304e38bb8166ee16",
       "title": "External job application",
       "company": "joinvoy.com",
