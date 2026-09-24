@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-8bc70e87d6f3bb7bdc84",
+      "title": "Digital Analyst",
+      "company": "Tesco Careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.tesco.com/en_GB/careers/JobDetail/208015",
+      "portalUrl": "https://careers.tesco.com/en_GB/careers/JobDetail/208015",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-24T08:26:47.384Z",
+      "jobDescription": "# Digital Analyst\n\n- **Company:** Tesco Careers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-24T08:26:47.384Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.tesco.com/en_GB/careers/JobDetail/208015\n- **Application portal:** https://careers.tesco.com/en_GB/careers/JobDetail/208015\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe Product Analytics and Experimentation team sits within the Data, Analytics and AI directorate in the Technology department. Our mission is to deliver insightful and actionable data through...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/digital_analyst_tesco_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-8735d6220d2d1c9f508f",
       "title": "Data Analytics Manager",
       "company": "Careers at Heathrow",
