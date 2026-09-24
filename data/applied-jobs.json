@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b8fc799e74c49670f0a2",
+      "title": "Vacancy Details IRC2367165",
+      "company": "apxprodnwrl.opc.oracleoutsourcing.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://apxprodnwrl.opc.oracleoutsourcing.com/ords/r/xxapex/recruitment-external-candidate/vacancy-details?p402_vacancy_id=2367165",
+      "portalUrl": "https://apxprodnwrl.opc.oracleoutsourcing.com/ords/r/xxapex/recruitment-external-candidate/vacancy-details?p402_vacancy_id=2367165",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-24T12:10:51.672Z",
+      "jobDescription": "# Vacancy Details IRC2367165\n\n- **Company:** apxprodnwrl.opc.oracleoutsourcing.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-24T12:10:51.672Z\n- **Licensed sponsor:** \n- **Original posting:** https://apxprodnwrl.opc.oracleoutsourcing.com/ords/r/xxapex/recruitment-external-candidate/vacancy-details?p402_vacancy_id=2367165\n- **Application portal:** https://apxprodnwrl.opc.oracleoutsourcing.com/ords/r/xxapex/recruitment-external-candidate/vacancy-details?p402_vacancy_id=2367165\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/vacancy_details_irc2367165_apxprodnwrl_opc_oracleoutsourcing_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-2d229e6bc931c93b52b5",
       "title": "Technical Business Analyst SQL Database",
       "company": "aplitrak.com",
