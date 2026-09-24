@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-0632f40fd59f0e7c5723",
+      "title": "Revenue Operations Analyst - Acquired",
+      "company": "Acquired",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.acquired.com/jobs/8443831-revenue-operations-analyst",
+      "portalUrl": "https://careers.acquired.com/jobs/8443831-revenue-operations-analyst",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-24T13:08:42.961Z",
+      "jobDescription": "# Revenue Operations Analyst - Acquired\n\n- **Company:** Acquired\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-24T13:08:42.961Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.acquired.com/jobs/8443831-revenue-operations-analyst\n- **Application portal:** https://careers.acquired.com/jobs/8443831-revenue-operations-analyst\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nSometimes the chance comes up to be part of something really special, at Acquired.com you’ll be collaborating with teams and people who challenge you, suppor...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/revenue_operations_analyst_acquired_acquired.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-0453d0df2e3e150ffe5d",
       "title": "Data Scientist",
       "company": "hiscox.wd3.myworkdayjobs.com",
