@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-73543f8dee5de28fb831",
+      "title": "Compensation Analytics Associate, Global Compensation",
+      "company": "JPMC Candidate Experience page",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756708?utm_medium=jobboard&utm_source=LinkedIn",
+      "portalUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756708?utm_medium=jobboard&utm_source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-24T09:25:08.782Z",
+      "jobDescription": "# Compensation Analytics Associate, Global Compensation\n\n- **Company:** JPMC Candidate Experience page\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-24T09:25:08.782Z\n- **Licensed sponsor:** \n- **Original posting:** https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756708?utm_medium=jobboard&utm_source=LinkedIn\n- **Application portal:** https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756708?utm_medium=jobboard&utm_source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nDrive global compensation analytics, pay transparency compliance, and strategic insights that shape business decisions.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/compensation_analytics_associate_global_compensation_jpmc_candidate_experience_page.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-17c6fc1854138a824ff9",
       "title": "Associate Consultant - Data & Analytics",
       "company": "Equifax Careers",
