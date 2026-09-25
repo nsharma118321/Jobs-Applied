@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-2b1c616ed9882510f6e3",
+      "title": "Senior Data Analyst - Team Creation Limited",
+      "company": "Team Creation Limited",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://teamcreation.teamtailor.com/jobs/7783960-senior-data-analyst",
+      "portalUrl": "https://teamcreation.teamtailor.com/jobs/7783960-senior-data-analyst",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-25T12:05:08.638Z",
+      "jobDescription": "# Senior Data Analyst - Team Creation Limited\n\n- **Company:** Team Creation Limited\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-25T12:05:08.638Z\n- **Licensed sponsor:** \n- **Original posting:** https://teamcreation.teamtailor.com/jobs/7783960-senior-data-analyst\n- **Application portal:** https://teamcreation.teamtailor.com/jobs/7783960-senior-data-analyst\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nCompany Overview: Team Creation Limited is a fast-growing software development company operating across Asia and Europe. We provide services including market...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/senior_data_analyst_team_creation_limited_team_creation_limited.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-49d31d487e53a3b48a9d",
       "title": "AI Engineer",
       "company": "worldpay.wd5.myworkdayjobs.com",
