@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b6fb4d7408b2a9eb63a7",
+      "title": "Research Engineer (FICCO)",
+      "company": "job-boards.greenhouse.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://job-boards.greenhouse.io/drweng/jobs/7377981?gh_src=c25a55fb1us",
+      "portalUrl": "https://job-boards.greenhouse.io/drweng/jobs/7377981?gh_src=c25a55fb1us",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-25T10:02:55.352Z",
+      "jobDescription": "# Research Engineer (FICCO)\n\n- **Company:** job-boards.greenhouse.io\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-25T10:02:55.352Z\n- **Licensed sponsor:** \n- **Original posting:** https://job-boards.greenhouse.io/drweng/jobs/7377981?gh_src=c25a55fb1us\n- **Application portal:** https://job-boards.greenhouse.io/drweng/jobs/7377981?gh_src=c25a55fb1us\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/research_engineer_ficco_job_boards_greenhouse_io.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-706b9836b4f2f3b1ff59",
       "title": "Job &mdash; Tripadvisor Careers",
       "company": "Tripadvisor Careers",
