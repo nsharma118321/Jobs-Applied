@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-3d03881bcfc41beab13f",
+      "title": "Legacy Modernization Specialist",
+      "company": "Zensar",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/146354?utm_medium=jobboard&utm_source=linkedIn",
+      "portalUrl": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/146354?utm_medium=jobboard&utm_source=linkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-28T07:51:46.321Z",
+      "jobDescription": "# Legacy Modernization Specialist\n\n- **Company:** Zensar\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-28T07:51:46.321Z\n- **Licensed sponsor:** \n- **Original posting:** https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/146354?utm_medium=jobboard&utm_source=linkedIn\n- **Application portal:** https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/146354?utm_medium=jobboard&utm_source=linkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe are looking for a hands-on Legacy Modernization Specialist with strong experience in both legacy mainframe systems and modern data platforms. This role is ideal for someone who enjoys working on data modernization initiatives&mdash;helping organizations move from traditional systems to scalable, cloud-based data solutions. You will work closely with cross-functional teams to design, build, and validate data pipelines, support migration efforts, and ensure data integrity across systems. The role also involves active stakeholder interaction and ownership of end-to-end deliverables.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/legacy_modernization_specialist_zensar.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-0eea4e8943463e410c03",
       "title": "Staff Analytics Engineer",
       "company": "jobs.ashbyhq.com",
