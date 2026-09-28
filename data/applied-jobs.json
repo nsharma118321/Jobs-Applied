@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-a8d70db73a6954f8dff9",
+      "title": "External job application",
+      "company": "mckinsey.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.mckinsey.com/careers/search-jobs/jobs/datascientist-scientificai-101642?appsource=LinkedIn",
+      "portalUrl": "https://www.mckinsey.com/careers/search-jobs/jobs/datascientist-scientificai-101642?appsource=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-28T05:00:27.058Z",
+      "jobDescription": "# External job application\n\n- **Company:** mckinsey.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-28T05:00:27.058Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.mckinsey.com/careers/search-jobs/jobs/datascientist-scientificai-101642?appsource=LinkedIn\n- **Application portal:** https://www.mckinsey.com/careers/search-jobs/jobs/datascientist-scientificai-101642?appsource=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_mckinsey_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-374d51fa7f812049fba3",
       "title": "External job application",
       "company": "linkedin.com",
