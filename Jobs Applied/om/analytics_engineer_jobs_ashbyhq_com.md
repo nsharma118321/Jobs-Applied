@@ -3,79 +3,59 @@
 - **Company:** jobs.ashbyhq.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-09-03T16:32:50.450Z
+- **Applied date:** 2026-09-28T08:28:13.090Z
 - **Licensed sponsor:** 
-- **Original posting:** https://jobs.ashbyhq.com/axle-careers/906fc3ee-e6a2-4e0f-8cea-8e769c0a95ab/application?utm_source=glp8Gy45YL
-- **Application portal:** https://jobs.ashbyhq.com/axle-careers/906fc3ee-e6a2-4e0f-8cea-8e769c0a95ab/application?utm_source=glp8Gy45YL
+- **Original posting:** https://jobs.ashbyhq.com/swap/f8066b13-59df-4152-aed7-2e26f3c4a19f/application?utm_source=4layao7ppw
+- **Application portal:** https://jobs.ashbyhq.com/swap/f8066b13-59df-4152-aed7-2e26f3c4a19f/application?utm_source=4layao7ppw
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-ABOUT US
+About Swap
 
-At Axle Energy, we’re building the infrastructure that will underpin the decarbonised energy system. Our software moves energy usage to times when electricity is cheap and green, by controlling vehicle charging, heating systems, and home batteries. We control hundreds of thousands of energy assets.
+Swap is the infrastructure behind modern agentic commerce. The only AI-native platform connecting backend operations with a forward-thinking storefront experience.
 
-We’re building in a legacy industry and moving gigawatt-hours of electrons in the real world, but we operate at lightning speed, and we’re growing the team to meet customer demand.
+Built for brands that want to sell anything - anywhere, Swap centralises global operations, powers intelligent workflows, and unlocks margin-protecting decisions with real-time data and capability. Our products span cross-border, tax, returns, demand planning, and our next-generation agentic storefront, giving merchants full transparency and the ability to act with confidence.
 
-We’re proud to be supported by world-leading investors, including Energize Capital and Accel.
+At Swap, we’re building a culture that values clarity, creativity, and shared ownership as we redefine how global commerce works.
 
-Read more about what we’re building here https://www.axle.energy/blog/analysis/power-of-the-home.
+About the Role
 
-ABOUT THE ROLE 
+We're looking for a passionate and pragmatic Analytics Engineer to join our Analytics Engineering team, helping to scale our stack for a new data-driven era at Swap.
 
-Axle has quickly become the leader in our operational markets, and we are looking for someone to help run and optimise the rhythms at the heart of the business.
+This is an important contributor role within the team, offering a good degree of ownership and the chance to help build a scalable, modern data architecture. You’ll build and maintain the data models that power our entire business—from internal commercial insights for Sales and Finance to the trusted data sets enabling customer-facing agentic systems.
 
-We are looking for someone to develop a deep understanding of flexibility markets across the UK, who can collaborate cross-functionally, crunch numbers, and own critical daily and monthly operational processes.
+We need a hands-on builder excited to contribute to our high-quality dbt project, help shape our analytics vision, and support the scaling of our models as we grow. If you thrive in a fast-paced, collaborative team with high ownership and impact, we'd love to hear from you!
 
-Owning daily operations means sitting at the heart of the ‘Axle control room’. This involves running and optimising the most critical operations processes in the business: asset management, trading across UK flexibility markets, and ultimately ensuring our clients and end customers get paid for the flex they deliver.
+Key responsibilities
 
-A note on the job title: Analytics engineering is often closely associated with dbt. We don't use dbt at Axle because our data set up doesn't require a full ETL framework. Instead, this role is centred on the core analytics engineering skill set: developing a deep understanding of source data and building the data pipelines that power our analytics.
+ - dbt Development: Scale our dbt project, shaping its architecture and CI/CD processes to support company-wide initiatives.
 
-WHAT YOU WILL BE DOING
+ - Data Modelling & Architecture: Contribute to our data modelling strategy, helping to build and maintain the core set of performant, scalable, and trusted data models that power all downstream consumers—from our internal BI tool to our customer-facing agentic systems and analytics APIs.
 
- - Owning operations for our UK energy trading (e.g. daily trading processes, reviewing settlements)
+ - Data Quality & Governance: Champion and implement robust data quality standards, PII governance, testing, and documentation to ensure our data is trustworthy and reliable as we scale.
 
- - Debugging complex edge cases across our trading, asset registration and settlement processes
+ - Stakeholder Partnership: Partner with commercial (Sales, Finance) and product teams on data needs, assisting in translating business questions into data requirements and helping to manage delivery expectations.
 
- - Identifying risks to revenue and delivery and proactively mitigate them
+ - BI & Self-Service Enablement: Contribute to the development and refinement of foundational data assets in our BI tool (Lightdash), helping stakeholders and analysts access insights effectively.
 
- - Communicating insights and actions clearly to engineering and commercial teams
+What we would like to see
 
- - Building and maintaining relationships with key stakeholders in Distribution System Operators (DSOs) and UK market regulators
+ - Solid experience in a data-focused role such as Analytics Engineering, Data Engineering, or BI Development, or equivalent academic experience.
 
-IT WOULD BE GREAT IF YOU HAD
+ - Hands-on experience with dbt (dbt Core/Cloud).
 
- - Strong SQL and Python skills for analysing data, investigating issues, and automating processes
+ - Strong proficiency in SQL and good understanding of data modelling patterns.
 
- - Strong analytical skills: you’ll be speaking MW, kWh, and £ every day
+ - Experience with a modern cloud data warehouse (Snowflake, BigQuery etc).
 
- - A deep-seated motivation to combat climate change
+ - Experience with version control using Git.
 
- - Comfort operating in a fast-moving, ambiguous environment
+ - Good communication skills with the ability to collaborate effectively with both technical and non-technical stakeholders.
 
-BENEFITS
+ - A detail-oriented mindset with a willingness to learn and contribute to building trustworthy data products.
 
-A meaningful slice of equity in Axle, alongside a competitive salary, with total compensation ranging from £75k–£200k (base salary + equity). 
+Diversity & Equal Opportunities:
 
-We operate with a deliberately flat structure and aim to keep pay equitable across the company, with a 1:1 median ratio between founder and team compensation.
-
-Enhanced parental leave to support you through life's meaningful moments.
-
-Bi-annual retreats to strengthen team connection & shared purpose.
-
-Hybrid working - We have a dog-friendly office around Farringdon. To maximize collaboration, we ask that you spend 2-3 days a week in the office.
-
-The opportunity to directly shape the future of energy markets and accelerate the transition to a low-carbon world.
-
-We are extremely keen to build a diverse company, and we’re particularly eager to hear from candidates who don't fit the traditional role stereotypes. If you’re motivated by our mission, please do reach out, even if you feel you might not ‘check all the boxes’.
-
-INTERVIEW PROCESS
-
- 1. Initial interview
-
- 2. Take-home exercise
-
- 3. Final interview (in-person)
-
- 4. Offer, references, and welcome to the team!
+We embrace diversity and equality in a serious way. We are committed to building a team with a variety of backgrounds, skills, and views. The more inclusive we are, the better our work will be. Creating a culture of equality isn't just the right thing to do; it's also the smart thing.
