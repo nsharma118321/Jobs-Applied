@@ -3,10 +3,10 @@
 - **Company:** jobs.ashbyhq.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-08-28T14:01:51.933Z
+- **Applied date:** 2026-09-28T08:37:57.598Z
 - **Licensed sponsor:** 
-- **Original posting:** https://jobs.ashbyhq.com/faculty/d15d6073-1925-46eb-9464-8b22cd8de6a6?source=Linkedin
-- **Application portal:** https://jobs.ashbyhq.com/faculty/d15d6073-1925-46eb-9464-8b22cd8de6a6?source=Linkedin
+- **Original posting:** https://jobs.ashbyhq.com/faculty/efa8d13e-5166-4ae2-bf10-b1392afd3528?source=Linkedin
+- **Application portal:** https://jobs.ashbyhq.com/faculty/efa8d13e-5166-4ae2-bf10-b1392afd3528?source=Linkedin
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
@@ -24,73 +24,61 @@ AI is an epoch-defining technology, join a company where you’ll be empowered t
 
 ABOUT THE TEAM 
 
-Our Defence team is focused on building and embedding human centred AI solutions which give our nation a competitive edge in the defence sector. We collaborate with our clients to bring ethical, reliable and cutting edge AI to high-stakes situations and maintain the balance of global powers essential to our liberty.
+In our Professional and Financial Services Business unit, we bring everything we have learned in more than a decade of Applied AI, and use it to help our clients navigate a rapidly changing landscape.
 
-Because of the nature of the work we do with our Defence clients, you will need to be eligible for UK Security Clearance (SC) and willing to work between 2 to 4 days per week on site with  these customers which may require travel to locations throughout the UK.
+We develop and embed AI solutions which help financial institutions become more efficient, enhance customer experience, and find the commercial upside in uncertain markets. Within the constraints of a highly regulated industry, we see so much opportunity for impactful innovation and are proud to set the gold-standard for marrying technical excellence with safe deployment.
 
-When not required on client sites, you’ll have the flexibility to work from our London office or remotely from elsewhere within the UK.
+#LI-PRIO
 
-ABOUT THE ROLE 
+ABOUT THE ROLE
 
-As a Principal Data Scientist at Faculty, you will drive high impact transformation within our Defence team by taking ownership of complex machine learning delivery and sector specific strategy. You will act as a trusted technical authority and domain expert, leading project scoping, technical selling, and client management to deliver exceptional value. Balancing deep business knowledge with advanced analytical skill, you will shape cutting edge AI solutions, build robust client partnerships, and mentor data scientists across ambitious initiatives.
+As a Principal Data Scientist at Faculty, you will serve as a technical leader and domain expert who owns and drives the delivery of the most technically complex, high-impact projects and programmes for our most important clients. You also will set the technical direction for the data science team, mentor, and develop them so our data scientists remain best in class.
+
+This position focuses on deep individual contribution and technical excellence, influencing the broader data science community at Faculty.
 
 WHAT YOU'LL BE DOING:
 
- - Owning and growing a strategic portfolio of machine learning work specifically tailored to the Defence sector.
+ - Serving as a technical authority on machine learning, Generative AI, and other advanced data science methods to deliver innovative and impactful solutions.
 
- - Translating client challenges into technical roadmaps by leading project scoping, delivery, and client engagement.
+ - Leading the development of shared resources, frameworks, and best practices adopted across teams and the company.
 
- - Writing exemplary, production grade code to set technical standards on our most sophisticated delivery projects.
+ - Contributing to the scoping and bid processes for large-scale, high-stakes projects, influencing client decisions with technical expertise.
 
- - Serving as a technical authority on machine learning across Faculty and representing our capabilities within the wider community.
+ - Owning a portfolio of work within a specific sector, applying expert knowledge to deliver exceptional value to clients.
 
- - Partnering with commercial and delivery teams to drive technical selling, pitching, and business growth.
+ - Leading and mentoring project teams and direct reports, ensuring the successful delivery of high-value and complex projects.
 
- - Mentoring and guiding junior data scientists through complex problem solving, technical planning, and execution.
+ - Acting as a thought leader, publishing papers, and presenting at industry and scientific conferences to amplify a distinctive AI vision for our clients
 
 WHO WE'RE LOOKING FOR:
 
- - You bring deep domain expertise within Defence or other industries, allowing you to quickly spot opportunities and maximise impact.
+ - You bring demonstrable technical ability, creativity and flexibility from your extensive experience (in academia , industry or both) as thought leader in this space 
 
- - You enjoy mentoring junior colleagues and have prior direct management experience, inspiring them to continually stretch and grow their technical skill.
+ - You’ll have prior experience working in or for financial services clients, with standout examples where you’ve led the delivery of distinctive applications that have driven commercial impact
 
  - You bring broad knowledge across a range of machine learning techniques, including experience building Generative AI and agentic AI applications with Large Language Models
 
  - You have advanced coding skills in Python and proven experience building and maintaining scalable codebases.
 
- - You excel at making pragmatic decisions, choosing optimal solutions based on time, resources, and complexity.
+ - You enjoy mentoring junior colleagues and have prior direct management experience, inspiring them to continually stretch and grow their technical skill.
 
- - You are an engaging communicator who builds trust effortlessly with senior stakeholders and technical counterparts.
+ - You are highly proficient in strategic problem-solving and communicating solutions to non-technical audiences, able to select appropriate solutions and balance innovation with practical implementation.
 
 THE INTERVIEW PROCESS
 
- 
-
  1. Talent Team Screen (30 minutes)
 
- 2. Introduction to Business Unit Technical Director (30 minutes)
+ 2. Introduction to Business Unit Director (30 minutes)
 
- 3. Technical Interview (90 minutes) 
+ 3. Take Home Technical Assessment 
 
- 4. Commercial & Principles Interview (90 minutes)
+ 4. Technical Interview (90 minutes) 
+
+ 5. Commercial & Principles Interview (90 minutes)
 
 OUR RECRUITMENT ETHOS
 
 We aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.
-
-Some of our standout benefits:
-
- - Unlimited Annual Leave Policy
-
- - Private healthcare and dental
-
- - Enhanced parental leave
-
- - Family-Friendly Flexibility & Flexible working
-
- - Sanctus Coaching
-
- - Hybrid Working
 
 If you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. 
 
