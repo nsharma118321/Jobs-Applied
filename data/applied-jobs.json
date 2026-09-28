@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-7877a1af6441ae9480da",
+      "title": "AI Consultant",
+      "company": "Equifax Careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.equifax.com/en/jobs/j00176373/ai-consultant/?source=Applied_LinkedIn",
+      "portalUrl": "https://careers.equifax.com/en/jobs/j00176373/ai-consultant/?source=Applied_LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-28T08:48:51.333Z",
+      "jobDescription": "# AI Consultant\n\n- **Company:** Equifax Careers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-28T08:48:51.333Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.equifax.com/en/jobs/j00176373/ai-consultant/?source=Applied_LinkedIn\n- **Application portal:** https://careers.equifax.com/en/jobs/j00176373/ai-consultant/?source=Applied_LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nOur AI Consultant roles are unique. The ideal candidate is a rare hybrid, a scientist with strong technical skills in AI and machine learning, the programming abilities to scrape, combine, and manage data from a variety of sources and a statistician who knows how to derive insights from the information within. They will combine the skills to create new prototypes with the creativity and…\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/ai_consultant_equifax_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-3ae2d2e600a8bf4399e0",
       "title": "Principal Data Scientist",
       "company": "jobs.ashbyhq.com",
