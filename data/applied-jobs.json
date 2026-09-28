@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-c2af559cacd2fc705a7b",
+      "title": "Staff Analytics Engineer",
+      "company": "Tesco Careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.tesco.com/en_GB/careers/JobDetail/204436",
+      "portalUrl": "https://careers.tesco.com/en_GB/careers/JobDetail/204436",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-28T05:29:06.998Z",
+      "jobDescription": "# Staff Analytics Engineer\n\n- **Company:** Tesco Careers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-28T05:29:06.998Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.tesco.com/en_GB/careers/JobDetail/204436\n- **Application portal:** https://careers.tesco.com/en_GB/careers/JobDetail/204436\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAs the Staff Analytics Engineer for Cyber Analytics, you will set the technical direction for cybersecurity data products, ensuring they are trusted, scalable and built for impact. You will drive...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/staff_analytics_engineer_tesco_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-aaba331b9e60abcb84c1",
       "title": "Voleon - Job Listings",
       "company": "voleon.com",
