@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-0c709725ea17a1ce0aec",
+      "title": "Workday",
+      "company": "axiscapital.wd1.myworkdayjobs.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://axiscapital.wd1.myworkdayjobs.com/en-US/axiscareers/jobTasks/completed/application?source=LinkedIn",
+      "portalUrl": "https://axiscapital.wd1.myworkdayjobs.com/en-US/axiscareers/jobTasks/completed/application?source=LinkedIn",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-09-29T18:13:47.542Z",
+      "jobDescription": "# Workday\n\n- **Company:** axiscapital.wd1.myworkdayjobs.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-09-29T18:13:47.542Z\n- **Licensed sponsor:** \n- **Original posting:** https://axiscapital.wd1.myworkdayjobs.com/en-US/axiscareers/jobTasks/completed/application?source=LinkedIn\n- **Application portal:** https://axiscapital.wd1.myworkdayjobs.com/en-US/axiscareers/jobTasks/completed/application?source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/workday_axiscapital_wd1_myworkdayjobs_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-95997c7979c5b47e8341",
       "title": "External job application",
       "company": "linkedin.com",
