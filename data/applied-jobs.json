@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-2ed0da982832c538b9ae",
+      "title": "Quick Check Needed",
+      "company": "lek.tal.net",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://lek.tal.net/vx/appcentre-europe/candidate/so/pm/1/pl/1/opp/4130?instant=apply&adhoc_referrer=linkedin",
+      "portalUrl": "https://lek.tal.net/vx/appcentre-europe/candidate/so/pm/1/pl/1/opp/4130?instant=apply&adhoc_referrer=linkedin",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-30T04:19:43.598Z",
+      "jobDescription": "# Quick Check Needed\n\n- **Company:** lek.tal.net\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-30T04:19:43.598Z\n- **Licensed sponsor:** \n- **Original posting:** https://lek.tal.net/vx/appcentre-europe/candidate/so/pm/1/pl/1/opp/4130?instant=apply&adhoc_referrer=linkedin\n- **Application portal:** https://lek.tal.net/vx/appcentre-europe/candidate/so/pm/1/pl/1/opp/4130?instant=apply&adhoc_referrer=linkedin\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/quick_check_needed_lek_tal_net.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-1bdbae515ce028312876",
       "title": "Lead Data Scientist",
       "company": "hyperiongrp.wd3.myworkdayjobs.com",
