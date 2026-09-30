@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-fbdfd6c16da812b115cc",
+      "title": "Data Scientist - Fraud",
+      "company": "Equifax Careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.equifax.com/en/jobs/j00178995/data-scientist-fraud/?source=Applied_LinkedIn",
+      "portalUrl": "https://careers.equifax.com/en/jobs/j00178995/data-scientist-fraud/?source=Applied_LinkedIn",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-09-30T18:03:30.285Z",
+      "jobDescription": "# Data Scientist - Fraud\n\n- **Company:** Equifax Careers\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-09-30T18:03:30.285Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.equifax.com/en/jobs/j00178995/data-scientist-fraud/?source=Applied_LinkedIn\n- **Application portal:** https://careers.equifax.com/en/jobs/j00178995/data-scientist-fraud/?source=Applied_LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nCome join the Equifax UK Data &amp; Analytics &nbsp;team and develop market leading fraud scores, models and analytical solutions using the latest cloud based technologies, techniques and tooling. Be part of a growing and diverse team tasked with creating the next generation of statistical models, machine learning algorithms and AI based products and services.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_scientist_fraud_equifax_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b91fbb98e2044fb319c7",
       "title": "External job application",
       "company": "linkedin.com",
