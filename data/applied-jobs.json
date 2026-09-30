@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-58f8002021496a9d4c3b",
+      "title": "UCL – University College London",
+      "company": "Work at UCL",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=19254&nPostingTargetId=48674&id=Q1KFK026203F3VBQBLO8M8M07&LG=UK&languageSelect=UK&mask=ext&source=LinkedIn&sType=LinkedIn&stype=NameOfSource&board_id=1550&board_name=LinkedIn",
+      "portalUrl": "https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=19254&nPostingTargetId=48674&id=Q1KFK026203F3VBQBLO8M8M07&LG=UK&languageSelect=UK&mask=ext&source=LinkedIn&sType=LinkedIn&stype=NameOfSource&board_id=1550&board_name=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-09-30T07:02:50.039Z",
+      "jobDescription": "# UCL – University College London\n\n- **Company:** Work at UCL\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-09-30T07:02:50.039Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=19254&nPostingTargetId=48674&id=Q1KFK026203F3VBQBLO8M8M07&LG=UK&languageSelect=UK&mask=ext&source=LinkedIn&sType=LinkedIn&stype=NameOfSource&board_id=1550&board_name=LinkedIn\n- **Application portal:** https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=19254&nPostingTargetId=48674&id=Q1KFK026203F3VBQBLO8M8M07&LG=UK&languageSelect=UK&mask=ext&source=LinkedIn&sType=LinkedIn&stype=NameOfSource&board_id=1550&board_name=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nUCL is consistently ranked as one of the top ten universities in the world (QS World University Rankings 2010-2022) and is No.2 in the UK for research power (Research Excellence Framework 2021).\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/ucl_university_college_london_work_at_ucl.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-2ee46c8de04b83569a09",
       "title": "Senior Data Analyst - Marketing",
       "company": "jobs.ashbyhq.com",
