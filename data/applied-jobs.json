@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-93c550d028f654d8daeb",
+      "title": "Job Application for Data Scientist, L30 at Monzo",
+      "company": "job-boards.greenhouse.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://job-boards.greenhouse.io/embed/job_app?for=monzo&gh_src=8114893a1us&token=8242603",
+      "portalUrl": "https://job-boards.greenhouse.io/embed/job_app?for=monzo&gh_src=8114893a1us&token=8242603",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-01T03:22:39.730Z",
+      "jobDescription": "# Job Application for Data Scientist, L30 at Monzo\n\n- **Company:** job-boards.greenhouse.io\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-01T03:22:39.730Z\n- **Licensed sponsor:** \n- **Original posting:** https://job-boards.greenhouse.io/embed/job_app?for=monzo&gh_src=8114893a1us&token=8242603\n- **Application portal:** https://job-boards.greenhouse.io/embed/job_app?for=monzo&gh_src=8114893a1us&token=8242603\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/job_application_for_data_scientist_l30_at_monzo_job_boards_greenhouse_io.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b170bc6da095dca53087",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
