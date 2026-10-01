@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-d941cf48d2a3278bc0c0",
+      "title": "Lead Data Scientist - AWTG LTD",
+      "company": "AWTG LTD",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.awtg.co.uk/jobs/lead-data-scientist",
+      "portalUrl": "https://www.awtg.co.uk/jobs/lead-data-scientist",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-10-01T16:50:27.484Z",
+      "jobDescription": "# Lead Data Scientist - AWTG LTD\n\n- **Company:** AWTG LTD\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-10-01T16:50:27.484Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.awtg.co.uk/jobs/lead-data-scientist\n- **Application portal:** https://www.awtg.co.uk/jobs/lead-data-scientist\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nRole overview The Lead Data Scientist will act as a leader, coach and champion for data science, managing teams, setting direction and building organisational capability. The role ensures data science work is technically strong, ethical, scalable and aligned to client and business outcomes. You will work with multidisciplinary teams across data, AI, software engineering, product, [&hellip;]\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/lead_data_scientist_awtg_ltd_awtg_ltd.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-5b48dc7ea4b9f3cceca0",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
