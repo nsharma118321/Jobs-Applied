@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-3638a8007e8536579ea4",
+      "title": "Data Scientist - Yonder",
+      "company": "Yonder",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://yonder.teamtailor.com/jobs/8481608-data-scientist",
+      "portalUrl": "https://yonder.teamtailor.com/jobs/8481608-data-scientist",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-01T03:28:53.302Z",
+      "jobDescription": "# Data Scientist - Yonder\n\n- **Company:** Yonder\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-01T03:28:53.302Z\n- **Licensed sponsor:** \n- **Original posting:** https://yonder.teamtailor.com/jobs/8481608-data-scientist\n- **Application portal:** https://yonder.teamtailor.com/jobs/8481608-data-scientist\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWhat’s Yonder?. “It's as if Time Out, Amex and Monzo had a baby” - Will T, Yonder Member Yonder is a credit or debit rewards card that is designed to be fair...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_yonder_yonder.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-93c550d028f654d8daeb",
       "title": "Job Application for Data Scientist, L30 at Monzo",
       "company": "job-boards.greenhouse.io",
