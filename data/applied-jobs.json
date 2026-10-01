@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b8e0d2deb477d8a35e84",
+      "title": "Job Details | Dayforce Jobs",
+      "company": "jobs.dayforcehcm.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.dayforcehcm.com/en-GB/newlook/CANDIDATEPORTAL/jobs/18639",
+      "portalUrl": "https://jobs.dayforcehcm.com/en-GB/newlook/CANDIDATEPORTAL/jobs/18639",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-01T07:53:08.591Z",
+      "jobDescription": "# Job Details | Dayforce Jobs\n\n- **Company:** jobs.dayforcehcm.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-01T07:53:08.591Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.dayforcehcm.com/en-GB/newlook/CANDIDATEPORTAL/jobs/18639\n- **Application portal:** https://jobs.dayforcehcm.com/en-GB/newlook/CANDIDATEPORTAL/jobs/18639\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/job_details_dayforce_jobs_jobs_dayforcehcm_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-e0a1013b0c0d993a07cd",
       "title": "Job Application for Staff Data Scientist at Monzo",
       "company": "job-boards.greenhouse.io",
