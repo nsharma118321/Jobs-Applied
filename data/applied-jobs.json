@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-c2fe10d4c127cca8fb12",
+      "title": "External job application",
+      "company": "marketcast.rec.pro.ukg.net",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://marketcast.rec.pro.ukg.net/MAR1053MKCL/JobBoard/c806547d-78ef-4b93-bcae-4a4a835ab542/OpportunityDetail?opportunityId=f370e360-01fd-48a2-9b97-c18e659b2c01&source=LinkedIn",
+      "portalUrl": "https://marketcast.rec.pro.ukg.net/MAR1053MKCL/JobBoard/c806547d-78ef-4b93-bcae-4a4a835ab542/OpportunityDetail?opportunityId=f370e360-01fd-48a2-9b97-c18e659b2c01&source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-05T04:18:48.482Z",
+      "jobDescription": "# External job application\n\n- **Company:** marketcast.rec.pro.ukg.net\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-05T04:18:48.482Z\n- **Licensed sponsor:** \n- **Original posting:** https://marketcast.rec.pro.ukg.net/MAR1053MKCL/JobBoard/c806547d-78ef-4b93-bcae-4a4a835ab542/OpportunityDetail?opportunityId=f370e360-01fd-48a2-9b97-c18e659b2c01&source=LinkedIn\n- **Application portal:** https://marketcast.rec.pro.ukg.net/MAR1053MKCL/JobBoard/c806547d-78ef-4b93-bcae-4a4a835ab542/OpportunityDetail?opportunityId=f370e360-01fd-48a2-9b97-c18e659b2c01&source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_marketcast_rec_pro_ukg_net.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-686d9351d1d5106de75e",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
