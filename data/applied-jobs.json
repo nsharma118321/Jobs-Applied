@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b2b07b0441a2e89ba3e7",
+      "title": "Data Scientist at Sky",
+      "company": "sky.talent-community.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://sky.talent-community.com/projects/data-scientist/75262?XMLdist=1&utm_source=Appcast_LinkedIn",
+      "portalUrl": "https://sky.talent-community.com/projects/data-scientist/75262?XMLdist=1&utm_source=Appcast_LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-05T06:09:57.370Z",
+      "jobDescription": "# Data Scientist at Sky\n\n- **Company:** sky.talent-community.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-05T06:09:57.370Z\n- **Licensed sponsor:** \n- **Original posting:** https://sky.talent-community.com/projects/data-scientist/75262?XMLdist=1&utm_source=Appcast_LinkedIn\n- **Application portal:** https://sky.talent-community.com/projects/data-scientist/75262?XMLdist=1&utm_source=Appcast_LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe don&#x27;t just believe in better. We make it happen. Better content. Better products. And better careers. Working in Tech, Product or Data at Sky is about buildi\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_at_sky_sky_talent_community_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-c762c8b07aeddb691669",
       "title": "Data Scientist (Consultant)",
       "company": "accenture.com",
