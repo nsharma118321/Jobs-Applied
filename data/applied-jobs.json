@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b05ceb6c626ab6fa9eb3",
+      "title": "Jobs at Bending Spoons",
+      "company": "jobs.bendingspoons.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b?utm_medium=job_post&utm_source=linkedin&utm_campaign=6abe14096014d84155c4260a",
+      "portalUrl": "https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b?utm_medium=job_post&utm_source=linkedin&utm_campaign=6abe14096014d84155c4260a",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-05T05:45:08.012Z",
+      "jobDescription": "# Jobs at Bending Spoons\n\n- **Company:** jobs.bendingspoons.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-05T05:45:08.012Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b?utm_medium=job_post&utm_source=linkedin&utm_campaign=6abe14096014d84155c4260a\n- **Application portal:** https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b?utm_medium=job_post&utm_source=linkedin&utm_campaign=6abe14096014d84155c4260a\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/jobs_at_bending_spoons_jobs_bendingspoons_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-5964e2241295c74ddbd7",
       "title": "Principal Data Scientist, Detection",
       "company": "job-boards.greenhouse.io",
