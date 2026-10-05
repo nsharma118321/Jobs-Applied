@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b24f943167f0ce9d2c88",
+      "title": "Data Scientist",
+      "company": "burberrycareers.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://burberrycareers.com/job/London-Data-Scientist-Not/1436187400/?utm_campaign=LinkedinJobPostings&utm_source=LinkedinJobPostings&applySourceOverride=LinkedIn",
+      "portalUrl": "https://burberrycareers.com/job/London-Data-Scientist-Not/1436187400/?utm_campaign=LinkedinJobPostings&utm_source=LinkedinJobPostings&applySourceOverride=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-05T06:18:06.250Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** burberrycareers.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-05T06:18:06.250Z\n- **Licensed sponsor:** \n- **Original posting:** https://burberrycareers.com/job/London-Data-Scientist-Not/1436187400/?utm_campaign=LinkedinJobPostings&utm_source=LinkedinJobPostings&applySourceOverride=LinkedIn\n- **Application portal:** https://burberrycareers.com/job/London-Data-Scientist-Not/1436187400/?utm_campaign=LinkedinJobPostings&utm_source=LinkedinJobPostings&applySourceOverride=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_burberrycareers_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b2b07b0441a2e89ba3e7",
       "title": "Data Scientist at Sky",
       "company": "sky.talent-community.com",
