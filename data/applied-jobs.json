@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-036a994d8b0012b835af",
+      "title": "Senior Analyst",
+      "company": "Equifax Careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.equifax.com/en/jobs/j00179108/senior-analyst/?source=Applied_LinkedIn",
+      "portalUrl": "https://careers.equifax.com/en/jobs/j00179108/senior-analyst/?source=Applied_LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-05T11:17:15.605Z",
+      "jobDescription": "# Senior Analyst\n\n- **Company:** Equifax Careers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-05T11:17:15.605Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.equifax.com/en/jobs/j00179108/senior-analyst/?source=Applied_LinkedIn\n- **Application portal:** https://careers.equifax.com/en/jobs/j00179108/senior-analyst/?source=Applied_LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAre you passionate about leveraging data to solve complex business challenges? Ready to make a significant impact with a global leader in information solutions? Equifax is seeking a driven and insightful Senior Analyst to join our dynamic Data and Analytics (D&amp;A) division. This is a pivotal role where you will directly contribute to our success by supporting a wide range of analytical…\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/senior_analyst_equifax_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-f4c2c350bc4b5c371e0f",
       "title": "Upstream Analyst",
       "company": "careers.energyaspects.com",
