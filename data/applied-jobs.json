@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-c762c8b07aeddb691669",
+      "title": "Data Scientist (Consultant)",
+      "company": "accenture.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.accenture.com/gb-en/careers/jobdetails?id=R00358898_en&src=LINKEDINJP",
+      "portalUrl": "https://www.accenture.com/gb-en/careers/jobdetails?id=R00358898_en&src=LINKEDINJP",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-05T05:56:26.052Z",
+      "jobDescription": "# Data Scientist (Consultant)\n\n- **Company:** accenture.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-05T05:56:26.052Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.accenture.com/gb-en/careers/jobdetails?id=R00358898_en&src=LINKEDINJP\n- **Application portal:** https://www.accenture.com/gb-en/careers/jobdetails?id=R00358898_en&src=LINKEDINJP\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_consultant_accenture_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b05ceb6c626ab6fa9eb3",
       "title": "Jobs at Bending Spoons",
       "company": "jobs.bendingspoons.com",
