@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b41e9b0c1e2b9790db66",
+      "title": "Tableau Developer",
+      "company": "careers.william-reed.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.william-reed.com/en/postings/be193a52-fa7d-4701-8d06-7d22af4725f0",
+      "portalUrl": "https://careers.william-reed.com/en/postings/be193a52-fa7d-4701-8d06-7d22af4725f0",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-05T11:46:27.441Z",
+      "jobDescription": "# Tableau Developer\n\n- **Company:** careers.william-reed.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-05T11:46:27.441Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.william-reed.com/en/postings/be193a52-fa7d-4701-8d06-7d22af4725f0\n- **Application portal:** https://careers.william-reed.com/en/postings/be193a52-fa7d-4701-8d06-7d22af4725f0\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/tableau_developer_careers_william_reed_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b0e42393402f90373cef",
       "title": "Data Consultant - Charlie Oscar",
       "company": "Charlie Oscar",
