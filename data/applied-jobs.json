@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-686d9351d1d5106de75e",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "company": "LinkedIn",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4475307567&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=QlHrh2HilJKNA%2Bl6blx%2BNA%3D%3D&trackingId=2eggrYFihurKykQwxklifQ%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=lIN2mPqfxnBuKQrWGUAUyQ%3D%3D&f_TPR=r604800",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4475307567&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=QlHrh2HilJKNA%2Bl6blx%2BNA%3D%3D&trackingId=2eggrYFihurKykQwxklifQ%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=lIN2mPqfxnBuKQrWGUAUyQ%3D%3D&f_TPR=r604800",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-05T04:17:44.225Z",
+      "jobDescription": "# LinkedIn Login, Sign in | LinkedIn\n\n- **Company:** LinkedIn\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-05T04:17:44.225Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4475307567&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=QlHrh2HilJKNA%2Bl6blx%2BNA%3D%3D&trackingId=2eggrYFihurKykQwxklifQ%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=lIN2mPqfxnBuKQrWGUAUyQ%3D%3D&f_TPR=r604800\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4475307567&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=QlHrh2HilJKNA%2Bl6blx%2BNA%3D%3D&trackingId=2eggrYFihurKykQwxklifQ%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=lIN2mPqfxnBuKQrWGUAUyQ%3D%3D&f_TPR=r604800\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/linkedin_login_sign_in_linkedin_linkedin.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-59e2c2474d5c2d2fbc64",
       "title": "Lead Data Scientist - AML Handling",
       "company": "Wise",
