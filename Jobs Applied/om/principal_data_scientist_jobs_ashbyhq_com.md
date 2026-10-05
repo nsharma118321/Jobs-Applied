@@ -3,83 +3,94 @@
 - **Company:** jobs.ashbyhq.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-09-28T08:37:57.598Z
+- **Applied date:** 2026-10-05T04:03:27.842Z
 - **Licensed sponsor:** 
-- **Original posting:** https://jobs.ashbyhq.com/faculty/efa8d13e-5166-4ae2-bf10-b1392afd3528?source=Linkedin
-- **Application portal:** https://jobs.ashbyhq.com/faculty/efa8d13e-5166-4ae2-bf10-b1392afd3528?source=Linkedin
+- **Original posting:** https://jobs.ashbyhq.com/comind/1e738996-f3ba-4a92-9af4-8e01f55febd1/application?utm_source=89gOJ5ZWEB&src=LinkedIn
+- **Application portal:** https://jobs.ashbyhq.com/comind/1e738996-f3ba-4a92-9af4-8e01f55febd1/application?utm_source=89gOJ5ZWEB&src=LinkedIn
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-WHY FACULTY? 
+At CoMind, we are developing a non-invasive neuromonitoring technology that will result in a new era of clinical brain monitoring. In joining us, you will be helping to create cutting-edge technologies that will improve how we diagnose and treat brain disorders, ultimately improving and saving the lives of patients across the world.
 
-We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.
+THE ROLE
 
-We don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.
+The Data Science team at CoMind develops the algorithms and machine learning systems that transform raw optical interference signals from CoMind One into continuous, clinically meaningful measurements of cerebral blood flow, intracranial pressure, and autoregulation. Working at the frontier of photonics, physiology, and applied ML, the team's work directly determines what CoMind One can measure, how accurately, and under what clinical conditions.
 
-Our business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.
+As Principal Data Scientist, you will be a technical authority for CoMind's data science function, setting methodological direction for signal condition and extraction, personally driving the most complex and highest-impact problems, and providing expert guidance on data science best practice across the team. This is a senior individual contributor role: you will not manage people directly, but your technical leadership will shape how the entire team approaches its most challenging problems. You will work closely with R&D, Clinical, and Software Engineering.
 
-AI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.
+At CoMind, all team members work at least 4 days per week from our new Kings Cross offices, plus a flexible work-from-home day.
 
-ABOUT THE TEAM 
+RESPONSIBILITIES:
 
-In our Professional and Financial Services Business unit, we bring everything we have learned in more than a decade of Applied AI, and use it to help our clients navigate a rapidly changing landscape.
+ - Act as the technical authority for the end-to-end signal processing and inference chain for CoMind’s technologies: from raw optical data through to clinical measurements
 
-We develop and embed AI solutions which help financial institutions become more efficient, enhance customer experience, and find the commercial upside in uncertain markets. Within the constraints of a highly regulated industry, we see so much opportunity for impactful innovation and are proud to set the gold-standard for marrying technical excellence with safe deployment.
+ - Set the methodological direction for estimation, signal extraction and ML modelling across the team: which approaches suit which problems, how they are evaluated, and what evidence is required before a method is trusted.
 
-#LI-PRIO
+ - Own signal processing and analysis programmes from research through to validated, production-quality implementations with Software Engineering.
 
-ABOUT THE ROLE
+ - Derive achievable performance bounds from instrument and noise models, and use them to drive algorithm selection, requirement setting and design trade-offs
 
-As a Principal Data Scientist at Faculty, you will serve as a technical leader and domain expert who owns and drives the delivery of the most technically complex, high-impact projects and programmes for our most important clients. You also will set the technical direction for the data science team, mentor, and develop them so our data scientists remain best in class.
+ - Own how the team handles uncertainty and calibration — inference methods appropriate to small clinical cohorts, per-patient estimation with quantified uncertainty, and calibration strategies that make measurements comparable across devices, sessions and patients.
 
-This position focuses on deep individual contribution and technical excellence, influencing the broader data science community at Faculty.
+ - Set the standard for how the data science function works: reproducibility, analysis and code review, experiment design, dataset governance and ground-truth definitions
 
-WHAT YOU'LL BE DOING:
+ - Act as the primary technical reviewer and expert resource across the research organisation, reviewing technical reports, analysis plans and evaluation methodology, and holding the bar for methodological rigour and scientific integrity.
 
- - Serving as a technical authority on machine learning, Generative AI, and other advanced data science methods to deliver innovative and impactful solutions.
+ - Identify and introduce new, best-practice methods from estimation, inference and measurement science in adjacent fields.
 
- - Leading the development of shared resources, frameworks, and best practices adopted across teams and the company.
+ - Act as a mentor to members of the Data Science teams and across the wider business
 
- - Contributing to the scoping and bid processes for large-scale, high-stakes projects, influencing client decisions with technical expertise.
+ - Contribute to CoMind's IP and publication strategy, authoring and reviewing technical papers, patent applications and regulatory documents.
+   
 
- - Owning a portfolio of work within a specific sector, applying expert knowledge to deliver exceptional value to clients.
+AI is fundamental to our culture. It's not just a tool, but a core part of how we work, collaborate, and innovate. We expect all team members to embrace AI in their daily work and continuously find new ways to use it effectively.
 
- - Leading and mentoring project teams and direct reports, ensuring the successful delivery of high-value and complex projects.
+SKILLS & EXPERIENCE:
 
- - Acting as a thought leader, publishing papers, and presenting at industry and scientific conferences to amplify a distinctive AI vision for our clients
+ - 15+ years of experience in data science, ML, or applied research, with a strong track record of independent technical leadership on complex, ambiguous problems
 
-WHO WE'RE LOOKING FOR:
+ - A career working to extract small signals from noisy, complex physiological systems, and developing and deploying physical models of those systems to support those efforts.
 
- - You bring demonstrable technical ability, creativity and flexibility from your extensive experience (in academia , industry or both) as thought leader in this space 
+ - Deep expertise in physiological time-series signal processing methodologies.
 
- - You’ll have prior experience working in or for financial services clients, with standout examples where you’ve led the delivery of distinctive applications that have driven commercial impact
+ - A demonstrated ability to take algorithmic work from research concept through to production-quality, validated implementations in shipped product.
 
- - You bring broad knowledge across a range of machine learning techniques, including experience building Generative AI and agentic AI applications with Large Language Models
+ - Designing device performance evaluation methods where no prior gold-standard exists: simulating physical systems, running sensitivity analysis, identifying failure modes, and developing signal processing solutions to address those challenges.
 
- - You have advanced coding skills in Python and proven experience building and maintaining scalable codebases.
+ - Extensive experience owning calibration and cross-instrument comparability work that involved noise models, error budgets, and evaluation of experimental data
 
- - You enjoy mentoring junior colleagues and have prior direct management experience, inspiring them to continually stretch and grow their technical skill.
+ - Strong record of scientific output: publications, patents, or equivalent evidence of original technical contribution and domain authority
 
- - You are highly proficient in strategic problem-solving and communicating solutions to non-technical audiences, able to select appropriate solutions and balance innovation with practical implementation.
+NICE TO HAVE:
 
-THE INTERVIEW PROCESS
+ - Background in neuroscience, neuromonitoring, or cerebrovascular physiology
 
- 1. Talent Team Screen (30 minutes)
+ - Experience with optical signal processing - e.g. LiDAR, pulse oximetry, NIRS, laser doppler flowmetry, or related technologies
 
- 2. Introduction to Business Unit Director (30 minutes)
+ - Experience in a regulated industry (medical devices, diagnostics, pharma, or similar), with familiarity of algorithm validation and documentation requirements for software as a medical device
 
- 3. Take Home Technical Assessment 
+BENEFITS:
 
- 4. Technical Interview (90 minutes) 
+ - Company equity plan so all employees share in the success of the company
 
- 5. Commercial & Principles Interview (90 minutes)
+ - Salary-sacrifice pension scheme
 
-OUR RECRUITMENT ETHOS
+ - Private medical, dental and vision insurance (medical history disregarded)
 
-We aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.
+ - Group life assurance at 4x annual income
 
-If you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. 
+ - Comprehensive mental health support, including unlimited access to 1:1 sessions with trained professionals
 
-A note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.
+ - Unlimited holiday allowance (+ bank holidays) and one week of remote working per quarter
+
+ - Lunch voucher (£10) every day for JustEat and free dinner on those days where you need to work later
+
+ - Twice weekly deliveries of fresh fruit and an extensive selection of snacks and drinks
+
+ - YuLife subscription, allowing you to turn your daily steps and meditation into discounts at a range of stores
+
+ - Access to Udemy for upskilling and professional development
+
+Disclaimer - We use Granola, an AI notetaker, throughout our interview process to help capture notes. It's used only for note-taking during the conversation. Transcripts aren't saved to shared drives or stored externally. Let us know if you'd prefer we don't.
