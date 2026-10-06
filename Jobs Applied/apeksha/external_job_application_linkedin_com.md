@@ -3,13 +3,13 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-10-06T14:01:05.164Z
+- **Applied date:** 2026-10-06T14:16:11.046Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4462302119&eBP=CwEAAAGhEYDLRXJppAWl9q0_CTxdJ5sBKVZgfRR-46o_KsuyzSpOunOucMZDeRZ19T9hZbSaPoX2SsqF3TTbeKJeN3yo0IFu5ZXO6JBvaRftNkJhRRcYiVQBz_Sss9Y1lkKuUnYYqNmwqJ5FP7f2yFvY6540YpWJDVbqbPL9l9RhMQA0AK0zEnpj4gQQi8dpL0GCMGNu6i0LjzM2hVSOfjw_Q75gWtskQ2__RKZS3vjxSjhCmY6Udxi30oYhAuMh4BUpduMBR55epqetZJC3JoLS3MMxWqlNRYbmKgu-kOcAtdByBC46mv9eRfVE6JWz4o388Y_goLReucM-e9Mn3iAko7jkisdrf4EKmwRILAPGBpAdC-XCZA4Utaf8PvfnyEgTuoO8_Nug8dklV1T0VydqZZpdVa0UVe8QWlMFFXypFRXr5QL1fEfE-tCOxPwOP5pye3Zj7koNdUlZjsOvnQ1FoZnmcbHJgrEFIrmcVS4GgZk&refId=QLjcesNhJvNgPAt00L%2B3zA%3D%3D&trackingId=PkdzHQLG%2B2tkrr2eHlTztQ%3D%3D&keywords=data%20scientist&origin=SEMANTIC_SEARCH_LANDING_PAGE
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4462302119&eBP=CwEAAAGhEYDLRXJppAWl9q0_CTxdJ5sBKVZgfRR-46o_KsuyzSpOunOucMZDeRZ19T9hZbSaPoX2SsqF3TTbeKJeN3yo0IFu5ZXO6JBvaRftNkJhRRcYiVQBz_Sss9Y1lkKuUnYYqNmwqJ5FP7f2yFvY6540YpWJDVbqbPL9l9RhMQA0AK0zEnpj4gQQi8dpL0GCMGNu6i0LjzM2hVSOfjw_Q75gWtskQ2__RKZS3vjxSjhCmY6Udxi30oYhAuMh4BUpduMBR55epqetZJC3JoLS3MMxWqlNRYbmKgu-kOcAtdByBC46mv9eRfVE6JWz4o388Y_goLReucM-e9Mn3iAko7jkisdrf4EKmwRILAPGBpAdC-XCZA4Utaf8PvfnyEgTuoO8_Nug8dklV1T0VydqZZpdVa0UVe8QWlMFFXypFRXr5QL1fEfE-tCOxPwOP5pye3Zj7koNdUlZjsOvnQ1FoZnmcbHJgrEFIrmcVS4GgZk&refId=QLjcesNhJvNgPAt00L%2B3zA%3D%3D&trackingId=PkdzHQLG%2B2tkrr2eHlTztQ%3D%3D&keywords=data%20scientist&origin=SEMANTIC_SEARCH_LANDING_PAGE
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4472581256&eBP=CwEAAAGhEZGhd7t9ICgub4VfvwmxTPcwFZAmdVwSAe-FXPDkKu2imn-vxan6DbabSmx4qD5iMsR3CvdKPOHctvN6vF_EcPonBdZ1EujwbmTfSdN5q1oE89Oo9fV7Sa1zUBAAnX3f63xKioQ4BRIlvYCNLJPP2zFwkSVDyDjOtx3E2h4DmlmffoH7gjHEbO0pN5jXh54SyRgXAQcyM3Ba_vkrxiE-n6c-K-hFzlttjEfAbtVJPgyA1l2B_rE9OGCzooDW_kzhIT1CajmLKHzjMuRZz0T_0S_vWNa76hJCe0hctN5MlFR3bdh0PYKQjQBypqbWBIRfeofmUwQ7BwRrJS40LXTHhajLDDOJKZnVeVsTVrcwY7Ps6Y_vSNoDwcue-XSEHTWUedCypL8pg9FpCl-wprULti4a1QgjuiWDhR57Rc-O_HAzd6i-EVQtUL6a4pNTxufg18ybnXW5mZPh-of8PrbwjEGQC5FYGCQmgg&refId=awmePcC7XAfc3aEqPicyuw%3D%3D&trackingId=SWjQB18%2FOM7PTluEPWP%2FSw%3D%3D&keywords=data%20scientist&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4472581256&eBP=CwEAAAGhEZGhd7t9ICgub4VfvwmxTPcwFZAmdVwSAe-FXPDkKu2imn-vxan6DbabSmx4qD5iMsR3CvdKPOHctvN6vF_EcPonBdZ1EujwbmTfSdN5q1oE89Oo9fV7Sa1zUBAAnX3f63xKioQ4BRIlvYCNLJPP2zFwkSVDyDjOtx3E2h4DmlmffoH7gjHEbO0pN5jXh54SyRgXAQcyM3Ba_vkrxiE-n6c-K-hFzlttjEfAbtVJPgyA1l2B_rE9OGCzooDW_kzhIT1CajmLKHzjMuRZz0T_0S_vWNa76hJCe0hctN5MlFR3bdh0PYKQjQBypqbWBIRfeofmUwQ7BwRrJS40LXTHhajLDDOJKZnVeVsTVrcwY7Ps6Y_vSNoDwcue-XSEHTWUedCypL8pg9FpCl-wprULti4a1QgjuiWDhR57Rc-O_HAzd6i-EVQtUL6a4pNTxufg18ybnXW5mZPh-of8PrbwjEGQC5FYGCQmgg&refId=awmePcC7XAfc3aEqPicyuw%3D%3D&trackingId=SWjQB18%2FOM7PTluEPWP%2FSw%3D%3D&keywords=data%20scientist&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-Login to LinkedIn to keep in touch with people you know, share ideas, and build your career.
+The full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.
