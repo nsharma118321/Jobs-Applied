@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-06T07:07:35.624Z
+- **Applied date:** 2026-10-07T14:28:38.603Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4473665316&eBP=CwEAAAGhEAiGL0-IMvTwHZd2MwAudJRabnmq2ujfYKvtqShc9bHr3IiXCxPr0ffHtY3QZzPXgTOkvpsGdWovglYRlGRwHtrW4QLV3pQ6zBTsqpLujPwwv9myuF9pxUa0NYMnaZTJ6xRmzR8cr2SqmpSvBGWzgGwG8XInLFeDcwhXPmtvcbf566mz9d0cgQkz5TMLXCd4E71xBn8eqxHC34ITGvRTrFfE-tXcw_4VDlRq1ERCSvdGxNErzEKJh0u7cLr5HBK9KkMINQ_qchJBgzqKEBep6Q7KPc2bAu6IvX_4uzrMB3OP1SY5279DipBYgxUOY9EN7cUCsCP3WVi7ylT2r6UyxToRr-gTCwfjQuKumc-Ta_4e2sqU3gRQwFD6SYKEWnAh-xnSBspIuF1HurLPFo6agCuf-5hwO6StTrZn5CJkL-q-bQjkp3fCg3LnJISv5hAFacBO_8z3Ew5tJtdh-6jGg4I5G0jXHXEIrVzU&refId=Ut6xBCPWe0jOhg4BZlUyeg%3D%3D&trackingId=FoB2WbJnw6ztIxzPkXJ5GA%3D%3D&keywords=Business%20Analyst%20%20Easy%20Apply%20posted%20in%20the%20past%2024%20hours&origin=SEMANTIC_SEARCH_LANDING_PAGE
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4473665316&eBP=CwEAAAGhEAiGL0-IMvTwHZd2MwAudJRabnmq2ujfYKvtqShc9bHr3IiXCxPr0ffHtY3QZzPXgTOkvpsGdWovglYRlGRwHtrW4QLV3pQ6zBTsqpLujPwwv9myuF9pxUa0NYMnaZTJ6xRmzR8cr2SqmpSvBGWzgGwG8XInLFeDcwhXPmtvcbf566mz9d0cgQkz5TMLXCd4E71xBn8eqxHC34ITGvRTrFfE-tXcw_4VDlRq1ERCSvdGxNErzEKJh0u7cLr5HBK9KkMINQ_qchJBgzqKEBep6Q7KPc2bAu6IvX_4uzrMB3OP1SY5279DipBYgxUOY9EN7cUCsCP3WVi7ylT2r6UyxToRr-gTCwfjQuKumc-Ta_4e2sqU3gRQwFD6SYKEWnAh-xnSBspIuF1HurLPFo6agCuf-5hwO6StTrZn5CJkL-q-bQjkp3fCg3LnJISv5hAFacBO_8z3Ew5tJtdh-6jGg4I5G0jXHXEIrVzU&refId=Ut6xBCPWe0jOhg4BZlUyeg%3D%3D&trackingId=FoB2WbJnw6ztIxzPkXJ5GA%3D%3D&keywords=Business%20Analyst%20%20Easy%20Apply%20posted%20in%20the%20past%2024%20hours&origin=SEMANTIC_SEARCH_LANDING_PAGE
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4468626922&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=aze6KRdyZw9BpDLpSioSuQ%3D%3D&trackingId=uqaZ9znDcB%2Bklw8gilyr5w%3D%3D&keywords=data%20scientist&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=100495523&distance=49.71276973284393&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4468626922&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=aze6KRdyZw9BpDLpSioSuQ%3D%3D&trackingId=uqaZ9znDcB%2Bklw8gilyr5w%3D%3D&keywords=data%20scientist&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=100495523&distance=49.71276973284393&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
