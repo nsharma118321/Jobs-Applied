@@ -3,10 +3,10 @@
 - **Company:** jobs.ubs.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-07T14:29:20.724Z
+- **Applied date:** 2026-10-07T15:49:54.563Z
 - **Licensed sponsor:** 
-- **Original posting:** https://jobs.ubs.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=349395&codes=ILINKEDIN
-- **Application portal:** https://jobs.ubs.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=349395&codes=ILINKEDIN
+- **Original posting:** https://jobs.ubs.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=349395&codes=ILINKEDIN#jobDetails=349395_5155
+- **Application portal:** https://jobs.ubs.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=349395&codes=ILINKEDIN#jobDetails=349395_5155
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
