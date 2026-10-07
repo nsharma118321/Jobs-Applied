@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-3e9660cd23768e0b2458",
+      "title": "QIS Quantitative Analyst | UBS - Experienced professionals - job boards",
+      "company": "jobs.ubs.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.ubs.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=349395&codes=ILINKEDIN",
+      "portalUrl": "https://jobs.ubs.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=349395&codes=ILINKEDIN",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-07T14:29:20.724Z",
+      "jobDescription": "# QIS Quantitative Analyst | UBS - Experienced professionals - job boards\n\n- **Company:** jobs.ubs.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-07T14:29:20.724Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.ubs.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=349395&codes=ILINKEDIN\n- **Application portal:** https://jobs.ubs.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=349395&codes=ILINKEDIN\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/qis_quantitative_analyst_ubs_experienced_professionals_job_boards_jobs_ubs_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-4a5490c31550bb18f3f5",
       "title": "External job application",
       "company": "linkedin.com",
