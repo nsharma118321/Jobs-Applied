@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b309d41ffa8ffe3e7792",
+      "title": "QIS Quantitative Analyst | UBS - Experienced professionals - job boards",
+      "company": "jobs.ubs.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.ubs.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=349395&codes=ILINKEDIN#jobDetails=349395_5155",
+      "portalUrl": "https://jobs.ubs.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=349395&codes=ILINKEDIN#jobDetails=349395_5155",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-07T15:49:54.563Z",
+      "jobDescription": "# QIS Quantitative Analyst | UBS - Experienced professionals - job boards\n\n- **Company:** jobs.ubs.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-07T15:49:54.563Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.ubs.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=349395&codes=ILINKEDIN#jobDetails=349395_5155\n- **Application portal:** https://jobs.ubs.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=349395&codes=ILINKEDIN#jobDetails=349395_5155\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/qis_quantitative_analyst_ubs_experienced_professionals_job_boards_jobs_ubs_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-7d6abf324fcf81e865e7",
       "title": "DCX Product Analytics Specialist / Senior Analytics Specialist in Lowenstrasse 1/3, 8001 Zurich, Switzerland | Actuarial & Underwriting at Marsh",
       "company": "Marsh McLennan",
