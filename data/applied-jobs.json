@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-eb835c1ef5c590b96ddc",
+      "title": "Careers",
+      "company": "generalindex.careers.hibob.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://generalindex.careers.hibob.com/jobs/2927b12a-5c49-4813-b8e0-56c59426f4de",
+      "portalUrl": "https://generalindex.careers.hibob.com/jobs/2927b12a-5c49-4813-b8e0-56c59426f4de",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-07T16:49:03.200Z",
+      "jobDescription": "# Careers\n\n- **Company:** generalindex.careers.hibob.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-07T16:49:03.200Z\n- **Licensed sponsor:** \n- **Original posting:** https://generalindex.careers.hibob.com/jobs/2927b12a-5c49-4813-b8e0-56c59426f4de\n- **Application portal:** https://generalindex.careers.hibob.com/jobs/2927b12a-5c49-4813-b8e0-56c59426f4de\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/careers_generalindex_careers_hibob_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-9efbcd3fec7639d8b003",
       "title": "Product Analyst | London, United Kingdom | General Index",
       "company": "general-index.com",
