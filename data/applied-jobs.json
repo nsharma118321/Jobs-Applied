@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-e3ab2e1e37a6d5245eb3",
+      "title": "Business Analyst",
+      "company": "Careers at Heathrow",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://encd.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6005/job/5961?utm_source=linkedin&utm_medium=jobboard",
+      "portalUrl": "https://encd.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6005/job/5961?utm_source=linkedin&utm_medium=jobboard",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-07T16:38:55.511Z",
+      "jobDescription": "# Business Analyst\n\n- **Company:** Careers at Heathrow\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-07T16:38:55.511Z\n- **Licensed sponsor:** \n- **Original posting:** https://encd.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6005/job/5961?utm_source=linkedin&utm_medium=jobboard\n- **Application portal:** https://encd.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6005/job/5961?utm_source=linkedin&utm_medium=jobboard\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/business_analyst_careers_at_heathrow.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-27759f583b1e91edfe93",
       "title": "Staff Research Scientist- Interactive Avatars",
       "company": "jobs.ashbyhq.com",
