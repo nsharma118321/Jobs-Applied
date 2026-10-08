@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4b35bb987d746c6d1636",
+      "title": "Consultant Database Specialist",
+      "company": "Schroders",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Schroders-Careers/job/1796?utm_medium=jobboard&utm_source=linkedin",
+      "portalUrl": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Schroders-Careers/job/1796?utm_medium=jobboard&utm_source=linkedin",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-08T11:45:26.436Z",
+      "jobDescription": "# Consultant Database Specialist\n\n- **Company:** Schroders\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-08T11:45:26.436Z\n- **Licensed sponsor:** \n- **Original posting:** https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Schroders-Careers/job/1796?utm_medium=jobboard&utm_source=linkedin\n- **Application portal:** https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Schroders-Careers/job/1796?utm_medium=jobboard&utm_source=linkedin\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nJob title: Consultant Database Specialist Business Area: Client Group Location: London Reporting to: Senior Consultant Database Manager Who we&rsquo;re looking for We are looking for an enthusiastic and diligent individual to join the Consultant Database Management Team. You will play an important role in supporting business development across the Client Group by helping to deliver accurate, high-quality product and firm-level data to investment consultants, clients and third parties. The role combines Consultant Databases activity, client data, stakeholder engagement, data quality oversight and process improvement, with a focus on ensuring our data is trusted, consistent and fit for purpose. About Us Schroders is a global investment manager which provides active asset management, wealth management and investment solutions. We aim to provide excellent investment performance to clients through active management. We serve a diverse client base that includes pension schemes, insur...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/consultant_database_specialist_schroders.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-05c44aef6384a5136360",
       "title": "Technical Business Analyst in Thame | Travelodge",
       "company": "Travelodge",
