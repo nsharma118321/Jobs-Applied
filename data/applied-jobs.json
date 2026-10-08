@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-dac0c82eb56afac254e3",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/view/4477130425/?companyName=Heal%27s&refId=xr1Ljw%2F8h3EE%2BVuq70Ok%2Bg%3D%3D&trackingId=YvNjCOv7ysseZzqDtQ9kHA%3D%3D",
+      "portalUrl": "https://www.linkedin.com/jobs/view/4477130425/?companyName=Heal%27s&refId=xr1Ljw%2F8h3EE%2BVuq70Ok%2Bg%3D%3D&trackingId=YvNjCOv7ysseZzqDtQ9kHA%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-08T09:01:17.977Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-08T09:01:17.977Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/view/4477130425/?companyName=Heal%27s&refId=xr1Ljw%2F8h3EE%2BVuq70Ok%2Bg%3D%3D&trackingId=YvNjCOv7ysseZzqDtQ9kHA%3D%3D\n- **Application portal:** https://www.linkedin.com/jobs/view/4477130425/?companyName=Heal%27s&refId=xr1Ljw%2F8h3EE%2BVuq70Ok%2Bg%3D%3D&trackingId=YvNjCOv7ysseZzqDtQ9kHA%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-c8583fba38120220699b",
       "title": "External job application",
       "company": "linkedin.com",
