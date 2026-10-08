@@ -3,92 +3,95 @@
 - **Company:** jobs.ashbyhq.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-07T14:20:15.961Z
+- **Applied date:** 2026-10-08T07:23:45.722Z
 - **Licensed sponsor:** 
-- **Original posting:** https://jobs.ashbyhq.com/chainalysis-careers/a4e87036-8214-4c66-9d9b-c8a956edf387/application?utm_source=Mv2N4DagVn
-- **Application portal:** https://jobs.ashbyhq.com/chainalysis-careers/a4e87036-8214-4c66-9d9b-c8a956edf387/application?utm_source=Mv2N4DagVn
+- **Original posting:** https://jobs.ashbyhq.com/marshmallow/ecb457b5-1773-496c-a8b5-fabec42759e2
+- **Application portal:** https://jobs.ashbyhq.com/marshmallow/ecb457b5-1773-496c-a8b5-fabec42759e2
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-Chainalysis is inspired by solving the hardest technical challenges and creating products that build trust in cryptocurrencies. We're a global organization who thrive on the challenging work we do and doing it with other exceptionally talented teammates. Our industry changes constantly, and our job is to create user-facing products supported by our best-in-class data, allowing us to adapt to those rapid changes and bring maximal value to our customers.
+We’re on a mission to make migration easy.
 
-We're looking for a Staff Data Scientist to join our Research and Intelligence organisation in London. You'll work across flexible, cross-functional squads within the Data Science team, leading analytical, statistical, and machine-learning work across both UTXO and EVM blockchains. The team develops behavioural heuristics, graph algorithms, statistical models, and machine-learning techniques that power some of the most advanced blockchain analysis in the industry. Much of the work is state of the art and ahead of academia; your work will shape the data that fuels Chainalysis products and customers globally.
+We started building Marshmallow in 2017. Since then, we’ve grown from 3 to 700+ people, gained unicorn status, raised ~£140M over three funding rounds, turned profitable, insured millions of drivers and lent millions in car loans.
 
-This role is ideal for someone energised by deeply technical, ambiguous problems at the intersection of statistics, machine learning, algorithms, and large-scale on-chain analysis—and who wants to own multiple projects and systems end to end, shape technical direction, and deliver company-level impact.
+But we’re only just getting started. Our goal is to become one of the largest financial services providers in the world. Over the next 10 years we’ll grow exponentially, not only by scaling our existing products, but also by building new ones.
 
-In this role, you’ll:
+To achieve our goals we need incredibly ambitious, commercially driven people who never settle for ‘good enough’. Marshmallowers are hungry for autonomy and ownership, and would rather improve than coast. Everyone raises standards and has an impact, with a focus on collective success over self-interest.
 
- - Own and prioritise multiple concurrent production data-science projects or systems, translating broad problem statements into actionable work, managing evolving requirements, and delivering measurable outcomes.
+We’ve created an environment where curious, tenacious people win and grow together. If that sounds motivating, this could be the place for you.
 
- - Design, develop, and validate novel analytical methods, statistical models, behavioural heuristics, and algorithms across UTXO, EVM, and other blockchain data to attribute on-chain activity and uncover customer-relevant insights.
+LONDON (HYBRID, 3 DAYS IN OFFICE)
 
- - Stay current on advances in data science and blockchain analysis; evaluate and pilot techniques such as graph computation, statistical modelling, and machine learning on large-scale on-chain datasets.
+DATA SCIENCE AT MARSHMALLOW
 
- - Identify and resolve inefficiencies in code, methodology, and workflows; make architectural decisions; define and track quality metrics; understand upstream and downstream dependencies; and balance long-term system health and technical debt against new delivery.
+Our Data Science team partners across the business to turn data into better decisions, smarter products, and simpler customer journeys. We work closely with Product, Engineering, and Operations to build and ship models and AI systems that are reliable in production and deliver measurable impact.
 
- -  Drive cross-functional alignment by clearly articulating and defending methodology and results, challenging assumptions when warranted, and building consensus as requirements evolve.
+Within Data Science, this role sits in Claims, supporting the function and the broader ambition to automate more of the claims journey. Claims is one of Marshmallow's most important customer touchpoints, and we're looking for a Staff Data Scientist who can provide technical leadership across traditional ML and Generative AI, bring system-level thinking to how we scale decisioning, and confidently challenge proposals to ensure we build robust, sustainable solutions.
 
- - Mentor team members across levels within your domain, support onboarding, contribute to technical hiring, and share knowledge through documentation and presentations.
+WHAT YOU'LL BE DOING
 
- - Collaborate across Research, Global Intelligence, Product, and Engineering to move research from prototype to dependable production systems and create tools or platforms that multiply team output.
+ - Provide technical leadership for data science across Claims Fraud, shaping the approach to risk decisioning and fraud detection in partnership with Product and Engineering
 
-We’re looking for candidates who have:
+ - Design, build and iterate on production ML and Generative AI/LLM systems that support claims validation and automation
 
- - Deep expertise in statistics, machine learning, computer science, physics, mathematics, or another quantitative discipline, demonstrated through advanced industry or research work.
+ - Collaborate closely with other Claims data scientists to bring system-level thinking to how models, data and workflows fit together, identifying architectural improvements needed to scale decisioning and reduce time-to-production
 
- - Expert-level proficiency in Python and SQL, with a track record of writing clean, testable, production-quality code.
+ - Be vocal about the platform and tooling investments needed (monitoring, feedback loops, QA) to achieve AI-driven end to end claims automation
 
- -  Demonstrated experience applying advanced analytical techniques (e.g. graph algorithms, ML, statistical inference) to large, messy datasets.
+ - Advocate for robust, scalable, and strategically aligned technical solutions in cross-functional discussions, ensuring current systems and infrastructure contribute to the multi-year vision for automated claims handling
 
- - Demonstrated ability to learn unfamiliar technical domains and data models quickly; prior blockchain experience is welcome but not required.
+ - Set a high bar for statistical rigour, experimentation and measurement, helping improve how Claims performance and uncertainty are understood and communicated to senior stakeholders
 
- - A demonstrated ability to own and prioritise multiple concurrent projects or systems, make sound architectural and methodological decisions, and drive cross-functional stakeholders toward delivery.
+WHO YOU ARE
 
- - An analytical, open-minded approach to problem solving – comfortable navigating ambiguity and willing to dive into problems outside your day-to-day scope.
+ - You think in systems: you can connect the dots between data science, engineering, and product to shape scalable solutions that build on each other over time.
 
- - Strong written and verbal communication skills, including the ability to explain complex methodology to diverse audiences, mentor technical practitioners, and share knowledge across a team.
+ - You're confident in challenging assumptions and pushing for the right approach, using strong communication skills to influence stakeholders across seniority levels and disciplines with clear, pragmatic reasoning.
 
-Nice to have:
+ - You thrive in ambiguity and change, staying resilient and effective during transitions while bringing structure, clarity, and momentum to complex problem spaces.
 
- - A PhD or equivalent research training in a quantitative field, and/or familiarity with Databricks, dbt, Spark/PySpark, or similar large-scale data platforms.
+ - You're motivated by real-world impact, partnering closely with cross-functional teams to drive meaningful automation and better customer outcomes across the claims journey.
 
- - Experience modifying infrastructure-as-code (e.g. Terraform) or contributing to production data pipelines.
+WHAT YOU'LL BRING
 
- - Experience building shared tools or platforms that multiply team output and onboarding others onto them.
+ - Significant commercial experience delivering end-to-end Machine Learning solutions, from problem framing and experimentation through to production deployment and ongoing monitoring
 
- - Experience with UTXO, EVM, or other blockchain data, graph computation, and/or the cryptocurrency ecosystem.
+ - Hands-on experience building and shipping Generative AI systems in production (not just prototypes), including evaluation, safety/quality considerations, and integration into customer or operational workflows
 
-TECHNOLOGIES WE USE:
+ - Strong statistical and modelling foundation, with experience in risk-based decisioning under uncertainty (e.g., fraud, credit, insurance, or other regulated domains)
 
- - Python
+ - Proven ability to influence technical direction across Data Science and Engineering, including shaping scalable model/service integration patterns and challenging proposals to drive robust, long-term solutions
 
- - SQL
+ - Strong stakeholder management skills, with confidence communicating trade-offs and pushing back constructively with Product and Engineering to ensure high-quality outcomes
 
- - Databricks
+PERKS OF THE JOB
 
- - Dbt
+ - Bonus scheme designed to reward high performance
 
- - PySpark / Spark
+ - Private medical insurance with Vitality, mental health support with Oliva
 
- - Terraform
+ - Personal learning budget and 2 dedicated L&D days a year
 
- - AWS
+ - Monthly flexible benefits budget to spend as you choose
 
- - Postgres
+ - 25 days holiday plus bank holidays
 
-AI at Chainalysis
-AI is not a feature at Chainalysis - it is a new way of working. One that turns instructions into work done, and helps us move faster than the threats we're built to counter, and we expect our employees to take ownership of the output and ensure quality. As the world's most trusted blockchain analytics platform, Chainalysis sits at a rare intersection of proprietary data, regulatory relationships and crypto expertise that makes it uniquely placed to shape and lead the next era of AI-driven intelligence - and we expect everyone here, regardless of role, to be an active part of it.
+ - 4 weeks Work From Anywhere per year
 
-AI fluency is tied directly to how we measure performance and how we plan to win. There is no substitute for your own curiosity. We provide the tools, workflows, and space to experiment - but the expectation is that you develop these capabilities yourself, bring ideas, and collaborate across teams to reinvent the way work gets done. We are not using AI to do less. We are using it to do what was never possible before.
+We are able to offer visa sponsorship for this position.
 
-About Chainalysis
+OUR PROCESS
 
-Chainalysis is the blockchain data platform, making it easy to connect the movement of digital assets to real-world services. Powered by deep blockchain data and AI, organizations can investigate illicit activity, manage risk exposure, and develop innovative market solutions built on the industry's most trusted blockchain intelligence. Our mission is to build trust in blockchains, blending safety and security with an unwavering commitment to growth and innovation.
+ - Initial call with a member from our Talent Team (30 mins)
 
-You belong here. 
+ - Past Experience interview with Hiring Manager (60 mins)
 
-At Chainalysis, we believe that diversity of experience and thought makes us stronger. With both customers and employees around the world, we are committed to ensuring our team reflects the unique communities around us. We’re ensuring we keep learning by committing to continually revisit and reevaluate our diversity culture.
+ - Systems Design & Technical interview with a couple of the team (90 mins)
 
-We encourage applicants across any race, ethnicity, gender/gender expression, age, spirituality, ability, experience and more. If you need any accommodations to make our interview process more accessible to you due to a disability, don't hesitate to let us know. You can learn more here https://go.chainalysis.com/rs/503-FAP-074/images/Interview%20Accommodations%20Request.pdf. We can’t wait to meet you.
+ - Culture interview (60 mins)
+
+Diversity of thought
+
+We know the best ideas come from having different perspectives in the room - and we're committed to hiring fairly, regardless of background, identity or experience. If you see yourself in this role, we'd encourage you to apply.
