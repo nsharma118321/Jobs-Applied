@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-f1f3ba1767c085d5aa6b",
+      "title": "Data Engineer",
+      "company": "Entain",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.smartrecruiters.com/Entain/744000152673649-data-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+      "portalUrl": "https://jobs.smartrecruiters.com/Entain/744000152673649-data-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-08T10:39:14.282Z",
+      "jobDescription": "# Data Engineer\n\n- **Company:** Entain\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-08T10:39:14.282Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.smartrecruiters.com/Entain/744000152673649-data-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73\n- **Application portal:** https://jobs.smartrecruiters.com/Entain/744000152673649-data-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe purpose of the Data Engineer is to implement and maintain data infrastructure that facilitates&#xa0;data-driven decision making, innovation and operational efficiency while ensuring that the data&#xa0;pipeline is secure, reliable, and scalable. The role holder will build and maintain high-perfor...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_engineer_entain.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-f3ceccc3d0c14a5633e5",
       "title": "External job application",
       "company": "linkedin.com",
