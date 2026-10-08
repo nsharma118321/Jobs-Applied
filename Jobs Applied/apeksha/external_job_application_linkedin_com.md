@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-10-08T06:22:50.347Z
+- **Applied date:** 2026-10-08T07:28:27.986Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4473852184&eBP=CwEAAAGhGhsvEQwru3SGMY99aS18FF59mvx2P-LJVei818qapd07FyQodmICilVCBOp0l57EeV7R6ArM2ErzxLZCac0a9QZvxE76Rz48XrzlqGceBFIwL1SdgJpFCxm3LXn7ZCE0eYk5HqpIM-9vTB_zGHesBmobICCQyCgvAFn0RDJI9BP87vAeHhiSwQg-7IykmGN3s9fUaGKWFURLxvfmsxtjeXJSMkx-E4wsuYlMv2h-JiKDl6c7Di6RBPXbOIFmXsG5GzVJqT3obcaq2mT0KRrVg7g8GJFxlSzNGLRvTzr2l8BfeJ82j3zk_RbFhQ8_gD4RnU68I1Aqj1KMLloyjO6Gs7QHtpqcn0XOqz2lOmmy3Xp-YW2YeiF6AohlpCEiQMrARAidMme6-a_XDIMIvek0XKseVkYq93dlxHrPXT0wEhRszzLMCo2ZeTWl3uWDQHvH459lhsQxHkfGT5SlsTKcbox5zwvFA8Xamg&refId=JwQJ2UuctiFnSA18w8z1Og%3D%3D&trackingId=APMjCG9dj3CXfnkrmmzSSQ%3D%3D&keywords=business%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4473852184&eBP=CwEAAAGhGhsvEQwru3SGMY99aS18FF59mvx2P-LJVei818qapd07FyQodmICilVCBOp0l57EeV7R6ArM2ErzxLZCac0a9QZvxE76Rz48XrzlqGceBFIwL1SdgJpFCxm3LXn7ZCE0eYk5HqpIM-9vTB_zGHesBmobICCQyCgvAFn0RDJI9BP87vAeHhiSwQg-7IykmGN3s9fUaGKWFURLxvfmsxtjeXJSMkx-E4wsuYlMv2h-JiKDl6c7Di6RBPXbOIFmXsG5GzVJqT3obcaq2mT0KRrVg7g8GJFxlSzNGLRvTzr2l8BfeJ82j3zk_RbFhQ8_gD4RnU68I1Aqj1KMLloyjO6Gs7QHtpqcn0XOqz2lOmmy3Xp-YW2YeiF6AohlpCEiQMrARAidMme6-a_XDIMIvek0XKseVkYq93dlxHrPXT0wEhRszzLMCo2ZeTWl3uWDQHvH459lhsQxHkfGT5SlsTKcbox5zwvFA8Xamg&refId=JwQJ2UuctiFnSA18w8z1Og%3D%3D&trackingId=APMjCG9dj3CXfnkrmmzSSQ%3D%3D&keywords=business%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4471979346&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=RE04teXGCeAqfSzpQmnCBQ%3D%3D&trackingId=EGR36wOzv7NknC5YPm3qcg%3D%3D&keywords=data%20engineer&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4471979346&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=RE04teXGCeAqfSzpQmnCBQ%3D%3D&trackingId=EGR36wOzv7NknC5YPm3qcg%3D%3D&keywords=data%20engineer&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
