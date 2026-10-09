@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-157dfd1020ff72df89da",
+      "title": "Careers",
+      "company": "qogita.careers.hibob.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://qogita.careers.hibob.com/jobs/566010d1-d184-4650-9b20-b859a7081f48/apply?utm_medium=566010d1-d184-4650-9b20-b859a7081f48&vq_campaign=44a987ab-4a77-5265-a547-ca50b5bd461a&vq_source=ead41a77-4d9f-44f5-933f-3a12c4157d16&igbTracker=966172108&utm_source=linkedin",
+      "portalUrl": "https://qogita.careers.hibob.com/jobs/566010d1-d184-4650-9b20-b859a7081f48/apply?utm_medium=566010d1-d184-4650-9b20-b859a7081f48&vq_campaign=44a987ab-4a77-5265-a547-ca50b5bd461a&vq_source=ead41a77-4d9f-44f5-933f-3a12c4157d16&igbTracker=966172108&utm_source=linkedin",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-09T05:51:46.304Z",
+      "jobDescription": "# Careers\n\n- **Company:** qogita.careers.hibob.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-09T05:51:46.304Z\n- **Licensed sponsor:** \n- **Original posting:** https://qogita.careers.hibob.com/jobs/566010d1-d184-4650-9b20-b859a7081f48/apply?utm_medium=566010d1-d184-4650-9b20-b859a7081f48&vq_campaign=44a987ab-4a77-5265-a547-ca50b5bd461a&vq_source=ead41a77-4d9f-44f5-933f-3a12c4157d16&igbTracker=966172108&utm_source=linkedin\n- **Application portal:** https://qogita.careers.hibob.com/jobs/566010d1-d184-4650-9b20-b859a7081f48/apply?utm_medium=566010d1-d184-4650-9b20-b859a7081f48&vq_campaign=44a987ab-4a77-5265-a547-ca50b5bd461a&vq_source=ead41a77-4d9f-44f5-933f-3a12c4157d16&igbTracker=966172108&utm_source=linkedin\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/careers_qogita_careers_hibob_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-f4c0b1472ced924426b0",
       "title": "Data Scientist",
       "company": "Chubb External",
