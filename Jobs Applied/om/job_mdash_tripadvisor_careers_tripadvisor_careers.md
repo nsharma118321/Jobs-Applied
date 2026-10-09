@@ -3,10 +3,10 @@
 - **Company:** Tripadvisor Careers
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-09-25T08:41:18.157Z
+- **Applied date:** 2026-10-09T04:25:54.097Z
 - **Licensed sponsor:** 
-- **Original posting:** https://careers.tripadvisor.com/job?jobId=7993516&t=0uxfm5&gh_src=0uxfm5
-- **Application portal:** https://careers.tripadvisor.com/job?jobId=7993516&t=0uxfm5&gh_src=0uxfm5
+- **Original posting:** https://careers.tripadvisor.com/job?jobId=8208373&t=0uxfm5&gh_src=0uxfm5
+- **Application portal:** https://careers.tripadvisor.com/job?jobId=8208373&t=0uxfm5&gh_src=0uxfm5
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
