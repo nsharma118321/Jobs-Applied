@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-016e43c6e2d07f13ed72",
+      "title": "AI Engineer",
+      "company": "Version 1",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.smartrecruiters.com/Version1/744000154472808-ai-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+      "portalUrl": "https://jobs.smartrecruiters.com/Version1/744000154472808-ai-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-09T10:55:36.785Z",
+      "jobDescription": "# AI Engineer\n\n- **Company:** Version 1\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-09T10:55:36.785Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.smartrecruiters.com/Version1/744000154472808-ai-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73\n- **Application portal:** https://jobs.smartrecruiters.com/Version1/744000154472808-ai-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe are seeking a hands-on AI/ML Engineer to build, deploy, and optimize machine learning and Generative AI solutions. The role focuses on developing production-grade AI applications, integrating AI models into business systems, and supporting the full AI development lifecycle.The ideal candidate is ...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/ai_engineer_version_1.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-e6d6b10c65494dd78b6b",
       "title": "Analytics Engineer",
       "company": "jobs.ashbyhq.com",
