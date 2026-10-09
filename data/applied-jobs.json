@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-2e05fad64e1647845adf",
+      "title": "Job board",
+      "company": "Job board",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://mhruk.jobs.people-first.com/login",
+      "portalUrl": "https://mhruk.jobs.people-first.com/login",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-09T11:04:31.161Z",
+      "jobDescription": "# Job board\n\n- **Company:** Job board\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-09T11:04:31.161Z\n- **Licensed sponsor:** \n- **Original posting:** https://mhruk.jobs.people-first.com/login\n- **Application portal:** https://mhruk.jobs.people-first.com/login\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/job_board_job_board.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-6d1def441a3e6f7ee669",
       "title": "External job application",
       "company": "linkedin.com",
