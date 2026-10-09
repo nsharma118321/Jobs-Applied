@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-38dc69ce9bea5393526f",
+      "title": "Member of Technical Staff (Search Crawler Analyst)",
+      "company": "jobs.ashbyhq.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.ashbyhq.com/Perplexity/c20486f5-1e9c-436c-ba67-dc69842c221c/application?utm_source=linkedinpaid",
+      "portalUrl": "https://jobs.ashbyhq.com/Perplexity/c20486f5-1e9c-436c-ba67-dc69842c221c/application?utm_source=linkedinpaid",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-09T06:06:20.960Z",
+      "jobDescription": "# Member of Technical Staff (Search Crawler Analyst)\n\n- **Company:** jobs.ashbyhq.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-09T06:06:20.960Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.ashbyhq.com/Perplexity/c20486f5-1e9c-436c-ba67-dc69842c221c/application?utm_source=linkedinpaid\n- **Application portal:** https://jobs.ashbyhq.com/Perplexity/c20486f5-1e9c-436c-ba67-dc69842c221c/application?utm_source=linkedinpaid\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe internet is vast, containing trillions of URLs. Perplexity’s crawling and storage system is complex and has multiple stages (URL discovery, crawling, parsing, indexing). Each stage offers many opportunities for improvement and room for intricate bugs. You’ll work at the intersection of data analysis and engineering — designing metrics, building data pipelines, and improving the quality of our search and answer systems.\n\nResponsibilities\n\n - Find and diagnose quality issues in our crawling pipeline\n\n - Train small models that optimize particular aspects of the pipeline (e.g. parsing quality)\n\n - Build datasets for model training, including LLM-as-a-judge labeling pipelines\n\n - Improve page selection algorithms for indexing\n\n - Design and analyze experiments to validate improvements\n\nQualifications\n\n - 4+ years of experience as a data analyst, ML engineer, or in a related role\n\n - Strong coding skills: you should be able to write production-grade code at the level of a mid-level backend engineer\n\n - Experience designing metrics from scratch\n\n - Experience training ML models that shipped to production with measurable metric improvements\n\nNice to have\n\n - Direct experience working on web crawling or indexing pipelines\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/member_of_technical_staff_search_crawler_analyst_jobs_ashbyhq_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-242af3c0951ab897bdcc",
       "title": "Lead Insight Analyst - Marketing & Acquisition",
       "company": "job-boards.eu.greenhouse.io",
