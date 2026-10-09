@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-c5ab7918141092757652",
+      "title": "External job application",
+      "company": "jobs.gohire.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.gohire.io/penfold-kaohhl0e/growth-strategy-and-operations-analyst-303598/?ref=aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw==",
+      "portalUrl": "https://jobs.gohire.io/penfold-kaohhl0e/growth-strategy-and-operations-analyst-303598/?ref=aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw==",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-09T06:31:03.232Z",
+      "jobDescription": "# External job application\n\n- **Company:** jobs.gohire.io\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-09T06:31:03.232Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.gohire.io/penfold-kaohhl0e/growth-strategy-and-operations-analyst-303598/?ref=aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw==\n- **Application portal:** https://jobs.gohire.io/penfold-kaohhl0e/growth-strategy-and-operations-analyst-303598/?ref=aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw==\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_jobs_gohire_io.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-92741b2e63b55ece369e",
       "title": "Business Intelligence Lead",
       "company": "equiniti.wd3.myworkdayjobs.com",
