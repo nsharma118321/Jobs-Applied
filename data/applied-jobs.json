@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-f4c0b1472ced924426b0",
+      "title": "Data Scientist",
+      "company": "Chubb External",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37104?utm_medium=jobshare",
+      "portalUrl": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37104?utm_medium=jobshare",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-09T05:49:39.040Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Chubb External\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-09T05:49:39.040Z\n- **Licensed sponsor:** \n- **Original posting:** https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37104?utm_medium=jobshare\n- **Application portal:** https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37104?utm_medium=jobshare\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nData Scientist Company Description Chubb is the world&rsquo;s largest publicly traded property and casualty insurer. With operations in 54 countries, Chubb provides commercial and personal property and casualty insurance, personal accident and supplemental health insurance, reinsurance and life insurance to a diverse group of clients. The company is distinguished by its extensive product and service offerings, broad distribution capabilities, exceptional financial strength, underwriting excellence, superior claims handling expertise and local operations globally. Job Summary This position offers the opportunity to leverage the entire spectrum of analytics tools towards solving a wide variety of business problems. The focus is on applying a combination of industry standard practices and innovative ideas using structured data from multiple sources and applying AI, machine learning and statistical techniques to build, evaluate and implement models. Our team focus is on creating analy...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_chubb_external.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-f5bac453f33c150f4597",
       "title": "Analyst",
       "company": "jobs.ashbyhq.com",
