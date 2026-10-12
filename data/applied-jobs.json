@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-8e6d922255a787c7174b",
+      "title": "Careers at Bureau",
+      "company": "jobs.bureau.id",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.bureau.id/?ashby_jid=2b7f3dda-fba7-499c-934d-b0fdfb21fe08",
+      "portalUrl": "https://jobs.bureau.id/?ashby_jid=2b7f3dda-fba7-499c-934d-b0fdfb21fe08",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-12T14:43:09.372Z",
+      "jobDescription": "# Careers at Bureau\n\n- **Company:** jobs.bureau.id\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-12T14:43:09.372Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.bureau.id/?ashby_jid=2b7f3dda-fba7-499c-934d-b0fdfb21fe08\n- **Application portal:** https://jobs.bureau.id/?ashby_jid=2b7f3dda-fba7-499c-934d-b0fdfb21fe08\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/careers_at_bureau_jobs_bureau_id.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-2a1a95b9fc7fb598b88e",
       "title": "Data Scientist",
       "company": "mksinst.wd1.myworkdayjobs.com",
