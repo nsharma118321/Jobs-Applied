@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4cdf2d5521f55ff4e990",
+      "title": "Your Application | The Cigna Group Careers",
+      "company": "jobs.thecignagroup.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.thecignagroup.com/us/en/apply?jobSeqNo=CIGNUS26010728EXTERNALENUS&utm_source=linkedin&utm_medium=phenom-feeds&step=1&stepname=personalInformation",
+      "portalUrl": "https://jobs.thecignagroup.com/us/en/apply?jobSeqNo=CIGNUS26010728EXTERNALENUS&utm_source=linkedin&utm_medium=phenom-feeds&step=1&stepname=personalInformation",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-12T17:09:30.352Z",
+      "jobDescription": "# Your Application | The Cigna Group Careers\n\n- **Company:** jobs.thecignagroup.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-12T17:09:30.352Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.thecignagroup.com/us/en/apply?jobSeqNo=CIGNUS26010728EXTERNALENUS&utm_source=linkedin&utm_medium=phenom-feeds&step=1&stepname=personalInformation\n- **Application portal:** https://jobs.thecignagroup.com/us/en/apply?jobSeqNo=CIGNUS26010728EXTERNALENUS&utm_source=linkedin&utm_medium=phenom-feeds&step=1&stepname=personalInformation\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/your_application_the_cigna_group_careers_jobs_thecignagroup_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-5437ba032459f760924e",
       "title": "Data Scientist, Knowledge Management in Bengaluru, India | Data Science at eBay",
       "company": "eBay",
