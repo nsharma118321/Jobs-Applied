@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-e166c75e0e7fa2a7ebab",
+      "title": "Data Scientist",
+      "company": "Koch",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://koch.avature.net/en_US/careers/JobDetail/194843?src=LinkedIn",
+      "portalUrl": "https://koch.avature.net/en_US/careers/JobDetail/194843?src=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-12T17:52:05.535Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Koch\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-12T17:52:05.535Z\n- **Licensed sponsor:** \n- **Original posting:** https://koch.avature.net/en_US/careers/JobDetail/194843?src=LinkedIn\n- **Application portal:** https://koch.avature.net/en_US/careers/JobDetail/194843?src=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\n•\tLead design, development, validation, deployment, and continuous improvement of forecasting, predictive, and optimization models. •\tDrive demand forecasting and supply chain analytics initiatives...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_koch.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-edcc926e68b2ddc84f00",
       "title": "External job application",
       "company": "linkedin.com",
