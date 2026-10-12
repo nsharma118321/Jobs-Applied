@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-10-12T03:44:38.965Z
+- **Applied date:** 2026-10-12T03:46:19.863Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4477688080&eBP=CwEAAAGhLjJMAYSFePeN_D6DIfKFwl6xSJpPyELXa0zjw44fvX697RcEuutBu_WWKUK69ps7aDR9RkmDdY1vuIV5Uh8QaPeBLgVDumsUTjm0JUNSLPCvx90t5Jy21F3B6S6jgKlu7ZoWqEnBPejM0n9j4MGLntS4O2aBC_o3RQT5K6fEhD0cBJNck5tl8jIwKo0JKd9DHbsd-Qw7BFkW9fQ0RH80pRww5_KDPfVrPqjZGCa1cmei8mI_wOfvBuA7qOvW6Agt2YX4HIBcTaUhwAm8zEhomGeCKP7KQRWElog4OsnYJTigSSs7zI2_zUAGfktmHUyoR6G7rYquN4j36L0WYkVgpW96pyPsdSyr5dOGWiVDjOy1mMmxcwriOKADtycSg-EM5fQSN7ZdHBe7ct2ixUUBsq_Ze48xohGrsJOfzuaAzAZfBAjfxlEO6qm2YPnmguTnhG6OfBxb0Ri3k_9yHXjXftYw2H8XaRWPmg&refId=W0Q8javzjcMXcnkW7TpTxQ%3D%3D&trackingId=PNheTZSoXSSki%2F3FhAMKSA%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=2Juesv%2FpVaDQUVpDuXkpLQ%3D%3D&start=225&f_AL=true
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4477688080&eBP=CwEAAAGhLjJMAYSFePeN_D6DIfKFwl6xSJpPyELXa0zjw44fvX697RcEuutBu_WWKUK69ps7aDR9RkmDdY1vuIV5Uh8QaPeBLgVDumsUTjm0JUNSLPCvx90t5Jy21F3B6S6jgKlu7ZoWqEnBPejM0n9j4MGLntS4O2aBC_o3RQT5K6fEhD0cBJNck5tl8jIwKo0JKd9DHbsd-Qw7BFkW9fQ0RH80pRww5_KDPfVrPqjZGCa1cmei8mI_wOfvBuA7qOvW6Agt2YX4HIBcTaUhwAm8zEhomGeCKP7KQRWElog4OsnYJTigSSs7zI2_zUAGfktmHUyoR6G7rYquN4j36L0WYkVgpW96pyPsdSyr5dOGWiVDjOy1mMmxcwriOKADtycSg-EM5fQSN7ZdHBe7ct2ixUUBsq_Ze48xohGrsJOfzuaAzAZfBAjfxlEO6qm2YPnmguTnhG6OfBxb0Ri3k_9yHXjXftYw2H8XaRWPmg&refId=W0Q8javzjcMXcnkW7TpTxQ%3D%3D&trackingId=PNheTZSoXSSki%2F3FhAMKSA%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=2Juesv%2FpVaDQUVpDuXkpLQ%3D%3D&start=225&f_AL=true
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4477849861&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=Qbd8zKcRzW0cLriN4jAVjA%3D%3D&trackingId=P2PCtQo6nrzpXHgw91scwQ%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=2Juesv%2FpVaDQUVpDuXkpLQ%3D%3D&start=250&f_AL=true
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4477849861&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=Qbd8zKcRzW0cLriN4jAVjA%3D%3D&trackingId=P2PCtQo6nrzpXHgw91scwQ%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=2Juesv%2FpVaDQUVpDuXkpLQ%3D%3D&start=250&f_AL=true
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
