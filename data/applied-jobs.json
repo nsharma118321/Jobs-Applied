@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-a43874c69e00faed75c9",
+      "title": "Data Scientist",
+      "company": "Wesco",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://eklm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/34334?utm_medium=jobshare",
+      "portalUrl": "https://eklm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/34334?utm_medium=jobshare",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-13T12:56:30.714Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Wesco\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-13T12:56:30.714Z\n- **Licensed sponsor:** \n- **Original posting:** https://eklm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/34334?utm_medium=jobshare\n- **Application portal:** https://eklm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/34334?utm_medium=jobshare\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAs a Data Scientist you will identify business trends and problems through complex big data analysis. You will interpret results from multiple sources using a variety of techniques, ranging from simple data aggregation via statistical analysis to complex data mining independently. You will design, develop and implement the most valuable business solutions for the organization. You will prepare big data, implements data modules and develops database to support the business solutions.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_wesco.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-47c4bd096260560ea556",
       "title": "Data Scientist",
       "company": "cba.wd3.myworkdayjobs.com",
