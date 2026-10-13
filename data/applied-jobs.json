@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-c0d953acf3f291633618",
+      "title": "External job application",
+      "company": "careers.astrazeneca.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.astrazeneca.com/job/-/-/7684/101851618272?source=LinkedIn",
+      "portalUrl": "https://careers.astrazeneca.com/job/-/-/7684/101851618272?source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-13T16:16:17.516Z",
+      "jobDescription": "# External job application\n\n- **Company:** careers.astrazeneca.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-13T16:16:17.516Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.astrazeneca.com/job/-/-/7684/101851618272?source=LinkedIn\n- **Application portal:** https://careers.astrazeneca.com/job/-/-/7684/101851618272?source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_careers_astrazeneca_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-8ae42c17a3ce67729198",
       "title": "Data Scientist - AI Labs in Bengaluru, Karnataka, India | Data, Analytics & Gen AI at IDFC FIRST Bank",
       "company": "IDFC FIRST Bank",
