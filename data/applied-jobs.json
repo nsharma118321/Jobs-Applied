@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-73ab7cea15c4dfeba89e",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4477966444&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=Vyot7p%2FXrVgyhkDw20%2BmeA%3D%3D&trackingId=%2Bse%2F2bjg9gLVm6SbMdxosg%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.709817725496514&f_TPR=r604800",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4477966444&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=Vyot7p%2FXrVgyhkDw20%2BmeA%3D%3D&trackingId=%2Bse%2F2bjg9gLVm6SbMdxosg%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.709817725496514&f_TPR=r604800",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-13T08:03:59.191Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-13T08:03:59.191Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4477966444&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=Vyot7p%2FXrVgyhkDw20%2BmeA%3D%3D&trackingId=%2Bse%2F2bjg9gLVm6SbMdxosg%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.709817725496514&f_TPR=r604800\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4477966444&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=Vyot7p%2FXrVgyhkDw20%2BmeA%3D%3D&trackingId=%2Bse%2F2bjg9gLVm6SbMdxosg%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.709817725496514&f_TPR=r604800\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-bec0781167728cfbc37f",
       "title": "Role details",
       "company": "careers.celonis.com",
