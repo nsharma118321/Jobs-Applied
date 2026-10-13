@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-10-12T03:53:30.457Z
+- **Applied date:** 2026-10-13T03:38:09.853Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4468249779&eBP=CwEAAAGhLj4X7M786ZfgFPN_4WHUPOdNWUtZNvvr2axiAknPyu716lH5f9SavLhoy6ak1_m5XbWj9SxeZO_eoQI47eEF7PQI63BCvgoiBj_c8eRK3x_8Apzi1Au8wqQt9eGSIhqsFwwogffS_ejJjc4cnAizv8ow6i602kFux64lirKCzM80Uqr4zhU53L9YKvZnXJfXpB_83THqrshDUzKoAlpjN-Ap4DZR-V9cL_LeTr_tjxdfZEBLO1ogArkIbmVuWmU14hdkIWLvItmCFNlYIYTo9qmo1Jw_fqDCUxDj1D1D5VwBwTsLg83-T1XP-NaVW1Ixv699PTgXPAXKojVpf7v113_GazOkJxgD0tPWlCH0iE8z82OTNnRtiTpmw1xLu4u-pUAWMja4ykTVABFUvQwSTbaaNPGJaajdjmZfAae2ejki5gfNQ5P0YNSrGKwSyUlPreWHRacF7zkG_tg32oR6Q-EP8CxsiM50Ea-a-eU&refId=agq7NkY9bM4rInvpqPdYFA%3D%3D&trackingId=S7TpAFk5vC3%2Fw6CuZW701g%3D%3D&keywords=data%20analyst%20Easy%20Apply&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4468249779&eBP=CwEAAAGhLj4X7M786ZfgFPN_4WHUPOdNWUtZNvvr2axiAknPyu716lH5f9SavLhoy6ak1_m5XbWj9SxeZO_eoQI47eEF7PQI63BCvgoiBj_c8eRK3x_8Apzi1Au8wqQt9eGSIhqsFwwogffS_ejJjc4cnAizv8ow6i602kFux64lirKCzM80Uqr4zhU53L9YKvZnXJfXpB_83THqrshDUzKoAlpjN-Ap4DZR-V9cL_LeTr_tjxdfZEBLO1ogArkIbmVuWmU14hdkIWLvItmCFNlYIYTo9qmo1Jw_fqDCUxDj1D1D5VwBwTsLg83-T1XP-NaVW1Ixv699PTgXPAXKojVpf7v113_GazOkJxgD0tPWlCH0iE8z82OTNnRtiTpmw1xLu4u-pUAWMja4ykTVABFUvQwSTbaaNPGJaajdjmZfAae2ejki5gfNQ5P0YNSrGKwSyUlPreWHRacF7zkG_tg32oR6Q-EP8CxsiM50Ea-a-eU&refId=agq7NkY9bM4rInvpqPdYFA%3D%3D&trackingId=S7TpAFk5vC3%2Fw6CuZW701g%3D%3D&keywords=data%20analyst%20Easy%20Apply&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4478575572&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=GORqeALx5Sa5%2B%2Brt%2BHWW9Q%3D%3D&trackingId=QH%2FaFFHPHqn%2FSPqHVickrA%3D%3D&keywords=data%20scientist%20posted%20in%20the%20past%2024%20hours%20uk&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=101165590
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4478575572&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=GORqeALx5Sa5%2B%2Brt%2BHWW9Q%3D%3D&trackingId=QH%2FaFFHPHqn%2FSPqHVickrA%3D%3D&keywords=data%20scientist%20posted%20in%20the%20past%2024%20hours%20uk&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=101165590
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
