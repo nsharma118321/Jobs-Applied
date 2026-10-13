@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-e9a41eadb127410fbaec",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "company": "LinkedIn",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4474967278&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=xD8IWNLh3p5X5kUF2yf1lA%3D%3D&trackingId=AjLbADKvXbOYaTN5G%2BOOyw%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4474967278&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=xD8IWNLh3p5X5kUF2yf1lA%3D%3D&trackingId=AjLbADKvXbOYaTN5G%2BOOyw%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-10-13T17:49:51.453Z",
+      "jobDescription": "# LinkedIn Login, Sign in | LinkedIn\n\n- **Company:** LinkedIn\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-10-13T17:49:51.453Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4474967278&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=xD8IWNLh3p5X5kUF2yf1lA%3D%3D&trackingId=AjLbADKvXbOYaTN5G%2BOOyw%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4474967278&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=xD8IWNLh3p5X5kUF2yf1lA%3D%3D&trackingId=AjLbADKvXbOYaTN5G%2BOOyw%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/linkedin_login_sign_in_linkedin_linkedin.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b9ca0fc7e651604c6581",
       "title": "External job application",
       "company": "linkedin.com",
