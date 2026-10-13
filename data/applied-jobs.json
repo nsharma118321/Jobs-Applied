@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-6e4674b78060d53e582b",
+      "title": "Data Scientist",
+      "company": "Tesco Careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.tesco.com/en_GB/careers/JobDetail/140615",
+      "portalUrl": "https://careers.tesco.com/en_GB/careers/JobDetail/140615",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-13T13:51:44.946Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Tesco Careers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-13T13:51:44.946Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.tesco.com/en_GB/careers/JobDetail/140615\n- **Application portal:** https://careers.tesco.com/en_GB/careers/JobDetail/140615\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAI Data Scientist&nbsp;We are looking for an&nbsp;AI Data Scientist&nbsp;with a strong foundation in large language models (LLMs) and a pragmatic approach to applying AI in real-world...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_tesco_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-4ea79c63ae79add4df7b",
       "title": "LEAD DATA SCIENCE (ML Ops)",
       "company": "careers.te.com",
