@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4704b33942bfa24e1ee7",
+      "title": "Gumo: AI Trip Planner — Turn Reels & Links into Trips",
+      "company": "Gumo",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://gumo.me/careers/DataScientist",
+      "portalUrl": "https://gumo.me/careers/DataScientist",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-13T11:36:03.390Z",
+      "jobDescription": "# Gumo: AI Trip Planner — Turn Reels & Links into Trips\n\n- **Company:** Gumo\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-13T11:36:03.390Z\n- **Licensed sponsor:** \n- **Original posting:** https://gumo.me/careers/DataScientist\n- **Application portal:** https://gumo.me/careers/DataScientist\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nGumo is your AI trip planner: turn Instagram Reels, Shorts, links, and images into itineraries, collaborative bucket lists, honest hotel research, and seamless bookings — all in one place.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/gumo_ai_trip_planner_turn_reels_links_into_trips_gumo.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-c314807525f5029f18a1",
       "title": "External job application",
       "company": "linkedin.com",
