@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-45498df6351fdc5cc570",
+      "title": "External job application",
+      "company": "gommt.darwinbox.in",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://gommt.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6ab3848cb4a7b?src=Linkedin",
+      "portalUrl": "https://gommt.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6ab3848cb4a7b?src=Linkedin",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-14T15:34:24.207Z",
+      "jobDescription": "# External job application\n\n- **Company:** gommt.darwinbox.in\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-14T15:34:24.207Z\n- **Licensed sponsor:** \n- **Original posting:** https://gommt.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6ab3848cb4a7b?src=Linkedin\n- **Application portal:** https://gommt.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6ab3848cb4a7b?src=Linkedin\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_gommt_darwinbox_in.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-396ed37fca13048b850f",
       "title": "Data Scientist Bengaluru Posted In The Past 24 Hours Jobs in United States (4,000+ Open Roles) | LinkedIn",
       "company": "linkedin.com",
