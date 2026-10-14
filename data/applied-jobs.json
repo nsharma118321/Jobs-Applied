@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-f3900b7a9c48bf570e3e",
+      "title": "External job application",
+      "company": "skanai.keka.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://skanai.keka.com/careers/jobdetails/91347",
+      "portalUrl": "https://skanai.keka.com/careers/jobdetails/91347",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-14T10:36:04.614Z",
+      "jobDescription": "# External job application\n\n- **Company:** skanai.keka.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-14T10:36:04.614Z\n- **Licensed sponsor:** \n- **Original posting:** https://skanai.keka.com/careers/jobdetails/91347\n- **Application portal:** https://skanai.keka.com/careers/jobdetails/91347\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_skanai_keka_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-f1e8de2ed0843b936ec8",
       "title": "Data Scientist/Software Developer",
       "company": "xylem.wd5.myworkdayjobs.com",
