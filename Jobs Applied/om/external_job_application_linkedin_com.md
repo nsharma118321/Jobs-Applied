@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-14T16:58:55.147Z
+- **Applied date:** 2026-10-14T17:12:59.441Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4472995916&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=jxhkLyOUwJcfswOC23C%2B9Q%3D%3D&trackingId=z4VNL4NGI9B8qqbYtdzStA%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4472995916&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=jxhkLyOUwJcfswOC23C%2B9Q%3D%3D&trackingId=z4VNL4NGI9B8qqbYtdzStA%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4478413434&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=x4PEANnRskYMkuyNu0wFJw%3D%3D&trackingId=s172Uw2iUouhVxJG2ZFUyw%3D%3D&keywords=data%20scientist%20bengaluru%20posted%20in%20the%20past%2024%20hours&origin=JOBS_HOME_KEYWORD_HISTORY&start=50&geoId=105214831&distance=49.709817725496514&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4478413434&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=x4PEANnRskYMkuyNu0wFJw%3D%3D&trackingId=s172Uw2iUouhVxJG2ZFUyw%3D%3D&keywords=data%20scientist%20bengaluru%20posted%20in%20the%20past%2024%20hours&origin=JOBS_HOME_KEYWORD_HISTORY&start=50&geoId=105214831&distance=49.709817725496514&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
