@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-14T11:03:20.360Z
+- **Applied date:** 2026-10-14T16:18:12.125Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4459583776&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=OZCoLiEOHNhH1dJHa2FQ0A%3D%3D&trackingId=C2Hr8r4ikFTgA3JPruqL4A%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore&origin=SEMANTIC_SEARCH_HISTORY&geoId=112565523&distance=49.71054972731843&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4459583776&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=OZCoLiEOHNhH1dJHa2FQ0A%3D%3D&trackingId=C2Hr8r4ikFTgA3JPruqL4A%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore&origin=SEMANTIC_SEARCH_HISTORY&geoId=112565523&distance=49.71054972731843&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4476370666&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=iX0gMALQ4H9RuxvGQI49Hg%3D%3D&trackingId=vxDu%2FgJMqxfu027o%2BqbYLg%3D%3D&keywords=data+scientist+bengaluru+posted+in+the+past+24+hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=iwH2SmR4AloZ5m1WGPGdMg%3D%3D
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4476370666&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=iX0gMALQ4H9RuxvGQI49Hg%3D%3D&trackingId=vxDu%2FgJMqxfu027o%2BqbYLg%3D%3D&keywords=data+scientist+bengaluru+posted+in+the+past+24+hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=iwH2SmR4AloZ5m1WGPGdMg%3D%3D
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
