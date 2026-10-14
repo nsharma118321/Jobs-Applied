@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-9335c01ab5ffda910b9d",
+      "title": "External job application",
+      "company": "lighthouse.darwinbox.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://lighthouse.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a9039e5c0163",
+      "portalUrl": "https://lighthouse.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a9039e5c0163",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-14T16:03:17.976Z",
+      "jobDescription": "# External job application\n\n- **Company:** lighthouse.darwinbox.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-14T16:03:17.976Z\n- **Licensed sponsor:** \n- **Original posting:** https://lighthouse.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a9039e5c0163\n- **Application portal:** https://lighthouse.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a9039e5c0163\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_lighthouse_darwinbox_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-e1285b698de8aa492ce4",
       "title": "Data Scientist",
       "company": "lseg.wd3.myworkdayjobs.com",
