@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-a5bba899434cbcf237e5",
+      "title": "Lead Analytics Consultant",
+      "company": "Wells Fargo",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.wellsfargojobs.com/en/jobs/r-580140/lead-analytics-consultant/?publisher=Linkedin%20Flat%20bid&utm_source=joveo&jClickId=a1c1965e-5c33-4be1-9af8-5b985e944d23",
+      "portalUrl": "https://www.wellsfargojobs.com/en/jobs/r-580140/lead-analytics-consultant/?publisher=Linkedin%20Flat%20bid&utm_source=joveo&jClickId=a1c1965e-5c33-4be1-9af8-5b985e944d23",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-14T16:55:44.677Z",
+      "jobDescription": "# Lead Analytics Consultant\n\n- **Company:** Wells Fargo\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-14T16:55:44.677Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.wellsfargojobs.com/en/jobs/r-580140/lead-analytics-consultant/?publisher=Linkedin%20Flat%20bid&utm_source=joveo&jClickId=a1c1965e-5c33-4be1-9af8-5b985e944d23\n- **Application portal:** https://www.wellsfargojobs.com/en/jobs/r-580140/lead-analytics-consultant/?publisher=Linkedin%20Flat%20bid&utm_source=joveo&jClickId=a1c1965e-5c33-4be1-9af8-5b985e944d23\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAbout this role: Wells Fargo is seeking a Lead Analytics Consultant to lead the development and modernization of front-line risk monitoring analytics across BOS. This role will drive the design, development, and implementation of end-to-end monitoring solutions leveraging Python, SQL, SAS, AI, and cloud-based technologies to identify emerging risks, automate workflows, and generate actionable…\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/lead_analytics_consultant_wells_fargo.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b10453c79b3b60fcafe9",
       "title": "Data Scientist Bengaluru Posted In The Past 24 Hours Jobs in Bengaluru (465 Open Roles) | LinkedIn",
       "company": "linkedin.com",
