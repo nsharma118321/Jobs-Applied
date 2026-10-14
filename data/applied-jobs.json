@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-9b364e40bbaa97dc4325",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4476370666&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=iX0gMALQ4H9RuxvGQI49Hg%3D%3D&trackingId=vxDu%2FgJMqxfu027o%2BqbYLg%3D%3D&keywords=data+scientist+bengaluru+posted+in+the+past+24+hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=iwH2SmR4AloZ5m1WGPGdMg%3D%3D",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4476370666&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=iX0gMALQ4H9RuxvGQI49Hg%3D%3D&trackingId=vxDu%2FgJMqxfu027o%2BqbYLg%3D%3D&keywords=data+scientist+bengaluru+posted+in+the+past+24+hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=iwH2SmR4AloZ5m1WGPGdMg%3D%3D",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-14T16:18:12.125Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-14T16:18:12.125Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4476370666&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=iX0gMALQ4H9RuxvGQI49Hg%3D%3D&trackingId=vxDu%2FgJMqxfu027o%2BqbYLg%3D%3D&keywords=data+scientist+bengaluru+posted+in+the+past+24+hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=iwH2SmR4AloZ5m1WGPGdMg%3D%3D\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4476370666&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=iX0gMALQ4H9RuxvGQI49Hg%3D%3D&trackingId=vxDu%2FgJMqxfu027o%2BqbYLg%3D%3D&keywords=data+scientist+bengaluru+posted+in+the+past+24+hours&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=iwH2SmR4AloZ5m1WGPGdMg%3D%3D\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-9335c01ab5ffda910b9d",
       "title": "External job application",
       "company": "lighthouse.darwinbox.com",
