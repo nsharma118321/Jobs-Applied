@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-88166c559b9557f6aa31",
+      "title": "Meesho Careers: Data Scientist III (Team- Valmo)",
+      "company": "meesho.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.meesho.io/jobs/data-scientist-iii-team--valmo?id=9c642a77-5b07-40a2-a7f0-0c396b2b97c5",
+      "portalUrl": "https://www.meesho.io/jobs/data-scientist-iii-team--valmo?id=9c642a77-5b07-40a2-a7f0-0c396b2b97c5",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-14T11:07:12.260Z",
+      "jobDescription": "# Meesho Careers: Data Scientist III (Team- Valmo)\n\n- **Company:** meesho.io\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-14T11:07:12.260Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.meesho.io/jobs/data-scientist-iii-team--valmo?id=9c642a77-5b07-40a2-a7f0-0c396b2b97c5\n- **Application portal:** https://www.meesho.io/jobs/data-scientist-iii-team--valmo?id=9c642a77-5b07-40a2-a7f0-0c396b2b97c5\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/meesho_careers_data_scientist_iii_team_valmo_meesho_io.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-fa32d55a6dbddf089bb9",
       "title": "External job application",
       "company": "linkedin.com",
