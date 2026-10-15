@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-c4657efa9b005653b146",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4476669963&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=%2BlSVxwOmUeCN32G08qB7wA%3D%3D&trackingId=JXCbd%2FwCECWYLfyxdlBLmw%3D%3D&keywords=data%20scientist%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=8s4%2FGC6NscjSijApjqxutg%3D%3D&start=150&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4476669963&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=%2BlSVxwOmUeCN32G08qB7wA%3D%3D&trackingId=JXCbd%2FwCECWYLfyxdlBLmw%3D%3D&keywords=data%20scientist%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=8s4%2FGC6NscjSijApjqxutg%3D%3D&start=150&f_TPR=r86400",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-10-15T12:18:19.460Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-10-15T12:18:19.460Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4476669963&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=%2BlSVxwOmUeCN32G08qB7wA%3D%3D&trackingId=JXCbd%2FwCECWYLfyxdlBLmw%3D%3D&keywords=data%20scientist%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=8s4%2FGC6NscjSijApjqxutg%3D%3D&start=150&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4476669963&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=%2BlSVxwOmUeCN32G08qB7wA%3D%3D&trackingId=JXCbd%2FwCECWYLfyxdlBLmw%3D%3D&keywords=data%20scientist%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=8s4%2FGC6NscjSijApjqxutg%3D%3D&start=150&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
+      "jobId": "shared:manual-2f6aa58e7134aad07f4a",
+      "title": "Treasury and Trade Services Analytics | Citi Careers",
+      "company": "jobs.citi.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.citi.com/job/-/-/287/101956616016?source=APPLICANT_SOURCE-3-354&utm_medium=job_posting&utm_campaign=apac_experienced&utm_content=social_media&utm_term=393693070&ss=paid&utm_source=linkedin",
+      "portalUrl": "https://jobs.citi.com/job/-/-/287/101956616016?source=APPLICANT_SOURCE-3-354&utm_medium=job_posting&utm_campaign=apac_experienced&utm_content=social_media&utm_term=393693070&ss=paid&utm_source=linkedin",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-15T12:18:09.671Z",
+      "jobDescription": "# Treasury and Trade Services Analytics | Citi Careers\n\n- **Company:** jobs.citi.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-15T12:18:09.671Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.citi.com/job/-/-/287/101956616016?source=APPLICANT_SOURCE-3-354&utm_medium=job_posting&utm_campaign=apac_experienced&utm_content=social_media&utm_term=393693070&ss=paid&utm_source=linkedin\n- **Application portal:** https://jobs.citi.com/job/-/-/287/101956616016?source=APPLICANT_SOURCE-3-354&utm_medium=job_posting&utm_campaign=apac_experienced&utm_content=social_media&utm_term=393693070&ss=paid&utm_source=linkedin\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLearn more about applying for Treasury and Trade Services Analytics at Citi. Learn more about potential responsibilities, qualifications and career paths.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/treasury_and_trade_services_analytics_citi_careers_jobs_citi_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-85542a0029acde5f110c",
       "title": "External job application",
       "company": "linkedin.com",
