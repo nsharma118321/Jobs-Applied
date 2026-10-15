@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-9280d8ed02ce489e8d3a",
+      "title": "Business Analyst - Manufacturing and Supply Chain at Cargill",
+      "company": "careers.cargill.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.cargill.com/en/job/-/-/23251/99957063424",
+      "portalUrl": "https://careers.cargill.com/en/job/-/-/23251/99957063424",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-15T16:30:30.538Z",
+      "jobDescription": "# Business Analyst - Manufacturing and Supply Chain at Cargill\n\n- **Company:** careers.cargill.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-15T16:30:30.538Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.cargill.com/en/job/-/-/23251/99957063424\n- **Application portal:** https://careers.cargill.com/en/job/-/-/23251/99957063424\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLearn more about applying for Business Analyst - Manufacturing and Supply Chain at Cargill\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/business_analyst_manufacturing_and_supply_chain_at_cargill_careers_cargill_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-83e4a21a8f9bc89bf5c2",
       "title": "External job application",
       "company": "careers.cbre.com",
