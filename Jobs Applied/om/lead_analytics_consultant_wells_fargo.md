@@ -3,10 +3,10 @@
 - **Company:** Wells Fargo
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-14T16:55:44.677Z
+- **Applied date:** 2026-10-15T08:15:04.075Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.wellsfargojobs.com/en/jobs/r-580140/lead-analytics-consultant/?publisher=Linkedin%20Flat%20bid&utm_source=joveo&jClickId=a1c1965e-5c33-4be1-9af8-5b985e944d23
-- **Application portal:** https://www.wellsfargojobs.com/en/jobs/r-580140/lead-analytics-consultant/?publisher=Linkedin%20Flat%20bid&utm_source=joveo&jClickId=a1c1965e-5c33-4be1-9af8-5b985e944d23
+- **Original posting:** https://www.wellsfargojobs.com/en/jobs/r-580140/lead-analytics-consultant/?publisher=Linkedin%20Flat%20bid&utm_source=joveo&jClickId=fac0b1ed-9ae9-4cf9-bbed-d0f9cc69a23f
+- **Application portal:** https://www.wellsfargojobs.com/en/jobs/r-580140/lead-analytics-consultant/?publisher=Linkedin%20Flat%20bid&utm_source=joveo&jClickId=fac0b1ed-9ae9-4cf9-bbed-d0f9cc69a23f
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
