@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-83e4a21a8f9bc89bf5c2",
+      "title": "External job application",
+      "company": "careers.cbre.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.cbre.com/en_US/careers/JobDetail/299423?src=LinkedIn",
+      "portalUrl": "https://careers.cbre.com/en_US/careers/JobDetail/299423?src=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-15T16:14:58.026Z",
+      "jobDescription": "# External job application\n\n- **Company:** careers.cbre.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-15T16:14:58.026Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.cbre.com/en_US/careers/JobDetail/299423?src=LinkedIn\n- **Application portal:** https://careers.cbre.com/en_US/careers/JobDetail/299423?src=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_careers_cbre_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-f3e0ac7f86ec62ae4842",
       "title": "Business Analyst",
       "company": "jobs.natwestgroup.com",
