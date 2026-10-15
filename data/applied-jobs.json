@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-f3e0ac7f86ec62ae4842",
+      "title": "Business Analyst",
+      "company": "jobs.natwestgroup.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.natwestgroup.com/jobs/18284659-business-analyst?tm_job=R-00285806-OTHLOC-IND-5FBAN016&tm_event=view&tm_company=861&bid=56",
+      "portalUrl": "https://jobs.natwestgroup.com/jobs/18284659-business-analyst?tm_job=R-00285806-OTHLOC-IND-5FBAN016&tm_event=view&tm_company=861&bid=56",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-15T16:13:52.655Z",
+      "jobDescription": "# Business Analyst\n\n- **Company:** jobs.natwestgroup.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-15T16:13:52.655Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.natwestgroup.com/jobs/18284659-business-analyst?tm_job=R-00285806-OTHLOC-IND-5FBAN016&tm_event=view&tm_company=861&bid=56\n- **Application portal:** https://jobs.natwestgroup.com/jobs/18284659-business-analyst?tm_job=R-00285806-OTHLOC-IND-5FBAN016&tm_event=view&tm_company=861&bid=56\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nSearch and apply for banking, retail and digital jobs as well as apprenticeships, graduate and internships all across NatWest Group.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/business_analyst_jobs_natwestgroup_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-08477e4ae668ebbc8b56",
       "title": "External job application",
       "company": "linkedin.com",
