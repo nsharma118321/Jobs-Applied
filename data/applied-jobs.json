@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-9bfa2a93610de229668a",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4476648762&keywords=data%20scientist%20bengaluru%20posted%20in%20the%20past%2024%20hours&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=105214831&distance=49.70993972580017&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4476648762&keywords=data%20scientist%20bengaluru%20posted%20in%20the%20past%2024%20hours&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=105214831&distance=49.70993972580017&f_TPR=r86400",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-15T06:56:31.258Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-15T06:56:31.258Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4476648762&keywords=data%20scientist%20bengaluru%20posted%20in%20the%20past%2024%20hours&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=105214831&distance=49.70993972580017&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4476648762&keywords=data%20scientist%20bengaluru%20posted%20in%20the%20past%2024%20hours&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=105214831&distance=49.70993972580017&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-a3ddb17b89f9c27e74d2",
       "title": "External job application",
       "company": "linkedin.com",
