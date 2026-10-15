@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-429a7a3192fd28efb76c",
+      "title": "External job application",
+      "company": "impactanalytics.keka.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://impactanalytics.keka.com/careers/jobdetails/34169",
+      "portalUrl": "https://impactanalytics.keka.com/careers/jobdetails/34169",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-15T08:04:24.366Z",
+      "jobDescription": "# External job application\n\n- **Company:** impactanalytics.keka.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-15T08:04:24.366Z\n- **Licensed sponsor:** \n- **Original posting:** https://impactanalytics.keka.com/careers/jobdetails/34169\n- **Application portal:** https://impactanalytics.keka.com/careers/jobdetails/34169\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_impactanalytics_keka_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-471dd491aa092767eba7",
       "title": "External job application",
       "company": "linkedin.com",
