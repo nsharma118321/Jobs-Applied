@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-ac1f202a08d2dadf69fe",
+      "title": "USI Careers",
+      "company": "usijobs.deloitte.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://usijobs.deloitte.com/en_US/careersUSI/Login?jobId=370556",
+      "portalUrl": "https://usijobs.deloitte.com/en_US/careersUSI/Login?jobId=370556",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-16T06:17:23.475Z",
+      "jobDescription": "# USI Careers\n\n- **Company:** usijobs.deloitte.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-16T06:17:23.475Z\n- **Licensed sponsor:** \n- **Original posting:** https://usijobs.deloitte.com/en_US/careersUSI/Login?jobId=370556\n- **Application portal:** https://usijobs.deloitte.com/en_US/careersUSI/Login?jobId=370556\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/usi_careers_usijobs_deloitte_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b879f95267e8416e0c94",
       "title": "External job application",
       "company": "linkedin.com",
