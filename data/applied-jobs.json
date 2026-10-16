@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-24555cec2902f06fbe20",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4479340824&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=sw65L3QIqxJPrWP0BTHWdg%3D%3D&trackingId=S3Fw6bmjfW6kYZ9HIQfuuA%3D%3D&keywords=business%20analyst%20india%20posted%20in%20the%20past%2024%20hours%20in%20bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4479340824&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=sw65L3QIqxJPrWP0BTHWdg%3D%3D&trackingId=S3Fw6bmjfW6kYZ9HIQfuuA%3D%3D&keywords=business%20analyst%20india%20posted%20in%20the%20past%2024%20hours%20in%20bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-16T14:12:01.553Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-16T14:12:01.553Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4479340824&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=sw65L3QIqxJPrWP0BTHWdg%3D%3D&trackingId=S3Fw6bmjfW6kYZ9HIQfuuA%3D%3D&keywords=business%20analyst%20india%20posted%20in%20the%20past%2024%20hours%20in%20bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4479340824&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=sw65L3QIqxJPrWP0BTHWdg%3D%3D&trackingId=S3Fw6bmjfW6kYZ9HIQfuuA%3D%3D&keywords=business%20analyst%20india%20posted%20in%20the%20past%2024%20hours%20in%20bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-6dcb9c3384cdaaf0e061",
       "title": "Data Science Engineer 3",
       "company": "amadeus.wd502.myworkdayjobs.com",
