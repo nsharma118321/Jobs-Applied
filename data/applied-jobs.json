@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-ffe7bc1c28ed2bb8ad03",
+      "title": "Data Scientist",
+      "company": "Zoho Recruit",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://crayondata.zohorecruit.com/recruit/ViewJob.na?digest=CCO4y0GzCU1Xebmp4jb2%40gU8h8ddbw7JFv%40Q6eJG8TY-&embedsource=LinkedIn%2BLimited%2BListings",
+      "portalUrl": "https://crayondata.zohorecruit.com/recruit/ViewJob.na?digest=CCO4y0GzCU1Xebmp4jb2%40gU8h8ddbw7JFv%40Q6eJG8TY-&embedsource=LinkedIn%2BLimited%2BListings",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-16T15:50:48.100Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Zoho Recruit\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-16T15:50:48.100Z\n- **Licensed sponsor:** \n- **Original posting:** https://crayondata.zohorecruit.com/recruit/ViewJob.na?digest=CCO4y0GzCU1Xebmp4jb2%40gU8h8ddbw7JFv%40Q6eJG8TY-&embedsource=LinkedIn%2BLimited%2BListings\n- **Application portal:** https://crayondata.zohorecruit.com/recruit/ViewJob.na?digest=CCO4y0GzCU1Xebmp4jb2%40gU8h8ddbw7JFv%40Q6eJG8TY-&embedsource=LinkedIn%2BLimited%2BListings\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nData Scientist – Chennai (AI/ML & BFSI Focus) From models to measurable impact — drive real change with AI. Location: Chennai, India Experience: 4–5 years in Data Science/ML (preferably in BFSI or other data-rich industries) We’re looking for innovat...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_zoho_recruit.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-a3a9e86a32ee31d4f339",
       "title": "Data Scientist Senior Associate",
       "company": "cba.wd3.myworkdayjobs.com",
