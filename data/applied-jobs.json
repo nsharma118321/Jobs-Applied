@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-f9d6f1ae90bd8ab60adb",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4479364064&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=0dL%2BbCyfXnjPaGtSCXbaWg%3D%3D&trackingId=VA4yw7M0I7VkPrafSfXAcQ%3D%3D&keywords=Data%20Scientist%20india%20posted%20in%20the%20past%2024%20hours%20in%20bangalore&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.71006172610383",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4479364064&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=0dL%2BbCyfXnjPaGtSCXbaWg%3D%3D&trackingId=VA4yw7M0I7VkPrafSfXAcQ%3D%3D&keywords=Data%20Scientist%20india%20posted%20in%20the%20past%2024%20hours%20in%20bangalore&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.71006172610383",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-16T13:21:09.378Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-16T13:21:09.378Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4479364064&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=0dL%2BbCyfXnjPaGtSCXbaWg%3D%3D&trackingId=VA4yw7M0I7VkPrafSfXAcQ%3D%3D&keywords=Data%20Scientist%20india%20posted%20in%20the%20past%2024%20hours%20in%20bangalore&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.71006172610383\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4479364064&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=0dL%2BbCyfXnjPaGtSCXbaWg%3D%3D&trackingId=VA4yw7M0I7VkPrafSfXAcQ%3D%3D&keywords=Data%20Scientist%20india%20posted%20in%20the%20past%2024%20hours%20in%20bangalore&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.71006172610383\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-826d54a648d8a2288d50",
       "title": "External job application",
       "company": "linkedin.com",
