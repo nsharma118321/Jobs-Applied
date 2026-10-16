@@ -27,19 +27,6 @@
       "applyStatus": "good"
     },
     {
-      "id": "linkedin:4462034397",
-      "title": "Data Scientist II",
-      "company": "Signifyd",
-      "location": "Belfast, United Kingdom",
-      "postedAt": "2026-10-14T10:54:27.742Z",
-      "postedLabel": "21 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4462034397/",
-      "sponsorName": "Signifyd UK Ltd",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
       "id": "linkedin:4476630248",
       "title": "Data Scientist, Analytics (Technical Leadership)",
       "company": "Meta",
@@ -92,19 +79,6 @@
       "applyStatus": "good"
     },
     {
-      "id": "linkedin:4467609982",
-      "title": "Product Data Scientist",
-      "company": "Checkout.com",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-10-13T11:36:11.500Z",
-      "postedLabel": "3 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4467609982/",
-      "sponsorName": "CHECKOUT LTD",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
       "id": "linkedin:4478772667",
       "title": "Lead Data Scientist",
       "company": "Bibby Financial Services",
@@ -113,19 +87,6 @@
       "postedLabel": "3 hours ago",
       "url": "https://www.linkedin.com/jobs/view/4478772667/",
       "sponsorName": "Bibby Financial Services Limited",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4478500870",
-      "title": "Security Data Scientist",
-      "company": "Infoplus Technologies UK Limited",
-      "location": "Leeds, United Kingdom",
-      "postedAt": "2026-10-12T10:54:27.533Z",
-      "postedLabel": "3 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4478500870/",
-      "sponsorName": "Infoplus Technologies UK Limited",
       "sponsorVerified": true,
       "source": "LinkedIn browser (OM)",
       "applyStatus": "unknown"
@@ -157,19 +118,6 @@
       "applyStatus": "unknown"
     },
     {
-      "id": "linkedin:4465561627",
-      "title": "AWS Data Scientist - Public Sector",
-      "company": "IBM",
-      "location": "Leicester, United Kingdom",
-      "postedAt": "2026-10-07T13:57:43.121Z",
-      "postedLabel": "1 hour ago",
-      "url": "https://www.linkedin.com/jobs/view/4465561627/",
-      "sponsorName": "IMPERIAL BEDDINGS MCR LIMITED",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
       "id": "smartrecruiters:Wise:744000154084229",
       "title": "Lead Data Scientist - KYC/Onboarding",
       "company": "Wise",
@@ -178,45 +126,6 @@
       "postedLabel": "6 days ago",
       "url": "https://jobs.smartrecruiters.com/Wise/744000154084229-lead-data-scientist-kyc-onboarding",
       "sponsorName": "Wise Payments Limited",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
-    },
-    {
-      "id": "linkedin:4474990202",
-      "title": "Data Scientist - Supply Chain Optimisation",
-      "company": "Ciena",
-      "location": "United Kingdom",
-      "postedAt": "2026-10-06T17:37:13.531Z",
-      "postedLabel": "23 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4474990202/",
-      "sponsorName": "Ciena Limited",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "smartrecruiters:GenomicsEngland:744000153559209",
-      "title": "Lead Genomic Data Scientist - Cancer (we have office locations in Cambridge, Leeds & London)",
-      "company": "Genomics England",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-10-05T16:24:52.181Z",
-      "postedLabel": "10 days ago",
-      "url": "https://jobs.smartrecruiters.com/GenomicsEngland/744000153559209-lead-genomic-data-scientist-cancer-we-have-office-locations-in-cambridge-leeds-london",
-      "sponsorName": "Genomics England Limited",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
-    },
-    {
-      "id": "smartrecruiters:GenomicsEngland:744000153557640",
-      "title": "Genomic Data Scientist - 12 Month FTC (we have office locations in Cambridge, Leeds & London)",
-      "company": "Genomics England",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-10-05T16:22:39.588Z",
-      "postedLabel": "10 days ago",
-      "url": "https://jobs.smartrecruiters.com/GenomicsEngland/744000153557640-genomic-data-scientist-12-month-ftc-we-have-office-locations-in-cambridge-leeds-london",
-      "sponsorName": "Genomics England Limited",
       "sponsorVerified": true,
       "source": "Company careers",
       "applyStatus": "good"
@@ -274,19 +183,6 @@
       "applyStatus": "unknown"
     },
     {
-      "id": "smartrecruiters:Wise:744000153117639",
-      "title": "Lead Data Scientist - KYC/Onboarding",
-      "company": "Wise",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-10-02T08:00:39.549Z",
-      "postedLabel": "3 days ago",
-      "url": "https://jobs.smartrecruiters.com/Wise/744000153117639-lead-data-scientist-kyc-onboarding",
-      "sponsorName": "Wise Payments Limited",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
-    },
-    {
       "id": "linkedin:4472576763",
       "title": "Data Scientist",
       "company": "Habitat Energy",
@@ -300,84 +196,6 @@
       "applyStatus": "unknown"
     },
     {
-      "id": "linkedin:4474338025",
-      "title": "All-Source Intelligence Data Scientist",
-      "company": "Booz Allen Hamilton",
-      "location": "United Kingdom",
-      "postedAt": "2026-10-01T15:33:24.233Z",
-      "postedLabel": "1 hour ago",
-      "url": "https://www.linkedin.com/jobs/view/4474338025/",
-      "sponsorName": "BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4472565861",
-      "title": "Lead Data Scientist - AML Handling",
-      "company": "Wise",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-10-01T15:33:24.217Z",
-      "postedLabel": "1 hour ago",
-      "url": "https://www.linkedin.com/jobs/view/4472565861/",
-      "sponsorName": "Wise Payments Limited",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "smartrecruiters:Wise:744000152971678",
-      "title": "Lead Data Scientist - AML Handling",
-      "company": "Wise",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-10-01T15:11:54.461Z",
-      "postedLabel": "8 days ago",
-      "url": "https://jobs.smartrecruiters.com/Wise/744000152971678-lead-data-scientist-aml-handling",
-      "sponsorName": "Wise Payments Limited",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
-    },
-    {
-      "id": "linkedin:4455909325",
-      "title": "Data Scientist II, Alexa for Shopping Science UK, Alexa for Shopping Science UK",
-      "company": "Amazon",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-10-01T13:33:23.485Z",
-      "postedLabel": "3 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4455909325/",
-      "sponsorName": "Amazon UK Services Ltd",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4472545642",
-      "title": "Data scientist",
-      "company": "Bending Spoons",
-      "location": "Oxford, United Kingdom",
-      "postedAt": "2026-10-01T12:33:23.482Z",
-      "postedLabel": "4 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4472545642/",
-      "sponsorName": "Bending Spoons Operations S.P.A.(UK Branch)",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4443625774",
-      "title": "Commercial Data Scientist",
-      "company": "Checkout.com",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-10-01T11:33:23.486Z",
-      "postedLabel": "5 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4443625774/",
-      "sponsorName": "CHECKOUT LTD",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
       "id": "linkedin:4473726673",
       "title": "Lead Data Scientist",
       "company": "National Highways",
@@ -385,19 +203,6 @@
       "postedAt": "2026-09-30T09:02:28.862Z",
       "postedLabel": "18 hours ago",
       "url": "https://www.linkedin.com/jobs/view/4473726673/",
-      "sponsorName": "National Highways",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4473738421",
-      "title": "Lead Data Scientist",
-      "company": "National Highways",
-      "location": "Bristol, United Kingdom",
-      "postedAt": "2026-09-30T08:20:50.891Z",
-      "postedLabel": "19 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4473738421/",
       "sponsorName": "National Highways",
       "sponsorVerified": true,
       "source": "LinkedIn browser (OM)",
@@ -441,97 +246,7 @@
       "sponsorVerified": true,
       "source": "LinkedIn browser (OM)",
       "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4467620662",
-      "title": "Data Scientist",
-      "company": "Leonardo",
-      "location": "Southampton, United Kingdom",
-      "postedAt": "2026-09-21T16:59:29.141Z",
-      "postedLabel": "1 hour ago",
-      "url": "https://www.linkedin.com/jobs/view/4467620662/",
-      "sponsorName": "Leonardo UK Ltd",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4467614795",
-      "title": "Data Scientist",
-      "company": "Leonardo",
-      "location": "Bristol, United Kingdom",
-      "postedAt": "2026-09-21T16:17:08.191Z",
-      "postedLabel": "1 hour ago",
-      "url": "https://www.linkedin.com/jobs/view/4467614795/",
-      "sponsorName": "Leonardo UK Ltd",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4467617736",
-      "title": "Data Scientist",
-      "company": "Leonardo",
-      "location": "Edinburgh, United Kingdom",
-      "postedAt": "2026-09-21T16:17:08.190Z",
-      "postedLabel": "1 hour ago",
-      "url": "https://www.linkedin.com/jobs/view/4467617736/",
-      "sponsorName": "Leonardo UK Ltd",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "ashby:34999aa6-4772-42b9-8008-2faf458b9689",
-      "title": "Product Data Scientist",
-      "company": "Checkout.com",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-09-21T14:20:03.784Z",
-      "postedLabel": "24 days ago",
-      "url": "https://jobs.ashbyhq.com/checkout.com/34999aa6-4772-42b9-8008-2faf458b9689",
-      "sponsorName": "CHECKOUT LTD",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
-    },
-    {
-      "id": "linkedin:4467392418",
-      "title": "AI Data Scientist (12 Month Day Rate Contractor)",
-      "company": "Handelsbanken",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-09-21T12:17:08.183Z",
-      "postedLabel": "5 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4467392418/",
-      "sponsorName": "Handelsbanken plc",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4468711346",
-      "title": "Data scientist",
-      "company": "Bending Spoons",
-      "location": "Oxford, United Kingdom",
-      "postedAt": "2026-09-21T06:34:53.263Z",
-      "postedLabel": "23 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4468711346/",
-      "sponsorName": "Bending Spoons Operations S.P.A.(UK Branch)",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4468499530",
-      "title": "Data scientist",
-      "company": "Bending Spoons",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-09-21T06:17:10.550Z",
-      "postedLabel": "11 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4468499530/",
-      "sponsorName": "Bending Spoons Operations S.P.A.(UK Branch)",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
     }
-  ]
+  ],
+  "filterPolicy": "Data Scientist + Lead Data Scientist only; excludes Jobs Applied and duplicate Open Roles"
 }
