@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-83b468cf5a5a49b9aac1",
+      "title": "External job application",
+      "company": "peepalco.keka.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://peepalco.keka.com/careers/jobdetails/92879?src=Linkedin",
+      "portalUrl": "https://peepalco.keka.com/careers/jobdetails/92879?src=Linkedin",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-19T12:37:49.323Z",
+      "jobDescription": "# External job application\n\n- **Company:** peepalco.keka.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-19T12:37:49.323Z\n- **Licensed sponsor:** \n- **Original posting:** https://peepalco.keka.com/careers/jobdetails/92879?src=Linkedin\n- **Application portal:** https://peepalco.keka.com/careers/jobdetails/92879?src=Linkedin\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_peepalco_keka_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-3f54ce5f974c4e973a93",
       "title": "Business Analyst III in Bangalore, Karnātaka, India | IT, Data & Tech at Thermo Fisher Scientific",
       "company": "Thermo Fisher Scientific",
