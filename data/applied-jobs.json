@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-c217046aa2903dc86420",
+      "title": "UST Careers | Latest jobs at UST - Ripplehire.com",
+      "company": "usource.ripplehire.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://usource.ripplehire.com/candidate/?token=8YxWjpwDhdL62DFYUIcQ&lang=en&source=USTLINKEDIN&ref=USTLINKEDIN#detail/job/62913",
+      "portalUrl": "https://usource.ripplehire.com/candidate/?token=8YxWjpwDhdL62DFYUIcQ&lang=en&source=USTLINKEDIN&ref=USTLINKEDIN#detail/job/62913",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-19T13:09:50.335Z",
+      "jobDescription": "# UST Careers | Latest jobs at UST - Ripplehire.com\n\n- **Company:** usource.ripplehire.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-19T13:09:50.335Z\n- **Licensed sponsor:** \n- **Original posting:** https://usource.ripplehire.com/candidate/?token=8YxWjpwDhdL62DFYUIcQ&lang=en&source=USTLINKEDIN&ref=USTLINKEDIN#detail/job/62913\n- **Application portal:** https://usource.ripplehire.com/candidate/?token=8YxWjpwDhdL62DFYUIcQ&lang=en&source=USTLINKEDIN&ref=USTLINKEDIN#detail/job/62913\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/ust_careers_latest_jobs_at_ust_ripplehire_com_usource_ripplehire_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-0dcd5fb099ff7a5eab44",
       "title": "CRP Services Analyst",
       "company": "rollsroyce.wd3.myworkdayjobs.com",
