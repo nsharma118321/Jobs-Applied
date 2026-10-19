@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-19T08:00:03.294Z
+- **Applied date:** 2026-10-19T09:48:25.758Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4478250854&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=GXg7btkyRT6%2FRHK7bMR7Jg%3D%3D&trackingId=VY%2BDuPt9nIdUl4D2oZxddQ%3D%3D&keywords=Data%20Scientist%20india%20posted%20in%20the%20past%2024%20hours%20in%20bangalore&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.709817725496514
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4478250854&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=GXg7btkyRT6%2FRHK7bMR7Jg%3D%3D&trackingId=VY%2BDuPt9nIdUl4D2oZxddQ%3D%3D&keywords=Data%20Scientist%20india%20posted%20in%20the%20past%2024%20hours%20in%20bangalore&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.709817725496514
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4479955651&eBP=BUDGET_EXHAUSTED_JOB&refId=Ni2aL%2B%2FVwCr%2BLsLF%2FMgo9Q%3D%3D&trackingId=%2BOVD6ni9I67L7WWKqVFTaQ%3D%3D&keywords=business%20analyst%20india%20posted%20in%20the%20past%2024%20hours%20in%20bangalore%20posted%20in%20the%20past%20week&origin=SEMANTIC_SEARCH_LANDING_PAGE
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4479955651&eBP=BUDGET_EXHAUSTED_JOB&refId=Ni2aL%2B%2FVwCr%2BLsLF%2FMgo9Q%3D%3D&trackingId=%2BOVD6ni9I67L7WWKqVFTaQ%3D%3D&keywords=business%20analyst%20india%20posted%20in%20the%20past%2024%20hours%20in%20bangalore%20posted%20in%20the%20past%20week&origin=SEMANTIC_SEARCH_LANDING_PAGE
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
