@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-2419a6726b16dc75928f",
+      "title": "Checking your browser before redirecting.",
+      "company": "theretailinsights.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://theretailinsights.com/job/functional-analyst/",
+      "portalUrl": "https://theretailinsights.com/job/functional-analyst/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-19T09:50:54.445Z",
+      "jobDescription": "# Checking your browser before redirecting.\n\n- **Company:** theretailinsights.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-19T09:50:54.445Z\n- **Licensed sponsor:** \n- **Original posting:** https://theretailinsights.com/job/functional-analyst/\n- **Application portal:** https://theretailinsights.com/job/functional-analyst/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/checking_your_browser_before_redirecting_theretailinsights_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b8d028364a827d54dbba",
       "title": "External job application",
       "company": "linkedin.com",
