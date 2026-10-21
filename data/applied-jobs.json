@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-750d6c219e0fd7fa839b",
+      "title": "Data Scientist | Careers at Millennium",
+      "company": "career.mlp.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://career.mlp.com/careers/job/755958887554?domain=mlp.com&utm_source=linkedin",
+      "portalUrl": "https://career.mlp.com/careers/job/755958887554?domain=mlp.com&utm_source=linkedin",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-21T08:33:47.954Z",
+      "jobDescription": "# Data Scientist | Careers at Millennium\n\n- **Company:** career.mlp.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-21T08:33:47.954Z\n- **Licensed sponsor:** \n- **Original posting:** https://career.mlp.com/careers/job/755958887554?domain=mlp.com&utm_source=linkedin\n- **Application portal:** https://career.mlp.com/careers/job/755958887554?domain=mlp.com&utm_source=linkedin\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_careers_at_millennium_career_mlp_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-3394b918d1633298f908",
       "title": "Data Scientist",
       "company": "jobs.birlasoft.com",
