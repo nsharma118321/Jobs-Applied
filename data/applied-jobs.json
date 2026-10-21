@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-5ed50752ee3c88a87200",
+      "title": "Business Analyst",
+      "company": "careers.anz.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.anz.com/job/Bengaluru-Business-Analyst/1369186666/?feedId=349110&utm_source=LinkedInJobPostings&utm_campaign=ANZ_LinkedIn&src=JB-10029",
+      "portalUrl": "https://careers.anz.com/job/Bengaluru-Business-Analyst/1369186666/?feedId=349110&utm_source=LinkedInJobPostings&utm_campaign=ANZ_LinkedIn&src=JB-10029",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-21T13:09:58.246Z",
+      "jobDescription": "# Business Analyst\n\n- **Company:** careers.anz.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-21T13:09:58.246Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.anz.com/job/Bengaluru-Business-Analyst/1369186666/?feedId=349110&utm_source=LinkedInJobPostings&utm_campaign=ANZ_LinkedIn&src=JB-10029\n- **Application portal:** https://careers.anz.com/job/Bengaluru-Business-Analyst/1369186666/?feedId=349110&utm_source=LinkedInJobPostings&utm_campaign=ANZ_LinkedIn&src=JB-10029\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/business_analyst_careers_anz_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-01ee559182f48e825310",
       "title": "Analyst BA - Pro and Services – Reporting in Bengaluru 1499 | Corporate at Lowe",
       "company": "Lowes",
