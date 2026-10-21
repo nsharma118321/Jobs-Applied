@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-05db3b5c6aa95e4a2582",
+      "title": "Data Scientist 3 | Lam Research",
+      "company": "careers.lamresearch.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.lamresearch.com/careers/job/1099555558636?src=Eightfold",
+      "portalUrl": "https://careers.lamresearch.com/careers/job/1099555558636?src=Eightfold",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-21T07:54:36.901Z",
+      "jobDescription": "# Data Scientist 3 | Lam Research\n\n- **Company:** careers.lamresearch.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-21T07:54:36.901Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.lamresearch.com/careers/job/1099555558636?src=Eightfold\n- **Application portal:** https://careers.lamresearch.com/careers/job/1099555558636?src=Eightfold\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nDesign, develop, and deploy end-to-end AI/ML and Generative AI solutions that support critical business needs. Build scalable machine learning architectures and evaluate modern tools, frameworks, and platforms to strengthen our data science ecosystem, including solutions for Scientific Machine Learning (SciML), surrogate modeling, digital twins, and simulation-driven AI applications. Develop production-ready models and deliver solutions on cloud environments (preferably Azure) using strong MLOps practices, with exposure to deep learning frameworks such as PyTorch and emerging architectures including physics-informed AI models and neural operators. Partner closely with data scientists, engineers, and business stakeholders to translate business problems into technical solutions with measurable impact. Lead technical design discussions, guide teams through complex AI/ML challenges, and foster a collaborative innovation culture. Establish monitoring, governance, and fail-safe mechanisms to ensure model reliability and continuous improvement. Deliver rapid POCs and extract meaningful insights from diverse and complex datasets. Work Schedule: Standard business hours with flexibility to collaborate across teams. 5+ years of experience delivering enterprise-scale data science and AI/ML solutions. Bachelor's, Master's, or Ph.D. in Computer Science, Data Science, Engineering, Applied Mathematics, Physics, or a related field. Strong programming skills in Python or R and expertise with ML/DL frameworks, including hands-on experience with PyTorch and modern deep learning techniques. Experience applying machine learning techniques to scientific computing, engineering simulations, surrogate modeling, or related data-intensive problem domains. Experience with cloud platforms (Azure, AWS, or GCP) and big-data technologies (e.g., Hadoop, Spark). Proven understanding of MLOps, model deployment, and ML fail-safe principles. Hands-on experience in leading projects using agile methodologies. Strong communication and stakeholder-management skills. Experience designing large-scale AI/ML or GenAI architectures. Background in building highly scalable production ML systems. Familiarity with advanced statistical modeling, applied machine learning techniques, and emerging areas such as Scientific Machine Learning (SciML), Physics-Informed AI, Neural Operators, and Digital Twin technologies. Exposure to frameworks and methodologies such as PINNs, PINO, DeepONet, Fourier Neural Operators (FNO), MeshGraphNets, NVIDIA Modulus, PhysicsNeMo, PyTorch Geometric, PDE learning, operator learning, geometry-aware sampling, or multi-physics simulation is a strong plus. Experience guiding teams in high-impact technical environments. Understanding of engineering simulation workflows, scientific computing, or physical systems modeling is desirable.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_3_lam_research_careers_lamresearch_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b95d9d78df80f51a03fd",
       "title": "MOPID | Accelerate Your Hiring Process - Hire the Best, 10x Faster",
       "company": "start.mopid.me",
