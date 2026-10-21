@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-9a7bcf159f42243440fc",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "company": "LinkedIn",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4480436858&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=BcPURg5sY2gQ8%2BfgiSGpRQ%3D%3D&trackingId=JH%2FrQgJjFoDLIkdYG69o5g%3D%3D&keywords=Data%20Scientist%20india%20posted%20in%20the%20past%2048%20hours%20in%20bangalore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=112565523&distance=49.709817725496514",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4480436858&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=BcPURg5sY2gQ8%2BfgiSGpRQ%3D%3D&trackingId=JH%2FrQgJjFoDLIkdYG69o5g%3D%3D&keywords=Data%20Scientist%20india%20posted%20in%20the%20past%2048%20hours%20in%20bangalore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=112565523&distance=49.709817725496514",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-21T08:46:19.147Z",
+      "jobDescription": "# LinkedIn Login, Sign in | LinkedIn\n\n- **Company:** LinkedIn\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-21T08:46:19.147Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4480436858&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=BcPURg5sY2gQ8%2BfgiSGpRQ%3D%3D&trackingId=JH%2FrQgJjFoDLIkdYG69o5g%3D%3D&keywords=Data%20Scientist%20india%20posted%20in%20the%20past%2048%20hours%20in%20bangalore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=112565523&distance=49.709817725496514\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4480436858&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=BcPURg5sY2gQ8%2BfgiSGpRQ%3D%3D&trackingId=JH%2FrQgJjFoDLIkdYG69o5g%3D%3D&keywords=Data%20Scientist%20india%20posted%20in%20the%20past%2048%20hours%20in%20bangalore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=112565523&distance=49.709817725496514\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/linkedin_login_sign_in_linkedin_linkedin.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-d8bd42df0f29bd1d719a",
       "title": "Data Scientist India Posted In The Past 48 Hours In Bangalore Posted In The Past Week Jobs in Bengaluru South (1,000+ Open Roles) | LinkedIn",
       "company": "linkedin.com",
