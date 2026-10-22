@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-c74a39d74b1071fde01e",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4482433283&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=9PFkJzNX2WZ63h%2F180xJVg%3D%3D&trackingId=lWVirhfstPgZcaaHW8kkvA%3D%3D&keywords=Data%20Scientist%20india%20posted%20in%20the%20past%2048%20hours%20in%20bangalore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.709817725496514",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4482433283&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=9PFkJzNX2WZ63h%2F180xJVg%3D%3D&trackingId=lWVirhfstPgZcaaHW8kkvA%3D%3D&keywords=Data%20Scientist%20india%20posted%20in%20the%20past%2048%20hours%20in%20bangalore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.709817725496514",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-22T11:44:44.271Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-22T11:44:44.271Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4482433283&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=9PFkJzNX2WZ63h%2F180xJVg%3D%3D&trackingId=lWVirhfstPgZcaaHW8kkvA%3D%3D&keywords=Data%20Scientist%20india%20posted%20in%20the%20past%2048%20hours%20in%20bangalore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.709817725496514\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4482433283&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=9PFkJzNX2WZ63h%2F180xJVg%3D%3D&trackingId=lWVirhfstPgZcaaHW8kkvA%3D%3D&keywords=Data%20Scientist%20india%20posted%20in%20the%20past%2048%20hours%20in%20bangalore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.709817725496514\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nToday’s top 1,000+ Data Scientist India Posted In The Past 48 Hours In Bangalore Posted In The Past Week jobs in Bengaluru South. Leverage your professional network, and get hired. New Data Scientist India Posted In The Past 48 Hours In Bangalore Posted In The Past Week jobs added daily.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-2d78b156d8f9557ca57d",
       "title": "External job application",
       "company": "linkedin.com",
