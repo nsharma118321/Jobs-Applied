@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-a94922832489cbd0443e",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4481303878&eBP=BUDGET_EXHAUSTED_JOB&refId=e63Ph3FdIGn%2BL8Z3rzLS3g%3D%3D&trackingId=spsab%2FMnBHillEf1boc0OA%3D%3D&keywords=Business%20Analyst%20india%20posted%20in%20the%20past%2048%20hours%20in%20bangalore%20posted%20in%20the%20past%20week&origin=SEMANTIC_SEARCH_LANDING_PAGE",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4481303878&eBP=BUDGET_EXHAUSTED_JOB&refId=e63Ph3FdIGn%2BL8Z3rzLS3g%3D%3D&trackingId=spsab%2FMnBHillEf1boc0OA%3D%3D&keywords=Business%20Analyst%20india%20posted%20in%20the%20past%2048%20hours%20in%20bangalore%20posted%20in%20the%20past%20week&origin=SEMANTIC_SEARCH_LANDING_PAGE",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-22T12:06:31.092Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-22T12:06:31.092Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4481303878&eBP=BUDGET_EXHAUSTED_JOB&refId=e63Ph3FdIGn%2BL8Z3rzLS3g%3D%3D&trackingId=spsab%2FMnBHillEf1boc0OA%3D%3D&keywords=Business%20Analyst%20india%20posted%20in%20the%20past%2048%20hours%20in%20bangalore%20posted%20in%20the%20past%20week&origin=SEMANTIC_SEARCH_LANDING_PAGE\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4481303878&eBP=BUDGET_EXHAUSTED_JOB&refId=e63Ph3FdIGn%2BL8Z3rzLS3g%3D%3D&trackingId=spsab%2FMnBHillEf1boc0OA%3D%3D&keywords=Business%20Analyst%20india%20posted%20in%20the%20past%2048%20hours%20in%20bangalore%20posted%20in%20the%20past%20week&origin=SEMANTIC_SEARCH_LANDING_PAGE\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-dd6ae46248037d3a297f",
       "title": "External job application",
       "company": "linkedin.com",
