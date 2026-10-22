@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-eeef5577ba24d6995822",
+      "title": "Login - Teradata",
+      "company": "careers.teradata.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.teradata.com/login?dest=https%3A%2F%2Fcareers.teradata.com%2F%3Fmethod%3DcappPortal.getHiringGenericSteps%26opportunityID%3D220561",
+      "portalUrl": "https://careers.teradata.com/login?dest=https%3A%2F%2Fcareers.teradata.com%2F%3Fmethod%3DcappPortal.getHiringGenericSteps%26opportunityID%3D220561",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-22T05:09:29.017Z",
+      "jobDescription": "# Login - Teradata\n\n- **Company:** careers.teradata.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-22T05:09:29.017Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.teradata.com/login?dest=https%3A%2F%2Fcareers.teradata.com%2F%3Fmethod%3DcappPortal.getHiringGenericSteps%26opportunityID%3D220561\n- **Application portal:** https://careers.teradata.com/login?dest=https%3A%2F%2Fcareers.teradata.com%2F%3Fmethod%3DcappPortal.getHiringGenericSteps%26opportunityID%3D220561\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/login_teradata_careers_teradata_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-afd7599fea9cece90682",
       "title": "Jobs - Astellas Pharmaceutical",
       "company": "astellascareers.jobs",
