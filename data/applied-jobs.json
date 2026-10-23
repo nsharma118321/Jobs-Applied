@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-85f03a9b25d6805f1d1e",
+      "title": "External job application",
+      "company": "careers.gevernova.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.gevernova.com/data-scientist/job/R5056280",
+      "portalUrl": "https://careers.gevernova.com/data-scientist/job/R5056280",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-23T15:54:38.557Z",
+      "jobDescription": "# External job application\n\n- **Company:** careers.gevernova.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-23T15:54:38.557Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.gevernova.com/data-scientist/job/R5056280\n- **Application portal:** https://careers.gevernova.com/data-scientist/job/R5056280\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_careers_gevernova_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-fb3fb209dcd65ff5b03e",
       "title": "External job application",
       "company": "linkedin.com",
