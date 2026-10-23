@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-10-23T14:52:46.227Z
+- **Applied date:** 2026-10-23T15:04:45.412Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4480620147&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=M9C%2BhERTPlsJzAk8icP7ug%3D%3D&trackingId=48tF2uphIkhSF%2BQMeDNPlQ%3D%3D&keywords=data%20scientist%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jxHeHSQBr1An7BwI%2FvFULQ%3D%3D&start=100&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4480620147&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=M9C%2BhERTPlsJzAk8icP7ug%3D%3D&trackingId=48tF2uphIkhSF%2BQMeDNPlQ%3D%3D&keywords=data%20scientist%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jxHeHSQBr1An7BwI%2FvFULQ%3D%3D&start=100&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4482883210&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=M9C%2BhERTPlsJzAk8icP7ug%3D%3D&trackingId=pYu8WsHRkCfQweP3gEbszQ%3D%3D&keywords=data%20scientist%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jxHeHSQBr1An7BwI%2FvFULQ%3D%3D&start=100&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4482883210&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=M9C%2BhERTPlsJzAk8icP7ug%3D%3D&trackingId=pYu8WsHRkCfQweP3gEbszQ%3D%3D&keywords=data%20scientist%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jxHeHSQBr1An7BwI%2FvFULQ%3D%3D&start=100&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
