@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-1951dda4e5017e8c168d",
+      "title": "Uplers",
+      "company": "Uplers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://platform.uplers.com/talent/all-opportunities?activeJob=HR221026150727&source=VTlqRHFoV0V4WXZCNjNVWUhqQXkyQT09&src=Auto-Linkedin",
+      "portalUrl": "https://platform.uplers.com/talent/all-opportunities?activeJob=HR221026150727&source=VTlqRHFoV0V4WXZCNjNVWUhqQXkyQT09&src=Auto-Linkedin",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-23T08:08:26.774Z",
+      "jobDescription": "# Uplers\n\n- **Company:** Uplers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-23T08:08:26.774Z\n- **Licensed sponsor:** \n- **Original posting:** https://platform.uplers.com/talent/all-opportunities?activeJob=HR221026150727&source=VTlqRHFoV0V4WXZCNjNVWUhqQXkyQT09&src=Auto-Linkedin\n- **Application portal:** https://platform.uplers.com/talent/all-opportunities?activeJob=HR221026150727&source=VTlqRHFoV0V4WXZCNjNVWUhqQXkyQT09&src=Auto-Linkedin\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/uplers_uplers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-268da73c1d5f9cfa518c",
       "title": "External job application",
       "company": "linkedin.com",
