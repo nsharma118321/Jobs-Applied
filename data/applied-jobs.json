@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-786e590cb9a9399fc856",
+      "title": "Jobs - Astellas Pharmaceutical",
+      "company": "astellascareers.jobs",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://astellascareers.jobs/bengaluru-ind/omnichannel-analytics-expert/59B361B7EFA54B688DF8088ED3E87EDC/job/?vs=1606",
+      "portalUrl": "https://astellascareers.jobs/bengaluru-ind/omnichannel-analytics-expert/59B361B7EFA54B688DF8088ED3E87EDC/job/?vs=1606",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-23T08:42:22.940Z",
+      "jobDescription": "# Jobs - Astellas Pharmaceutical\n\n- **Company:** astellascareers.jobs\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-23T08:42:22.940Z\n- **Licensed sponsor:** \n- **Original posting:** https://astellascareers.jobs/bengaluru-ind/omnichannel-analytics-expert/59B361B7EFA54B688DF8088ED3E87EDC/job/?vs=1606\n- **Application portal:** https://astellascareers.jobs/bengaluru-ind/omnichannel-analytics-expert/59B361B7EFA54B688DF8088ED3E87EDC/job/?vs=1606\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/jobs_astellas_pharmaceutical_astellascareers_jobs.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-1729fdd62a5f9f166a17",
       "title": "Data Scientist",
       "company": "job-boards.greenhouse.io",
