@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-10-22T18:38:19.296Z
+- **Applied date:** 2026-10-23T13:16:49.950Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4477326910&eBP=CwEAAAGhZOeFabWJXhWii_1aMAVCEPq9PeiZxrXYSmQD-vcWsxeim_Lfgkk9ghfSQAV7fcq2pKC2-A0gq11g87rXYhQEymXqCWniVB4QAW2VRbDwc0tMq4DO5y4a2FhOkS_peeZjXoKQBZSRhuBrgIeebyAS5G_xtBxNlpj2SJv_81bv_zs4S_IlROkj3gCxJFlW7cH-m-KQTGPCSfKNiJucr1iPXPq0509v5q1QONzrkncuGnkOfTZF4ym0tGrhNnKPIcvcq9J2ZkzRHHhJLZAF6xdnYCi15hY8QhdsdTnLp8PwOfvO13R4mcCTFolXdILklXcYnmIeAVwJFhamrXV0XlnhpQ1tb3t3RjJTwNIpMc4eWqo4wx9vYF4TEByIGTFRDyMlmIqDfSiLeLhfj7_XoJhOF-AajNtH1_OMw217t96WZ0QJUpI480oFkNv2OjLpaQi8YMTrz518u6by0ixDORe1t8_kOZeSVrETZX3S&refId=H0lXRTxYlV9IuxgRNm2IVg%3D%3D&trackingId=Gnlql9dtX8ZnWmcsfCSnOg%3D%3D&keywords=data%20analyst%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4477326910&eBP=CwEAAAGhZOeFabWJXhWii_1aMAVCEPq9PeiZxrXYSmQD-vcWsxeim_Lfgkk9ghfSQAV7fcq2pKC2-A0gq11g87rXYhQEymXqCWniVB4QAW2VRbDwc0tMq4DO5y4a2FhOkS_peeZjXoKQBZSRhuBrgIeebyAS5G_xtBxNlpj2SJv_81bv_zs4S_IlROkj3gCxJFlW7cH-m-KQTGPCSfKNiJucr1iPXPq0509v5q1QONzrkncuGnkOfTZF4ym0tGrhNnKPIcvcq9J2ZkzRHHhJLZAF6xdnYCi15hY8QhdsdTnLp8PwOfvO13R4mcCTFolXdILklXcYnmIeAVwJFhamrXV0XlnhpQ1tb3t3RjJTwNIpMc4eWqo4wx9vYF4TEByIGTFRDyMlmIqDfSiLeLhfj7_XoJhOF-AajNtH1_OMw217t96WZ0QJUpI480oFkNv2OjLpaQi8YMTrz518u6by0ixDORe1t8_kOZeSVrETZX3S&refId=H0lXRTxYlV9IuxgRNm2IVg%3D%3D&trackingId=Gnlql9dtX8ZnWmcsfCSnOg%3D%3D&keywords=data%20analyst%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4482760493&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=u2ViO4SheTjOW6uIlMrkug%3D%3D&trackingId=Ob0NwaOQty6ikti%2BJ8xJHw%3D%3D&keywords=data%20scientist%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jxHeHSQBr1An7BwI%2FvFULQ%3D%3D&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4482760493&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=u2ViO4SheTjOW6uIlMrkug%3D%3D&trackingId=Ob0NwaOQty6ikti%2BJ8xJHw%3D%3D&keywords=data%20scientist%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jxHeHSQBr1An7BwI%2FvFULQ%3D%3D&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
