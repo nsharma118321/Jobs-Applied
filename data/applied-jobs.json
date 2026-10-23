@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-2a46bd49ec17c545ce5f",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4482888641&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=N%2BK4unvTgpSqN0n57ikt3w%3D%3D&trackingId=68UOTPzqj1%2FM5HR3aP6TmQ%3D%3D&keywords=data%20scientist%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jxHeHSQBr1An7BwI%2FvFULQ%3D%3D&start=75&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4482888641&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=N%2BK4unvTgpSqN0n57ikt3w%3D%3D&trackingId=68UOTPzqj1%2FM5HR3aP6TmQ%3D%3D&keywords=data%20scientist%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jxHeHSQBr1An7BwI%2FvFULQ%3D%3D&start=75&f_TPR=r86400",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-10-23T14:51:53.952Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-10-23T14:51:53.952Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4482888641&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=N%2BK4unvTgpSqN0n57ikt3w%3D%3D&trackingId=68UOTPzqj1%2FM5HR3aP6TmQ%3D%3D&keywords=data%20scientist%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jxHeHSQBr1An7BwI%2FvFULQ%3D%3D&start=75&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4482888641&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=N%2BK4unvTgpSqN0n57ikt3w%3D%3D&trackingId=68UOTPzqj1%2FM5HR3aP6TmQ%3D%3D&keywords=data%20scientist%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jxHeHSQBr1An7BwI%2FvFULQ%3D%3D&start=75&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-1e1f285199789de00ad9",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
