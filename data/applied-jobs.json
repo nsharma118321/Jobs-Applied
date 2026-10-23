@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-cafe5268190aff37f321",
+      "title": "Data Scientist | Ascendion",
+      "company": "jobs.ascendion.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.ascendion.com/careers/job/1970324837562745?utm_source=linkedin&domain=ascendion.com",
+      "portalUrl": "https://jobs.ascendion.com/careers/job/1970324837562745?utm_source=linkedin&domain=ascendion.com",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-23T15:42:49.960Z",
+      "jobDescription": "# Data Scientist | Ascendion\n\n- **Company:** jobs.ascendion.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-23T15:42:49.960Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.ascendion.com/careers/job/1970324837562745?utm_source=linkedin&domain=ascendion.com\n- **Application portal:** https://jobs.ascendion.com/careers/job/1970324837562745?utm_source=linkedin&domain=ascendion.com\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe Lead Data Scientist must possess practical experience building business-facing analytical applications and AI-enabled products. Responsibilities ● Design and develop analytical applications that support decision-making. ● Build prototypes and production-ready AI-enabled solutions. ● Collaborate with engineering teams on application architecture and deployment. ● Develop user-facing tools that improve accessibility and adoption of analytical solutions. ● Support API-based integrations between analytical systems and enterprise applications. ● Contribute to full-stack analytical solution delivery when required. Required Experience Candidates should have demonstrated experience with one or more of the following technologies: ● React ● FastAPI ● Streamlit ● Dash ● Flask ● Databricks Apps ● REST API Development ● Modern Web Application Frameworks Candidates are not expected to function as full-time software engineers. However, they should have enough experience to participate in architecture discussions, develop prototypes, support production-grade analytics products, and quickly learn new\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_ascendion_jobs_ascendion_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-776a18a73ef985525ddc",
       "title": "4,000+ Data Scientist Uk jobs in United States",
       "company": "linkedin.com",
