@@ -3,10 +3,10 @@
 - **Company:** astellascareers.jobs
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-22T04:55:23.510Z
+- **Applied date:** 2026-10-23T08:42:22.940Z
 - **Licensed sponsor:** 
-- **Original posting:** https://astellascareers.jobs/bengaluru-ind/brand-analytics-expert/F3646B7F2B234FA3B129DE54DE6501FB/job/?vs=1606
-- **Application portal:** https://astellascareers.jobs/bengaluru-ind/brand-analytics-expert/F3646B7F2B234FA3B129DE54DE6501FB/job/?vs=1606
+- **Original posting:** https://astellascareers.jobs/bengaluru-ind/omnichannel-analytics-expert/59B361B7EFA54B688DF8088ED3E87EDC/job/?vs=1606
+- **Application portal:** https://astellascareers.jobs/bengaluru-ind/omnichannel-analytics-expert/59B361B7EFA54B688DF8088ED3E87EDC/job/?vs=1606
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
