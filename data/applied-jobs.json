@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-24c0ddb04c4ae718a768",
+      "title": "Advanced Data Scientist",
+      "company": "Honeywell",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157101?utm_medium=jobboard&utm_source=linkedin",
+      "portalUrl": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157101?utm_medium=jobboard&utm_source=linkedin",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-23T08:56:01.234Z",
+      "jobDescription": "# Advanced Data Scientist\n\n- **Company:** Honeywell\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-23T08:56:01.234Z\n- **Licensed sponsor:** \n- **Original posting:** https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157101?utm_medium=jobboard&utm_source=linkedin\n- **Application portal:** https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157101?utm_medium=jobboard&utm_source=linkedin\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nRole Overview We are seeking a highly analytical, mathematically rigorous Mid-Level Data Scientist to bridge the gap between complex business problems and cutting-edge algorithmic solutions. Unlike traditional data science roles that rely solely on wrapper libraries, this position requires a deep, first-principles mathematical understanding of machine learning combined with solid software engineering and scalable cloud practices. You will design, formulate, and deploy complex end-to-end projects spanning Statistical Modelling, Econometrics, Natural Language Processing (NLP), and Computer Vision (CV) directly into enterprise-grade cloud environments.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/advanced_data_scientist_honeywell.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b745627d22b13bbb8248",
       "title": "External job application",
       "company": "myjobs.adp.com",
