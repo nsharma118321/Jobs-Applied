@@ -3,13 +3,13 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-23T07:43:58.826Z
+- **Applied date:** 2026-10-23T08:04:14.820Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4481653477&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5RfeQZulqUJixSdxVr5urg%3D%3D&trackingId=DcvwGsOCNppbP4vANTOKHQ%3D%3D&keywords=data%20scientist%20india%20posted%20in%20the%20past%2024%20hours%20Bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4481653477&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5RfeQZulqUJixSdxVr5urg%3D%3D&trackingId=DcvwGsOCNppbP4vANTOKHQ%3D%3D&keywords=data%20scientist%20india%20posted%20in%20the%20past%2024%20hours%20Bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4480617277&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5RfeQZulqUJixSdxVr5urg%3D%3D&trackingId=zODAjYl%2FivXUWe88Y6xHZA%3D%3D&keywords=data%20scientist%20india%20posted%20in%20the%20past%2024%20hours%20Bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4480617277&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5RfeQZulqUJixSdxVr5urg%3D%3D&trackingId=zODAjYl%2FivXUWe88Y6xHZA%3D%3D&keywords=data%20scientist%20india%20posted%20in%20the%20past%2024%20hours%20Bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-Today’s top 5,000+ Data Scientist India Posted In The Past 24 Hours Bangalore jobs in United States. Leverage your professional network, and get hired. New Data Scientist India Posted In The Past 24 Hours Bangalore jobs added daily.
+The full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.
