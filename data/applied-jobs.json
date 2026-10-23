@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-2e4df15abd9a736af9d0",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4481653477&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5RfeQZulqUJixSdxVr5urg%3D%3D&trackingId=DcvwGsOCNppbP4vANTOKHQ%3D%3D&keywords=data%20scientist%20india%20posted%20in%20the%20past%2024%20hours%20Bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4481653477&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5RfeQZulqUJixSdxVr5urg%3D%3D&trackingId=DcvwGsOCNppbP4vANTOKHQ%3D%3D&keywords=data%20scientist%20india%20posted%20in%20the%20past%2024%20hours%20Bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-23T07:43:58.826Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-23T07:43:58.826Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4481653477&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5RfeQZulqUJixSdxVr5urg%3D%3D&trackingId=DcvwGsOCNppbP4vANTOKHQ%3D%3D&keywords=data%20scientist%20india%20posted%20in%20the%20past%2024%20hours%20Bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4481653477&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5RfeQZulqUJixSdxVr5urg%3D%3D&trackingId=DcvwGsOCNppbP4vANTOKHQ%3D%3D&keywords=data%20scientist%20india%20posted%20in%20the%20past%2024%20hours%20Bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nToday’s top 5,000+ Data Scientist India Posted In The Past 24 Hours Bangalore jobs in United States. Leverage your professional network, and get hired. New Data Scientist India Posted In The Past 24 Hours Bangalore jobs added daily.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-0c4a0e238154ae92e148",
       "title": "External job application",
       "company": "linkedin.com",
