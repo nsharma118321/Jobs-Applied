@@ -3,10 +3,10 @@
 - **Company:** jobs.dayforcehcm.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-01T07:53:08.591Z
+- **Applied date:** 2026-10-26T17:01:05.191Z
 - **Licensed sponsor:** 
-- **Original posting:** https://jobs.dayforcehcm.com/en-GB/newlook/CANDIDATEPORTAL/jobs/18639
-- **Application portal:** https://jobs.dayforcehcm.com/en-GB/newlook/CANDIDATEPORTAL/jobs/18639
+- **Original posting:** https://jobs.dayforcehcm.com/en-CA/intouchcx/CANDIDATEPORTAL/jobs/19312
+- **Application portal:** https://jobs.dayforcehcm.com/en-CA/intouchcx/CANDIDATEPORTAL/jobs/19312
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
