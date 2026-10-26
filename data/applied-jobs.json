@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-d320d8d4625341ade583",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4481066067&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=jhar2IgnM0MR35%2BMR9yUsg%3D%3D&trackingId=Lr705ihG%2B8GfDzZAq81DwQ%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=spdnlq7cBfY8zACSndsgsA%3D%3D&geoId=112565523&distance=49.71006172610383&f_TPR=r604800",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4481066067&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=jhar2IgnM0MR35%2BMR9yUsg%3D%3D&trackingId=Lr705ihG%2B8GfDzZAq81DwQ%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=spdnlq7cBfY8zACSndsgsA%3D%3D&geoId=112565523&distance=49.71006172610383&f_TPR=r604800",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-26T09:06:27.549Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-26T09:06:27.549Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4481066067&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=jhar2IgnM0MR35%2BMR9yUsg%3D%3D&trackingId=Lr705ihG%2B8GfDzZAq81DwQ%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=spdnlq7cBfY8zACSndsgsA%3D%3D&geoId=112565523&distance=49.71006172610383&f_TPR=r604800\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4481066067&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=jhar2IgnM0MR35%2BMR9yUsg%3D%3D&trackingId=Lr705ihG%2B8GfDzZAq81DwQ%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=spdnlq7cBfY8zACSndsgsA%3D%3D&geoId=112565523&distance=49.71006172610383&f_TPR=r604800\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-0bac78e9b53d1aa4d4bc",
       "title": "External job application",
       "company": "linkedin.com",
