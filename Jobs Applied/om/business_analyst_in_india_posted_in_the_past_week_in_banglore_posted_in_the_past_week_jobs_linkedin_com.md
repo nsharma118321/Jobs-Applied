@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-27T12:46:04.485Z
+- **Applied date:** 2026-10-27T12:52:30.516Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4480021092&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=hlc8pDGXEXteUXYtNbtsFg%3D%3D&trackingId=TaXf%2Fl8MhR4DM1vFpBmjCw%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.70993972580017&f_AL=true
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4480021092&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=hlc8pDGXEXteUXYtNbtsFg%3D%3D&trackingId=TaXf%2Fl8MhR4DM1vFpBmjCw%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.70993972580017&f_AL=true
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4483299912&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=hlc8pDGXEXteUXYtNbtsFg%3D%3D&trackingId=25Zj5jxLKHrN8DJB3IJQ8A%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.70993972580017&f_AL=true
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4483299912&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=hlc8pDGXEXteUXYtNbtsFg%3D%3D&trackingId=25Zj5jxLKHrN8DJB3IJQ8A%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.70993972580017&f_AL=true
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
