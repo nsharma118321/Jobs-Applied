@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-26T16:31:03.792Z
+- **Applied date:** 2026-10-27T08:25:22.259Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4482948602&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=xdpis2k9hbKl5Tz8cPs6rg%3D%3D&trackingId=mp0BMcE7dLq3J85wcIyzrQ%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=SEMANTIC_SEARCH_LANDING_PAGE
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4482948602&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=xdpis2k9hbKl5Tz8cPs6rg%3D%3D&trackingId=mp0BMcE7dLq3J85wcIyzrQ%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=SEMANTIC_SEARCH_LANDING_PAGE
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4482998211&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Nx8ScSrf%2BfuL40dMBx010A%3D%3D&geoId=112565523&distance=49.71042772701479&f_TPR=r604800&f_SAL=f_SA_id_225001%3A272001
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4482998211&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Nx8ScSrf%2BfuL40dMBx010A%3D%3D&geoId=112565523&distance=49.71042772701479&f_TPR=r604800&f_SAL=f_SA_id_225001%3A272001
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
