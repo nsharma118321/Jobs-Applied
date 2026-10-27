@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-baaae3f969e7d0a270e9",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4481930331&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=gPSIxayHKW7w%2Ffb4vhpHhQ%3D%3D&trackingId=CUQOZqpNpTXXAK0OD2uE0w%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=8K4Rh322fEUxXUvtYq65kg%3D%3D&geoId=112565523&distance=49.709817725496514&f_AL=true",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4481930331&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=gPSIxayHKW7w%2Ffb4vhpHhQ%3D%3D&trackingId=CUQOZqpNpTXXAK0OD2uE0w%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=8K4Rh322fEUxXUvtYq65kg%3D%3D&geoId=112565523&distance=49.709817725496514&f_AL=true",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-27T09:17:24.375Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-27T09:17:24.375Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4481930331&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=gPSIxayHKW7w%2Ffb4vhpHhQ%3D%3D&trackingId=CUQOZqpNpTXXAK0OD2uE0w%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=8K4Rh322fEUxXUvtYq65kg%3D%3D&geoId=112565523&distance=49.709817725496514&f_AL=true\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4481930331&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=gPSIxayHKW7w%2Ffb4vhpHhQ%3D%3D&trackingId=CUQOZqpNpTXXAK0OD2uE0w%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=8K4Rh322fEUxXUvtYq65kg%3D%3D&geoId=112565523&distance=49.709817725496514&f_AL=true\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nToday’s top 775 Business Analyst In India Posted In The Past Week In Banglore Posted In The Past Week jobs in Bengaluru South. Leverage your professional network, and get hired. New Business Analyst In India Posted In The Past Week In Banglore Posted In The Past Week jobs added daily.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-91967f658b261527cb0d",
       "title": "External job application",
       "company": "linkedin.com",
