@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-10-26T16:25:02.534Z
+- **Applied date:** 2026-10-27T13:04:23.077Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4468575557&eBP=CwEAAAGheQKPlLcDhL1fQIAHxDkUXxx_bbrqMpAWYam4uNNpTASv7dDkVgDg-n388jfYjprbCkBlkiyzISthjlb-0iTY-3Vkfp90C2B3q8EMkFR8jZu7GF5vWEdsXVhkB8TmXXQAw8g-EOJQtXPOKpfTN1UYCo8tcfQCiDr9-bjDaPG90fupIiuDp6g6d9Zb6ZwhsHvQiMes9BAVlpOH8to3zP1DMMyQQ_U30V0JRamAXbUAEJ5c4pOOZTpeMf4YN99YCj6xAnK6CMyNIssGnW3aXHBIPPqbpzAUhaUJ5M1QvGq1OoY-dGja-7y3HMqQWoTUZigd9ArzDI0EfG0vo3ZB_JyDZ8ISxxFUBX8jQ6RxuZgMfLpQ8QTbfJBxTpETPKrBDpZOyy_9RVVge9Lz1A11QOHpeG_Hsk0BIL_Ao4F1emxcMQc7cYlSF7j7Uar0iVL6XQycwxVjHA1qGn69wxk_MEATdcHxVpAw5NnjIqUE&refId=EIPoEd07SQPZdo%2BkBUxCsQ%3D%3D&trackingId=I17O6%2BNEEOemIXLiZ76uLQ%3D%3D&keywords=data%20analyst%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=92UMhSqCwhD5GITUFD3h7w%3D%3D&start=175&f_AL=true
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4468575557&eBP=CwEAAAGheQKPlLcDhL1fQIAHxDkUXxx_bbrqMpAWYam4uNNpTASv7dDkVgDg-n388jfYjprbCkBlkiyzISthjlb-0iTY-3Vkfp90C2B3q8EMkFR8jZu7GF5vWEdsXVhkB8TmXXQAw8g-EOJQtXPOKpfTN1UYCo8tcfQCiDr9-bjDaPG90fupIiuDp6g6d9Zb6ZwhsHvQiMes9BAVlpOH8to3zP1DMMyQQ_U30V0JRamAXbUAEJ5c4pOOZTpeMf4YN99YCj6xAnK6CMyNIssGnW3aXHBIPPqbpzAUhaUJ5M1QvGq1OoY-dGja-7y3HMqQWoTUZigd9ArzDI0EfG0vo3ZB_JyDZ8ISxxFUBX8jQ6RxuZgMfLpQ8QTbfJBxTpETPKrBDpZOyy_9RVVge9Lz1A11QOHpeG_Hsk0BIL_Ao4F1emxcMQc7cYlSF7j7Uar0iVL6XQycwxVjHA1qGn69wxk_MEATdcHxVpAw5NnjIqUE&refId=EIPoEd07SQPZdo%2BkBUxCsQ%3D%3D&trackingId=I17O6%2BNEEOemIXLiZ76uLQ%3D%3D&keywords=data%20analyst%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=92UMhSqCwhD5GITUFD3h7w%3D%3D&start=175&f_AL=true
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4483243358&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=8C5HHZ2I2kngGDdqAq3a6w%3D%3D&trackingId=%2Bng9bnut8qve71mJWwc3SQ%3D%3D&keywords=data%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4483243358&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=8C5HHZ2I2kngGDdqAq3a6w%3D%3D&trackingId=%2Bng9bnut8qve71mJWwc3SQ%3D%3D&keywords=data%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
