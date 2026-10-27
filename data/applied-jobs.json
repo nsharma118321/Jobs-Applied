@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-e36025d0f7891dde246d",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4480028354&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5PMcr56HbMzo%2BxH8FxsNRg%3D%3D&trackingId=yD%2FLHqH9RAQULXxqgg5%2FcQ%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=e9Axecfyw7r%2FRFWaWPKb7Q%3D%3D&geoId=112565523&distance=49.71042772701479&f_TPR=r604800&f_AL=true",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4480028354&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5PMcr56HbMzo%2BxH8FxsNRg%3D%3D&trackingId=yD%2FLHqH9RAQULXxqgg5%2FcQ%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=e9Axecfyw7r%2FRFWaWPKb7Q%3D%3D&geoId=112565523&distance=49.71042772701479&f_TPR=r604800&f_AL=true",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-27T08:27:52.990Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-27T08:27:52.990Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4480028354&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5PMcr56HbMzo%2BxH8FxsNRg%3D%3D&trackingId=yD%2FLHqH9RAQULXxqgg5%2FcQ%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=e9Axecfyw7r%2FRFWaWPKb7Q%3D%3D&geoId=112565523&distance=49.71042772701479&f_TPR=r604800&f_AL=true\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4480028354&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5PMcr56HbMzo%2BxH8FxsNRg%3D%3D&trackingId=yD%2FLHqH9RAQULXxqgg5%2FcQ%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=e9Axecfyw7r%2FRFWaWPKb7Q%3D%3D&geoId=112565523&distance=49.71042772701479&f_TPR=r604800&f_AL=true\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-4ca4660c4b7609e03d87",
       "title": "External job application",
       "company": "linkedin.com",
