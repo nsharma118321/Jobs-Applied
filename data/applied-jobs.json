@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-16bbac4576095d23e97c",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4484051067&eBP=BUDGET_EXHAUSTED_JOB&refId=hlc8pDGXEXteUXYtNbtsFg%3D%3D&trackingId=I%2FEuCRdw7azKtWXK3dAxpg%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.70993972580017&f_AL=true",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4484051067&eBP=BUDGET_EXHAUSTED_JOB&refId=hlc8pDGXEXteUXYtNbtsFg%3D%3D&trackingId=I%2FEuCRdw7azKtWXK3dAxpg%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.70993972580017&f_AL=true",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-27T12:50:26.011Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-27T12:50:26.011Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484051067&eBP=BUDGET_EXHAUSTED_JOB&refId=hlc8pDGXEXteUXYtNbtsFg%3D%3D&trackingId=I%2FEuCRdw7azKtWXK3dAxpg%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.70993972580017&f_AL=true\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484051067&eBP=BUDGET_EXHAUSTED_JOB&refId=hlc8pDGXEXteUXYtNbtsFg%3D%3D&trackingId=I%2FEuCRdw7azKtWXK3dAxpg%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.70993972580017&f_AL=true\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-ebd70edef46f7830ad6a",
       "title": "External job application",
       "company": "linkedin.com",
