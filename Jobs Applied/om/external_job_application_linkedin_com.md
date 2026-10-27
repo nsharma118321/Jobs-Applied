@@ -3,13 +3,13 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-27T09:18:38.653Z
+- **Applied date:** 2026-10-27T12:41:33.670Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4471556052&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=EVYD5BUhdj0zCwwiDVNnhw%3D%3D&trackingId=yEn2BsTTQo9gRE9h2lIf8A%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=8K4Rh322fEUxXUvtYq65kg%3D%3D&start=25&geoId=112565523&distance=49.709817725496514&f_AL=true
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4471556052&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=EVYD5BUhdj0zCwwiDVNnhw%3D%3D&trackingId=yEn2BsTTQo9gRE9h2lIf8A%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=8K4Rh322fEUxXUvtYq65kg%3D%3D&start=25&geoId=112565523&distance=49.709817725496514&f_AL=true
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4483319517&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=hlc8pDGXEXteUXYtNbtsFg%3D%3D&trackingId=yRdlstrRzvND6GgEKzOS6w%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.70993972580017&f_AL=true
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4483319517&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=hlc8pDGXEXteUXYtNbtsFg%3D%3D&trackingId=yRdlstrRzvND6GgEKzOS6w%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.70993972580017&f_AL=true
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-The full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.
+Login to LinkedIn to keep in touch with people you know, share ideas, and build your career.
