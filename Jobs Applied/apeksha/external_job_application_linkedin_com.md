@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-10-28T12:51:21.928Z
+- **Applied date:** 2026-10-28T13:21:56.667Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484294486&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=nG1mW7IxM6UuvzZf8jgeAw%3D%3D&trackingId=oxQBeNuQZAlIw%2F282%2B6Vsw%3D%3D&keywords=data%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=100&geoId=101165590&distance=-0.621371&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484294486&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=nG1mW7IxM6UuvzZf8jgeAw%3D%3D&trackingId=oxQBeNuQZAlIw%2F282%2B6Vsw%3D%3D&keywords=data%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=100&geoId=101165590&distance=-0.621371&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4483885166&eBP=CwEAAAGhgqvDD0v4IaFL1tXTUUGCIAmWcJD87p1HVu6uaA8rzsPCJigQbJC2FAWmXZntDd34RGl6GIrEhAQQ8pxEOlSJko4qGir1KCM9IRyct4sBoxpF2rDoiruu-dIARUDIgLJSmbOHBaq_L3uA2AzEUiDkARixm-IH9DD7tgeZhXSmnVZmXOcChZbAAouI2eKVF43O7jfENal9r5kGqYgUSmU-IlTiK902xC_iWvkkJUvKr1a1MybbfYoyUC-lANazbayc3VdflJwgRutcQiY0hQMcHk1-C0Ioi015MTFLHHqNhr5hvVNFc3r9ODx0FxqQU2BrKLkr-waGouQeBlY-EubT-SfMJuViDqOdpgfjQxCrhOmkIjjfhj-nqu9gCBDQYFq45o65vEWF1EkX-qanAePF720IUW83GX5fV44leSFUiEqnDbmFV-DXn5xqEc8gPxljUUKKyfnOFwMOiQxezL7LUCBEKIgyRhjV09UQ3jDRr8-yPUs&refId=hhHmLDA5zKp38e0%2FmYSXrA%3D%3D&trackingId=Alt5uVi86WKsiAIlceRhbA%3D%3D&origin=SEMANTIC_SEARCH_LANDING_PAGE&distance=null
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4483885166&eBP=CwEAAAGhgqvDD0v4IaFL1tXTUUGCIAmWcJD87p1HVu6uaA8rzsPCJigQbJC2FAWmXZntDd34RGl6GIrEhAQQ8pxEOlSJko4qGir1KCM9IRyct4sBoxpF2rDoiruu-dIARUDIgLJSmbOHBaq_L3uA2AzEUiDkARixm-IH9DD7tgeZhXSmnVZmXOcChZbAAouI2eKVF43O7jfENal9r5kGqYgUSmU-IlTiK902xC_iWvkkJUvKr1a1MybbfYoyUC-lANazbayc3VdflJwgRutcQiY0hQMcHk1-C0Ioi015MTFLHHqNhr5hvVNFc3r9ODx0FxqQU2BrKLkr-waGouQeBlY-EubT-SfMJuViDqOdpgfjQxCrhOmkIjjfhj-nqu9gCBDQYFq45o65vEWF1EkX-qanAePF720IUW83GX5fV44leSFUiEqnDbmFV-DXn5xqEc8gPxljUUKKyfnOFwMOiQxezL7LUCBEKIgyRhjV09UQ3jDRr8-yPUs&refId=hhHmLDA5zKp38e0%2FmYSXrA%3D%3D&trackingId=Alt5uVi86WKsiAIlceRhbA%3D%3D&origin=SEMANTIC_SEARCH_LANDING_PAGE&distance=null
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
