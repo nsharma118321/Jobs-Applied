@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-6bfe5ea0bb4235a69ff9",
+      "title": "Senior Data Scientist",
+      "company": "careers.hcltech.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.hcltech.com/job/Senior-Data-Scientist/150460-en_US/?utm_campaign=LinkedinJobPostings&utm_source=LinkedinJobPostings&applySourceOverride=LinkedIn",
+      "portalUrl": "https://careers.hcltech.com/job/Senior-Data-Scientist/150460-en_US/?utm_campaign=LinkedinJobPostings&utm_source=LinkedinJobPostings&applySourceOverride=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-28T14:07:19.662Z",
+      "jobDescription": "# Senior Data Scientist\n\n- **Company:** careers.hcltech.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-28T14:07:19.662Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.hcltech.com/job/Senior-Data-Scientist/150460-en_US/?utm_campaign=LinkedinJobPostings&utm_source=LinkedinJobPostings&applySourceOverride=LinkedIn\n- **Application portal:** https://careers.hcltech.com/job/Senior-Data-Scientist/150460-en_US/?utm_campaign=LinkedinJobPostings&utm_source=LinkedinJobPostings&applySourceOverride=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/senior_data_scientist_careers_hcltech_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-bccba776cf4f74c7751c",
       "title": "External job application",
       "company": "linkedin.com",
