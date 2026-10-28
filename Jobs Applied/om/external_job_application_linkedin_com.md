@@ -3,13 +3,13 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-27T12:50:26.011Z
+- **Applied date:** 2026-10-28T09:34:04.048Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484051067&eBP=BUDGET_EXHAUSTED_JOB&refId=hlc8pDGXEXteUXYtNbtsFg%3D%3D&trackingId=I%2FEuCRdw7azKtWXK3dAxpg%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.70993972580017&f_AL=true
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484051067&eBP=BUDGET_EXHAUSTED_JOB&refId=hlc8pDGXEXteUXYtNbtsFg%3D%3D&trackingId=I%2FEuCRdw7azKtWXK3dAxpg%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=49.70993972580017&f_AL=true
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4481857986&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=gaY5ggTPX424%2FR2c9bulQA%3D%3D&trackingId=QyOFk6GEiYDl4bZJZO3KBw%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=25.000062224028433&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4481857986&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=gaY5ggTPX424%2FR2c9bulQA%3D%3D&trackingId=QyOFk6GEiYDl4bZJZO3KBw%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=25.000062224028433&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-Login to LinkedIn to keep in touch with people you know, share ideas, and build your career.
+The full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.
