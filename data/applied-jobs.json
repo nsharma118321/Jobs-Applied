@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-77de2f5223cdb2c9ce49",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4484902006&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=h%2BE07TfbWQUzvyvx%2BJy6ag%3D%3D&trackingId=u5G1s2iSe5xB4P1ht7Aq4A%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=112565523&distance=24.85484&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4484902006&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=h%2BE07TfbWQUzvyvx%2BJy6ag%3D%3D&trackingId=u5G1s2iSe5xB4P1ht7Aq4A%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=112565523&distance=24.85484&f_TPR=r86400",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-29T12:08:37.363Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-29T12:08:37.363Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484902006&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=h%2BE07TfbWQUzvyvx%2BJy6ag%3D%3D&trackingId=u5G1s2iSe5xB4P1ht7Aq4A%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=112565523&distance=24.85484&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484902006&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=h%2BE07TfbWQUzvyvx%2BJy6ag%3D%3D&trackingId=u5G1s2iSe5xB4P1ht7Aq4A%3D%3D&keywords=Business%20Analyst%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=112565523&distance=24.85484&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-5d346b33482d5a1f6d62",
       "title": "External job application",
       "company": "linkedin.com",
