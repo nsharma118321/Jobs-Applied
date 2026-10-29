@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-28T09:54:44.234Z
+- **Applied date:** 2026-10-29T08:14:40.228Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4483859154&eBP=BUDGET_EXHAUSTED_JOB&refId=j1XeHuglpnEWjuPmnhoprQ%3D%3D&trackingId=ybEQygjoHjHW1YYytT9HzA%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=112565523&distance=25.000062224028433&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4483859154&eBP=BUDGET_EXHAUSTED_JOB&refId=j1XeHuglpnEWjuPmnhoprQ%3D%3D&trackingId=ybEQygjoHjHW1YYytT9HzA%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=112565523&distance=25.000062224028433&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484920170&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=DQa0RK8N7W0P6G7mkKNHnQ%3D%3D&trackingId=DUxWUKv0kt00TN5NgUWMIQ%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=25.000251224498847&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484920170&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=DQa0RK8N7W0P6G7mkKNHnQ%3D%3D&trackingId=DUxWUKv0kt00TN5NgUWMIQ%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=25.000251224498847&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
