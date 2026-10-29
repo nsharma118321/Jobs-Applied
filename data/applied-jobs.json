@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-00c4e0d9c16d48d75a59",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4484920170&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=DQa0RK8N7W0P6G7mkKNHnQ%3D%3D&trackingId=DUxWUKv0kt00TN5NgUWMIQ%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=25.000251224498847&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4484920170&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=DQa0RK8N7W0P6G7mkKNHnQ%3D%3D&trackingId=DUxWUKv0kt00TN5NgUWMIQ%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=25.000251224498847&f_TPR=r86400",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-29T08:14:40.228Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-29T08:14:40.228Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484920170&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=DQa0RK8N7W0P6G7mkKNHnQ%3D%3D&trackingId=DUxWUKv0kt00TN5NgUWMIQ%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=25.000251224498847&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484920170&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=DQa0RK8N7W0P6G7mkKNHnQ%3D%3D&trackingId=DUxWUKv0kt00TN5NgUWMIQ%3D%3D&keywords=Data%20Scientist%20in%20india%20%20posted%20in%20the%20past%20week%20in%20Banglore%20posted%20in%20the%20past%20week&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=25.000251224498847&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-426d13a2e525b1170269",
       "title": "External job application",
       "company": "linkedin.com",
