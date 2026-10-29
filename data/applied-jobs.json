@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-5b4b8bdb20ca93b5dafe",
+      "title": "Sandisk",
+      "company": "avature.sandisk.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://avature.sandisk.com/Careers/JobDetail/Power-BI-Tableau-Developer-3-5-Years-Experience/3586?src=LinkedIn",
+      "portalUrl": "https://avature.sandisk.com/Careers/JobDetail/Power-BI-Tableau-Developer-3-5-Years-Experience/3586?src=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-29T10:12:24.130Z",
+      "jobDescription": "# Sandisk\n\n- **Company:** avature.sandisk.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-29T10:12:24.130Z\n- **Licensed sponsor:** \n- **Original posting:** https://avature.sandisk.com/Careers/JobDetail/Power-BI-Tableau-Developer-3-5-Years-Experience/3586?src=LinkedIn\n- **Application portal:** https://avature.sandisk.com/Careers/JobDetail/Power-BI-Tableau-Developer-3-5-Years-Experience/3586?src=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe are seeking a highly motivated Data Analytics Engineer with 3-5 years of experience in Power BI, Tableau, and Data Analytics. The ideal candidate will be responsible for transforming data into meaningful insights, developing dashboards and reports, supporting business decision-making, and driving data-driven initiatives across the organization. Key Responsibilities • Design, develop, and maintain interactive dashboards and reports using Power BI and/or Tableau. • Collaborate with business stakeholders to gather requirements and translate them into analytical solutions. • Analyze large datasets to identify trends, patterns, and actionable business insights. • Develop and maintain KPIs, scorecards, and operational reports for business users. • Perform data validation and ensure data accuracy, consistency, and integrity across reporting platforms. • Support data extraction, transformation, and reporting processes from multiple data sources. • Monitor and optimize dashboard performance and user experience. • Work closely with cross-functional teams to deliver analytics solutions and drive continuous improvements. Qualifications Education • Bachelor\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/sandisk_avature_sandisk_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-9ff7e2d77667fb8aaff1",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
