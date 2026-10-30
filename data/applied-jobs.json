@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-8ac775282327c3f0213a",
+      "title": "Apply - NFU Mutual Careers",
+      "company": "careers.nfumutual.co.uk",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.nfumutual.co.uk/apply?jobId=QCUFK026203F3VBQB7979QWLL-347127&langCode=en_GB&step=DIRECT",
+      "portalUrl": "https://careers.nfumutual.co.uk/apply?jobId=QCUFK026203F3VBQB7979QWLL-347127&langCode=en_GB&step=DIRECT",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-10-30T15:55:22.106Z",
+      "jobDescription": "# Apply - NFU Mutual Careers\n\n- **Company:** careers.nfumutual.co.uk\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-10-30T15:55:22.106Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.nfumutual.co.uk/apply?jobId=QCUFK026203F3VBQB7979QWLL-347127&langCode=en_GB&step=DIRECT\n- **Application portal:** https://careers.nfumutual.co.uk/apply?jobId=QCUFK026203F3VBQB7979QWLL-347127&langCode=en_GB&step=DIRECT\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/apply_nfu_mutual_careers_careers_nfumutual_co_uk.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-4336f401a5235472f509",
       "title": "Sky Careers | Jobs",
       "company": "careers.sky.com",
