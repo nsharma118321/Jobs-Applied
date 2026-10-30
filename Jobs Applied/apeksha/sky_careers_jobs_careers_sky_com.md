@@ -3,10 +3,10 @@
 - **Company:** careers.sky.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-09-02T14:41:26.316Z
+- **Applied date:** 2026-10-30T15:47:20.987Z
 - **Licensed sponsor:** 
-- **Original posting:** https://careers.sky.com/jobs/t-R0058146?utm_source=LinkedIn_Sky
-- **Application portal:** https://careers.sky.com/jobs/t-R0058146?utm_source=LinkedIn_Sky
+- **Original posting:** https://careers.sky.com/jobs/t-R0060125?utm_source=LinkedIn_Sky
+- **Application portal:** https://careers.sky.com/jobs/t-R0060125?utm_source=LinkedIn_Sky
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
