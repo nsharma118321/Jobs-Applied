@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4336f401a5235472f509",
+      "title": "Sky Careers | Jobs",
+      "company": "careers.sky.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.sky.com/jobs/t-R0060125?utm_source=LinkedIn_Sky",
+      "portalUrl": "https://careers.sky.com/jobs/t-R0060125?utm_source=LinkedIn_Sky",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-10-30T15:47:20.987Z",
+      "jobDescription": "# Sky Careers | Jobs\n\n- **Company:** careers.sky.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-10-30T15:47:20.987Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.sky.com/jobs/t-R0060125?utm_source=LinkedIn_Sky\n- **Application portal:** https://careers.sky.com/jobs/t-R0060125?utm_source=LinkedIn_Sky\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/sky_careers_jobs_careers_sky_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-f37c651b4cc2fe8707d0",
       "title": "External job application",
       "company": "linkedin.com",
