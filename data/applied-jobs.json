@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-47a0638749a985e1d850",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "company": "LinkedIn",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4482594735&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=1z%2BkOG9JLjWJy08kRhIAbw%3D%3D&trackingId=yIB99aIi84y9Kijkx2hJKg%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20india%20last%2024%20hours%20&origin=JOBS_HOME_SEARCH_BUTTON",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4482594735&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=1z%2BkOG9JLjWJy08kRhIAbw%3D%3D&trackingId=yIB99aIi84y9Kijkx2hJKg%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20india%20last%2024%20hours%20&origin=JOBS_HOME_SEARCH_BUTTON",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-30T10:25:28.704Z",
+      "jobDescription": "# LinkedIn Login, Sign in | LinkedIn\n\n- **Company:** LinkedIn\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-30T10:25:28.704Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4482594735&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=1z%2BkOG9JLjWJy08kRhIAbw%3D%3D&trackingId=yIB99aIi84y9Kijkx2hJKg%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20india%20last%2024%20hours%20&origin=JOBS_HOME_SEARCH_BUTTON\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4482594735&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=1z%2BkOG9JLjWJy08kRhIAbw%3D%3D&trackingId=yIB99aIi84y9Kijkx2hJKg%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20india%20last%2024%20hours%20&origin=JOBS_HOME_SEARCH_BUTTON\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/linkedin_login_sign_in_linkedin_linkedin.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-6a27e26bcaffe8c250a8",
       "title": "Principal/Senior Data Analyst",
       "company": "job-boards.greenhouse.io",
