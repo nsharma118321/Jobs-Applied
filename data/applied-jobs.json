@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-654bae625ca4949abaaa",
+      "title": "Analog Circuit Design Engineer - AI/ML methodology",
+      "company": "Texas Instruments",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010679?utm_medium=jobboard&utm_source=linkedin",
+      "portalUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010679?utm_medium=jobboard&utm_source=linkedin",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-30T09:11:37.394Z",
+      "jobDescription": "# Analog Circuit Design Engineer - AI/ML methodology\n\n- **Company:** Texas Instruments\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-30T09:11:37.394Z\n- **Licensed sponsor:** \n- **Original posting:** https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010679?utm_medium=jobboard&utm_source=linkedin\n- **Application portal:** https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010679?utm_medium=jobboard&utm_source=linkedin\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAbout the Opportunity Are you a data scientist who thinks in algorithms, mathematical proofs, and insights? Texas Instruments is looking for a Senior Data Scientist to join a first-of-its-kind team where advanced analytics, mathematical rigor, and machine learning meet semiconductor innovation. This is a rare opportunity to be part of a small, high-impact group that is actively shaping how data-driven decisions are made at one of the world\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/analog_circuit_design_engineer_ai_ml_methodology_texas_instruments.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-179d3dbe71b69cda3803",
       "title": "Data Scientist - Data Wrangling - Bangalore, India",
       "company": "Careers Société Générale",
