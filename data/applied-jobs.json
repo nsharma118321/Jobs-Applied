@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-6a27e26bcaffe8c250a8",
+      "title": "Principal/Senior Data Analyst",
+      "company": "job-boards.greenhouse.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://job-boards.greenhouse.io/zyngacareers/jobs/6137835004?gh_src=503a64f04us",
+      "portalUrl": "https://job-boards.greenhouse.io/zyngacareers/jobs/6137835004?gh_src=503a64f04us",
+      "appliedBy": "OM",
+      "appliedAt": "2026-10-30T10:13:47.293Z",
+      "jobDescription": "# Principal/Senior Data Analyst\n\n- **Company:** job-boards.greenhouse.io\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-10-30T10:13:47.293Z\n- **Licensed sponsor:** \n- **Original posting:** https://job-boards.greenhouse.io/zyngacareers/jobs/6137835004?gh_src=503a64f04us\n- **Application portal:** https://job-boards.greenhouse.io/zyngacareers/jobs/6137835004?gh_src=503a64f04us\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/principal_senior_data_analyst_job_boards_greenhouse_io.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-cd4f4e1f611acfd3857a",
       "title": "External job application",
       "company": "linkedin.com",
