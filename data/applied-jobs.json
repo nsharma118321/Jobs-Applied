@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-9f4fe44d1598b8284953",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4484575386&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=pZFY92Z87rJtZf%2BPI0jNkA%3D%3D&trackingId=w%2B0VZZ3xtFEm1FEQVeiutw%3D%3D&keywords=data%20analyst%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4484575386&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=pZFY92Z87rJtZf%2BPI0jNkA%3D%3D&trackingId=w%2B0VZZ3xtFEm1FEQVeiutw%3D%3D&keywords=data%20analyst%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r86400",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-10-30T16:03:02.009Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-10-30T16:03:02.009Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484575386&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=pZFY92Z87rJtZf%2BPI0jNkA%3D%3D&trackingId=w%2B0VZZ3xtFEm1FEQVeiutw%3D%3D&keywords=data%20analyst%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484575386&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=pZFY92Z87rJtZf%2BPI0jNkA%3D%3D&trackingId=w%2B0VZZ3xtFEm1FEQVeiutw%3D%3D&keywords=data%20analyst%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-8ac775282327c3f0213a",
       "title": "Apply - NFU Mutual Careers",
       "company": "careers.nfumutual.co.uk",
