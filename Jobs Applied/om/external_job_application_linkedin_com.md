@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-30T10:12:34.075Z
+- **Applied date:** 2026-10-30T11:10:37.708Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484809094&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=1z%2BkOG9JLjWJy08kRhIAbw%3D%3D&trackingId=Fzb4M1Qp5MU1xJL9%2FQrD%2Fw%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20india%20last%2024%20hours%20&origin=JOBS_HOME_SEARCH_BUTTON
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484809094&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=1z%2BkOG9JLjWJy08kRhIAbw%3D%3D&trackingId=Fzb4M1Qp5MU1xJL9%2FQrD%2Fw%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20india%20last%2024%20hours%20&origin=JOBS_HOME_SEARCH_BUTTON
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484833312&eBP=BUDGET_EXHAUSTED_JOB&refId=jUw1bzAUTJ5isFB6%2FupB%2Bg%3D%3D&trackingId=6UZJ88XxQZpcwV8DVgV1PA%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20india%20last%2024%20hours%20&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=25.000062224028433
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484833312&eBP=BUDGET_EXHAUSTED_JOB&refId=jUw1bzAUTJ5isFB6%2FupB%2Bg%3D%3D&trackingId=6UZJ88XxQZpcwV8DVgV1PA%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20india%20last%2024%20hours%20&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=25.000062224028433
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
