@@ -3,10 +3,10 @@
 - **Company:** hirist.tech
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-30T06:58:17.358Z
+- **Applied date:** 2026-11-02T08:08:53.513Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.hirist.tech/j/arrive-data-scientist-ai-analytics-1680868?utm_source=LinkedIn&utm_medium=referral&utm_campaign=linkedin_apply&ref=linkedin
-- **Application portal:** https://www.hirist.tech/j/arrive-data-scientist-ai-analytics-1680868?utm_source=LinkedIn&utm_medium=referral&utm_campaign=linkedin_apply&ref=linkedin
+- **Original posting:** https://www.hirist.tech/j/coffeebeans-io-data-scientist-llmgenerative-ai-1681483?utm_source=LinkedIn&utm_medium=referral&utm_campaign=linkedin_apply&ref=linkedin
+- **Application portal:** https://www.hirist.tech/j/coffeebeans-io-data-scientist-llmgenerative-ai-1681483?utm_source=LinkedIn&utm_medium=referral&utm_campaign=linkedin_apply&ref=linkedin
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
