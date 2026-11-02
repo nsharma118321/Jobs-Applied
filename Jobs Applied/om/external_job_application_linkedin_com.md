@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-30T11:10:37.708Z
+- **Applied date:** 2026-11-02T08:51:02.103Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484833312&eBP=BUDGET_EXHAUSTED_JOB&refId=jUw1bzAUTJ5isFB6%2FupB%2Bg%3D%3D&trackingId=6UZJ88XxQZpcwV8DVgV1PA%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20india%20last%2024%20hours%20&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=25.000062224028433
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484833312&eBP=BUDGET_EXHAUSTED_JOB&refId=jUw1bzAUTJ5isFB6%2FupB%2Bg%3D%3D&trackingId=6UZJ88XxQZpcwV8DVgV1PA%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20india%20last%2024%20hours%20&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=25.000062224028433
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484850048&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=%2BO45LxgVJCsWmroaTfbTNA%3D%3D&trackingId=lXoUZY3Uwck36ksRsHCr%2Fg%3D%3D&keywords=data%20scientist%20in%20india%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=RLyhnrCMT9ha6kEWQjMDeA%3D%3D&f_TPR=r604800
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484850048&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=%2BO45LxgVJCsWmroaTfbTNA%3D%3D&trackingId=lXoUZY3Uwck36ksRsHCr%2Fg%3D%3D&keywords=data%20scientist%20in%20india%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=RLyhnrCMT9ha6kEWQjMDeA%3D%3D&f_TPR=r604800
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
