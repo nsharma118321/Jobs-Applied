@@ -3,10 +3,10 @@
 - **Company:** Caterpillar Careers
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-10-28T08:13:21.746Z
+- **Applied date:** 2026-11-02T10:37:55.844Z
 - **Licensed sponsor:** 
-- **Original posting:** https://careers.caterpillar.com/en/jobs/r0000401550/business-process-analyst/?source=LinkedIn
-- **Application portal:** https://careers.caterpillar.com/en/jobs/r0000401550/business-process-analyst/?source=LinkedIn
+- **Original posting:** https://careers.caterpillar.com/en/jobs/r0000401547/business-process-analyst/?source=LinkedIn
+- **Application portal:** https://careers.caterpillar.com/en/jobs/r0000401547/business-process-analyst/?source=LinkedIn
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
