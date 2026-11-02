@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-f347043a8f02ca0178f1",
+      "title": "Data Scientist",
+      "company": "jobs.natwestgroup.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.natwestgroup.com/jobs/18417731-data-scientist?tm_job=R-00287210-OTHLOC-IND-5FBAN016&tm_event=view&tm_company=861&bid=56",
+      "portalUrl": "https://jobs.natwestgroup.com/jobs/18417731-data-scientist?tm_job=R-00287210-OTHLOC-IND-5FBAN016&tm_event=view&tm_company=861&bid=56",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-02T08:20:10.515Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** jobs.natwestgroup.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-02T08:20:10.515Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.natwestgroup.com/jobs/18417731-data-scientist?tm_job=R-00287210-OTHLOC-IND-5FBAN016&tm_event=view&tm_company=861&bid=56\n- **Application portal:** https://jobs.natwestgroup.com/jobs/18417731-data-scientist?tm_job=R-00287210-OTHLOC-IND-5FBAN016&tm_event=view&tm_company=861&bid=56\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nSearch and apply for banking, retail and digital jobs as well as apprenticeships, graduate and internships all across NatWest Group.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_jobs_natwestgroup_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-7b7a90b990d42ade46ce",
       "title": "External job application",
       "company": "hirist.tech",
