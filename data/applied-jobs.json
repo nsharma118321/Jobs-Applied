@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-d7c9d182a0d65a18341a",
+      "title": "Business Process Analyst",
+      "company": "Caterpillar Careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.caterpillar.com/en/jobs/r0000401547/business-process-analyst/?source=LinkedIn",
+      "portalUrl": "https://careers.caterpillar.com/en/jobs/r0000401547/business-process-analyst/?source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-02T10:37:55.844Z",
+      "jobDescription": "# Business Process Analyst\n\n- **Company:** Caterpillar Careers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-02T10:37:55.844Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.caterpillar.com/en/jobs/r0000401547/business-process-analyst/?source=LinkedIn\n- **Application portal:** https://careers.caterpillar.com/en/jobs/r0000401547/business-process-analyst/?source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nCareer Area: Job Description: Your Work Shapes the World at Caterpillar Inc. When you join Caterpillar, you're joining a global team who cares not just about the work we do &#x2013; but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here &#x2013; we make it&#x2026;\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/business_process_analyst_caterpillar_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-29886922139e3b84fab2",
       "title": "External job application",
       "company": "linkedin.com",
