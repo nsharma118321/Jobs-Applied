@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-9db5387e570507c063ec",
+      "title": "Data Scientist",
+      "company": "careers.sap.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.sap.com/job/Bangalore-Data-Scientist-560066/1431173833/?feedId=384233&utm_campaign=SAP_Linkedin&utm_source=LinkedinJobPostings",
+      "portalUrl": "https://careers.sap.com/job/Bangalore-Data-Scientist-560066/1431173833/?feedId=384233&utm_campaign=SAP_Linkedin&utm_source=LinkedinJobPostings",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-02T09:10:47.759Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** careers.sap.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-02T09:10:47.759Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.sap.com/job/Bangalore-Data-Scientist-560066/1431173833/?feedId=384233&utm_campaign=SAP_Linkedin&utm_source=LinkedinJobPostings\n- **Application portal:** https://careers.sap.com/job/Bangalore-Data-Scientist-560066/1431173833/?feedId=384233&utm_campaign=SAP_Linkedin&utm_source=LinkedinJobPostings\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_careers_sap_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-58072e5c2f569e2b1c6c",
       "title": "Senior Data Scientist",
       "company": "job-boards.greenhouse.io",
