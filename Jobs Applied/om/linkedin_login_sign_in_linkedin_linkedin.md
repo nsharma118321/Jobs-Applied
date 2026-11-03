@@ -3,13 +3,13 @@
 - **Company:** LinkedIn
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-11-03T05:19:31.732Z
+- **Applied date:** 2026-11-03T05:34:10.446Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484310740&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=ArKN37Xlm1AHQxD0zdWwSQ%3D%3D&trackingId=h9Eb87mSaIgeJRC%2B6K9QJg%3D%3D&keywords=Data%20Scientist%20in%20india%20bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484310740&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=ArKN37Xlm1AHQxD0zdWwSQ%3D%3D&trackingId=h9Eb87mSaIgeJRC%2B6K9QJg%3D%3D&keywords=Data%20Scientist%20in%20india%20bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484855035&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=EvyvtN4A4S1bsu3BIEclSg%3D%3D&trackingId=eQCOT75Zqc%2BGMNw4vk2Zdw%3D%3D&keywords=Data%20Scientist%20in%20india%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jn%2FRfHXi1WDfWgxl6RqY0Q%3D%3D&geoId=112565523&distance=24.85484&f_TPR=r604800&f_AL=true
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484855035&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=EvyvtN4A4S1bsu3BIEclSg%3D%3D&trackingId=eQCOT75Zqc%2BGMNw4vk2Zdw%3D%3D&keywords=Data%20Scientist%20in%20india%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jn%2FRfHXi1WDfWgxl6RqY0Q%3D%3D&geoId=112565523&distance=24.85484&f_TPR=r604800&f_AL=true
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-Login to LinkedIn to keep in touch with people you know, share ideas, and build your career.
+The full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.
