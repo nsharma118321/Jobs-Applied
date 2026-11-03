@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-11-03T04:58:12.215Z
+- **Applied date:** 2026-11-03T04:59:57.072Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4486810049&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=fidmsT4%2BEO95H5hPjSAH8A%3D%3D&trackingId=Wf5xyCTmBJMB4WUAY7mQLw%3D%3D&keywords=Business%20Analyst%20in%20india%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jLIRCanrxFgtDoZGwoR0cw%3D%3D&geoId=112565523&distance=24.854901862730838&f_TPR=r86400&f_AL=true
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4486810049&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=fidmsT4%2BEO95H5hPjSAH8A%3D%3D&trackingId=Wf5xyCTmBJMB4WUAY7mQLw%3D%3D&keywords=Business%20Analyst%20in%20india%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jLIRCanrxFgtDoZGwoR0cw%3D%3D&geoId=112565523&distance=24.854901862730838&f_TPR=r86400&f_AL=true
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484364433&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=fidmsT4%2BEO95H5hPjSAH8A%3D%3D&trackingId=rYeX7NYC4FTWx98SBQO4Uw%3D%3D&keywords=Business%20Analyst%20in%20india%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jLIRCanrxFgtDoZGwoR0cw%3D%3D&geoId=112565523&distance=24.854901862730838&f_TPR=r86400&f_AL=true
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484364433&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=fidmsT4%2BEO95H5hPjSAH8A%3D%3D&trackingId=rYeX7NYC4FTWx98SBQO4Uw%3D%3D&keywords=Business%20Analyst%20in%20india%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jLIRCanrxFgtDoZGwoR0cw%3D%3D&geoId=112565523&distance=24.854901862730838&f_TPR=r86400&f_AL=true
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
