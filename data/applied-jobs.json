@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-a9e2e15e5eae0cfb19db",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "company": "LinkedIn",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4484310740&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=ArKN37Xlm1AHQxD0zdWwSQ%3D%3D&trackingId=h9Eb87mSaIgeJRC%2B6K9QJg%3D%3D&keywords=Data%20Scientist%20in%20india%20bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4484310740&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=ArKN37Xlm1AHQxD0zdWwSQ%3D%3D&trackingId=h9Eb87mSaIgeJRC%2B6K9QJg%3D%3D&keywords=Data%20Scientist%20in%20india%20bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-03T05:19:31.732Z",
+      "jobDescription": "# LinkedIn Login, Sign in | LinkedIn\n\n- **Company:** LinkedIn\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-03T05:19:31.732Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484310740&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=ArKN37Xlm1AHQxD0zdWwSQ%3D%3D&trackingId=h9Eb87mSaIgeJRC%2B6K9QJg%3D%3D&keywords=Data%20Scientist%20in%20india%20bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484310740&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=ArKN37Xlm1AHQxD0zdWwSQ%3D%3D&trackingId=h9Eb87mSaIgeJRC%2B6K9QJg%3D%3D&keywords=Data%20Scientist%20in%20india%20bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/linkedin_login_sign_in_linkedin_linkedin.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-cc6dd8c8f6aea57e141d",
       "title": "External job application",
       "company": "linkedin.com",
