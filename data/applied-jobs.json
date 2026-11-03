@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-d92f5d533b32a7236aaf",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4484364433&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=fidmsT4%2BEO95H5hPjSAH8A%3D%3D&trackingId=rYeX7NYC4FTWx98SBQO4Uw%3D%3D&keywords=Business%20Analyst%20in%20india%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jLIRCanrxFgtDoZGwoR0cw%3D%3D&geoId=112565523&distance=24.854901862730838&f_TPR=r86400&f_AL=true",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4484364433&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=fidmsT4%2BEO95H5hPjSAH8A%3D%3D&trackingId=rYeX7NYC4FTWx98SBQO4Uw%3D%3D&keywords=Business%20Analyst%20in%20india%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jLIRCanrxFgtDoZGwoR0cw%3D%3D&geoId=112565523&distance=24.854901862730838&f_TPR=r86400&f_AL=true",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-03T04:59:57.072Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-03T04:59:57.072Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484364433&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=fidmsT4%2BEO95H5hPjSAH8A%3D%3D&trackingId=rYeX7NYC4FTWx98SBQO4Uw%3D%3D&keywords=Business%20Analyst%20in%20india%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jLIRCanrxFgtDoZGwoR0cw%3D%3D&geoId=112565523&distance=24.854901862730838&f_TPR=r86400&f_AL=true\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484364433&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=fidmsT4%2BEO95H5hPjSAH8A%3D%3D&trackingId=rYeX7NYC4FTWx98SBQO4Uw%3D%3D&keywords=Business%20Analyst%20in%20india%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=jLIRCanrxFgtDoZGwoR0cw%3D%3D&geoId=112565523&distance=24.854901862730838&f_TPR=r86400&f_AL=true\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-60fa5aa847b7eaa2e289",
       "title": "External job application",
       "company": "linkedin.com",
