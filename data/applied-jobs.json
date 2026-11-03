@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-121e2557d8e9ec53568a",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "company": "LinkedIn",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4485451943&eBP=BUDGET_EXHAUSTED_JOB&refId=ZSHeM4L6J0ERU2AwgochZw%3D%3D&trackingId=MiM%2BL1Pw2AXd%2BS6ThsdkKw%3D%3D&keywords=Data%20Scientist%20in%20india%20bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4485451943&eBP=BUDGET_EXHAUSTED_JOB&refId=ZSHeM4L6J0ERU2AwgochZw%3D%3D&trackingId=MiM%2BL1Pw2AXd%2BS6ThsdkKw%3D%3D&keywords=Data%20Scientist%20in%20india%20bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-03T05:10:08.743Z",
+      "jobDescription": "# LinkedIn Login, Sign in | LinkedIn\n\n- **Company:** LinkedIn\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-03T05:10:08.743Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4485451943&eBP=BUDGET_EXHAUSTED_JOB&refId=ZSHeM4L6J0ERU2AwgochZw%3D%3D&trackingId=MiM%2BL1Pw2AXd%2BS6ThsdkKw%3D%3D&keywords=Data%20Scientist%20in%20india%20bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4485451943&eBP=BUDGET_EXHAUSTED_JOB&refId=ZSHeM4L6J0ERU2AwgochZw%3D%3D&trackingId=MiM%2BL1Pw2AXd%2BS6ThsdkKw%3D%3D&keywords=Data%20Scientist%20in%20india%20bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nToday’s top 65 Data Scientist In India Bangalore jobs in Bengaluru South. Leverage your professional network, and get hired. New Data Scientist In India Bangalore jobs added daily.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/linkedin_login_sign_in_linkedin_linkedin.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-ffdc5f6fdebe02e6361e",
       "title": "External job application",
       "company": "linkedin.com",
