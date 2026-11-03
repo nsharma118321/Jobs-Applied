@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-11-03T17:21:04.344Z
+- **Applied date:** 2026-11-03T17:33:37.453Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487000050&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=vuGSJKWtbGN8h3IJ%2FY%2BGfQ%3D%3D&trackingId=pzozQI5N0WisBiZGHf9LYw%3D%3D&keywords=data%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487000050&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=vuGSJKWtbGN8h3IJ%2FY%2BGfQ%3D%3D&trackingId=pzozQI5N0WisBiZGHf9LYw%3D%3D&keywords=data%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484618904&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=vuGSJKWtbGN8h3IJ%2FY%2BGfQ%3D%3D&trackingId=5BCsZ%2BbGc3lCLUE42%2FYIHQ%3D%3D&keywords=data%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4484618904&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=vuGSJKWtbGN8h3IJ%2FY%2BGfQ%3D%3D&trackingId=5BCsZ%2BbGc3lCLUE42%2FYIHQ%3D%3D&keywords=data%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
