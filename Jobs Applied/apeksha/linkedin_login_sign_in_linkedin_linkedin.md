@@ -3,13 +3,13 @@
 - **Company:** LinkedIn
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-11-04T16:46:38.070Z
+- **Applied date:** 2026-11-04T16:57:24.917Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487200710&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=7SyrtNwdDrZZ6fUZLfyMtw%3D%3D&trackingId=SjDHI%2FkFw7tR3cGW0vD3DA%3D%3D&keywords=data%20scientist%20india&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=102713980&distance=-0.621371&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487200710&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=7SyrtNwdDrZZ6fUZLfyMtw%3D%3D&trackingId=SjDHI%2FkFw7tR3cGW0vD3DA%3D%3D&keywords=data%20scientist%20india&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=102713980&distance=-0.621371&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487266274&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=v0PlJro5b8qIQYx3TJe3Tg%3D%3D&trackingId=wDXSQOcO%2ByG%2BppAQbCFhWw%3D%3D&keywords=data%20scientist%20india&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=kWC2GKk8rD82ayK0aALWbw%3D%3D&start=100&geoId=102713980&distance=-0.621371&f_TPR=r86400&f_SAL=f_SA_id_227001%3A276001%2C277001
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487266274&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=v0PlJro5b8qIQYx3TJe3Tg%3D%3D&trackingId=wDXSQOcO%2ByG%2BppAQbCFhWw%3D%3D&keywords=data%20scientist%20india&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=kWC2GKk8rD82ayK0aALWbw%3D%3D&start=100&geoId=102713980&distance=-0.621371&f_TPR=r86400&f_SAL=f_SA_id_227001%3A276001%2C277001
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-The full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.
+Login to LinkedIn to keep in touch with people you know, share ideas, and build your career.
