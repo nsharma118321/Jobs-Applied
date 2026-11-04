@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-d40a1ec3127fd93be89d",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4468148348&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=WSbhNQoKWxrXQ67LYQgNuQ%3D%3D&trackingId=wQxuEbDpY%2BVoiQ4%2BVzjiCQ%3D%3D&keywords=data%20scientist%20india&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=kWC2GKk8rD82ayK0aALWbw%3D%3D&geoId=102713980&distance=-0.621371&f_TPR=r86400&f_SAL=f_SA_id_227001%3A276001%2C277001",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4468148348&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=WSbhNQoKWxrXQ67LYQgNuQ%3D%3D&trackingId=wQxuEbDpY%2BVoiQ4%2BVzjiCQ%3D%3D&keywords=data%20scientist%20india&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=kWC2GKk8rD82ayK0aALWbw%3D%3D&geoId=102713980&distance=-0.621371&f_TPR=r86400&f_SAL=f_SA_id_227001%3A276001%2C277001",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-11-04T16:49:13.268Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-11-04T16:49:13.268Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4468148348&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=WSbhNQoKWxrXQ67LYQgNuQ%3D%3D&trackingId=wQxuEbDpY%2BVoiQ4%2BVzjiCQ%3D%3D&keywords=data%20scientist%20india&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=kWC2GKk8rD82ayK0aALWbw%3D%3D&geoId=102713980&distance=-0.621371&f_TPR=r86400&f_SAL=f_SA_id_227001%3A276001%2C277001\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4468148348&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=WSbhNQoKWxrXQ67LYQgNuQ%3D%3D&trackingId=wQxuEbDpY%2BVoiQ4%2BVzjiCQ%3D%3D&keywords=data%20scientist%20india&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=kWC2GKk8rD82ayK0aALWbw%3D%3D&geoId=102713980&distance=-0.621371&f_TPR=r86400&f_SAL=f_SA_id_227001%3A276001%2C277001\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-353b272c5620c8c4cf5a",
       "title": "External job application",
       "company": "linkedin.com",
