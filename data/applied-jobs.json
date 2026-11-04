@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-340986e376d0f74318d3",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "company": "LinkedIn",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4487266274&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=v0PlJro5b8qIQYx3TJe3Tg%3D%3D&trackingId=wDXSQOcO%2ByG%2BppAQbCFhWw%3D%3D&keywords=data%20scientist%20india&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=kWC2GKk8rD82ayK0aALWbw%3D%3D&start=100&geoId=102713980&distance=-0.621371&f_TPR=r86400&f_SAL=f_SA_id_227001%3A276001%2C277001",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4487266274&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=v0PlJro5b8qIQYx3TJe3Tg%3D%3D&trackingId=wDXSQOcO%2ByG%2BppAQbCFhWw%3D%3D&keywords=data%20scientist%20india&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=kWC2GKk8rD82ayK0aALWbw%3D%3D&start=100&geoId=102713980&distance=-0.621371&f_TPR=r86400&f_SAL=f_SA_id_227001%3A276001%2C277001",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-11-04T16:57:24.917Z",
+      "jobDescription": "# LinkedIn Login, Sign in | LinkedIn\n\n- **Company:** LinkedIn\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-11-04T16:57:24.917Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487266274&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=v0PlJro5b8qIQYx3TJe3Tg%3D%3D&trackingId=wDXSQOcO%2ByG%2BppAQbCFhWw%3D%3D&keywords=data%20scientist%20india&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=kWC2GKk8rD82ayK0aALWbw%3D%3D&start=100&geoId=102713980&distance=-0.621371&f_TPR=r86400&f_SAL=f_SA_id_227001%3A276001%2C277001\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487266274&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=v0PlJro5b8qIQYx3TJe3Tg%3D%3D&trackingId=wDXSQOcO%2ByG%2BppAQbCFhWw%3D%3D&keywords=data%20scientist%20india&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=kWC2GKk8rD82ayK0aALWbw%3D%3D&start=100&geoId=102713980&distance=-0.621371&f_TPR=r86400&f_SAL=f_SA_id_227001%3A276001%2C277001\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLogin to LinkedIn to keep in touch with people you know, share ideas, and build your career.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/linkedin_login_sign_in_linkedin_linkedin.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-0c890989f37a757a3a1f",
       "title": "Lead Data Scientist",
       "company": "Grab",
