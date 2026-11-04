@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-5783f1bc9d062162376c",
+      "title": "Data Scientist, Product",
+      "company": "metacareers.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.metacareers.com/profile/job_details/4374182922893050/",
+      "portalUrl": "https://www.metacareers.com/profile/job_details/4374182922893050/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-04T08:31:29.659Z",
+      "jobDescription": "# Data Scientist, Product\n\n- **Company:** metacareers.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-04T08:31:29.659Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.metacareers.com/profile/job_details/4374182922893050/\n- **Application portal:** https://www.metacareers.com/profile/job_details/4374182922893050/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nMore than 3 billion people in over 180 countries use WhatsApp to stay in touch with friends and family, anytime and anywhere. In India, it is also where...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_product_metacareers_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-6144d9c289052603bd58",
       "title": "Check out this job at Deloitte, USI-EH27-Consulting-FT-BF-Finance AI- Analytics and Insights Engineer II",
       "company": "usijobs.deloitte.com",
