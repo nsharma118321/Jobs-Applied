@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-49fb067328fc52c351ca",
+      "title": "Meesho Careers: Principal Data Scientist",
+      "company": "meesho.io",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.meesho.io/jobs/principal-data-scientist?id=3d5bf582-493f-4298-b7de-e42a7d58a358",
+      "portalUrl": "https://www.meesho.io/jobs/principal-data-scientist?id=3d5bf582-493f-4298-b7de-e42a7d58a358",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-04T09:41:07.767Z",
+      "jobDescription": "# Meesho Careers: Principal Data Scientist\n\n- **Company:** meesho.io\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-04T09:41:07.767Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.meesho.io/jobs/principal-data-scientist?id=3d5bf582-493f-4298-b7de-e42a7d58a358\n- **Application portal:** https://www.meesho.io/jobs/principal-data-scientist?id=3d5bf582-493f-4298-b7de-e42a7d58a358\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/meesho_careers_principal_data_scientist_meesho_io.md",
+      "syncStatus": "pending"
+    },
+    {
       "jobId": "shared:manual-2111fc39eebd1027e874",
       "title": "Principal Data Scientist",
       "company": "lighting.wd3.myworkdayjobs.com",
