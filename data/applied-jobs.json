@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-11ba152399c3c4ce4466",
+      "title": "External job application",
+      "company": "careers-orange.icims.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers-orange.icims.com/jobs/28031/data-scientist/login",
+      "portalUrl": "https://careers-orange.icims.com/jobs/28031/data-scientist/login",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-11-04T16:58:42.193Z",
+      "jobDescription": "# External job application\n\n- **Company:** careers-orange.icims.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-11-04T16:58:42.193Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers-orange.icims.com/jobs/28031/data-scientist/login\n- **Application portal:** https://careers-orange.icims.com/jobs/28031/data-scientist/login\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_careers_orange_icims_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-340986e376d0f74318d3",
       "title": "LinkedIn Login, Sign in | LinkedIn",
       "company": "LinkedIn",
