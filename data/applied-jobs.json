@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b83634a699bff2938883",
+      "title": "External job application",
+      "company": "jobs.bureau.id",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.bureau.id/bureau/2b7f3dda-fba7-499c-934d-b0fdfb21fe08/?Src=LI+Inbound&ashby_jid=2b7f3dda-fba7-499c-934d-b0fdfb21fe08",
+      "portalUrl": "https://jobs.bureau.id/bureau/2b7f3dda-fba7-499c-934d-b0fdfb21fe08/?Src=LI+Inbound&ashby_jid=2b7f3dda-fba7-499c-934d-b0fdfb21fe08",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-04T07:59:25.670Z",
+      "jobDescription": "# External job application\n\n- **Company:** jobs.bureau.id\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-04T07:59:25.670Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.bureau.id/bureau/2b7f3dda-fba7-499c-934d-b0fdfb21fe08/?Src=LI+Inbound&ashby_jid=2b7f3dda-fba7-499c-934d-b0fdfb21fe08\n- **Application portal:** https://jobs.bureau.id/bureau/2b7f3dda-fba7-499c-934d-b0fdfb21fe08/?Src=LI+Inbound&ashby_jid=2b7f3dda-fba7-499c-934d-b0fdfb21fe08\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_jobs_bureau_id.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b9cfaecfb6a90e816d5a",
       "title": "Data Scientist &#x2013; Healthcare Analytics",
       "company": "ihl.keka.com",
