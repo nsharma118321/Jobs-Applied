@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-aa072200b0af4710ac1c",
+      "title": "Analyst - Data Scientist at Alexion",
+      "company": "careers.alexion.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.alexion.com/job/-/-/3845/99748956112",
+      "portalUrl": "https://careers.alexion.com/job/-/-/3845/99748956112",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-04T10:09:29.373Z",
+      "jobDescription": "# Analyst - Data Scientist at Alexion\n\n- **Company:** careers.alexion.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-04T10:09:29.373Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.alexion.com/job/-/-/3845/99748956112\n- **Application portal:** https://careers.alexion.com/job/-/-/3845/99748956112\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/analyst_data_scientist_at_alexion_careers_alexion_com.md",
+      "syncStatus": "synced"
+    },
+    {
+      "jobId": "shared:manual-dda4fdde6d63df846ae8",
+      "title": "Associate, AI Data Scientist- Private Markets at BlackRock",
+      "company": "careers.blackrock.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.blackrock.com/job/-/-/45831/102762237600?source=LinkedIn",
+      "portalUrl": "https://careers.blackrock.com/job/-/-/45831/102762237600?source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-04T10:01:05.395Z",
+      "jobDescription": "# Associate, AI Data Scientist- Private Markets at BlackRock\n\n- **Company:** careers.blackrock.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-04T10:01:05.395Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.blackrock.com/job/-/-/45831/102762237600?source=LinkedIn\n- **Application portal:** https://careers.blackrock.com/job/-/-/45831/102762237600?source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLearn more about applying for Associate, AI Data Scientist- Private Markets at BlackRock\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/associate_ai_data_scientist_private_markets_at_blackrock_careers_blackrock_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-0035f36eec1e9accad8e",
       "title": "Senior Data Scientist",
       "company": "dth.avature.net",
@@ -14,7 +46,7 @@
       "resumeName": "",
       "resumeDesignedFor": "",
       "repoPath": "Jobs Applied/om/senior_data_scientist_dth_avature_net.md",
-      "syncStatus": "pending"
+      "syncStatus": "synced"
     },
     {
       "jobId": "shared:manual-49fb067328fc52c351ca",
