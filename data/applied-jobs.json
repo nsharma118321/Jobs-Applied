@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4e6b52f84048720b61e0",
+      "title": "Sandisk",
+      "company": "avature.sandisk.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://avature.sandisk.com/Careers/JobDetail/AI-and-ML-Engineer/4453?src=LinkedIn",
+      "portalUrl": "https://avature.sandisk.com/Careers/JobDetail/AI-and-ML-Engineer/4453?src=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-04T11:03:42.235Z",
+      "jobDescription": "# Sandisk\n\n- **Company:** avature.sandisk.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-04T11:03:42.235Z\n- **Licensed sponsor:** \n- **Original posting:** https://avature.sandisk.com/Careers/JobDetail/AI-and-ML-Engineer/4453?src=LinkedIn\n- **Application portal:** https://avature.sandisk.com/Careers/JobDetail/AI-and-ML-Engineer/4453?src=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe are seeking a talented AI/ML Engineer in Data and AI team to drive the design, development, and operationalization of machine learning and GenAI solutions across Sandisk\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/sandisk_avature_sandisk_com.md",
+      "syncStatus": "pending"
+    },
+    {
       "jobId": "shared:manual-4af0820669aece24ab99",
       "title": "External job application",
       "company": "linkedin.com",
