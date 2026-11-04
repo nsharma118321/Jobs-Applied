@@ -3,13 +3,13 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-11-04T15:50:45.853Z
+- **Applied date:** 2026-11-04T16:28:19.949Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4485091347&eBP=CwEAAAGhpzr0HespxGTrT_7Bt5z_GyMV-aOOKxPHpFJxqb5An0ePb3H262WYi31bD4AI0qdm0qfmr6Bb84HMG7Wa9QD6AVkOaoH-nO4j0c7TfNXq3a_7HhiSTf7chySopwOuFRp3wzggFQqfPZ4qN-4-SQ2ZlBg8UK5edh51OZncCxPj_337Yb_6LjwvtlIPRvicXBgGoA42GGRbUQacQEduUhSHC1HXO1bK6ap006dH3mDySooZZ3je1uCvpVAfhN1ibFc7qnwwy5xJQ1LZoJtVcj7pcowcy9UNnZcLED6RuuAJYqMs71qmTrvTcc7huol7IgoWSQzcmTUcfc1pvk9zQ2PiYqTLTlQhq5LlOvhwV48DKPTOQ97K3x-jZgvVyGRu4Hf4JwrQKfxa9-k0cPw0EOLQ3VApQQ&refId=akdjuvi%2FTh%2BPrx1FNNMLtQ%3D%3D&trackingId=O%2BUtLYaKR1kKpxM%2FxxOcjQ%3D%3D&keywords=data%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4485091347&eBP=CwEAAAGhpzr0HespxGTrT_7Bt5z_GyMV-aOOKxPHpFJxqb5An0ePb3H262WYi31bD4AI0qdm0qfmr6Bb84HMG7Wa9QD6AVkOaoH-nO4j0c7TfNXq3a_7HhiSTf7chySopwOuFRp3wzggFQqfPZ4qN-4-SQ2ZlBg8UK5edh51OZncCxPj_337Yb_6LjwvtlIPRvicXBgGoA42GGRbUQacQEduUhSHC1HXO1bK6ap006dH3mDySooZZ3je1uCvpVAfhN1ibFc7qnwwy5xJQ1LZoJtVcj7pcowcy9UNnZcLED6RuuAJYqMs71qmTrvTcc7huol7IgoWSQzcmTUcfc1pvk9zQ2PiYqTLTlQhq5LlOvhwV48DKPTOQ97K3x-jZgvVyGRu4Hf4JwrQKfxa9-k0cPw0EOLQ3VApQQ&refId=akdjuvi%2FTh%2BPrx1FNNMLtQ%3D%3D&trackingId=O%2BUtLYaKR1kKpxM%2FxxOcjQ%3D%3D&keywords=data%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4485001776&eBP=CwEAAAGhp2JkyRwTLFqC6hkbzXrqY5ISWfL0dGXHNWxZQOsVWweuNV3LhToJvoCDg53yQLPzcb--3IGTaPFuX3XEFOoaCJ4rBP--Y6VY2s4tLeHkKLAct_zkp5Yp3nTH7YfiumMPCdrGnuxqxtHX9cTyX_P9g4nD9aVWq6ZyHuJh_8rKyksNE8jv8YHWTSmRIbdxD7YDhe8Qa985sLCtj9WfIWZk1465i2pINPi-r78LJyujgJACzwBYQcrt_ka_mj_L1OmVKB4ToKyUw7-7L1hstCWN6Z0Df4hkEJYRDIl1FeVe8-1Pi8cYQSTBxZEsLncISWJO1G4Mx_rlwjYtEvAZVKgKnyRV6xnasNKBpw-uDLemTBaHwPwLebRkuAY4csxu2ytOWmaA4KaJvQ&refId=MwUtOIoIXsX11sYUWpW4KA%3D%3D&trackingId=P4lBBAb5xs5gG1gFnSs3vw%3D%3D&keywords=data%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50&geoId=101165590&distance=-0.621371&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4485001776&eBP=CwEAAAGhp2JkyRwTLFqC6hkbzXrqY5ISWfL0dGXHNWxZQOsVWweuNV3LhToJvoCDg53yQLPzcb--3IGTaPFuX3XEFOoaCJ4rBP--Y6VY2s4tLeHkKLAct_zkp5Yp3nTH7YfiumMPCdrGnuxqxtHX9cTyX_P9g4nD9aVWq6ZyHuJh_8rKyksNE8jv8YHWTSmRIbdxD7YDhe8Qa985sLCtj9WfIWZk1465i2pINPi-r78LJyujgJACzwBYQcrt_ka_mj_L1OmVKB4ToKyUw7-7L1hstCWN6Z0Df4hkEJYRDIl1FeVe8-1Pi8cYQSTBxZEsLncISWJO1G4Mx_rlwjYtEvAZVKgKnyRV6xnasNKBpw-uDLemTBaHwPwLebRkuAY4csxu2ytOWmaA4KaJvQ&refId=MwUtOIoIXsX11sYUWpW4KA%3D%3D&trackingId=P4lBBAb5xs5gG1gFnSs3vw%3D%3D&keywords=data%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50&geoId=101165590&distance=-0.621371&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-The full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.
+Login to LinkedIn to keep in touch with people you know, share ideas, and build your career.
