@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-0035f36eec1e9accad8e",
+      "title": "Senior Data Scientist",
+      "company": "dth.avature.net",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://dth.avature.net/en_US/careers/JobDetail?jobId=27753&src=LinkedIn",
+      "portalUrl": "https://dth.avature.net/en_US/careers/JobDetail?jobId=27753&src=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-04T09:54:30.017Z",
+      "jobDescription": "# Senior Data Scientist\n\n- **Company:** dth.avature.net\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-04T09:54:30.017Z\n- **Licensed sponsor:** \n- **Original posting:** https://dth.avature.net/en_US/careers/JobDetail?jobId=27753&src=LinkedIn\n- **Application portal:** https://dth.avature.net/en_US/careers/JobDetail?jobId=27753&src=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/senior_data_scientist_dth_avature_net.md",
+      "syncStatus": "pending"
+    },
+    {
       "jobId": "shared:manual-49fb067328fc52c351ca",
       "title": "Meesho Careers: Principal Data Scientist",
       "company": "meesho.io",
@@ -14,7 +30,7 @@
       "resumeName": "",
       "resumeDesignedFor": "",
       "repoPath": "Jobs Applied/om/meesho_careers_principal_data_scientist_meesho_io.md",
-      "syncStatus": "pending"
+      "syncStatus": "synced"
     },
     {
       "jobId": "shared:manual-2111fc39eebd1027e874",
