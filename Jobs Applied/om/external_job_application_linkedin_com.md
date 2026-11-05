@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-11-04T17:09:05.085Z
+- **Applied date:** 2026-11-05T13:21:52.545Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487241632&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=KN4g9wFbUrDDhlilkrkc%2BQ%3D%3D&trackingId=Bc%2BWAxPDR4oTe%2Fld%2FdtTlQ%3D%3D&keywords=Data%20Scientist%20in%20india%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=t6zJTtOm5L52COs9ceuGxw%3D%3D&geoId=112565523&distance=24.855268863644284&f_TPR=r86400&f_AL=true
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487241632&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=KN4g9wFbUrDDhlilkrkc%2BQ%3D%3D&trackingId=Bc%2BWAxPDR4oTe%2Fld%2FdtTlQ%3D%3D&keywords=Data%20Scientist%20in%20india%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=t6zJTtOm5L52COs9ceuGxw%3D%3D&geoId=112565523&distance=24.855268863644284&f_TPR=r86400&f_AL=true
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4485820517&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=YhF4NOlUoT5NifN6YB%2FKPQ%3D%3D&trackingId=8KJ7AVr6nzD9Z%2BtF8o43xw%3D%3D&keywords=Data%20Scientist%20in%20india%20bangalore&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=24.85532986379611&f_TPR=r86400&f_AL=true
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4485820517&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=YhF4NOlUoT5NifN6YB%2FKPQ%3D%3D&trackingId=8KJ7AVr6nzD9Z%2BtF8o43xw%3D%3D&keywords=Data%20Scientist%20in%20india%20bangalore&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=24.85532986379611&f_TPR=r86400&f_AL=true
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
