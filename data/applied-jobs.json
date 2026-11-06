@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-13bac1a18c1006422673",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4486957860&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=gJt5MtbIGagzGXCj62NCpw%3D%3D&trackingId=6WwhV9hKOEJPq%2F5s%2F2%2Bhrg%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=24.85496386288515&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4486957860&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=gJt5MtbIGagzGXCj62NCpw%3D%3D&trackingId=6WwhV9hKOEJPq%2F5s%2F2%2Bhrg%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=24.85496386288515&f_TPR=r86400",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-06T10:44:39.727Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-06T10:44:39.727Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4486957860&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=gJt5MtbIGagzGXCj62NCpw%3D%3D&trackingId=6WwhV9hKOEJPq%2F5s%2F2%2Bhrg%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=24.85496386288515&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4486957860&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=gJt5MtbIGagzGXCj62NCpw%3D%3D&trackingId=6WwhV9hKOEJPq%2F5s%2F2%2Bhrg%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=24.85496386288515&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nToday’s top 453 Data Scientist In Bangalore jobs in Bengaluru South. Leverage your professional network, and get hired. New Data Scientist In Bangalore jobs added daily.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-19b623ecc322afd1127f",
       "title": "Lead Commercial Data & AI/ML Specialist",
       "company": "careers.novonordisk.com",
