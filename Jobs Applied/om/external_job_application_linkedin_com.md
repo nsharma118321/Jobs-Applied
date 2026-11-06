@@ -3,13 +3,13 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-11-06T04:17:07.329Z
+- **Applied date:** 2026-11-06T10:44:39.727Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4486577666&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=Uisyf3z6dlb494n1M3gHzA%3D%3D&trackingId=db%2BhG980NXYBP1jQV2t1%2FA%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Nvj%2F%2FUEzb4DLO9vYwqlFSA%3D%3D&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4486577666&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=Uisyf3z6dlb494n1M3gHzA%3D%3D&trackingId=db%2BhG980NXYBP1jQV2t1%2FA%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=Nvj%2F%2FUEzb4DLO9vYwqlFSA%3D%3D&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4486957860&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=gJt5MtbIGagzGXCj62NCpw%3D%3D&trackingId=6WwhV9hKOEJPq%2F5s%2F2%2Bhrg%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=24.85496386288515&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4486957860&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=gJt5MtbIGagzGXCj62NCpw%3D%3D&trackingId=6WwhV9hKOEJPq%2F5s%2F2%2Bhrg%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=24.85496386288515&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-The full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.
+Today’s top 453 Data Scientist In Bangalore jobs in Bengaluru South. Leverage your professional network, and get hired. New Data Scientist In Bangalore jobs added daily.
