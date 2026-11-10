@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-11-06T11:32:46.002Z
+- **Applied date:** 2026-11-10T05:55:03.106Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4486968220&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=cC8Yn8Xn%2BcnTFWyqBtIOmA%3D%3D&trackingId=HXih0J%2Bk81SSFOBoqAZZGA%3D%3D&keywords=Business%20Analyst%20in%20Bangalore%20&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=3uQmi5K%2FuGhE1G0c6ujPTA%3D%3D&start=25&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4486968220&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=cC8Yn8Xn%2BcnTFWyqBtIOmA%3D%3D&trackingId=HXih0J%2Bk81SSFOBoqAZZGA%3D%3D&keywords=Business%20Analyst%20in%20Bangalore%20&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=3uQmi5K%2FuGhE1G0c6ujPTA%3D%3D&start=25&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4488162669&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=fIfTyhMC63ez95w6iFpOrA%3D%3D&trackingId=IhGeD1YCiGpb3etH0fOANw%3D%3D&keywords=Data%20Scientist%20Uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=uGh9K5uFZ3MHtoXsK0nFsg%3D%3D&f_AL=true
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4488162669&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=fIfTyhMC63ez95w6iFpOrA%3D%3D&trackingId=IhGeD1YCiGpb3etH0fOANw%3D%3D&keywords=Data%20Scientist%20Uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=uGh9K5uFZ3MHtoXsK0nFsg%3D%3D&f_AL=true
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
