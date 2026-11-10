@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-11-10T08:14:38.827Z
+- **Applied date:** 2026-11-10T08:17:53.137Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487451662&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=8dJZ2OW5jCwCMAH1dEfIsw%3D%3D&trackingId=fZxJxmeoTT3Zrrtg7CEtjA%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487451662&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=8dJZ2OW5jCwCMAH1dEfIsw%3D%3D&trackingId=fZxJxmeoTT3Zrrtg7CEtjA%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4486972781&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=7MOPDR4BflmotYyZ5r9HCw%3D%3D&trackingId=h8HcB0tHEyva168iqIKz7A%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=8dJZ2OW5jCwCMAH1dEfIsw%3D%3D&geoId=112565523&distance=24.85484&f_TPR=r604800&f_AL=true
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4486972781&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=7MOPDR4BflmotYyZ5r9HCw%3D%3D&trackingId=h8HcB0tHEyva168iqIKz7A%3D%3D&keywords=Data%20Scientist%20in%20Bangalore%20&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=8dJZ2OW5jCwCMAH1dEfIsw%3D%3D&geoId=112565523&distance=24.85484&f_TPR=r604800&f_AL=true
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
