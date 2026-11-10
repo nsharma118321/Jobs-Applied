@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-9c4714525165cde3a9e6",
+      "title": "Data Scientist",
+      "company": "Greene King",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.greeneking.co.uk/job/data-scientist-in-sunrise-house-jid-79465?_atxsrc=LinkedIn&utm_source=LinkedIn",
+      "portalUrl": "https://jobs.greeneking.co.uk/job/data-scientist-in-sunrise-house-jid-79465?_atxsrc=LinkedIn&utm_source=LinkedIn",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-11-10T08:56:24.453Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Greene King\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-11-10T08:56:24.453Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.greeneking.co.uk/job/data-scientist-in-sunrise-house-jid-79465?_atxsrc=LinkedIn&utm_source=LinkedIn\n- **Application portal:** https://jobs.greeneking.co.uk/job/data-scientist-in-sunrise-house-jid-79465?_atxsrc=LinkedIn&utm_source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nAs a Data Scientist, you&#x2019;ll play a pivotal role in advancing the data maturity of our Digital function. Working at the intersection of analytics, customer...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_scientist_greene_king.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-544dd252175bb6a77734",
       "title": "Fraud Data Scientist AVP at Barclays",
       "company": "search.jobs.barclays",
