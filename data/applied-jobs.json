@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4e17724fff70def853b3",
+      "title": "Job Description - Hitachi Digital Services",
+      "company": "Hitachi Digital Services -",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.hitachids.com/job-description/?jid=R0125851&source=LinkedIn",
+      "portalUrl": "https://www.hitachids.com/job-description/?jid=R0125851&source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-10T10:26:04.322Z",
+      "jobDescription": "# Job Description - Hitachi Digital Services\n\n- **Company:** Hitachi Digital Services -\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-10T10:26:04.322Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.hitachids.com/job-description/?jid=R0125851&source=LinkedIn\n- **Application portal:** https://www.hitachids.com/job-description/?jid=R0125851&source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/job_description_hitachi_digital_services_hitachi_digital_services.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-7b8e64114ca40c9fa1cb",
       "title": "iCIMS Careers Portal",
       "company": "careers-apac-eagleview.icims.com",
