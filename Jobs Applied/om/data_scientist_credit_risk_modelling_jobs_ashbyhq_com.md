@@ -3,10 +3,10 @@
 - **Company:** jobs.ashbyhq.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-09-04T14:50:12.344Z
+- **Applied date:** 2026-11-10T09:23:30.950Z
 - **Licensed sponsor:** 
-- **Original posting:** https://jobs.ashbyhq.com/iwoca.co.uk/d0254e59-397d-4057-9d87-8e57aa2c59e7/application?utm_source=linkedin_paid_slots
-- **Application portal:** https://jobs.ashbyhq.com/iwoca.co.uk/d0254e59-397d-4057-9d87-8e57aa2c59e7/application?utm_source=linkedin_paid_slots
+- **Original posting:** https://jobs.ashbyhq.com/iwoca.co.uk/778ac542-07d8-471d-9a6c-e4780131a8d2/application?utm_source=linkedin_paid_slots
+- **Application portal:** https://jobs.ashbyhq.com/iwoca.co.uk/778ac542-07d8-471d-9a6c-e4780131a8d2/application?utm_source=linkedin_paid_slots
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
