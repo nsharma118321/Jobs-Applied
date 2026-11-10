@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-9520ae6fab4ddae37a35",
+      "title": "Data Scientist in Loughborough | BRUSH Group",
+      "company": "BRUSH Group",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobsearch.brush.eu/vacancies/436/data-scientist.html",
+      "portalUrl": "https://jobsearch.brush.eu/vacancies/436/data-scientist.html",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-11-10T08:34:51.212Z",
+      "jobDescription": "# Data Scientist in Loughborough | BRUSH Group\n\n- **Company:** BRUSH Group\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-11-10T08:34:51.212Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobsearch.brush.eu/vacancies/436/data-scientist.html\n- **Application portal:** https://jobsearch.brush.eu/vacancies/436/data-scientist.html\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nView details and apply for this Data Scientist vacancy in Loughborough.  \r\n \r\n    Why choose us?          \r\n \r\n \r\n       BRUSH Group       provides the energy solutions that help power our built world      .    From power transformers to switchgear and engineering solutio...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_scientist_in_loughborough_brush_group_brush_group.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-fbed298ce9ccfeda3a74",
       "title": "Lead Data Scientist - Scams Prevention",
       "company": "Wise",
