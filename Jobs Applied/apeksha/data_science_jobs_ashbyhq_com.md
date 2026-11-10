@@ -3,16 +3,14 @@
 - **Company:** jobs.ashbyhq.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-08-19T14:57:40.363Z
+- **Applied date:** 2026-11-10T09:45:54.129Z
 - **Licensed sponsor:** 
-- **Original posting:** https://jobs.ashbyhq.com/axle-careers/985f5648-3e53-4a82-93d0-7a86f7cf002e/application?utm_source=glp8Gy45YL
-- **Application portal:** https://jobs.ashbyhq.com/axle-careers/985f5648-3e53-4a82-93d0-7a86f7cf002e/application?utm_source=glp8Gy45YL
+- **Original posting:** https://jobs.ashbyhq.com/axle-careers/814d613f-e159-4c44-aeb7-306e63db52a1/application?utm_source=glp8Gy45YL
+- **Application portal:** https://jobs.ashbyhq.com/axle-careers/814d613f-e159-4c44-aeb7-306e63db52a1/application?utm_source=glp8Gy45YL
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
-
-ABOUT US
 
 At Axle Energy, we’re building the infrastructure that will underpin the decarbonised energy system. Our software moves energy usage to times when electricity is cheap and green, by controlling vehicle charging, heating systems, and home batteries. We control hundreds of thousands of energy assets.
 
