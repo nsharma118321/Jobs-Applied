@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-112e09223f1744122682",
+      "title": "Data Scientist job in Cheadle | Pets at Home",
+      "company": "petsathomejobs.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.petsathomejobs.com/search-jobs-and-apply/41649-data-scientist-job-in-cheadle",
+      "portalUrl": "https://www.petsathomejobs.com/search-jobs-and-apply/41649-data-scientist-job-in-cheadle",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-11-10T09:35:17.669Z",
+      "jobDescription": "# Data Scientist job in Cheadle | Pets at Home\n\n- **Company:** petsathomejobs.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-11-10T09:35:17.669Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.petsathomejobs.com/search-jobs-and-apply/41649-data-scientist-job-in-cheadle\n- **Application portal:** https://www.petsathomejobs.com/search-jobs-and-apply/41649-data-scientist-job-in-cheadle\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nUK-wide Retail jobs and Support Office jobs at Pets at Home. Find out more about working for Pets at Home and search and apply for jobs.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/data_scientist_job_in_cheadle_pets_at_home_petsathomejobs_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b43bf0fa63ddfb21323f",
       "title": "Data Scientist - Credit Risk Modelling",
       "company": "jobs.ashbyhq.com",
