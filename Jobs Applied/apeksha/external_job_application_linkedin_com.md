@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-11-04T16:55:44.948Z
+- **Applied date:** 2026-11-11T19:32:33.487Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4485002474&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=27VW8QnIa2guClhlvaMfVA%3D%3D&trackingId=WAB%2Fg1NPxDqyH5ewOOFHWA%3D%3D&keywords=data%20scientist%20india&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=kWC2GKk8rD82ayK0aALWbw%3D%3D&start=75&geoId=102713980&distance=-0.621371&f_TPR=r86400&f_SAL=f_SA_id_227001%3A276001%2C277001
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4485002474&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=27VW8QnIa2guClhlvaMfVA%3D%3D&trackingId=WAB%2Fg1NPxDqyH5ewOOFHWA%3D%3D&keywords=data%20scientist%20india&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=kWC2GKk8rD82ayK0aALWbw%3D%3D&start=75&geoId=102713980&distance=-0.621371&f_TPR=r86400&f_SAL=f_SA_id_227001%3A276001%2C277001
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4480454403&eBP=CwEAAAGhzBhWpfK0GHEC3n2dkcYdHdqbqR17oeYPcVmH0Dij62JvXT2aeKlSlmMCvk6WGGwfLCRAYunXsdnUtfg8tYs0iWIfbawc5w7VQjuyb1_tZVsyFU-gQVaiOqo8c9LZ8_AiDmkkV8fBUcLrqwlWoePUJ0XAE-oiX0BxPQDvUPkP_eYT7iJ790nISAienIriH_JULtP5Guzhz5a07U23tULZkiNGEIkb-4M3BZVRW6UNRJjEDbxRGgvP54__dWlQik7C60zzk0nXvPvFIztbh93AysZ0OJyY4DQtYFEbHzaa47CHd205BEtBiJ4ue45K5ADX0xjS0-U4BzPFPhmz3updGLnVJ6vSld2GfK2hD4mvEZWtJcgw08CJa-FrQqDUsVlzgI1Ti3HJ3TV3nL0Fawvb&refId=fyWxl%2BjGO5z95jsHQUMICg%3D%3D&trackingId=MenU9Hp3YZ6Jr6Qar7zEig%3D%3D&keywords=Data%20Scientist%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=FyJRT6XloqxCS3mnBR9k4A%3D%3D&geoId=101165590&distance=-0.621371&f_TPR=r86400&f_AL=true
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4480454403&eBP=CwEAAAGhzBhWpfK0GHEC3n2dkcYdHdqbqR17oeYPcVmH0Dij62JvXT2aeKlSlmMCvk6WGGwfLCRAYunXsdnUtfg8tYs0iWIfbawc5w7VQjuyb1_tZVsyFU-gQVaiOqo8c9LZ8_AiDmkkV8fBUcLrqwlWoePUJ0XAE-oiX0BxPQDvUPkP_eYT7iJ790nISAienIriH_JULtP5Guzhz5a07U23tULZkiNGEIkb-4M3BZVRW6UNRJjEDbxRGgvP54__dWlQik7C60zzk0nXvPvFIztbh93AysZ0OJyY4DQtYFEbHzaa47CHd205BEtBiJ4ue45K5ADX0xjS0-U4BzPFPhmz3updGLnVJ6vSld2GfK2hD4mvEZWtJcgw08CJa-FrQqDUsVlzgI1Ti3HJ3TV3nL0Fawvb&refId=fyWxl%2BjGO5z95jsHQUMICg%3D%3D&trackingId=MenU9Hp3YZ6Jr6Qar7zEig%3D%3D&keywords=Data%20Scientist%20uk&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=FyJRT6XloqxCS3mnBR9k4A%3D%3D&geoId=101165590&distance=-0.621371&f_TPR=r86400&f_AL=true
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
