@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-83a01cd6747930c3cb14",
+      "title": "Data Scientist – Simulation & Digital Twins",
+      "company": "Tesco Careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.tesco.com/en_GB/careers/JobDetail/210371",
+      "portalUrl": "https://careers.tesco.com/en_GB/careers/JobDetail/210371",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-11T18:56:27.419Z",
+      "jobDescription": "# Data Scientist – Simulation & Digital Twins\n\n- **Company:** Tesco Careers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-11T18:56:27.419Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.tesco.com/en_GB/careers/JobDetail/210371\n- **Application portal:** https://careers.tesco.com/en_GB/careers/JobDetail/210371\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nDevelop\nand connect simulation models to help Tesco understand, evaluate and improve\noperations, including supply chain, and assess proposed changes before\nimplementation. Working with experienced...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_simulation_digital_twins_tesco_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-6376ca5d56c75e4d8e14",
       "title": "Associate Data Scientist",
       "company": "lseg.wd3.myworkdayjobs.com",
