@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-4e7bb7601d5e11c505d1",
+      "title": "Lead Data Scientist - Cazoo",
+      "company": "Cazoo",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.cazoo.co.uk/jobs/8704424-lead-data-scientist?utm_source=LinkedIn",
+      "portalUrl": "https://careers.cazoo.co.uk/jobs/8704424-lead-data-scientist?utm_source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-11T19:37:46.872Z",
+      "jobDescription": "# Lead Data Scientist - Cazoo\n\n- **Company:** Cazoo\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-11T19:37:46.872Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.cazoo.co.uk/jobs/8704424-lead-data-scientist?utm_source=LinkedIn\n- **Application portal:** https://careers.cazoo.co.uk/jobs/8704424-lead-data-scientist?utm_source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nBe Cazoo’s first Data Scientist. Build and deploy production ML models, shape our Data Science strategy and turn proprietary data into measurable commercial ...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/lead_data_scientist_cazoo_cazoo.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-1df20b7d5b69aa8ba0c1",
       "title": "External job application",
       "company": "linkedin.com",
