@@ -3,10 +3,10 @@
 - **Company:** careers.ibm.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-11-11T18:04:20.554Z
+- **Applied date:** 2026-11-12T18:06:11.624Z
 - **Licensed sponsor:** 
-- **Original posting:** https://careers.ibm.com/en_US/careers/JobDetail?jobId=131446&source=SN_LinkedIn
-- **Application portal:** https://careers.ibm.com/en_US/careers/JobDetail?jobId=131446&source=SN_LinkedIn
+- **Original posting:** https://careers.ibm.com/en_US/careers/JobDetail?jobId=141011&source=SN_LinkedIn
+- **Application portal:** https://careers.ibm.com/en_US/careers/JobDetail?jobId=141011&source=SN_LinkedIn
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
