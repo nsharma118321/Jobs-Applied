@@ -3,10 +3,10 @@
 - **Company:** careers.bakerhughes.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-09-18T13:21:14.435Z
+- **Applied date:** 2026-11-12T17:34:23.748Z
 - **Licensed sponsor:** 
-- **Original posting:** https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR168133EXTERNALENGLOBAL/Audit-Analytics-Specialist?utm_source=linkedin&utm_medium=phenom-feeds
-- **Application portal:** https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR168133EXTERNALENGLOBAL/Audit-Analytics-Specialist?utm_source=linkedin&utm_medium=phenom-feeds
+- **Original posting:** https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR168274EXTERNALENGLOBAL/Digital-Technology-Specialist-Data-Science?utm_source=linkedin&utm_medium=phenom-feeds
+- **Application portal:** https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR168274EXTERNALENGLOBAL/Digital-Technology-Specialist-Data-Science?utm_source=linkedin&utm_medium=phenom-feeds
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
