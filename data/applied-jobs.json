@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-b749f18249cadd6dccf7",
+      "title": "Stripe Careers | Strategy and Analytics Business Partner",
+      "company": "stripe.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://stripe.com/careers/listing/strategy-and-analytics-business-partner/8245230?gh_src=73vnei",
+      "portalUrl": "https://stripe.com/careers/listing/strategy-and-analytics-business-partner/8245230?gh_src=73vnei",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-12T18:58:15.261Z",
+      "jobDescription": "# Stripe Careers | Strategy and Analytics Business Partner\n\n- **Company:** stripe.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-12T18:58:15.261Z\n- **Licensed sponsor:** \n- **Original posting:** https://stripe.com/careers/listing/strategy-and-analytics-business-partner/8245230?gh_src=73vnei\n- **Application portal:** https://stripe.com/careers/listing/strategy-and-analytics-business-partner/8245230?gh_src=73vnei\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nHelp increase the GDP of the internet as part of our Infrastructure & Corporate Tech team.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/stripe_careers_strategy_and_analytics_business_partner_stripe_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-c10f804bdc2d44abd15d",
       "title": "Flexiple",
       "company": "app.flexiple.com",
