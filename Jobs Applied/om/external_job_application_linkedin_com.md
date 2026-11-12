@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-11-12T18:32:52.284Z
+- **Applied date:** 2026-11-12T19:11:10.647Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489200665&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=%2F8k8wGTyrX3cWS3PjF6ImA%3D%3D&trackingId=DMP06bXlM7WUXrWPGiTNQg%3D%3D&keywords=Data%20Scientist%20bangalore&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=112565523&distance=25.000314224655654&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489200665&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=%2F8k8wGTyrX3cWS3PjF6ImA%3D%3D&trackingId=DMP06bXlM7WUXrWPGiTNQg%3D%3D&keywords=Data%20Scientist%20bangalore&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=112565523&distance=25.000314224655654&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4490326656&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=1Lz%2BVwGLGUzZFY%2B2TnadLg%3D%3D&trackingId=cLkyIfDQvpKupC3hYlGOng%3D%3D&keywords=Business%20Anlayst%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=iOj3MWq3fs8z%2FJ9YQ63rtw%3D%3D&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4490326656&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=1Lz%2BVwGLGUzZFY%2B2TnadLg%3D%3D&trackingId=cLkyIfDQvpKupC3hYlGOng%3D%3D&keywords=Business%20Anlayst%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=iOj3MWq3fs8z%2FJ9YQ63rtw%3D%3D&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
