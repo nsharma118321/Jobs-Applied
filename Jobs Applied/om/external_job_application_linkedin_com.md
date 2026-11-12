@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-11-12T19:11:10.647Z
+- **Applied date:** 2026-11-12T19:13:04.184Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4490326656&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=1Lz%2BVwGLGUzZFY%2B2TnadLg%3D%3D&trackingId=cLkyIfDQvpKupC3hYlGOng%3D%3D&keywords=Business%20Anlayst%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=iOj3MWq3fs8z%2FJ9YQ63rtw%3D%3D&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4490326656&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=1Lz%2BVwGLGUzZFY%2B2TnadLg%3D%3D&trackingId=cLkyIfDQvpKupC3hYlGOng%3D%3D&keywords=Business%20Anlayst%20bangalore&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=iOj3MWq3fs8z%2FJ9YQ63rtw%3D%3D&geoId=112565523&distance=24.85484&f_TPR=r86400&f_AL=true
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489261021&eBP=CwEAAAGh0SyJH-PCmwbRDeDs99qQIqJbO-yJER_sV0fL-QrduX33aWXSD7oEn97o5BiiZ8qYG-3rRTXXJRdoCWD_pa9qvZybdNHLH4TvfIe-8N4XzNj9uQPwSMTxKc89D98ktaHdupWn89ywgGzc7AlwE6cl5UZMbkFc31VRlVJw_dywIICpWvVx7C6wUSX-HVyZRYGunJPUVHGVhjDPkkaQGPNcFneKDraSe5Slp4hWVE63gDY0d4JaGm2tZyM3025uQNCauLwbWR0gXKWRbLH2k974vjewnhL8oU_Tsdd3ZJCcLXpcnWxwiRiP4IqxM1a1NVW6kZq9APk3y7jVfhhHjDgF7dC8dtddpyn559JtKnAKAudLKyMD5nmC7EhcV1L3_RXwvB-Pt4_XSWEP&refId=mIGsvrNDn9W26F%2BSfV1yGA%3D%3D&trackingId=8kdGYztfWlbnVRMysmuYhQ%3D%3D&keywords=Business%20Anlayst%20UK&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r86400&f_AL=true
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489261021&eBP=CwEAAAGh0SyJH-PCmwbRDeDs99qQIqJbO-yJER_sV0fL-QrduX33aWXSD7oEn97o5BiiZ8qYG-3rRTXXJRdoCWD_pa9qvZybdNHLH4TvfIe-8N4XzNj9uQPwSMTxKc89D98ktaHdupWn89ywgGzc7AlwE6cl5UZMbkFc31VRlVJw_dywIICpWvVx7C6wUSX-HVyZRYGunJPUVHGVhjDPkkaQGPNcFneKDraSe5Slp4hWVE63gDY0d4JaGm2tZyM3025uQNCauLwbWR0gXKWRbLH2k974vjewnhL8oU_Tsdd3ZJCcLXpcnWxwiRiP4IqxM1a1NVW6kZq9APk3y7jVfhhHjDgF7dC8dtddpyn559JtKnAKAudLKyMD5nmC7EhcV1L3_RXwvB-Pt4_XSWEP&refId=mIGsvrNDn9W26F%2BSfV1yGA%3D%3D&trackingId=8kdGYztfWlbnVRMysmuYhQ%3D%3D&keywords=Business%20Anlayst%20UK&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r86400&f_AL=true
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
