@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-11-12T18:04:32.453Z
+- **Applied date:** 2026-11-12T18:32:52.284Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4429229461&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=UNZdlgeMXdFctSwx6N8Fag%3D%3D&trackingId=BPKD8N88fRjuo8eZ5Z3o3w%3D%3D&keywords=Data%20Scientist%20bangalore&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=25.000314224655654&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4429229461&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=UNZdlgeMXdFctSwx6N8Fag%3D%3D&trackingId=BPKD8N88fRjuo8eZ5Z3o3w%3D%3D&keywords=Data%20Scientist%20bangalore&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=112565523&distance=25.000314224655654&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489200665&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=%2F8k8wGTyrX3cWS3PjF6ImA%3D%3D&trackingId=DMP06bXlM7WUXrWPGiTNQg%3D%3D&keywords=Data%20Scientist%20bangalore&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=112565523&distance=25.000314224655654&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489200665&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=%2F8k8wGTyrX3cWS3PjF6ImA%3D%3D&trackingId=DMP06bXlM7WUXrWPGiTNQg%3D%3D&keywords=Data%20Scientist%20bangalore&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=112565523&distance=25.000314224655654&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
