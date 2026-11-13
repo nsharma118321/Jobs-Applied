@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-779ab837b5f28577481d",
+      "title": "Jobs",
+      "company": "Cardiff&#x20;and&#x20;Vale&#x20;University&#x20;Health&#x20;Board",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://cavuhb.nhs.wales/jobs/?ref=LinkedIn#!/job/v8305321",
+      "portalUrl": "https://cavuhb.nhs.wales/jobs/?ref=LinkedIn#!/job/v8305321",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-11-13T09:45:09.841Z",
+      "jobDescription": "# Jobs\n\n- **Company:** Cardiff&#x20;and&#x20;Vale&#x20;University&#x20;Health&#x20;Board\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-11-13T09:45:09.841Z\n- **Licensed sponsor:** \n- **Original posting:** https://cavuhb.nhs.wales/jobs/?ref=LinkedIn#!/job/v8305321\n- **Application portal:** https://cavuhb.nhs.wales/jobs/?ref=LinkedIn#!/job/v8305321\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/jobs_cardiff_x20_and_x20_vale_x20_university_x20_health_x20_board.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-2fc0d5f3b926a6a817c1",
       "title": "Business Analyst - CloserStill Media",
       "company": "CloserStill Media",
