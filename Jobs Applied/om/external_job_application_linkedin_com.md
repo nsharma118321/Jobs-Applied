@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-11-13T10:26:19.077Z
+- **Applied date:** 2026-11-13T10:28:34.495Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489549288&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=jT%2BBUEZZMKdE9f94%2B3%2BA0A%3D%3D&trackingId=bIrrS%2Bu1gDcJ4CycIS2AiQ%3D%3D&keywords=Business%20Anlayst%20Bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=112565523&distance=24.85484&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489549288&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=jT%2BBUEZZMKdE9f94%2B3%2BA0A%3D%3D&trackingId=bIrrS%2Bu1gDcJ4CycIS2AiQ%3D%3D&keywords=Business%20Anlayst%20Bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=112565523&distance=24.85484&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489548874&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=SovjPyyKB8GBJvWRs4mP8Q%3D%3D&trackingId=1cTXtQpeeFxzfzAJ%2BVlU%2Fg%3D%3D&keywords=Data%20Scientist%20Bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=112565523&distance=24.85484&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489548874&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=SovjPyyKB8GBJvWRs4mP8Q%3D%3D&trackingId=1cTXtQpeeFxzfzAJ%2BVlU%2Fg%3D%3D&keywords=Data%20Scientist%20Bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=112565523&distance=24.85484&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
