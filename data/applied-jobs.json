@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-d2ce6d811fde09b4fe1a",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4489536979&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=l%2B0dZwr%2B8DsytjznY9CbGQ%3D%3D&trackingId=vOEQnk9dNfZtL8NwabCWeA%3D%3D&keywords=Data%20Scientist%20Bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25&geoId=112565523&distance=24.85484&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4489536979&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=l%2B0dZwr%2B8DsytjznY9CbGQ%3D%3D&trackingId=vOEQnk9dNfZtL8NwabCWeA%3D%3D&keywords=Data%20Scientist%20Bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25&geoId=112565523&distance=24.85484&f_TPR=r86400",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-13T10:51:01.152Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-13T10:51:01.152Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489536979&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=l%2B0dZwr%2B8DsytjznY9CbGQ%3D%3D&trackingId=vOEQnk9dNfZtL8NwabCWeA%3D%3D&keywords=Data%20Scientist%20Bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25&geoId=112565523&distance=24.85484&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489536979&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=l%2B0dZwr%2B8DsytjznY9CbGQ%3D%3D&trackingId=vOEQnk9dNfZtL8NwabCWeA%3D%3D&keywords=Data%20Scientist%20Bangalore&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25&geoId=112565523&distance=24.85484&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-6b9b8dfc414c6ee60223",
       "title": "Senior Analyst-Data Science",
       "company": "American Express",
