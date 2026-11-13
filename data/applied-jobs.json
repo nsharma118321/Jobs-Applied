@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-10f5c84b641ea5303330",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4488950490&eBP=CwEAAAGh1f8a8RN4_S7bMu9ERkO7_dZZbK3ZFxY7x7rcvwsl7L5RblbQgDbUOJ3hZLnrWg9dNNpb1pQOtjqxW5rSGvHj-NpI9kVd5KX0a_quDpcIEjr0XYMIJDzTd7XfQkCaFdAbf5C2crRqz1vpa2In_JEyb0duU8D9VZYh-p-pg39uD6gmRFBkEpMha9ptgrWySntOEsRrbeqrFoWtYuc33dD-X07RB8w7VxRTXoRRZwesJ6vzsYqovbPmywMMN-udT3Lcvoc88ESq1yB_8O58nwItaQQy3F6GwSldX49vuP08hIQ278hvzSQT0phezF5FZtXrkcr3-x5MLwluS4VbEORT7H9btZ9ndthAx9zWiMu8rI_qYrKcehIeNYuWlvDMOfRHiLFHvF64p7Y&refId=P7fERaA4dcf1fGQQfD56sw%3D%3D&trackingId=VrOprIxWU47k2KSKjLHnNQ%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_LOCATION_HISTORY&referralSearchId=Uu2X7sVpoR6wrBoIGacUgQ%3D%3D&start=250&geoId=101165590&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4488950490&eBP=CwEAAAGh1f8a8RN4_S7bMu9ERkO7_dZZbK3ZFxY7x7rcvwsl7L5RblbQgDbUOJ3hZLnrWg9dNNpb1pQOtjqxW5rSGvHj-NpI9kVd5KX0a_quDpcIEjr0XYMIJDzTd7XfQkCaFdAbf5C2crRqz1vpa2In_JEyb0duU8D9VZYh-p-pg39uD6gmRFBkEpMha9ptgrWySntOEsRrbeqrFoWtYuc33dD-X07RB8w7VxRTXoRRZwesJ6vzsYqovbPmywMMN-udT3Lcvoc88ESq1yB_8O58nwItaQQy3F6GwSldX49vuP08hIQ278hvzSQT0phezF5FZtXrkcr3-x5MLwluS4VbEORT7H9btZ9ndthAx9zWiMu8rI_qYrKcehIeNYuWlvDMOfRHiLFHvF64p7Y&refId=P7fERaA4dcf1fGQQfD56sw%3D%3D&trackingId=VrOprIxWU47k2KSKjLHnNQ%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_LOCATION_HISTORY&referralSearchId=Uu2X7sVpoR6wrBoIGacUgQ%3D%3D&start=250&geoId=101165590&f_TPR=r86400",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-11-13T17:40:44.326Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-11-13T17:40:44.326Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4488950490&eBP=CwEAAAGh1f8a8RN4_S7bMu9ERkO7_dZZbK3ZFxY7x7rcvwsl7L5RblbQgDbUOJ3hZLnrWg9dNNpb1pQOtjqxW5rSGvHj-NpI9kVd5KX0a_quDpcIEjr0XYMIJDzTd7XfQkCaFdAbf5C2crRqz1vpa2In_JEyb0duU8D9VZYh-p-pg39uD6gmRFBkEpMha9ptgrWySntOEsRrbeqrFoWtYuc33dD-X07RB8w7VxRTXoRRZwesJ6vzsYqovbPmywMMN-udT3Lcvoc88ESq1yB_8O58nwItaQQy3F6GwSldX49vuP08hIQ278hvzSQT0phezF5FZtXrkcr3-x5MLwluS4VbEORT7H9btZ9ndthAx9zWiMu8rI_qYrKcehIeNYuWlvDMOfRHiLFHvF64p7Y&refId=P7fERaA4dcf1fGQQfD56sw%3D%3D&trackingId=VrOprIxWU47k2KSKjLHnNQ%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_LOCATION_HISTORY&referralSearchId=Uu2X7sVpoR6wrBoIGacUgQ%3D%3D&start=250&geoId=101165590&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4488950490&eBP=CwEAAAGh1f8a8RN4_S7bMu9ERkO7_dZZbK3ZFxY7x7rcvwsl7L5RblbQgDbUOJ3hZLnrWg9dNNpb1pQOtjqxW5rSGvHj-NpI9kVd5KX0a_quDpcIEjr0XYMIJDzTd7XfQkCaFdAbf5C2crRqz1vpa2In_JEyb0duU8D9VZYh-p-pg39uD6gmRFBkEpMha9ptgrWySntOEsRrbeqrFoWtYuc33dD-X07RB8w7VxRTXoRRZwesJ6vzsYqovbPmywMMN-udT3Lcvoc88ESq1yB_8O58nwItaQQy3F6GwSldX49vuP08hIQ278hvzSQT0phezF5FZtXrkcr3-x5MLwluS4VbEORT7H9btZ9ndthAx9zWiMu8rI_qYrKcehIeNYuWlvDMOfRHiLFHvF64p7Y&refId=P7fERaA4dcf1fGQQfD56sw%3D%3D&trackingId=VrOprIxWU47k2KSKjLHnNQ%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_LOCATION_HISTORY&referralSearchId=Uu2X7sVpoR6wrBoIGacUgQ%3D%3D&start=250&geoId=101165590&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-6019018be3917a905679",
       "title": "External job application",
       "company": "linkedin.com",
