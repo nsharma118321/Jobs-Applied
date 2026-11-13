@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-d722a328057c7c79cf1f",
+      "title": "Associate Business Systems Analyst",
+      "company": "Optimizely",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.smartrecruiters.com/Optimizely/744000160838288-associate-business-systems-analyst?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+      "portalUrl": "https://jobs.smartrecruiters.com/Optimizely/744000160838288-associate-business-systems-analyst?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-13T10:00:08.112Z",
+      "jobDescription": "# Associate Business Systems Analyst\n\n- **Company:** Optimizely\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-13T10:00:08.112Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.smartrecruiters.com/Optimizely/744000160838288-associate-business-systems-analyst?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73\n- **Application portal:** https://jobs.smartrecruiters.com/Optimizely/744000160838288-associate-business-systems-analyst?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nIntroductionWe are looking for an Associate Business Systems Analyst to join our growing Enterprise Applications team, supporting the delivery and optimisation of our Salesforce Revenue Cloud platform and broader Quote-to-Cash ecosystem. This is a hands-on, high-impact role for someone who is passio...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/associate_business_systems_analyst_optimizely.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-728bb4a15d9957561dc8",
       "title": "Business Analyst - SAP Logistics job in Anywhere, GBR | Software, Testing and Architecture jobs at Sopra Steria",
       "company": "Sopra Steria",
