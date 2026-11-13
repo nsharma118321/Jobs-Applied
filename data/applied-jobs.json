@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-f489977cd844ad0106d7",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4487815290&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=JNT7PoTC4%2FihP71cP2FF6w%3D%3D&trackingId=CqvgCGq9zx695lO7c6ITJw%3D%3D&keywords=Business%20Anlayst%20UK&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=101165590&f_TPR=r86400&f_AL=true",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4487815290&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=JNT7PoTC4%2FihP71cP2FF6w%3D%3D&trackingId=CqvgCGq9zx695lO7c6ITJw%3D%3D&keywords=Business%20Anlayst%20UK&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=101165590&f_TPR=r86400&f_AL=true",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-13T08:48:47.305Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-13T08:48:47.305Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487815290&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=JNT7PoTC4%2FihP71cP2FF6w%3D%3D&trackingId=CqvgCGq9zx695lO7c6ITJw%3D%3D&keywords=Business%20Anlayst%20UK&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=101165590&f_TPR=r86400&f_AL=true\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487815290&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=JNT7PoTC4%2FihP71cP2FF6w%3D%3D&trackingId=CqvgCGq9zx695lO7c6ITJw%3D%3D&keywords=Business%20Anlayst%20UK&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=101165590&f_TPR=r86400&f_AL=true\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-b81383bf0f9cd69ca48e",
       "title": "LinkedIn Job Search: Find US Jobs, Internships, Jobs Near Me",
       "company": "LinkedIn",
