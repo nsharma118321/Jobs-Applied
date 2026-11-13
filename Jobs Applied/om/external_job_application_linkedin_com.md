@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-11-13T08:48:47.305Z
+- **Applied date:** 2026-11-13T08:52:08.320Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487815290&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=JNT7PoTC4%2FihP71cP2FF6w%3D%3D&trackingId=CqvgCGq9zx695lO7c6ITJw%3D%3D&keywords=Business%20Anlayst%20UK&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=101165590&f_TPR=r86400&f_AL=true
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487815290&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=JNT7PoTC4%2FihP71cP2FF6w%3D%3D&trackingId=CqvgCGq9zx695lO7c6ITJw%3D%3D&keywords=Business%20Anlayst%20UK&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=101165590&f_TPR=r86400&f_AL=true
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487802839&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=JNT7PoTC4%2FihP71cP2FF6w%3D%3D&trackingId=J8Cx1wtN3eJC29yrszBrNA%3D%3D&keywords=Business%20Anlayst%20UK&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=101165590&f_TPR=r86400&f_AL=true
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487802839&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=JNT7PoTC4%2FihP71cP2FF6w%3D%3D&trackingId=J8Cx1wtN3eJC29yrszBrNA%3D%3D&keywords=Business%20Anlayst%20UK&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=101165590&f_TPR=r86400&f_AL=true
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
