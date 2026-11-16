@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-11-16T14:55:54.825Z
+- **Applied date:** 2026-11-16T15:57:01.686Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4490643432&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=jnf8iE02oWVCLk6gqdc6xg%3D%3D&trackingId=FkVua7hhUulRTCVx6BiwYw%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4490643432&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=jnf8iE02oWVCLk6gqdc6xg%3D%3D&trackingId=FkVua7hhUulRTCVx6BiwYw%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489779588&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=KhV8l17cK%2BYb3BAGETcmUQ%3D%3D&trackingId=dGOr%2F7nPkM56A2O%2BjK8hqw%3D%3D&origin=SEMANTIC_SEARCH_LANDING_PAGE&distance=null
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489779588&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=KhV8l17cK%2BYb3BAGETcmUQ%3D%3D&trackingId=dGOr%2F7nPkM56A2O%2BjK8hqw%3D%3D&origin=SEMANTIC_SEARCH_LANDING_PAGE&distance=null
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
