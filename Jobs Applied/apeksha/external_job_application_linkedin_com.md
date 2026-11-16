@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-11-16T15:57:01.686Z
+- **Applied date:** 2026-11-16T16:22:20.637Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489779588&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=KhV8l17cK%2BYb3BAGETcmUQ%3D%3D&trackingId=dGOr%2F7nPkM56A2O%2BjK8hqw%3D%3D&origin=SEMANTIC_SEARCH_LANDING_PAGE&distance=null
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489779588&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=KhV8l17cK%2BYb3BAGETcmUQ%3D%3D&trackingId=dGOr%2F7nPkM56A2O%2BjK8hqw%3D%3D&origin=SEMANTIC_SEARCH_LANDING_PAGE&distance=null
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487000050&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=61S2joJZYG7uef354rk%2BQQ%3D%3D&trackingId=iWT2wDeiSMX4kUjJKs6eWA%3D%3D&keywords=data%20science&origin=SUGGESTION
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487000050&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=61S2joJZYG7uef354rk%2BQQ%3D%3D&trackingId=iWT2wDeiSMX4kUjJKs6eWA%3D%3D&keywords=data%20science&origin=SUGGESTION
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
