@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-11-18T16:27:07.769Z
+- **Applied date:** 2026-11-18T16:27:38.249Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4490449576&eBP=CwEAAAGh7ulkJ8Q56xWU4v8krw6TdG3NtO0rf8uAjeKDmWOXxES81QNdosLXPwiDL_TatGVOWitvyxs2ypXO2cmvl5_HvJ-GmjoAgWcoswJhqO3EYv4tOdtxdZK2bJs2_R2TBVG1BAY5tmH88nzqpwpg5T3igVyyiWa7re-s5eWxVaIyqbaAFiZXJMWGnm0Mo5e4l1CX8WJZRHeIVXaWFw4NZt1tV_a_ADBE3H71KDM9SigP5HybJOlHpwHVQlxqzA_JHU8RV3Pm4r1_g3TvvFX56ZsflUb_AW0sRtLRk7RRNlVgVeuH7zN6YTifVHDkE32agQD4Upsg8fAz6WYlFeI9izdPfbVvsFXmlmz9Fu78FThKf_VoejVXUBxEjXR_MvDoZvUd-miGU7c0X2YgcMY&refId=MkIlrLZ3jb%2FHBG2D9jI9kQ%3D%3D&trackingId=0jGGHNG%2Bg07B9umqheqdCw%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=JsJKJCjOWOmH5MEHDnK2VQ%3D%3D&start=225&f_TPR=r604800
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4490449576&eBP=CwEAAAGh7ulkJ8Q56xWU4v8krw6TdG3NtO0rf8uAjeKDmWOXxES81QNdosLXPwiDL_TatGVOWitvyxs2ypXO2cmvl5_HvJ-GmjoAgWcoswJhqO3EYv4tOdtxdZK2bJs2_R2TBVG1BAY5tmH88nzqpwpg5T3igVyyiWa7re-s5eWxVaIyqbaAFiZXJMWGnm0Mo5e4l1CX8WJZRHeIVXaWFw4NZt1tV_a_ADBE3H71KDM9SigP5HybJOlHpwHVQlxqzA_JHU8RV3Pm4r1_g3TvvFX56ZsflUb_AW0sRtLRk7RRNlVgVeuH7zN6YTifVHDkE32agQD4Upsg8fAz6WYlFeI9izdPfbVvsFXmlmz9Fu78FThKf_VoejVXUBxEjXR_MvDoZvUd-miGU7c0X2YgcMY&refId=MkIlrLZ3jb%2FHBG2D9jI9kQ%3D%3D&trackingId=0jGGHNG%2Bg07B9umqheqdCw%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=JsJKJCjOWOmH5MEHDnK2VQ%3D%3D&start=225&f_TPR=r604800
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4491151351&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=2tlP4qMFJaf5FciQ2Zw59w%3D%3D&trackingId=jA3ycrOLWgIYHfTUKUmY0A%3D%3D&keywords=data%20analyst%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r604800
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4491151351&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=2tlP4qMFJaf5FciQ2Zw59w%3D%3D&trackingId=jA3ycrOLWgIYHfTUKUmY0A%3D%3D&keywords=data%20analyst%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&geoId=101165590&distance=-0.621371&f_TPR=r604800
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
