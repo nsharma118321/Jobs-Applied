@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-11-19T18:43:03.142Z
+- **Applied date:** 2026-11-19T18:43:37.020Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4492409452&eBP=CwEAAAGh9R33zFVk03l59v4jzXErcgOimLKfxPuRoJ6HnE0KA3qQxxIcHDGZ9DxLbLwuhVzaTwy7Eh1ksmzt7D1v9bWlQpGSAFIzwXNquyc0rBLq_fqn73CxVZv0fkbl5jZJaCEoLX8DEFkGA0V3MnUg219lWHyqU8CNUIRL8QJVQuZgPmOtFDnqnot-tnnVNBrjuLGAMXnArKOh0E4F2YNpU5h1oUm---f7VH714W6aD1WFOhj9mRYSpul-cdBGhHlw2osuDxUlGaGYiWXNwNxWnKq4K13j3iO45nnzRliGW7kS8xADNKEn3C1NpV0AgtmZUiUUB86feo1SJo8ErpZfc_Xh_D-DcRQra8QpobO5QBvsN9eJLozEkpr3eFb0NwWQrgDsSxhZsMtErfzWDnw&refId=UzeP42ESM6mJdalLRGs%2B0Q%3D%3D&trackingId=nBiRrmHWDXfRWsAgGDZVaQ%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=75&geoId=101165590&distance=-0.621371&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4492409452&eBP=CwEAAAGh9R33zFVk03l59v4jzXErcgOimLKfxPuRoJ6HnE0KA3qQxxIcHDGZ9DxLbLwuhVzaTwy7Eh1ksmzt7D1v9bWlQpGSAFIzwXNquyc0rBLq_fqn73CxVZv0fkbl5jZJaCEoLX8DEFkGA0V3MnUg219lWHyqU8CNUIRL8QJVQuZgPmOtFDnqnot-tnnVNBrjuLGAMXnArKOh0E4F2YNpU5h1oUm---f7VH714W6aD1WFOhj9mRYSpul-cdBGhHlw2osuDxUlGaGYiWXNwNxWnKq4K13j3iO45nnzRliGW7kS8xADNKEn3C1NpV0AgtmZUiUUB86feo1SJo8ErpZfc_Xh_D-DcRQra8QpobO5QBvsN9eJLozEkpr3eFb0NwWQrgDsSxhZsMtErfzWDnw&refId=UzeP42ESM6mJdalLRGs%2B0Q%3D%3D&trackingId=nBiRrmHWDXfRWsAgGDZVaQ%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=75&geoId=101165590&distance=-0.621371&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4492400908&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=GjMvDQ2Sj3lP70Cs%2B%2Fs6Xg%3D%3D&trackingId=Rc%2B93RnEBPWJ0WTZdLD%2BAQ%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=100&geoId=101165590&distance=-0.621371&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4492400908&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=GjMvDQ2Sj3lP70Cs%2B%2Fs6Xg%3D%3D&trackingId=Rc%2B93RnEBPWJ0WTZdLD%2BAQ%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=100&geoId=101165590&distance=-0.621371&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
