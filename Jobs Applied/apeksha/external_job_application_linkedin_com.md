@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-11-19T18:27:20.640Z
+- **Applied date:** 2026-11-19T18:27:56.002Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4490146679&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=fxI9b3BoQmgkQXNJ0o%2F70Q%3D%3D&trackingId=7SFjtsuk0FlnvocVC75ENA%3D%3D&keywords=data%20SCientist&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25&geoId=101165590&distance=-0.621371&f_TPR=r604800
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4490146679&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=fxI9b3BoQmgkQXNJ0o%2F70Q%3D%3D&trackingId=7SFjtsuk0FlnvocVC75ENA%3D%3D&keywords=data%20SCientist&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25&geoId=101165590&distance=-0.621371&f_TPR=r604800
+- **Original posting:** http://linkedin.com/jobs/search-results/?currentJobId=4492255441&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=YqQ4GNeIUIr1%2F5EO50eDEA%3D%3D&trackingId=m5GLjWhGR7zdCXl7ZPDwqw%3D%3D&keywords=data%20SCientist&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50&geoId=101165590&distance=-0.621371&f_TPR=r604800
+- **Application portal:** http://linkedin.com/jobs/search-results/?currentJobId=4492255441&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=YqQ4GNeIUIr1%2F5EO50eDEA%3D%3D&trackingId=m5GLjWhGR7zdCXl7ZPDwqw%3D%3D&keywords=data%20SCientist&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50&geoId=101165590&distance=-0.621371&f_TPR=r604800
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
