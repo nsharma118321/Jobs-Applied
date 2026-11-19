@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-11-19T18:28:43.096Z
+- **Applied date:** 2026-11-19T18:30:16.297Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4492138755&eBP=CwEAAAGh9RDrzNyKsLiwgpLNSeRjcwk1wVbKaKS9YYXRRnkM-VpAwLT1tUEG6Cr94YkVkBoWraX9Ti4cZPIhW5z3IZmQscQm2EGfnsWZNMEYs54e7R8VeYOdSi-ajeN32I1NiwDkQALzjMFAQdjxvvIlbgslBcmXq_piLp2kKwDvW8uR2pBclHzpcDwC6-mbJKJMtjDfswyVLih4eNj59-1XMJFsJ9XqNBT5YnumvsI-XJ1H6qbBs8HkE79N_lY4wjwlboZazPjflZyYDmFx46cKHhI0fTh3vGyR96Y-OTnStKCZSa-Mu2N4kgLJnL6ZD_5pODD0stBDBseoAUYeoJ3-j7XU6rf02taCDvc1zNddwQ0hZPetGztoFvMHudppEI7FQAoqQByb4NhVrxcz&refId=Bn4LP3ZMiRjtopwgLI6rHg%3D%3D&trackingId=%2FZwwyLhNAoMPP%2FNdkd9VZw%3D%3D&keywords=data%20SCientist&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=75&geoId=101165590&distance=-0.621371&f_TPR=r604800
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4492138755&eBP=CwEAAAGh9RDrzNyKsLiwgpLNSeRjcwk1wVbKaKS9YYXRRnkM-VpAwLT1tUEG6Cr94YkVkBoWraX9Ti4cZPIhW5z3IZmQscQm2EGfnsWZNMEYs54e7R8VeYOdSi-ajeN32I1NiwDkQALzjMFAQdjxvvIlbgslBcmXq_piLp2kKwDvW8uR2pBclHzpcDwC6-mbJKJMtjDfswyVLih4eNj59-1XMJFsJ9XqNBT5YnumvsI-XJ1H6qbBs8HkE79N_lY4wjwlboZazPjflZyYDmFx46cKHhI0fTh3vGyR96Y-OTnStKCZSa-Mu2N4kgLJnL6ZD_5pODD0stBDBseoAUYeoJ3-j7XU6rf02taCDvc1zNddwQ0hZPetGztoFvMHudppEI7FQAoqQByb4NhVrxcz&refId=Bn4LP3ZMiRjtopwgLI6rHg%3D%3D&trackingId=%2FZwwyLhNAoMPP%2FNdkd9VZw%3D%3D&keywords=data%20SCientist&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=75&geoId=101165590&distance=-0.621371&f_TPR=r604800
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4492416672&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=W9kigKw8JkmPL3FgNguQHw%3D%3D&trackingId=84JXArrSSp2wJvgDx6x1Vw%3D%3D&keywords=data%20SCientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=hPruFJufw%2BzY9SeGCmmWeA%3D%3D&geoId=101165590&distance=-0.621371&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4492416672&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=W9kigKw8JkmPL3FgNguQHw%3D%3D&trackingId=84JXArrSSp2wJvgDx6x1Vw%3D%3D&keywords=data%20SCientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=hPruFJufw%2BzY9SeGCmmWeA%3D%3D&geoId=101165590&distance=-0.621371&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
