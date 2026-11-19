@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-cf43fae444035266294b",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "http://linkedin.com/jobs/search-results/?currentJobId=4492255441&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=YqQ4GNeIUIr1%2F5EO50eDEA%3D%3D&trackingId=m5GLjWhGR7zdCXl7ZPDwqw%3D%3D&keywords=data%20SCientist&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50&geoId=101165590&distance=-0.621371&f_TPR=r604800",
+      "portalUrl": "http://linkedin.com/jobs/search-results/?currentJobId=4492255441&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=YqQ4GNeIUIr1%2F5EO50eDEA%3D%3D&trackingId=m5GLjWhGR7zdCXl7ZPDwqw%3D%3D&keywords=data%20SCientist&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50&geoId=101165590&distance=-0.621371&f_TPR=r604800",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-11-19T18:27:56.002Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-11-19T18:27:56.002Z\n- **Licensed sponsor:** \n- **Original posting:** http://linkedin.com/jobs/search-results/?currentJobId=4492255441&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=YqQ4GNeIUIr1%2F5EO50eDEA%3D%3D&trackingId=m5GLjWhGR7zdCXl7ZPDwqw%3D%3D&keywords=data%20SCientist&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50&geoId=101165590&distance=-0.621371&f_TPR=r604800\n- **Application portal:** http://linkedin.com/jobs/search-results/?currentJobId=4492255441&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=YqQ4GNeIUIr1%2F5EO50eDEA%3D%3D&trackingId=m5GLjWhGR7zdCXl7ZPDwqw%3D%3D&keywords=data%20SCientist&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50&geoId=101165590&distance=-0.621371&f_TPR=r604800\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-d43cd06f58ce5b3aae0e",
       "title": "External job application",
       "company": "linkedin.com",
