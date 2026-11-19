@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-11-19T18:37:15.854Z
+- **Applied date:** 2026-11-19T18:37:36.839Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4492148747&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=3i7731iSG6ATklrXZ6tYLQ%3D%3D&trackingId=oYuxjynuNrCX%2FLFshj4rTA%3D%3D&keywords=data%20SCientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=hPruFJufw%2BzY9SeGCmmWeA%3D%3D&start=100&geoId=101165590&distance=-0.621371&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4492148747&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=3i7731iSG6ATklrXZ6tYLQ%3D%3D&trackingId=oYuxjynuNrCX%2FLFshj4rTA%3D%3D&keywords=data%20SCientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=hPruFJufw%2BzY9SeGCmmWeA%3D%3D&start=100&geoId=101165590&distance=-0.621371&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4492476066&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=3i7731iSG6ATklrXZ6tYLQ%3D%3D&trackingId=rkciSVkFVEtIgxLyY0Otdg%3D%3D&keywords=data%20SCientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=hPruFJufw%2BzY9SeGCmmWeA%3D%3D&start=100&geoId=101165590&distance=-0.621371&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4492476066&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=3i7731iSG6ATklrXZ6tYLQ%3D%3D&trackingId=rkciSVkFVEtIgxLyY0Otdg%3D%3D&keywords=data%20SCientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=hPruFJufw%2BzY9SeGCmmWeA%3D%3D&start=100&geoId=101165590&distance=-0.621371&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
