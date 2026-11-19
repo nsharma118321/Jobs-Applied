@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-11-19T18:46:33.168Z
+- **Applied date:** 2026-11-19T18:47:07.592Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4483555489&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=DHuStlricOExU%2BAL2tOJTw%3D%3D&trackingId=h%2FYiQDtqe7%2FQP%2BJRfFUTNQ%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=150&geoId=101165590&distance=-0.621371&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4483555489&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=DHuStlricOExU%2BAL2tOJTw%3D%3D&trackingId=h%2FYiQDtqe7%2FQP%2BJRfFUTNQ%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=150&geoId=101165590&distance=-0.621371&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4486294694&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=DHuStlricOExU%2BAL2tOJTw%3D%3D&trackingId=MHusn5eniUQNW416C5x5qQ%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=150&geoId=101165590&distance=-0.621371&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4486294694&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=DHuStlricOExU%2BAL2tOJTw%3D%3D&trackingId=MHusn5eniUQNW416C5x5qQ%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=150&geoId=101165590&distance=-0.621371&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
