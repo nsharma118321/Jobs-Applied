@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-11-23T16:45:52.359Z
+- **Applied date:** 2026-11-23T16:47:41.939Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4492903513&eBP=CwEAAAGiCUxotIoEjEKcoVuSxYgrn9mGqTQxxPMJFcRng6Kod2UIYEORlfZMyLKBV13KizIHulCpqU9NPwiNzXc604T46kL8vt19AOTMfCfF7FA96P56jL9Do56XHBPEpczRiH-e561Onkei-9VcC8BV5dUVZ_jJmlc22CEi2PqkDaN_AVQCnJculza_8CpKAZWRw1P33NN7BmeFYlMemDBiCu09kCZJ47PVDdBx_anWGzbnbrHnO13mmx3Gc1sesWvwaGm-A4SUzaNN7gmPbJamnt7UVdDLLqQ9mK0cPHpUG6y88GurHqwuqZ_nVAQF1d2soYcsWHR2KJNK2PJkxJ218AoaQLmTCwmgb06hTA2_JIUx9YgeydiB1VIAyqgTvVDXtLmVScow8OCyi3YUKTNWsIsL&refId=%2B3XWr3emMfqbED7ZY9jYRg%3D%3D&trackingId=AZ%2FcWl9%2BMUouCNu8ENDgHQ%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25&geoId=101165590&distance=-0.621371&f_AL=true
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4492903513&eBP=CwEAAAGiCUxotIoEjEKcoVuSxYgrn9mGqTQxxPMJFcRng6Kod2UIYEORlfZMyLKBV13KizIHulCpqU9NPwiNzXc604T46kL8vt19AOTMfCfF7FA96P56jL9Do56XHBPEpczRiH-e561Onkei-9VcC8BV5dUVZ_jJmlc22CEi2PqkDaN_AVQCnJculza_8CpKAZWRw1P33NN7BmeFYlMemDBiCu09kCZJ47PVDdBx_anWGzbnbrHnO13mmx3Gc1sesWvwaGm-A4SUzaNN7gmPbJamnt7UVdDLLqQ9mK0cPHpUG6y88GurHqwuqZ_nVAQF1d2soYcsWHR2KJNK2PJkxJ218AoaQLmTCwmgb06hTA2_JIUx9YgeydiB1VIAyqgTvVDXtLmVScow8OCyi3YUKTNWsIsL&refId=%2B3XWr3emMfqbED7ZY9jYRg%3D%3D&trackingId=AZ%2FcWl9%2BMUouCNu8ENDgHQ%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25&geoId=101165590&distance=-0.621371&f_AL=true
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4493638783&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=55N8HbPfTw7lUq7bJHCKkQ%3D%3D&trackingId=WoLW8mZDNjGaryYZW4qKiw%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50&geoId=101165590&distance=-0.621371&f_AL=true
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4493638783&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=55N8HbPfTw7lUq7bJHCKkQ%3D%3D&trackingId=WoLW8mZDNjGaryYZW4qKiw%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50&geoId=101165590&distance=-0.621371&f_AL=true
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
