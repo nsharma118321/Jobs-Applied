@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-74e9e97048c3cd885cf6",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4482882782&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=OB9UdlzZYCwtB8zWzzyCrA%3D%3D&trackingId=yLOqbJuYQBf5wMjV0vAhYQ%3D%3D&keywords=data%20%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4482882782&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=OB9UdlzZYCwtB8zWzzyCrA%3D%3D&trackingId=yLOqbJuYQBf5wMjV0vAhYQ%3D%3D&keywords=data%20%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50",
+      "appliedBy": "Apeksha",
+      "appliedAt": "2026-11-24T15:58:28.268Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** Apeksha\n- **Applied date:** 2026-11-24T15:58:28.268Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4482882782&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=OB9UdlzZYCwtB8zWzzyCrA%3D%3D&trackingId=yLOqbJuYQBf5wMjV0vAhYQ%3D%3D&keywords=data%20%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4482882782&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=OB9UdlzZYCwtB8zWzzyCrA%3D%3D&trackingId=yLOqbJuYQBf5wMjV0vAhYQ%3D%3D&keywords=data%20%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=50\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/apeksha/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-3a7a00e7035bf5feb679",
       "title": "External job application",
       "company": "linkedin.com",
