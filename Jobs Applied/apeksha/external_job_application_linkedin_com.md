@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-11-24T15:53:28.688Z
+- **Applied date:** 2026-11-24T15:56:48.155Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4475961742&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=SIcn56fSa8n9NzICNNz84A%3D%3D&trackingId=uYjGHygudCXvPABXUVaQlQ%3D%3D&keywords=data%20%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4475961742&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=SIcn56fSa8n9NzICNNz84A%3D%3D&trackingId=uYjGHygudCXvPABXUVaQlQ%3D%3D&keywords=data%20%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4480251339&eBP=CwEAAAGiDkRRyRdn3JUDjTEFqiAmYlYL-AoVZl3HM9vTavv6Q6J1ranQaPE0DyB2o1oSsS8VztVtqIcKkTyPD6w4Sc6v6NiOrdwMDqXOnqS27E5SQzTwetrOXL1RlH3nslj08R1VQDTfjLCLKaBPQOPjAaEZLqmZCsA0fKi_agI6a-3ZmzTquyW-IvWfvqsIJer0GJIf3RWlFZpOSh56nYBEkmbnMKT0w7_7DSAjQVY5CP-nk7jBYvyc1IHNj3wsSP9_SK8QJOSffyORFDOvf_zmmDhSzzU5KFDUNNrdVekIN33Evb_RYVOc-a3SvUi6L80XwrurqxlpRxc5ltT8S8P5aVUGoJM4zop8T1MEHAEfoy7PlkuetN2PRiiEo7fXtbKmuUlweLNRQWryDW4l&refId=5VbgGoJYoNU4hPAoJuCp9g%3D%3D&trackingId=Efq0HRrlJbH8Ms1yUCiSNw%3D%3D&keywords=data%20%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4480251339&eBP=CwEAAAGiDkRRyRdn3JUDjTEFqiAmYlYL-AoVZl3HM9vTavv6Q6J1ranQaPE0DyB2o1oSsS8VztVtqIcKkTyPD6w4Sc6v6NiOrdwMDqXOnqS27E5SQzTwetrOXL1RlH3nslj08R1VQDTfjLCLKaBPQOPjAaEZLqmZCsA0fKi_agI6a-3ZmzTquyW-IvWfvqsIJer0GJIf3RWlFZpOSh56nYBEkmbnMKT0w7_7DSAjQVY5CP-nk7jBYvyc1IHNj3wsSP9_SK8QJOSffyORFDOvf_zmmDhSzzU5KFDUNNrdVekIN33Evb_RYVOc-a3SvUi6L80XwrurqxlpRxc5ltT8S8P5aVUGoJM4zop8T1MEHAEfoy7PlkuetN2PRiiEo7fXtbKmuUlweLNRQWryDW4l&refId=5VbgGoJYoNU4hPAoJuCp9g%3D%3D&trackingId=Efq0HRrlJbH8Ms1yUCiSNw%3D%3D&keywords=data%20%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
