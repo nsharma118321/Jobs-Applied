@@ -3,13 +3,13 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-11-24T14:49:45.072Z
+- **Applied date:** 2026-11-24T14:54:41.844Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4491407215&eBP=CwEAAAGiDgcGnDJSS8ktZ557EmhzasJRePe8_N06sk9uOVDG41glXd9VGQAAyXMcIYb2PcZLGrxQaVDtPvs-lvFcnJOYmUsoG00Y1kn5tODGgTEt7wVJJ4T7pl0WHC-_hthxLtGGZEUm24CGZs_b722XzYKpQvbU-3WapG05Nyc1R0nALWJNmIqqoijSMpezwxclW-bW_DVPL4fpLcgkedOjStqyiX2jFzCnmgJEuT4j9xC-nRNW10ZGgfSf3Fih3Nh20QgURhwenAYvrCZXEnwx7pq6l8SStKK-rGHmQJEyDaF9VKWxM4pioawNsvQb0GCBl82eynTzQlu74YeMgjg-5ehHz8m2xw9TYJa8LSwZ3896yVxav_erAme8jEb64t8PIQ-5ebMxDjvPRw&refId=DVmdGXagH0HnI0F84fgS6g%3D%3D&trackingId=Gt8tOp15y32KXrAUZOeoYw%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=OnISc8dPlf%2FZn0pFfXkjVw%3D%3D&start=150&f_AL=true
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4491407215&eBP=CwEAAAGiDgcGnDJSS8ktZ557EmhzasJRePe8_N06sk9uOVDG41glXd9VGQAAyXMcIYb2PcZLGrxQaVDtPvs-lvFcnJOYmUsoG00Y1kn5tODGgTEt7wVJJ4T7pl0WHC-_hthxLtGGZEUm24CGZs_b722XzYKpQvbU-3WapG05Nyc1R0nALWJNmIqqoijSMpezwxclW-bW_DVPL4fpLcgkedOjStqyiX2jFzCnmgJEuT4j9xC-nRNW10ZGgfSf3Fih3Nh20QgURhwenAYvrCZXEnwx7pq6l8SStKK-rGHmQJEyDaF9VKWxM4pioawNsvQb0GCBl82eynTzQlu74YeMgjg-5ehHz8m2xw9TYJa8LSwZ3896yVxav_erAme8jEb64t8PIQ-5ebMxDjvPRw&refId=DVmdGXagH0HnI0F84fgS6g%3D%3D&trackingId=Gt8tOp15y32KXrAUZOeoYw%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=OnISc8dPlf%2FZn0pFfXkjVw%3D%3D&start=150&f_AL=true
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487650534&eBP=CwEAAAGiDgx1JYVJFAAaqqKPNVaCdL_JaSGvSXHPIBTzGsy1aJPYBSwxn7QE31VauQZXBTzgj9IW2ns2kQR9FTLGS4ZV-oHHFAJAEop3rKChkoRzF7Vo4kqzWs8iUxdJdDenGkq-LDKoe-ThLk_q2PBgmlrniraFWZkmJlT8tmszBiNvpT4VGUJqzf2X4nSApWKY5MC7XQM1z1RlHIErReg8iwQHbPGOVLT7W9bKMGiEBTteNpoeK9hY5Z3-YFvDozkUPggvWfnCh7ZXC4KpPdl_wmwAhJDXRUyq_ukWw7nZ5oizKWmLJJf-gYoJKwsgojSIl72v2bNrzbw2OIe3BRjVX0OyQPLhMwe7rG8NcsXHY_A3QonB518P_akZvNu2uAXD5Rw_BLr6A0s&refId=l%2BqHY%2B7WxUn%2F6BpfbFg%2FzA%3D%3D&trackingId=EGoZ9cn0C%2BtFJf4TX6RQJw%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=OnISc8dPlf%2FZn0pFfXkjVw%3D%3D&start=300&f_AL=true
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4487650534&eBP=CwEAAAGiDgx1JYVJFAAaqqKPNVaCdL_JaSGvSXHPIBTzGsy1aJPYBSwxn7QE31VauQZXBTzgj9IW2ns2kQR9FTLGS4ZV-oHHFAJAEop3rKChkoRzF7Vo4kqzWs8iUxdJdDenGkq-LDKoe-ThLk_q2PBgmlrniraFWZkmJlT8tmszBiNvpT4VGUJqzf2X4nSApWKY5MC7XQM1z1RlHIErReg8iwQHbPGOVLT7W9bKMGiEBTteNpoeK9hY5Z3-YFvDozkUPggvWfnCh7ZXC4KpPdl_wmwAhJDXRUyq_ukWw7nZ5oizKWmLJJf-gYoJKwsgojSIl72v2bNrzbw2OIe3BRjVX0OyQPLhMwe7rG8NcsXHY_A3QonB518P_akZvNu2uAXD5Rw_BLr6A0s&refId=l%2BqHY%2B7WxUn%2F6BpfbFg%2FzA%3D%3D&trackingId=EGoZ9cn0C%2BtFJf4TX6RQJw%3D%3D&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=OnISc8dPlf%2FZn0pFfXkjVw%3D%3D&start=300&f_AL=true
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-Today’s top 8,000+ Data Scientist jobs in United States. Leverage your professional network, and get hired. New Data Scientist jobs added daily.
+The full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.
