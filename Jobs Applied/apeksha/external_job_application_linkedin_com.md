@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-11-24T15:57:19.589Z
+- **Applied date:** 2026-11-24T15:57:51.060Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4493234549&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5VbgGoJYoNU4hPAoJuCp9g%3D%3D&trackingId=WXMbAolY99uc4I8YwqMsbg%3D%3D&keywords=data%20%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4493234549&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5VbgGoJYoNU4hPAoJuCp9g%3D%3D&trackingId=WXMbAolY99uc4I8YwqMsbg%3D%3D&keywords=data%20%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4493233542&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5VbgGoJYoNU4hPAoJuCp9g%3D%3D&trackingId=hdwYbhCtIZuKPowR21p%2Fzg%3D%3D&keywords=data%20%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4493233542&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5VbgGoJYoNU4hPAoJuCp9g%3D%3D&trackingId=hdwYbhCtIZuKPowR21p%2Fzg%3D%3D&keywords=data%20%20scientist%20uk&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=25
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
