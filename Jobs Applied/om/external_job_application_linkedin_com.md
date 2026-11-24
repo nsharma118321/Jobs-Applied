@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-11-24T14:56:24.931Z
+- **Applied date:** 2026-11-24T15:41:24.108Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4491580965&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=f43M3kgS3AnfuVMzFunoCQ%3D%3D&trackingId=Bik%2Fi38yb7XGurK2qasLaQ%3D%3D&keywords=data%20analyst%20Easy%20Apply%20banglore&origin=SEMANTIC_SEARCH_LANDING_PAGE
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4491580965&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=f43M3kgS3AnfuVMzFunoCQ%3D%3D&trackingId=Bik%2Fi38yb7XGurK2qasLaQ%3D%3D&keywords=data%20analyst%20Easy%20Apply%20banglore&origin=SEMANTIC_SEARCH_LANDING_PAGE
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489917204&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=f43M3kgS3AnfuVMzFunoCQ%3D%3D&trackingId=W8o4xl2uOIgujhXsnha1Fg%3D%3D&keywords=data%20analyst%20Easy%20Apply%20banglore&origin=SEMANTIC_SEARCH_LANDING_PAGE
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4489917204&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=f43M3kgS3AnfuVMzFunoCQ%3D%3D&trackingId=W8o4xl2uOIgujhXsnha1Fg%3D%3D&keywords=data%20analyst%20Easy%20Apply%20banglore&origin=SEMANTIC_SEARCH_LANDING_PAGE
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
