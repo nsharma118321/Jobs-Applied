@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-2a4c4ecf194c3b350699",
+      "title": "Western Union Careers",
+      "company": "Western Union",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.westernunion.com/job-details/24248588/data-scientist-london-gb/?=11663&source=LinkedIn",
+      "portalUrl": "https://careers.westernunion.com/job-details/24248588/data-scientist-london-gb/?=11663&source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-25T10:12:29.650Z",
+      "jobDescription": "# Western Union Careers\n\n- **Company:** Western Union\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-25T10:12:29.650Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.westernunion.com/job-details/24248588/data-scientist-london-gb/?=11663&source=LinkedIn\n- **Application portal:** https://careers.westernunion.com/job-details/24248588/data-scientist-london-gb/?=11663&source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nWe believe in the work we do and who we hire to get it done.Get job details on a Data Scientist in London, England\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/western_union_careers_western_union.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-0d030151e2b0baa0c177",
       "title": "Apply Today | ICF",
       "company": "careers.icf.com",
