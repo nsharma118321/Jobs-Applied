@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-60a52761680593e0d9bc",
+      "title": "Group Data Scientist",
+      "company": "DP World",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24507?utm_medium=jobshare",
+      "portalUrl": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24507?utm_medium=jobshare",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-25T08:20:01.869Z",
+      "jobDescription": "# Group Data Scientist\n\n- **Company:** DP World\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-25T08:20:01.869Z\n- **Licensed sponsor:** \n- **Original posting:** https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24507?utm_medium=jobshare\n- **Application portal:** https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24507?utm_medium=jobshare\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nDP World is one of the largest logistics players in logistics and marine in the globe. It is an incredibly exciting time at DPW! We have ambitious plans for the future by democratizing AI for the business. As the Data Scientist, you will lead our organization\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/group_data_scientist_dp_world.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-a700f42810f65d2892cb",
       "title": "Data Scientist-Engine Data Analytics",
       "company": "Caterpillar Careers",
