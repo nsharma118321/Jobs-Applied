@@ -3,10 +3,10 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** Apeksha
-- **Applied date:** 2026-11-25T12:26:53.057Z
+- **Applied date:** 2026-11-25T13:29:14.820Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4494124508&eBP=CwEAAAGiElmfEbrjTBcZmN_7Qio2UdyaZLMtwQkjAiSSdtWINjvUtnTsEWCdtP5pe6Vm9DWEw3Hi3YGqFERcTp82ZCy1SddgeDnfchT0ap0ELcRwkKCISIPiEEPKEYtaAkTy0rwJOaRmw45Bxz4n4Ads--iYmTUF2GVQZ4zXOgVyfQZEZD3_VspHlI-yMwwjYOkRKAplN7DWP_VhGIS9_fCGy6rEdIDJ-kN36mL0nHVuop83OTiZKEMnOuvg39XzMVvX015J6XBvGpA8W0KRq7s68Do_hym46XE8Ei09LknGmYEpAxkb5mgwbmlgDJ8vqdZiuZVJIS-sHK3SHyxUC3sQJeAdnM7npmcLPN0a-8PWnQ6BTF1_LUbBUY7E1S9wtqXLX9B_AKuqzUtn3J18&refId=mVxbt7PeM3kE44jY3WYCoQ%3D%3D&trackingId=cgqE7kxBO9QETa%2FzPHCoNg%3D%3D&keywords=data%20%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=QdWjIHKJc4%2Bj8199%2BNM6rw%3D%3D&start=100&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4494124508&eBP=CwEAAAGiElmfEbrjTBcZmN_7Qio2UdyaZLMtwQkjAiSSdtWINjvUtnTsEWCdtP5pe6Vm9DWEw3Hi3YGqFERcTp82ZCy1SddgeDnfchT0ap0ELcRwkKCISIPiEEPKEYtaAkTy0rwJOaRmw45Bxz4n4Ads--iYmTUF2GVQZ4zXOgVyfQZEZD3_VspHlI-yMwwjYOkRKAplN7DWP_VhGIS9_fCGy6rEdIDJ-kN36mL0nHVuop83OTiZKEMnOuvg39XzMVvX015J6XBvGpA8W0KRq7s68Do_hym46XE8Ei09LknGmYEpAxkb5mgwbmlgDJ8vqdZiuZVJIS-sHK3SHyxUC3sQJeAdnM7npmcLPN0a-8PWnQ6BTF1_LUbBUY7E1S9wtqXLX9B_AKuqzUtn3J18&refId=mVxbt7PeM3kE44jY3WYCoQ%3D%3D&trackingId=cgqE7kxBO9QETa%2FzPHCoNg%3D%3D&keywords=data%20%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=QdWjIHKJc4%2Bj8199%2BNM6rw%3D%3D&start=100&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4494318838&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=2am3I7wEAVaRUVsx27AKwg%3D%3D&trackingId=yZ2ioW1BSH8QJX2TusrI3A%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4494318838&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=2am3I7wEAVaRUVsx27AKwg%3D%3D&trackingId=yZ2ioW1BSH8QJX2TusrI3A%3D%3D&keywords=data%20analyst&origin=SEMANTIC_SEARCH_LANDING_PAGE
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
