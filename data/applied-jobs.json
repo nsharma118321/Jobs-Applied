@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-5e0fa815f65d1b147fce",
+      "title": "Data Scientist - Defence | C3 AI",
+      "company": "c3.ai",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://c3.ai/job-description/8610437002?gh_jid=8610437002&gh_src=f3649ba92",
+      "portalUrl": "https://c3.ai/job-description/8610437002?gh_jid=8610437002&gh_src=f3649ba92",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-25T10:22:21.766Z",
+      "jobDescription": "# Data Scientist - Defence | C3 AI\n\n- **Company:** c3.ai\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-25T10:22:21.766Z\n- **Licensed sponsor:** \n- **Original posting:** https://c3.ai/job-description/8610437002?gh_jid=8610437002&gh_src=f3649ba92\n- **Application portal:** https://c3.ai/job-description/8610437002?gh_jid=8610437002&gh_src=f3649ba92\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nC3 AI is an Enterprise AI application software company enabling organizations worldwide to develop, deploy, and operate AI at scale.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_defence_c3_ai_c3_ai.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-2a4c4ecf194c3b350699",
       "title": "Western Union Careers",
       "company": "Western Union",
