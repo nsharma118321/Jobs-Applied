@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-0d030151e2b0baa0c177",
+      "title": "Apply Today | ICF",
+      "company": "careers.icf.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.icf.com/us/en/apply?jobSeqNo=IIIIIIUSR2603452EXTERNALENUS&utm_source=linkedin&utm_medium=phenom-feeds&step=1&stepname=personalInformation",
+      "portalUrl": "https://careers.icf.com/us/en/apply?jobSeqNo=IIIIIIUSR2603452EXTERNALENUS&utm_source=linkedin&utm_medium=phenom-feeds&step=1&stepname=personalInformation",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-25T10:01:23.327Z",
+      "jobDescription": "# Apply Today | ICF\n\n- **Company:** careers.icf.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-25T10:01:23.327Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.icf.com/us/en/apply?jobSeqNo=IIIIIIUSR2603452EXTERNALENUS&utm_source=linkedin&utm_medium=phenom-feeds&step=1&stepname=personalInformation\n- **Application portal:** https://careers.icf.com/us/en/apply?jobSeqNo=IIIIIIUSR2603452EXTERNALENUS&utm_source=linkedin&utm_medium=phenom-feeds&step=1&stepname=personalInformation\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/apply_today_icf_careers_icf_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-52086a90d00a522b457f",
       "title": "External job application",
       "company": "linkedin.com",
