@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-a700f42810f65d2892cb",
+      "title": "Data Scientist-Engine Data Analytics",
+      "company": "Caterpillar Careers",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.caterpillar.com/en/jobs/r0000404469/data-scientist-engine-data-analytics/?source=LinkedIn",
+      "portalUrl": "https://careers.caterpillar.com/en/jobs/r0000404469/data-scientist-engine-data-analytics/?source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-25T07:58:34.422Z",
+      "jobDescription": "# Data Scientist-Engine Data Analytics\n\n- **Company:** Caterpillar Careers\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-25T07:58:34.422Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.caterpillar.com/en/jobs/r0000404469/data-scientist-engine-data-analytics/?source=LinkedIn\n- **Application portal:** https://careers.caterpillar.com/en/jobs/r0000404469/data-scientist-engine-data-analytics/?source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nCareer Area: Job Description: Your Work Shapes the World at Caterpillar Inc. When you join Caterpillar, you're joining a global team who cares not just about the work we do &#x2013; but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here &#x2013; we make it&#x2026;\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_engine_data_analytics_caterpillar_careers.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-870a3a7aea4fdcc9b4f7",
       "title": "Data Scientist in Bengaluru, Karnataka, India | Research & Development at Siemens Healthineers",
       "company": "Siemens Healthineers",
