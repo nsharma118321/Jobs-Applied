@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-1fe2197fe85792a8fd37",
+      "title": "Brillio - Data Scientist - R01574060",
+      "company": "jobs.lever.co",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.lever.co/brillio-2/e168008b-a47e-410a-9dad-a11a3d0170ee/apply?lever-source=Job%20postings%20feed",
+      "portalUrl": "https://jobs.lever.co/brillio-2/e168008b-a47e-410a-9dad-a11a3d0170ee/apply?lever-source=Job%20postings%20feed",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-25T09:28:21.789Z",
+      "jobDescription": "# Brillio - Data Scientist - R01574060\n\n- **Company:** jobs.lever.co\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-25T09:28:21.789Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.lever.co/brillio-2/e168008b-a47e-410a-9dad-a11a3d0170ee/apply?lever-source=Job%20postings%20feed\n- **Application portal:** https://jobs.lever.co/brillio-2/e168008b-a47e-410a-9dad-a11a3d0170ee/apply?lever-source=Job%20postings%20feed\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/brillio_data_scientist_r01574060_jobs_lever_co.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-271d4080816535472026",
       "title": "Analyst in Bengaluru 1499 | Technology at Lowe",
       "company": "Lowes",
