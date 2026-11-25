@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-e7053db35fe616209c92",
+      "title": "Data Scientist II at British American Tobacco",
+      "company": "careers.bat.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.bat.com/en/job/-/-/1045/47048201088",
+      "portalUrl": "https://careers.bat.com/en/job/-/-/1045/47048201088",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-25T09:45:30.582Z",
+      "jobDescription": "# Data Scientist II at British American Tobacco\n\n- **Company:** careers.bat.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-25T09:45:30.582Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.bat.com/en/job/-/-/1045/47048201088\n- **Application portal:** https://careers.bat.com/en/job/-/-/1045/47048201088\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_ii_at_british_american_tobacco_careers_bat_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-1fe2197fe85792a8fd37",
       "title": "Brillio - Data Scientist - R01574060",
       "company": "jobs.lever.co",
