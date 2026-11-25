@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-3b83c5fbf0198d1dfdfd",
+      "title": "Business Analyst",
+      "company": "sseacademy.csod.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://sseacademy.csod.com/ux/ats/careersite/4/home/requisition/5904?c=sseacademy&source=LinkedIn",
+      "portalUrl": "https://sseacademy.csod.com/ux/ats/careersite/4/home/requisition/5904?c=sseacademy&source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-25T17:40:15.979Z",
+      "jobDescription": "# Business Analyst\n\n- **Company:** sseacademy.csod.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-25T17:40:15.979Z\n- **Licensed sponsor:** \n- **Original posting:** https://sseacademy.csod.com/ux/ats/careersite/4/home/requisition/5904?c=sseacademy&source=LinkedIn\n- **Application portal:** https://sseacademy.csod.com/ux/ats/careersite/4/home/requisition/5904?c=sseacademy&source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nLocation: Cheltenham, GloucestershireThe roleWe’re looking for an experienced Business Analyst to join our Steam IS Architecture & Digital Design ...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/business_analyst_sseacademy_csod_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-339665ef4b4b89d24e96",
       "title": "Data Engineer Jobs in United States (11,000+ Open Roles) | LinkedIn",
       "company": "linkedin.com",
