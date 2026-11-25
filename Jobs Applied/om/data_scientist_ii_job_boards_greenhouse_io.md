@@ -3,10 +3,10 @@
 - **Company:** job-boards.greenhouse.io
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-09-02T04:46:53.933Z
+- **Applied date:** 2026-11-25T08:47:38.304Z
 - **Licensed sponsor:** 
-- **Original posting:** https://job-boards.greenhouse.io/signifyd95/jobs/8103274?gh_src=00761ce51
-- **Application portal:** https://job-boards.greenhouse.io/signifyd95/jobs/8103274?gh_src=00761ce51
+- **Original posting:** https://job-boards.greenhouse.io/commerceiq/jobs/8045882003?gh_src=6ui7hhic3us
+- **Application portal:** https://job-boards.greenhouse.io/commerceiq/jobs/8045882003?gh_src=6ui7hhic3us
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
