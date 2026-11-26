@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-9102fff4515708ff0443",
+      "title": "Jobs – start your amazing journey with us",
+      "company": "jobs.bristolairport.co.uk",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.bristolairport.co.uk/vacancies/2100/data_scientist/",
+      "portalUrl": "https://jobs.bristolairport.co.uk/vacancies/2100/data_scientist/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-26T05:28:20.314Z",
+      "jobDescription": "# Jobs – start your amazing journey with us\n\n- **Company:** jobs.bristolairport.co.uk\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-26T05:28:20.314Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.bristolairport.co.uk/vacancies/2100/data_scientist/\n- **Application portal:** https://jobs.bristolairport.co.uk/vacancies/2100/data_scientist/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nBrowse current vacancies at Bristol Airport. Links to job listings for either with Bristol Airport itself or one of our Business Partners.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/jobs_start_your_amazing_journey_with_us_jobs_bristolairport_co_uk.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-8018dace36f685badf76",
       "title": "Business Analyst Uk Jobs in United States (1,000+ Open Roles) | LinkedIn",
       "company": "linkedin.com",
