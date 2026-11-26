@@ -3,13 +3,13 @@
 - **Company:** linkedin.com
 - **Location:** External portal
 - **Applied by:** OM
-- **Applied date:** 2026-11-26T13:12:48.720Z
+- **Applied date:** 2026-11-26T13:38:19.864Z
 - **Licensed sponsor:** 
-- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4495273855&eBP=CwEAAAGiF-YLzmyRqfl48jHy95exTAQrtz-HUKQBjX79VkBqYHySUZpOy5432gi7dgsSW01l9SkRMjNdfbwsyLPLblRWprgrSzxpJEsxJCDoDOQVDT_x1aOqwCJIsUZHxj2kxiDwpMKfkaZxd5eql5EDksMsvbmfbIxAuKqXiebAN6P6xCpOHJpR8eiGC14N9lIo3C5G1lTUJBhBRWv_JHCYmiLY8yVd7F3hxS-PRo0pBN9fAcmcHiKor-NS9bCP-e85q5Btjt389Ew__gsvNXcm55S1v0Kbx3daEnne8eU5yJ9z4GBgxsyCJ3iGEPjL7gCKowLd5alOuvdh3Q3k_kl0SP2E2t8AJKvYuGIz1tQOJfh1qkYgKmdyKXTsfQqaensTIYvyT9FPz5V9UsAXNGK1&refId=Y3CIgaejFk9I3pju7qJCxg%3D%3D&trackingId=YCqdIOszctBWyQPISh%2FlnA%3D%3D&keywords=Data%20Scientist&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=101165590&f_TPR=r86400
-- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4495273855&eBP=CwEAAAGiF-YLzmyRqfl48jHy95exTAQrtz-HUKQBjX79VkBqYHySUZpOy5432gi7dgsSW01l9SkRMjNdfbwsyLPLblRWprgrSzxpJEsxJCDoDOQVDT_x1aOqwCJIsUZHxj2kxiDwpMKfkaZxd5eql5EDksMsvbmfbIxAuKqXiebAN6P6xCpOHJpR8eiGC14N9lIo3C5G1lTUJBhBRWv_JHCYmiLY8yVd7F3hxS-PRo0pBN9fAcmcHiKor-NS9bCP-e85q5Btjt389Ew__gsvNXcm55S1v0Kbx3daEnne8eU5yJ9z4GBgxsyCJ3iGEPjL7gCKowLd5alOuvdh3Q3k_kl0SP2E2t8AJKvYuGIz1tQOJfh1qkYgKmdyKXTsfQqaensTIYvyT9FPz5V9UsAXNGK1&refId=Y3CIgaejFk9I3pju7qJCxg%3D%3D&trackingId=YCqdIOszctBWyQPISh%2FlnA%3D%3D&keywords=Data%20Scientist&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=101165590&f_TPR=r86400
+- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4493487796&eBP=CwEAAAGiGBNKKKsyRoRFxBpk6haI0P9bFCZrnRYluiho0kKtaQWnlUxLma3kzpJMafcSGJQ25XOArLrRaCtOTz2NneJr_dUZITQUcWixIkDGEzyiS_8Ors3kmBeRI2ieAxbm5xKjczSYb7UCYas7tCnf7BP4ZMTDXgBVzUWUjA9fv2nug_jrc0v_6BuklUAoorZHxDMRlgCLmVSw3bDAPNcl37biQOCs1bLJYzE7QD9cQY-bcmNhf6tBDTN-JZLiQske-QBXMlMW_7mnYd5bKtih1ZXvKHnH69peLJ0FDvRMgXr6FtvSH0lVAUPu6ioWoIh4m_948brhpRiTwWuQbvW8pyTeOns71c7R_bDsrDBnDRvydmgcyGpqgnrJCK9Nyet1RmujcKBY477WGJm8vUp2cYCKlg&refId=K8p6IY%2FC%2Brtvi0C7mgDoOw%3D%3D&trackingId=sZpJvhUyu4Sssz%2FxNG1pTQ%3D%3D&keywords=Data%20Scientist&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=101165590&f_TPR=r86400
+- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4493487796&eBP=CwEAAAGiGBNKKKsyRoRFxBpk6haI0P9bFCZrnRYluiho0kKtaQWnlUxLma3kzpJMafcSGJQ25XOArLrRaCtOTz2NneJr_dUZITQUcWixIkDGEzyiS_8Ors3kmBeRI2ieAxbm5xKjczSYb7UCYas7tCnf7BP4ZMTDXgBVzUWUjA9fv2nug_jrc0v_6BuklUAoorZHxDMRlgCLmVSw3bDAPNcl37biQOCs1bLJYzE7QD9cQY-bcmNhf6tBDTN-JZLiQske-QBXMlMW_7mnYd5bKtih1ZXvKHnH69peLJ0FDvRMgXr6FtvSH0lVAUPu6ioWoIh4m_948brhpRiTwWuQbvW8pyTeOns71c7R_bDsrDBnDRvydmgcyGpqgnrJCK9Nyet1RmujcKBY477WGJm8vUp2cYCKlg&refId=K8p6IY%2FC%2Brtvi0C7mgDoOw%3D%3D&trackingId=sZpJvhUyu4Sssz%2FxNG1pTQ%3D%3D&keywords=Data%20Scientist&origin=JOBS_HOME_KEYWORD_HISTORY&start=25&geoId=101165590&f_TPR=r86400
 - **Resume used:** Not recorded
 - **Resume originally designed for:** Not recorded
 
 ## Job description captured at application time
 
-Today’s top 849 Data Scientist jobs in United Kingdom. Leverage your professional network, and get hired. New Data Scientist jobs added daily.
+The full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.
