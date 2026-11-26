@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-1d6f31b7b0d94f8e0f43",
+      "title": "External job application",
+      "company": "linkedin.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4495273855&eBP=CwEAAAGiF-YLzmyRqfl48jHy95exTAQrtz-HUKQBjX79VkBqYHySUZpOy5432gi7dgsSW01l9SkRMjNdfbwsyLPLblRWprgrSzxpJEsxJCDoDOQVDT_x1aOqwCJIsUZHxj2kxiDwpMKfkaZxd5eql5EDksMsvbmfbIxAuKqXiebAN6P6xCpOHJpR8eiGC14N9lIo3C5G1lTUJBhBRWv_JHCYmiLY8yVd7F3hxS-PRo0pBN9fAcmcHiKor-NS9bCP-e85q5Btjt389Ew__gsvNXcm55S1v0Kbx3daEnne8eU5yJ9z4GBgxsyCJ3iGEPjL7gCKowLd5alOuvdh3Q3k_kl0SP2E2t8AJKvYuGIz1tQOJfh1qkYgKmdyKXTsfQqaensTIYvyT9FPz5V9UsAXNGK1&refId=Y3CIgaejFk9I3pju7qJCxg%3D%3D&trackingId=YCqdIOszctBWyQPISh%2FlnA%3D%3D&keywords=Data%20Scientist&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=101165590&f_TPR=r86400",
+      "portalUrl": "https://www.linkedin.com/jobs/search-results/?currentJobId=4495273855&eBP=CwEAAAGiF-YLzmyRqfl48jHy95exTAQrtz-HUKQBjX79VkBqYHySUZpOy5432gi7dgsSW01l9SkRMjNdfbwsyLPLblRWprgrSzxpJEsxJCDoDOQVDT_x1aOqwCJIsUZHxj2kxiDwpMKfkaZxd5eql5EDksMsvbmfbIxAuKqXiebAN6P6xCpOHJpR8eiGC14N9lIo3C5G1lTUJBhBRWv_JHCYmiLY8yVd7F3hxS-PRo0pBN9fAcmcHiKor-NS9bCP-e85q5Btjt389Ew__gsvNXcm55S1v0Kbx3daEnne8eU5yJ9z4GBgxsyCJ3iGEPjL7gCKowLd5alOuvdh3Q3k_kl0SP2E2t8AJKvYuGIz1tQOJfh1qkYgKmdyKXTsfQqaensTIYvyT9FPz5V9UsAXNGK1&refId=Y3CIgaejFk9I3pju7qJCxg%3D%3D&trackingId=YCqdIOszctBWyQPISh%2FlnA%3D%3D&keywords=Data%20Scientist&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=101165590&f_TPR=r86400",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-26T13:12:48.720Z",
+      "jobDescription": "# External job application\n\n- **Company:** linkedin.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-26T13:12:48.720Z\n- **Licensed sponsor:** \n- **Original posting:** https://www.linkedin.com/jobs/search-results/?currentJobId=4495273855&eBP=CwEAAAGiF-YLzmyRqfl48jHy95exTAQrtz-HUKQBjX79VkBqYHySUZpOy5432gi7dgsSW01l9SkRMjNdfbwsyLPLblRWprgrSzxpJEsxJCDoDOQVDT_x1aOqwCJIsUZHxj2kxiDwpMKfkaZxd5eql5EDksMsvbmfbIxAuKqXiebAN6P6xCpOHJpR8eiGC14N9lIo3C5G1lTUJBhBRWv_JHCYmiLY8yVd7F3hxS-PRo0pBN9fAcmcHiKor-NS9bCP-e85q5Btjt389Ew__gsvNXcm55S1v0Kbx3daEnne8eU5yJ9z4GBgxsyCJ3iGEPjL7gCKowLd5alOuvdh3Q3k_kl0SP2E2t8AJKvYuGIz1tQOJfh1qkYgKmdyKXTsfQqaensTIYvyT9FPz5V9UsAXNGK1&refId=Y3CIgaejFk9I3pju7qJCxg%3D%3D&trackingId=YCqdIOszctBWyQPISh%2FlnA%3D%3D&keywords=Data%20Scientist&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=101165590&f_TPR=r86400\n- **Application portal:** https://www.linkedin.com/jobs/search-results/?currentJobId=4495273855&eBP=CwEAAAGiF-YLzmyRqfl48jHy95exTAQrtz-HUKQBjX79VkBqYHySUZpOy5432gi7dgsSW01l9SkRMjNdfbwsyLPLblRWprgrSzxpJEsxJCDoDOQVDT_x1aOqwCJIsUZHxj2kxiDwpMKfkaZxd5eql5EDksMsvbmfbIxAuKqXiebAN6P6xCpOHJpR8eiGC14N9lIo3C5G1lTUJBhBRWv_JHCYmiLY8yVd7F3hxS-PRo0pBN9fAcmcHiKor-NS9bCP-e85q5Btjt389Ew__gsvNXcm55S1v0Kbx3daEnne8eU5yJ9z4GBgxsyCJ3iGEPjL7gCKowLd5alOuvdh3Q3k_kl0SP2E2t8AJKvYuGIz1tQOJfh1qkYgKmdyKXTsfQqaensTIYvyT9FPz5V9UsAXNGK1&refId=Y3CIgaejFk9I3pju7qJCxg%3D%3D&trackingId=YCqdIOszctBWyQPISh%2FlnA%3D%3D&keywords=Data%20Scientist&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=101165590&f_TPR=r86400\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nToday’s top 849 Data Scientist jobs in United Kingdom. Leverage your professional network, and get hired. New Data Scientist jobs added daily.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/external_job_application_linkedin_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-c7785871a00240675f00",
       "title": "External job application",
       "company": "linkedin.com",
