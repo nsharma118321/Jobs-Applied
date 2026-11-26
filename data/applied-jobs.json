@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-d4b60b669749a47dcd6d",
+      "title": "EDI Analyst | Job Details",
+      "company": "peoplegateway.my.salesforce-sites.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://peoplegateway.my.salesforce-sites.com/Recruit/fRecruit__ApplyJob?vacancyNo=VN3095&portal=English",
+      "portalUrl": "https://peoplegateway.my.salesforce-sites.com/Recruit/fRecruit__ApplyJob?vacancyNo=VN3095&portal=English",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-26T14:25:41.973Z",
+      "jobDescription": "# EDI Analyst | Job Details\n\n- **Company:** peoplegateway.my.salesforce-sites.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-26T14:25:41.973Z\n- **Licensed sponsor:** \n- **Original posting:** https://peoplegateway.my.salesforce-sites.com/Recruit/fRecruit__ApplyJob?vacancyNo=VN3095&portal=English\n- **Application portal:** https://peoplegateway.my.salesforce-sites.com/Recruit/fRecruit__ApplyJob?vacancyNo=VN3095&portal=English\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/edi_analyst_job_details_peoplegateway_my_salesforce_sites_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-490ce36c68d9166665c0",
       "title": "External job application",
       "company": "linkedin.com",
