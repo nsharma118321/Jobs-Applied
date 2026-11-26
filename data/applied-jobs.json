@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-e2a2aae6dad7db3af5c3",
+      "title": "Data Scientist",
+      "company": "Entain",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://jobs.smartrecruiters.com/Entain/744000163629539-data-scientist?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+      "portalUrl": "https://jobs.smartrecruiters.com/Entain/744000163629539-data-scientist?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-26T10:34:06.650Z",
+      "jobDescription": "# Data Scientist\n\n- **Company:** Entain\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-26T10:34:06.650Z\n- **Licensed sponsor:** \n- **Original posting:** https://jobs.smartrecruiters.com/Entain/744000163629539-data-scientist?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73\n- **Application portal:** https://jobs.smartrecruiters.com/Entain/744000163629539-data-scientist?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThis is a hybrid role. As a Data Scientist, you will help us discover and monetise the information hidden within our unmatched data sets, using data science to support smarter decision-making, better serve our customers and drive the growth of our products.Reporting to the Head of Data Science, you ...\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_entain.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-7c28fcbd38daa70df212",
       "title": "External job application",
       "company": "jobs.apple.com",
