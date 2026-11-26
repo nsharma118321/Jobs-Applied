@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-f8c8472e14b8bb2c69c9",
+      "title": "Apply to Preply Careers",
+      "company": "preply.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://preply.com/en/careers/apply?ashby_jid=64abe943-b897-4c31-93f1-90d4cb1b6ce0&utm_source=w316VvZAEn",
+      "portalUrl": "https://preply.com/en/careers/apply?ashby_jid=64abe943-b897-4c31-93f1-90d4cb1b6ce0&utm_source=w316VvZAEn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-26T13:14:04.414Z",
+      "jobDescription": "# Apply to Preply Careers\n\n- **Company:** preply.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-26T13:14:04.414Z\n- **Licensed sponsor:** \n- **Original posting:** https://preply.com/en/careers/apply?ashby_jid=64abe943-b897-4c31-93f1-90d4cb1b6ce0&utm_source=w316VvZAEn\n- **Application portal:** https://preply.com/en/careers/apply?ashby_jid=64abe943-b897-4c31-93f1-90d4cb1b6ce0&utm_source=w316VvZAEn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/apply_to_preply_careers_preply_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-1d6f31b7b0d94f8e0f43",
       "title": "External job application",
       "company": "linkedin.com",
