@@ -27,32 +27,6 @@
       "applyStatus": "unknown"
     },
     {
-      "id": "linkedin:4483433683",
-      "title": "Lead Data Scientist",
-      "company": "Faculty",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-11-21T07:16:28.296Z",
-      "postedLabel": "4 days ago",
-      "url": "https://www.linkedin.com/jobs/view/4483433683/",
-      "sponsorName": "Faculty Services Limited",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4489290274",
-      "title": "Data Scientist CTOO",
-      "company": "LSEG",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-11-12T18:20:41.336Z",
-      "postedLabel": "20 minutes ago",
-      "url": "https://www.linkedin.com/jobs/view/4489290274/",
-      "sponsorName": "London Stock Exchange Group plc",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
       "id": "linkedin:4489244842",
       "title": "Data Scientist",
       "company": "Avance Consulting",
@@ -92,19 +66,6 @@
       "applyStatus": "good"
     },
     {
-      "id": "linkedin:4488844171",
-      "title": "Lead Statistical Data Scientist",
-      "company": "Oritain",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-11-09T11:03:23.249Z",
-      "postedLabel": "23 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4488844171/",
-      "sponsorName": "Oritain UK Limited",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
       "id": "linkedin:4488431928",
       "title": "Data Scientist - Credit Risk Modelling",
       "company": "iwoca",
@@ -113,32 +74,6 @@
       "postedLabel": "2 weeks ago",
       "url": "https://www.linkedin.com/jobs/view/4488431928/",
       "sponsorName": "iwoca Limited",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4488431459",
-      "title": "Data Scientist",
-      "company": "Greene King",
-      "location": "United Kingdom",
-      "postedAt": "2026-11-06T00:00:00.000Z",
-      "postedLabel": "2 weeks ago",
-      "url": "https://www.linkedin.com/jobs/view/4488431459/",
-      "sponsorName": "Greene King Limited",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4486783740",
-      "title": "Data scientist",
-      "company": "Bending Spoons",
-      "location": "Oxford, United Kingdom",
-      "postedAt": "2026-11-05T19:12:55.364Z",
-      "postedLabel": "8 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4486783740/",
-      "sponsorName": "Bending Spoons Operations S.P.A.(UK Branch)",
       "sponsorVerified": true,
       "source": "LinkedIn browser (OM)",
       "applyStatus": "unknown"
@@ -194,84 +129,7 @@
       "sponsorVerified": true,
       "source": "Company careers",
       "applyStatus": "good"
-    },
-    {
-      "id": "linkedin:4486472803",
-      "title": "Data Scientist II - Zonda - Glasgow, Scotland, United Kingdom",
-      "company": "CoStar",
-      "location": "Glasgow, United Kingdom",
-      "postedAt": "2026-11-03T00:52:13.410Z",
-      "postedLabel": "4 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4486472803/",
-      "sponsorName": "CoStar UK Limited",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4486150810",
-      "title": "Marketing Data Scientist",
-      "company": "Muzz",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-11-02T12:52:13.415Z",
-      "postedLabel": "16 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4486150810/",
-      "sponsorName": "Muzz Ltd",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "smartrecruiters:Wise:744000159067369",
-      "title": "Lead Data Scientist - KYC/onboarding",
-      "company": "Wise",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-11-02T08:02:51.348Z",
-      "postedLabel": "8 days ago",
-      "url": "https://jobs.smartrecruiters.com/Wise/744000159067369-lead-data-scientist-kyc-onboarding",
-      "sponsorName": "Wise Payments Limited",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
-    },
-    {
-      "id": "linkedin:4465562624",
-      "title": "AWS Data Scientist - Public Sector",
-      "company": "IBM",
-      "location": "Manchester, United Kingdom",
-      "postedAt": "2026-10-29T13:42:40.332Z",
-      "postedLabel": "3 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4465562624/",
-      "sponsorName": "IMPERIAL BEDDINGS MCR LIMITED",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "linkedin:4455794614",
-      "title": "Data Scientist II, RufusX Science UK",
-      "company": "Amazon",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-10-28T14:32:12.589Z",
-      "postedLabel": "18 hours ago",
-      "url": "https://www.linkedin.com/jobs/view/4455794614/",
-      "sponsorName": "Amazon UK Services Ltd",
-      "sponsorVerified": true,
-      "source": "LinkedIn browser (OM)",
-      "applyStatus": "unknown"
-    },
-    {
-      "id": "smartrecruiters:Wise:744000158105115",
-      "title": "Lead Data Scientist - Treasury Liquidity",
-      "company": "Wise",
-      "location": "London, United Kingdom",
-      "postedAt": "2026-10-27T16:56:52.128Z",
-      "postedLabel": "2 days ago",
-      "url": "https://jobs.smartrecruiters.com/Wise/744000158105115-lead-data-scientist-treasury-liquidity",
-      "sponsorName": "Wise Payments Limited",
-      "sponsorVerified": true,
-      "source": "Company careers",
-      "applyStatus": "good"
     }
-  ]
+  ],
+  "filterPolicy": "Data Scientist + Lead Data Scientist only; excludes Jobs Applied and duplicate Open Roles"
 }
