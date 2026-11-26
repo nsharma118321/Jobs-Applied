@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-d7e8144af2cd3f5daef9",
+      "title": "Apply now | Join bp careers",
+      "company": "careers.bp.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.bp.com/job/apply/london-united-kingdom-data-strategist-rq117941?source=LinkedIn",
+      "portalUrl": "https://careers.bp.com/job/apply/london-united-kingdom-data-strategist-rq117941?source=LinkedIn",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-26T10:43:37.954Z",
+      "jobDescription": "# Apply now | Join bp careers\n\n- **Company:** careers.bp.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-26T10:43:37.954Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.bp.com/job/apply/london-united-kingdom-data-strategist-rq117941?source=LinkedIn\n- **Application portal:** https://careers.bp.com/job/apply/london-united-kingdom-data-strategist-rq117941?source=LinkedIn\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nReady to take the next step? Complete your application and join a team driving innovation at bp.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/apply_now_join_bp_careers_careers_bp_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-5f5142cb040d3aa6866c",
       "title": "External job application",
       "company": "linkedin.com",
