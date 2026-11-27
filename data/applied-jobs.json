@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-53670151ab6ed9763af9",
+      "title": "Data Scientist - Academy",
+      "company": "careers.cityfootballgroup.com",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.cityfootballgroup.com/job/Manchester-Data-Scientist-Academy/1458770633/",
+      "portalUrl": "https://careers.cityfootballgroup.com/job/Manchester-Data-Scientist-Academy/1458770633/",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-27T06:25:17.647Z",
+      "jobDescription": "# Data Scientist - Academy\n\n- **Company:** careers.cityfootballgroup.com\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-27T06:25:17.647Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.cityfootballgroup.com/job/Manchester-Data-Scientist-Academy/1458770633/\n- **Application portal:** https://careers.cityfootballgroup.com/job/Manchester-Data-Scientist-Academy/1458770633/\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/data_scientist_academy_careers_cityfootballgroup_com.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-c3cd1e02490c40712a30",
       "title": "Data Scientist",
       "company": "app.beapplied.com",
