@@ -1,0 +1,15 @@
+# Data Scientist
+
+- **Company:** app.beapplied.com
+- **Location:** External portal
+- **Applied by:** OM
+- **Applied date:** 2026-11-27T06:13:09.471Z
+- **Licensed sponsor:** 
+- **Original posting:** https://app.beapplied.com/apply/nr5yf626c4
+- **Application portal:** https://app.beapplied.com/apply/nr5yf626c4
+- **Resume used:** Not recorded
+- **Resume originally designed for:** Not recorded
+
+## Job description captured at application time
+
+Following our recent strategy review, we are expanding our data science capacity and are now recruiting for a Data Scientist to help increase the range and ambition of the quantitative work we undertake.In this role, you will work across a wide range of subjects and activities, carrying out research into some of the biggest problems facing government as well as helping the Institute make better use of its own data.You will work with research teams to identify useful data sources and analytical approaches, undertake substantive analysis and produce data visualisations. Over the coming years, we expect the Institute to make greater use of alternative types of data such as textual data and to generate new datasets using innovative techniques, and you will play a key role in this.Alongside this research work, you will help the Institute make better use of its operational data. We expect to develop more data dashboards and tools, and you will have the opportunity to contribute to this area of work.The role will also involve exploring new applications of AI and contributing technical expertise to major AI pilots undertaken by the Institute. This could include assessing the feasibility of proposed uses, developing and testing technical approaches, and helping to turn promising ideas into practical tools or ways of working.You will also contribute to the development of organisational standards for data visualisation, analytical code and reproducible analysis, and help colleagues apply them in practice. You will support the development and delivery of training that builds data and AI skills across the Institute.You will encounter a wide range of data sources and technical challenges, with opportunities to learn new approaches and broaden your technical skills.Our current technology stack is as follows:We use Python for data collation, cleaning and analysis;We have a research database held in Azure SQL Database;We also work extensively with data held in Excel;We use GitHub Copilot as a coding agent, with access to a wide range of models, including the latest Claude models;We use Git/GitHub for version control;We produce most of our charts using Datawrapper;We develop internal dashboards and apps using Streamlit.The Data Scientist will report to the Institute’s Senior Data Scientist, forming a two-person data science function, which will work closely with teams across the organisation, including the Institute’s economics function.For more information, including job description and person specification, please read the job application pack available on our website. We encourage all applicants to read the job pack before starting their application.
