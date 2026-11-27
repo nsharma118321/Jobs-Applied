@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "jobId": "shared:manual-2f91867aac520fb3e38e",
+      "title": "Business Analyst",
+      "company": "Excellence Through Innovation - Pell Frischmann",
+      "location": "External portal",
+      "sponsorName": "",
+      "originalUrl": "https://careers.pellfrischmann.com/vacancy/business-analyst-624050.html",
+      "portalUrl": "https://careers.pellfrischmann.com/vacancy/business-analyst-624050.html",
+      "appliedBy": "OM",
+      "appliedAt": "2026-11-27T11:29:24.900Z",
+      "jobDescription": "# Business Analyst\n\n- **Company:** Excellence Through Innovation - Pell Frischmann\n- **Location:** External portal\n- **Applied by:** OM\n- **Applied date:** 2026-11-27T11:29:24.900Z\n- **Licensed sponsor:** \n- **Original posting:** https://careers.pellfrischmann.com/vacancy/business-analyst-624050.html\n- **Application portal:** https://careers.pellfrischmann.com/vacancy/business-analyst-624050.html\n- **Resume used:** Not recorded\n- **Resume originally designed for:** Not recorded\n\n## Job description captured at application time\n\nThe full source description could not be captured at the time this application was saved. Use the original posting link below for any remaining accessible details.\n",
+      "resumeName": "",
+      "resumeDesignedFor": "",
+      "repoPath": "Jobs Applied/om/business_analyst_excellence_through_innovation_pell_frischmann.md",
+      "syncStatus": "synced"
+    },
+    {
       "jobId": "shared:manual-930e8d5b98f9efc9026f",
       "title": "Senior Business and Data Analyst",
       "company": "invesco.wd1.myworkdayjobs.com",
